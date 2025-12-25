@@ -8,11 +8,11 @@ The goal is consistency, pattern recognition, and long-term reference — rather
 
 ## Repository Layout
 
-\```
-<problem-number>.<problem-title>/
-    README.md        # Explanation, thought process, complexity, examples
-    solution.*       # Implementation (language may vary: cpp / py / java / etc.)
-\```
+```
+<problem-number>. <problem-title>/
+    README.md       # Explanation, thought process, complexity, examples
+    Solution.*      # Implementation (language may vary: cpp / py / java / etc.)
+```
 
 As more problems are added, directories and indexes will grow accordingly.
 
@@ -43,7 +43,7 @@ Both indexes start small and expand naturally.
 
 | # | Title | Difficulty | Category | Solution |
 |---|--------|------------|----------|---------|
-| 3075 | Maximize Happiness of Selected Children | Medium | Greedy / Sorting | [View](3075.Maximize-Happiness-of-Selected-Children) |
+| 3075 | Maximize Happiness of Selected Children | Medium | Greedy / Sorting | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
 
 ---
 
@@ -52,12 +52,12 @@ Both indexes start small and expand naturally.
 ### Greedy
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
-| 3075 | Maximize Happiness of Selected Children | Medium | [View](3075.Maximize-Happiness-of-Selected-Children) |
+| 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
 
 ### Array
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
-| 3075 | Maximize Happiness of Selected Children | Medium | [View](3075.Maximize-Happiness-of-Selected-Children) |
+| 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
 
 ---
 
