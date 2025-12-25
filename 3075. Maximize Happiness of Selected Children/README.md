@@ -5,6 +5,18 @@
 
 ---
 
+## Table of Contents
+- [Problem Link](#problem-link)
+- [Problem Summary](#problem-summary)
+- [Examples](#examples)
+- [Intuition](#intuition)
+- [Approach](#approach)
+- [Complexity](#complexity)
+- [Code (C++)](#code-c)
+- [Key Takeaways](#key-takeaways)
+
+---
+
 ## Problem Link
 
 [LeetCode — 3075. Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/)
