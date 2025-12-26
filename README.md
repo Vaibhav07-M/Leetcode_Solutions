@@ -62,12 +62,12 @@ Both indexes start small and expand naturally.
 
 ### String
 | # | Title | Difficulty | Solution |
-|---|--------|------------|---------||
+|---|--------|------------|---------|
 | 2483 | Minimum Penalty for a Shop | Medium | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
 
 ### Prefix Sum
 | # | Title | Difficulty | Solution |
-|---|--------|------------|---------||
+|---|--------|------------|---------|
 | 2483 | Minimum Penalty for a Shop | Medium | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
 ---
 
