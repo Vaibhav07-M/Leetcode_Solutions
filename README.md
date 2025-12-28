@@ -42,7 +42,10 @@ Both indexes start small and expand naturally.
 ### Completed Problems
 
 | # | Title | Difficulty | Category | Solution |
-|---|--------|------------|----------|---------|| 2402 | Meeting Rooms III | Hard | Heap / Sorting / Simulation | [View](./2402.%20Meeting%20Rooms%20III/) || 2483 | Minimum Penalty for a Shop | Medium | String / Prefix Sum | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
+|---|--------|------------|----------|---------|
+| 1351 | Count Negative Numbers in a Sorted Matrix | Easy | Binary Search / Matrix | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
+| 2402 | Meeting Rooms III | Hard | Heap / Sorting / Simulation | [View](./2402.%20Meeting%20Rooms%20III/) |
+| 2483 | Minimum Penalty for a Shop | Medium | String / Prefix Sum | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | Greedy / Sorting | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
 
 ---
@@ -56,7 +59,10 @@ Both indexes start small and expand naturally.
 
 ### Array
 | # | Title | Difficulty | Solution |
-|---|--------|------------|---------|| 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) || 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
+|---|--------|------------|---------|
+| 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
+| 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
+| 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
 
 ### String
 | # | Title | Difficulty | Solution |
