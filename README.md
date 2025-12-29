@@ -43,6 +43,7 @@ Both indexes start small and expand naturally.
 
 | # | Title | Difficulty | Category | Solution |
 |---|--------|------------|----------|---------|
+| 756 | Pyramid Transition Matrix | Medium | Hash Table / String / Backtracking | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | Binary Search / Matrix | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 | 2402 | Meeting Rooms III | Hard | Heap / Sorting / Simulation | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 2483 | Minimum Penalty for a Shop | Medium | String / Prefix Sum | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
@@ -67,6 +68,7 @@ Both indexes start small and expand naturally.
 ### String
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 2483 | Minimum Penalty for a Shop | Medium | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
 
 ### Prefix Sum
@@ -100,6 +102,20 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 
+### Hash Table
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
+
+### Backtracking
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
+
+### Bit Manipulation
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 ---
 
 ## Documentation Standards
