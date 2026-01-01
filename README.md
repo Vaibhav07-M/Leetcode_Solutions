@@ -43,6 +43,7 @@ Both indexes start small and expand naturally.
 
 | # | Title | Difficulty | Category | Solution |
 |---|--------|------------|----------|---------|
+| 66 | Plus One | Easy | Array / Math | [View](./66.%20Plus%20One/) |
 | 756 | Pyramid Transition Matrix | Medium | Hash Table / String / Backtracking | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 840 | Magic Squares In Grid | Medium | Array / Hash Table / Math / Matrix | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | Binary Search / Matrix | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
@@ -63,6 +64,7 @@ Both indexes start small and expand naturally.
 ### Array
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 66 | Plus One | Easy | [View](./66.%20Plus%20One/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
@@ -128,6 +130,7 @@ Both indexes start small and expand naturally.
 ### Math
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 66 | Plus One | Easy | [View](./66.%20Plus%20One/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 
 ### BFS
