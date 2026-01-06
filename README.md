@@ -47,6 +47,7 @@ Both indexes start small and expand naturally.
 | 756 | Pyramid Transition Matrix | Medium | Hash Table / String / Backtracking | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 840 | Magic Squares In Grid | Medium | Array / Hash Table / Math / Matrix | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | Array / Hash Table | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
+| 1161 | Maximum Level Sum of a Binary Tree | Medium | Tree / BFS / Binary Tree | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | Binary Search / Matrix | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 | 1390 | Four Divisors | Medium | Array / Math | [View](./1390.%20Four%20Divisors/) |
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | Dynamic Programming / Math / Combinatorics | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
@@ -158,7 +159,18 @@ Both indexes start small and expand naturally.
 ### BFS
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 1161 | Maximum Level Sum of a Binary Tree | Medium | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
+
+### Tree
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 1161 | Maximum Level Sum of a Binary Tree | Medium | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
+
+### Binary Tree
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 1161 | Maximum Level Sum of a Binary Tree | Medium | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 
 ### DFS
 | # | Title | Difficulty | Solution |
