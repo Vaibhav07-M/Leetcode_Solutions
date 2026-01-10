@@ -44,6 +44,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Category | Solution |
 |---|--------|------------|----------|---------|
 | 66 | Plus One | Easy | Array / Math | [View](./66.%20Plus%20One/) |
+| 712 | Minimum ASCII Delete Sum for Two Strings | Medium | String / Dynamic Programming | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
 | 756 | Pyramid Transition Matrix | Medium | Hash Table / String / Backtracking | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 840 | Magic Squares In Grid | Medium | Array / Hash Table / Math / Matrix | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | Tree / DFS / Binary Tree | [View](./865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/) |
@@ -87,6 +88,7 @@ Both indexes start small and expand naturally.
 ### String
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 712 | Minimum ASCII Delete Sum for Two Strings | Medium | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
 | 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 2483 | Minimum Penalty for a Shop | Medium | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
 
@@ -153,6 +155,7 @@ Both indexes start small and expand naturally.
 ### Dynamic Programming
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 712 | Minimum ASCII Delete Sum for Two Strings | Medium | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
 | 1458 | Max Dot Product of Two Subsequences | Hard | [View](./1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences/) |
