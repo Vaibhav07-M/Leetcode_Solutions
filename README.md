@@ -44,6 +44,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Category | Solution |
 |---|--------|------------|----------|---------|
 | 66 | Plus One | Easy | Array / Math | [View](./66.%20Plus%20One/) |
+| 85 | Maximal Rectangle | Hard | Array / Dynamic Programming / Stack / Matrix / Monotonic Stack | [View](./85.%20Maximal%20Rectangle/) |
 | 712 | Minimum ASCII Delete Sum for Two Strings | Medium | String / Dynamic Programming | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
 | 756 | Pyramid Transition Matrix | Medium | Hash Table / String / Backtracking | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 840 | Magic Squares In Grid | Medium | Array / Hash Table / Math / Matrix | [View](./840.%20Magic%20Squares%20In%20Grid/) |
@@ -75,6 +76,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 66 | Plus One | Easy | [View](./66.%20Plus%20One/) |
+| 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
@@ -122,6 +124,7 @@ Both indexes start small and expand naturally.
 ### Matrix
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
@@ -155,14 +158,26 @@ Both indexes start small and expand naturally.
 ### Dynamic Programming
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 712 | Minimum ASCII Delete Sum for Two Strings | Medium | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
 | 1458 | Max Dot Product of Two Subsequences | Hard | [View](./1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences/) |
+
 ### Combinatorics
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
+
+### Stack
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
+
+### Monotonic Stack
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 
 ### BFS
 | # | Title | Difficulty | Solution |
