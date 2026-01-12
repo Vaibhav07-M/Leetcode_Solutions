@@ -51,6 +51,7 @@ Both indexes start small and expand naturally.
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | Tree / DFS / Binary Tree | [View](./865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | Array / Hash Table | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | Tree / BFS / Binary Tree | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
+| 1266 | Minimum Time Visiting All Points | Easy | Array / Geometry | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | Tree / DFS / Binary Tree / Dynamic Programming | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | Binary Search / Matrix | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 | 1390 | Four Divisors | Medium | Array / Math | [View](./1390.%20Four%20Divisors/) |
@@ -79,6 +80,7 @@ Both indexes start small and expand naturally.
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
+| 1266 | Minimum Time Visiting All Points | Easy | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 | 1390 | Four Divisors | Medium | [View](./1390.%20Four%20Divisors/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
@@ -152,6 +154,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 66 | Plus One | Easy | [View](./66.%20Plus%20One/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
+| 1266 | Minimum Time Visiting All Points | Easy | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
 | 1390 | Four Divisors | Medium | [View](./1390.%20Four%20Divisors/) |
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
 
@@ -205,6 +208,11 @@ Both indexes start small and expand naturally.
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | [View](./865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
+
+### Geometry
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 1266 | Minimum Time Visiting All Points | Easy | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
 
 ### Union Find
 | # | Title | Difficulty | Solution |
