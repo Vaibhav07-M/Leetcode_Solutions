@@ -115,7 +115,8 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
-| 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) || 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
+| 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
+| 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
 ### Simulation
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
