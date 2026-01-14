@@ -63,6 +63,7 @@ Both indexes start small and expand naturally.
 | 2483 | Minimum Penalty for a Shop | Medium | String / Prefix Sum | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | Greedy / Sorting | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
 | 3453 | Separate Squares I | Medium | Array / Binary Search / Geometry / Math / Sorting | [View](./3453.%20Separate%20Squares%20I/) |
+| 3454 | Separate Squares II | Hard | Array / Binary Search / Geometry / Line Sweep / Coordinate Compression / Sorting | [View](./3454.%20Separate%20Squares%20II/) |
 
 ---
 
@@ -90,11 +91,7 @@ Both indexes start small and expand naturally.
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
-| 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
-| 1458 | Max Dot Product of Two Subsequences | Hard | [View](./1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences/) |
-| 1975 | Maximum Matrix Sum | Medium | [View](./1975.%20Maximum%20Matrix%20Sum/) |
-| 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
-| 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
+| 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
 
 ### String
 | # | Title | Difficulty | Solution |
@@ -118,8 +115,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
-| 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
-
+| 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) || 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
 ### Simulation
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
@@ -131,6 +127,7 @@ Both indexes start small and expand naturally.
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
+| 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
 
 ### Matrix
 | # | Title | Difficulty | Solution |
@@ -224,6 +221,17 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 1266 | Minimum Time Visiting All Points | Easy | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
+| 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
+
+### Line Sweep
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
+
+### Coordinate Compression
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
 
 ### Union Find
 | # | Title | Difficulty | Solution |
