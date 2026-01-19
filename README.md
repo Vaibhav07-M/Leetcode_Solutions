@@ -52,6 +52,7 @@ Both indexes start small and expand naturally.
 | 961 | N-Repeated Element in Size 2N Array | Easy | Array / Hash Table | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | Tree / BFS / Binary Tree | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1266 | Minimum Time Visiting All Points | Easy | Array / Math / Geometry | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
+| 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | Array / Binary Search / Matrix / Prefix Sum | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | Tree / DFS / Binary Tree / Dynamic Programming | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | Binary Search / Matrix | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 | 1390 | Four Divisors | Medium | Array / Math | [View](./1390.%20Four%20Divisors/) |
@@ -88,6 +89,7 @@ Both indexes start small and expand naturally.
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
 | 1266 | Minimum Time Visiting All Points | Easy | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
+| 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 | 1390 | Four Divisors | Medium | [View](./1390.%20Four%20Divisors/) |
 | 1458 | Max Dot Product of Two Subsequences | Hard | [View](./1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences/) |
@@ -112,6 +114,7 @@ Both indexes start small and expand naturally.
 ### Prefix Sum
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
 | 1895 | Largest Magic Square | Medium | [View](./1895.%20Largest%20Magic%20Square/) |
 | 2483 | Minimum Penalty for a Shop | Medium | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
 
@@ -137,6 +140,7 @@ Both indexes start small and expand naturally.
 ### Binary Search
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
@@ -147,6 +151,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
+| 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 | 1895 | Largest Magic Square | Medium | [View](./1895.%20Largest%20Magic%20Square/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
