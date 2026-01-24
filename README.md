@@ -283,7 +283,7 @@ Both indexes start small and expand naturally.
 
 ### Two Pointers
 | # | Title | Difficulty | Solution |
-|---|--------|------------|---------||
+|---|--------|------------|---------|
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
 
 ### Union Find
