@@ -72,6 +72,7 @@ Both indexes start small and expand naturally.
 | 2976 | Minimum Cost to Convert String I | Medium | Array / String / Graph / Shortest Path | [View](./2976.%20Minimum%20Cost%20to%20Convert%20String%20I/) |
 | 2977 | Minimum Cost to Convert String II | Hard | String / Dynamic Programming / Graph / Shortest Path / Trie | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
 | 3010 | Divide an Array Into Subarrays With Minimum Cost I | Easy | Array / Greedy | [View](./3010.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I/) |
+| 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | Array / Sliding Window / Heap (Priority Queue) / Ordered Set | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | Array / Geometry / Math / Enumeration | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | Greedy / Sorting | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
 | 3314 | Construct the Minimum Bitwise Array I | Easy | Array / Bit Manipulation | [View](./3314.%20Construct%20the%20Minimum%20Bitwise%20Array%20I/) |
@@ -122,6 +123,7 @@ Both indexes start small and expand naturally.
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
 | 2976 | Minimum Cost to Convert String I | Medium | [View](./2976.%20Minimum%20Cost%20to%20Convert%20String%20I/) |
 | 3010 | Divide an Array Into Subarrays With Minimum Cost I | Easy | [View](./3010.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I/) |
+| 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
 | 3314 | Construct the Minimum Bitwise Array I | Easy | [View](./3314.%20Construct%20the%20Minimum%20Bitwise%20Array%20I/) |
@@ -152,6 +154,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
+| 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
 | 3650 | Minimum Cost Path with Edge Reversals | Medium | [View](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
@@ -332,6 +335,12 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | [View](./1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) |
+| 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
+
+### Ordered Set
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
 
 ### Trie
 | # | Title | Difficulty | Solution |
