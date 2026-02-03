@@ -81,6 +81,7 @@ Both indexes start small and expand naturally.
 | 3454 | Separate Squares II | Hard | Array / Binary Search / Geometry / Line Sweep / Coordinate Compression / Sorting | [View](./3454.%20Separate%20Squares%20II/) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | Array / Greedy / Simulation | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | Array / Heap / Greedy / Simulation | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
+| 3637 | Trionic Array I | Easy | Array | [View](./3637.%20Trionic%20Array%20I/) |
 | 3650 | Minimum Cost Path with Edge Reversals | Medium | Graph / Shortest Path / Heap (Priority Queue) / Dynamic Programming | [View](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | Array / Matrix / Graph / Shortest Path / Heap (Priority Queue) / Dynamic Programming | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
 
@@ -132,6 +133,7 @@ Both indexes start small and expand naturally.
 | 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
+| 3637 | Trionic Array I | Easy | [View](./3637.%20Trionic%20Array%20I/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
 
 ### String
