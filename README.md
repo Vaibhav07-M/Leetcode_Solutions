@@ -45,6 +45,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|----------|---------|
 | 66 | Plus One | Easy | Array / Math | [View](./66.%20Plus%20One/) |
 | 85 | Maximal Rectangle | Hard | Array / Dynamic Programming / Stack / Matrix / Monotonic Stack | [View](./85.%20Maximal%20Rectangle/) |
+| 110 | Balanced Binary Tree | Easy | Tree / DFS / Binary Tree | [View](./110.%20Balanced%20Binary%20Tree/) |
 | 712 | Minimum ASCII Delete Sum for Two Strings | Medium | String / Dynamic Programming | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
 | 744 | Find Smallest Letter Greater Than Target | Easy | Array / Binary Search | [View](./744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/) |
 | 756 | Pyramid Transition Matrix | Medium | Hash Table / String / Backtracking | [View](./756.%20Pyramid%20Transition%20Matrix/) |
@@ -289,6 +290,7 @@ Both indexes start small and expand naturally.
 ### Tree
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 110 | Balanced Binary Tree | Easy | [View](./110.%20Balanced%20Binary%20Tree/) |
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | [View](./865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/) |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
@@ -296,6 +298,7 @@ Both indexes start small and expand naturally.
 ### Binary Tree
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 110 | Balanced Binary Tree | Easy | [View](./110.%20Balanced%20Binary%20Tree/) |
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | [View](./865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/) |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
@@ -303,6 +306,7 @@ Both indexes start small and expand naturally.
 ### DFS
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 110 | Balanced Binary Tree | Easy | [View](./110.%20Balanced%20Binary%20Tree/) |
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | [View](./865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
