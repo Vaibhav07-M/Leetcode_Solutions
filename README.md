@@ -58,6 +58,7 @@ Both indexes start small and expand naturally.
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | Array / Binary Search / Matrix / Prefix Sum | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | Tree / DFS / Binary Tree / Dynamic Programming | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | Binary Search / Matrix | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
+| 1382 | Balance a Binary Search Tree | Medium | Tree / DFS / Binary Search Tree / Binary Tree / Greedy / Divide and Conquer | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
 | 1390 | Four Divisors | Medium | Array / Math | [View](./1390.%20Four%20Divisors/) |
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | Dynamic Programming / Math / Combinatorics | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
 | 1458 | Max Dot Product of Two Subsequences | Hard | Array / Dynamic Programming | [View](./1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences/) |
@@ -97,6 +98,7 @@ Both indexes start small and expand naturally.
 ### Greedy
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 1382 | Balance a Binary Search Tree | Medium | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
 | 1975 | Maximum Matrix Sum | Medium | [View](./1975.%20Maximum%20Matrix%20Sum/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
@@ -294,6 +296,7 @@ Both indexes start small and expand naturally.
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | [View](./865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/) |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
+| 1382 | Balance a Binary Search Tree | Medium | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
 
 ### Binary Tree
 | # | Title | Difficulty | Solution |
@@ -302,6 +305,7 @@ Both indexes start small and expand naturally.
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | [View](./865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/) |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
+| 1382 | Balance a Binary Search Tree | Medium | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
 
 ### DFS
 | # | Title | Difficulty | Solution |
@@ -309,7 +313,18 @@ Both indexes start small and expand naturally.
 | 110 | Balanced Binary Tree | Easy | [View](./110.%20Balanced%20Binary%20Tree/) |
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | [View](./865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
+| 1382 | Balance a Binary Search Tree | Medium | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
+
+### Binary Search Tree
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 1382 | Balance a Binary Search Tree | Medium | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
+
+### Divide and Conquer
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 1382 | Balance a Binary Search Tree | Medium | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
 
 ### Graph
 | # | Title | Difficulty | Solution |
