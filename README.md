@@ -91,6 +91,7 @@ Both indexes start small and expand naturally.
 | 3650 | Minimum Cost Path with Edge Reversals | Medium | Graph / Shortest Path / Heap (Priority Queue) / Dynamic Programming | [View](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | Array / Matrix / Graph / Shortest Path / Heap (Priority Queue) / Dynamic Programming | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
 | 3719 | Longest Balanced Subarray I | Medium | Array / Hash Table / Sliding Window | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
+| 3721 | Longest Balanced Subarray II | Hard | Array / Hash Table / Sliding Window / Segment Tree / Prefix Sum | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 
 ---
 
@@ -147,6 +148,7 @@ Both indexes start small and expand naturally.
 | 3640 | Trionic Array II | Hard | [View](./3640.%20Trionic%20Array%20II/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
 | 3719 | Longest Balanced Subarray I | Medium | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
+| 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 
 ### String
 | # | Title | Difficulty | Solution |
@@ -164,6 +166,12 @@ Both indexes start small and expand naturally.
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
 | 1895 | Largest Magic Square | Medium | [View](./1895.%20Largest%20Magic%20Square/) |
 | 2483 | Minimum Penalty for a Shop | Medium | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
+| 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
+
+### Segment Tree
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 
 ### Heap (Priority Queue)
 | # | Title | Difficulty | Solution |
@@ -225,6 +233,7 @@ Both indexes start small and expand naturally.
 | 961 | N-Repeated Element in Size 2N Array | Easy | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
 | 3719 | Longest Balanced Subarray I | Medium | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
+| 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 
 ### Backtracking
 | # | Title | Difficulty | Solution |
@@ -376,6 +385,7 @@ Both indexes start small and expand naturally.
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
 | 3634 | Minimum Removals to Balance Array | Medium | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
 | 3719 | Longest Balanced Subarray I | Medium | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
+| 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 
 ### Ordered Set
 | # | Title | Difficulty | Solution |
