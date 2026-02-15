@@ -44,6 +44,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Category | Solution |
 |---|--------|------------|----------|---------|
 | 66 | Plus One | Easy | Array / Math | [View](./66.%20Plus%20One/) |
+| 67 | Add Binary | Easy | Math / String / Bit Manipulation / Simulation | [View](./67.%20Add%20Binary/) |
 | 85 | Maximal Rectangle | Hard | Array / Dynamic Programming / Stack / Matrix / Monotonic Stack | [View](./85.%20Maximal%20Rectangle/) |
 | 110 | Balanced Binary Tree | Easy | Tree / DFS / Binary Tree | [View](./110.%20Balanced%20Binary%20Tree/) |
 | 712 | Minimum ASCII Delete Sum for Two Strings | Medium | String / Dynamic Programming | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
@@ -156,6 +157,7 @@ Both indexes start small and expand naturally.
 ### String
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
 | 712 | Minimum ASCII Delete Sum for Two Strings | Medium | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
 | 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
@@ -204,6 +206,7 @@ Both indexes start small and expand naturally.
 ### Simulation
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 3379 | Transformed Array | Easy | [View](./3379.%20Transformed%20Array/) |
@@ -257,6 +260,7 @@ Both indexes start small and expand naturally.
 ### Bit Manipulation
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
 | 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 3314 | Construct the Minimum Bitwise Array I | Easy | [View](./3314.%20Construct%20the%20Minimum%20Bitwise%20Array%20I/) |
 | 3315 | Construct the Minimum Bitwise Array II | Medium | [View](./3315.%20Construct%20the%20Minimum%20Bitwise%20Array%20II/) |
@@ -271,6 +275,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 66 | Plus One | Easy | [View](./66.%20Plus%20One/) |
+| 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 1266 | Minimum Time Visiting All Points | Easy | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
