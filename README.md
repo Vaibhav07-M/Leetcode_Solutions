@@ -50,6 +50,7 @@ Both indexes start small and expand naturally.
 | 190 | Reverse Bits | Easy | Divide and Conquer / Bit Manipulation | [View](./190.%20Reverse%20Bits/) |
 | 401 | Binary Watch | Easy | Backtracking / Bit Manipulation | [View](./401.%20Binary%20Watch/) |
 | 693 | Binary Number with Alternating Bits | Easy | Bit Manipulation | [View](./693.%20Binary%20Number%20with%20Alternating%20Bits/) |
+| 696 | Count Binary Substrings | Easy | String / Two Pointers | [View](./696.%20Count%20Binary%20Substrings/) |
 | 712 | Minimum ASCII Delete Sum for Two Strings | Medium | String / Dynamic Programming | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
 | 744 | Find Smallest Letter Greater Than Target | Easy | Array / Binary Search | [View](./744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/) |
 | 756 | Pyramid Transition Matrix | Medium | Hash Table / String / Backtracking | [View](./756.%20Pyramid%20Transition%20Matrix/) |
@@ -161,6 +162,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
+| 696 | Count Binary Substrings | Easy | [View](./696.%20Count%20Binary%20Substrings/) |
 | 712 | Minimum ASCII Delete Sum for Two Strings | Medium | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
 | 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
@@ -404,6 +406,7 @@ Both indexes start small and expand naturally.
 ### Two Pointers
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 696 | Count Binary Substrings | Easy | [View](./696.%20Count%20Binary%20Substrings/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
 | 3634 | Minimum Removals to Balance Array | Medium | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
 
