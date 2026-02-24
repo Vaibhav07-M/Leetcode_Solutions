@@ -61,6 +61,7 @@ Both indexes start small and expand naturally.
 | 868 | Binary Gap | Easy | Bit Manipulation | [View](./868.%20Binary%20Gap/) |
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | Tree / DFS / Binary Tree | [View](./865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | Array / Hash Table | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
+| 1022 | Sum of Root To Leaf Binary Numbers | Easy | Tree / DFS / Binary Tree | [View](./1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/) |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | Tree / BFS / Binary Tree | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1200 | Minimum Absolute Difference | Easy | Array / Sorting | [View](./1200.%20Minimum%20Absolute%20Difference/) |
 | 1266 | Minimum Time Visiting All Points | Easy | Array / Math / Geometry | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
@@ -357,6 +358,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 110 | Balanced Binary Tree | Easy | [View](./110.%20Balanced%20Binary%20Tree/) |
+| 1022 | Sum of Root To Leaf Binary Numbers | Easy | [View](./1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/) |
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | [View](./865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/) |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
@@ -366,6 +368,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 110 | Balanced Binary Tree | Easy | [View](./110.%20Balanced%20Binary%20Tree/) |
+| 1022 | Sum of Root To Leaf Binary Numbers | Easy | [View](./1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/) |
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | [View](./865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/) |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
@@ -375,6 +378,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 110 | Balanced Binary Tree | Easy | [View](./110.%20Balanced%20Binary%20Tree/) |
+| 1022 | Sum of Root To Leaf Binary Numbers | Easy | [View](./1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/) |
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | [View](./865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1382 | Balance a Binary Search Tree | Medium | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
