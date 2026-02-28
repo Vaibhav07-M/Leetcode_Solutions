@@ -103,6 +103,7 @@ Both indexes start small and expand naturally.
 | 3640 | Trionic Array II | Hard | Array / Dynamic Programming | [View](./3640.%20Trionic%20Array%20II/) |
 | 3650 | Minimum Cost Path with Edge Reversals | Medium | Graph / Shortest Path / Heap (Priority Queue) / Dynamic Programming | [View](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | Array / Matrix / Graph / Shortest Path / Heap (Priority Queue) / Dynamic Programming | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
+| 3666 | Minimum Operations to Equalize Binary String | Hard | String / BFS / Math / Greedy | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 | 3713 | Longest Balanced Substring I | Medium | String / Hash Table / Counting | [View](./3713.%20Longest%20Balanced%20Substring%20I/) |
 | 3714 | Longest Balanced Substring II | Medium | String / Hash Table / Prefix Sum | [View](./3714.%20Longest%20Balanced%20Substring%20II/) |
 | 3719 | Longest Balanced Subarray I | Medium | Array / Hash Table / Sliding Window | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
@@ -124,6 +125,7 @@ Both indexes start small and expand naturally.
 | 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
+| 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 
 ### Recursion
 | # | Title | Difficulty | Solution |
@@ -191,6 +193,7 @@ Both indexes start small and expand naturally.
 | 2483 | Minimum Penalty for a Shop | Medium | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
 | 2976 | Minimum Cost to Convert String I | Medium | [View](./2976.%20Minimum%20Cost%20to%20Convert%20String%20I/) |
 | 2977 | Minimum Cost to Convert String II | Hard | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
+| 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 | 3713 | Longest Balanced Substring I | Medium | [View](./3713.%20Longest%20Balanced%20Substring%20I/) |
 | 3714 | Longest Balanced Substring II | Medium | [View](./3714.%20Longest%20Balanced%20Substring%20II/) |
 
@@ -324,6 +327,7 @@ Both indexes start small and expand naturally.
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
+| 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 
 ### Dynamic Programming
 | # | Title | Difficulty | Solution |
@@ -361,7 +365,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
-
+| 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 ### Tree
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
