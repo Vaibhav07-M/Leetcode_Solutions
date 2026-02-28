@@ -366,6 +366,7 @@ Both indexes start small and expand naturally.
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
+
 ### Tree
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
