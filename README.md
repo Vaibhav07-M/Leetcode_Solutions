@@ -76,6 +76,7 @@ Both indexes start small and expand naturally.
 | 1461 | Check If a String Contains All Binary Codes of Size K | Medium | String / Hash Table / Bit Manipulation / Rolling Hash | [View](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/) |
 | 1458 | Max Dot Product of Two Subsequences | Hard | Array / Dynamic Programming | [View](./1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences/) |
 | 1536 | Minimum Swaps to Arrange a Binary Grid | Medium | Array / Greedy / Sorting / Matrix | [View](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid/) |
+| 1545 | Find Kth Bit in Nth Binary String | Medium | String / Recursion / Divide and Conquer | [View](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | String / Dynamic Programming / Stack | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | Math / Bit Manipulation / Simulation | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | String / Greedy / Math | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
@@ -134,8 +135,9 @@ Both indexes start small and expand naturally.
 
 ### Recursion
 | # | Title | Difficulty | Solution |
-|---|--------|------------|---------||
+|---|--------|------------|---------|
 | 761 | Special Binary String | Hard | [View](./761.%20Special%20Binary%20String/) |
+| 1545 | Find Kth Bit in Nth Binary String | Medium | [View](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/) |
 
 ### Rolling Hash
 | # | Title | Difficulty | Solution |
@@ -195,6 +197,7 @@ Both indexes start small and expand naturally.
 | 761 | Special Binary String | Hard | [View](./761.%20Special%20Binary%20String/) |
 | 1404 | Number of Steps to Reduce a Number in Binary Representation to One | Medium | [View](./1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/) |
 | 1461 | Check If a String Contains All Binary Codes of Size K | Medium | [View](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/) |
+| 1545 | Find Kth Bit in Nth Binary String | Medium | [View](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
 | 2483 | Minimum Penalty for a Shop | Medium | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
@@ -420,6 +423,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 190 | Reverse Bits | Easy | [View](./190.%20Reverse%20Bits/) |
 | 1382 | Balance a Binary Search Tree | Medium | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
+| 1545 | Find Kth Bit in Nth Binary String | Medium | [View](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/) |
 
 ### Graph
 | # | Title | Difficulty | Solution |
