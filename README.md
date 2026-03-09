@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 41 | [View](#array) |
+| Array | 42 | [View](#array) |
 | BFS | 3 | [View](#bfs) |
 | Backtracking | 3 | [View](#backtracking) |
 | Binary Search | 6 | [View](#binary-search) |
@@ -44,7 +44,7 @@ Both indexes start small and expand naturally.
 | Counting | 2 | [View](#counting) |
 | DFS | 6 | [View](#dfs) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 11 | [View](#dynamic-programming) |
+| Dynamic Programming | 12 | [View](#dynamic-programming) |
 | Enumeration | 2 | [View](#enumeration) |
 | Geometry | 4 | [View](#geometry) |
 | Graph | 4 | [View](#graph) |
@@ -132,6 +132,7 @@ Both indexes start small and expand naturally.
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | Array / Sliding Window / Heap (Priority Queue) / Ordered Set | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | Array / Geometry / Math / Enumeration | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | Greedy / Sorting | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
+| 3129 | Find All Possible Stable Binary Arrays I | Medium | Array / Dynamic Programming | [View](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I/) |
 | 3314 | Construct the Minimum Bitwise Array I | Easy | Array / Bit Manipulation | [View](./3314.%20Construct%20the%20Minimum%20Bitwise%20Array%20I/) |
 | 3315 | Construct the Minimum Bitwise Array II | Medium | Array / Bit Manipulation | [View](./3315.%20Construct%20the%20Minimum%20Bitwise%20Array%20II/) |
 | 3379 | Transformed Array | Easy | Array / Simulation | [View](./3379.%20Transformed%20Array/) |
@@ -186,6 +187,7 @@ Both indexes start small and expand naturally.
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
+| 3129 | Find All Possible Stable Binary Arrays I | Medium | [View](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I/) |
 | 3314 | Construct the Minimum Bitwise Array I | Easy | [View](./3314.%20Construct%20the%20Minimum%20Bitwise%20Array%20I/) |
 | 3315 | Construct the Minimum Bitwise Array II | Medium | [View](./3315.%20Construct%20the%20Minimum%20Bitwise%20Array%20II/) |
 | 3379 | Transformed Array | Easy | [View](./3379.%20Transformed%20Array/) |
@@ -300,6 +302,7 @@ Both indexes start small and expand naturally.
 | 1458 | Max Dot Product of Two Subsequences | Hard | [View](./1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
 | 2977 | Minimum Cost to Convert String II | Hard | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
+| 3129 | Find All Possible Stable Binary Arrays I | Medium | [View](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I/) |
 | 3640 | Trionic Array II | Hard | [View](./3640.%20Trionic%20Array%20II/) |
 | 3650 | Minimum Cost Path with Edge Reversals | Medium | [View](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
