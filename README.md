@@ -35,7 +35,7 @@ Both indexes start small and expand naturally.
 | Array | 43 | [View](#array) |
 | BFS | 3 | [View](#bfs) |
 | Backtracking | 3 | [View](#backtracking) |
-| Binary Search | 6 | [View](#binary-search) |
+| Binary Search | 7 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 6 | [View](#binary-tree) |
 | Bit Manipulation | 14 | [View](#bit-manipulation) |
@@ -47,8 +47,8 @@ Both indexes start small and expand naturally.
 | Dynamic Programming | 13 | [View](#dynamic-programming) |
 | Enumeration | 2 | [View](#enumeration) |
 | Geometry | 4 | [View](#geometry) |
-| Graph | 4 | [View](#graph) |
-| Greedy | 13 | [View](#greedy) |
+| Graph | 5 | [View](#graph) |
+| Greedy | 14 | [View](#greedy) |
 | Hash Table | 9 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
@@ -69,7 +69,7 @@ Both indexes start small and expand naturally.
 | Tree | 6 | [View](#tree) |
 | Trie | 1 | [View](#trie) |
 | Two Pointers | 3 | [View](#two-pointers) |
-| Union Find | 1 | [View](#union-find) |
+| Union Find | 2 | [View](#union-find) |
 
 ### Completed Problems
 
@@ -142,6 +142,7 @@ Both indexes start small and expand naturally.
 | 3454 | Separate Squares II | Hard | Array / Binary Search / Geometry / Line Sweep / Coordinate Compression / Sorting | [View](./3454.%20Separate%20Squares%20II/) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | Array / Greedy / Simulation | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | Array / Heap / Greedy / Simulation | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
+| 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | Graph / Union Find / Binary Search / Greedy | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
 | 3634 | Minimum Removals to Balance Array | Medium | Array / Sorting / Sliding Window / Two Pointers | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
 | 3637 | Trionic Array I | Easy | Array | [View](./3637.%20Trionic%20Array%20I/) |
 | 3640 | Trionic Array II | Hard | Array / Dynamic Programming | [View](./3640.%20Trionic%20Array%20II/) |
@@ -228,6 +229,7 @@ Both indexes start small and expand naturally.
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
 | 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
+| 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
 
 ### Binary Search Tree
 | # | Title | Difficulty | Solution |
@@ -331,6 +333,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 2976 | Minimum Cost to Convert String I | Medium | [View](./2976.%20Minimum%20Cost%20to%20Convert%20String%20I/) |
 | 2977 | Minimum Cost to Convert String II | Hard | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
+| 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
 | 3650 | Minimum Cost Path with Edge Reversals | Medium | [View](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
 
@@ -349,6 +352,7 @@ Both indexes start small and expand naturally.
 | 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
+| 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 
 ### Hash Table
@@ -545,6 +549,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
+| 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
 
 ---
 
