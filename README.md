@@ -35,7 +35,7 @@ Both indexes start small and expand naturally.
 | Array | 43 | [View](#array) |
 | BFS | 3 | [View](#bfs) |
 | Backtracking | 3 | [View](#backtracking) |
-| Binary Search | 7 | [View](#binary-search) |
+| Binary Search | 8 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 6 | [View](#binary-tree) |
 | Bit Manipulation | 14 | [View](#bit-manipulation) |
@@ -52,7 +52,7 @@ Both indexes start small and expand naturally.
 | Hash Table | 9 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
-| Math | 14 | [View](#math) |
+| Math | 15 | [View](#math) |
 | Matrix | 10 | [View](#matrix) |
 | Monotonic Stack | 1 | [View](#monotonic-stack) |
 | Ordered Set | 1 | [View](#ordered-set) |
@@ -135,6 +135,7 @@ Both indexes start small and expand naturally.
 | 3075 | Maximize Happiness of Selected Children | Medium | Greedy / Sorting | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
 | 3129 | Find All Possible Stable Binary Arrays I | Medium | Array / Dynamic Programming | [View](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I/) |
 | 3130 | Find All Possible Stable Binary Arrays II | Hard | Array / Dynamic Programming | [View](./3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II/) |
+| 3296 | Minimum Number of Seconds to Make Mountain Height Zero | Medium | Binary Search / Math | [View](./3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero/) |
 | 3314 | Construct the Minimum Bitwise Array I | Easy | Array / Bit Manipulation | [View](./3314.%20Construct%20the%20Minimum%20Bitwise%20Array%20I/) |
 | 3315 | Construct the Minimum Bitwise Array II | Medium | Array / Bit Manipulation | [View](./3315.%20Construct%20the%20Minimum%20Bitwise%20Array%20II/) |
 | 3379 | Transformed Array | Easy | Array / Simulation | [View](./3379.%20Transformed%20Array/) |
@@ -227,6 +228,7 @@ Both indexes start small and expand naturally.
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
+| 3296 | Minimum Number of Seconds to Make Mountain Height Zero | Medium | [View](./3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
 | 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
 | 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
@@ -397,6 +399,7 @@ Both indexes start small and expand naturally.
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
+| 3296 | Minimum Number of Seconds to Make Mountain Height Zero | Medium | [View](./3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 
