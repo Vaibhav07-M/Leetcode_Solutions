@@ -43,6 +43,7 @@ Both indexes start small and expand naturally.
 | Coordinate Compression | 1 | [View](#coordinate-compression) |
 | Counting | 2 | [View](#counting) |
 | DFS | 6 | [View](#dfs) |
+| Design | 1 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
 | Dynamic Programming | 13 | [View](#dynamic-programming) |
 | Enumeration | 2 | [View](#enumeration) |
@@ -52,14 +53,14 @@ Both indexes start small and expand naturally.
 | Hash Table | 9 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
-| Math | 16 | [View](#math) |
+| Math | 17 | [View](#math) |
 | Matrix | 10 | [View](#matrix) |
 | Monotonic Stack | 1 | [View](#monotonic-stack) |
 | Ordered Set | 1 | [View](#ordered-set) |
 | Prefix Sum | 5 | [View](#prefix-sum) |
 | Recursion | 2 | [View](#recursion) |
 | Rolling Hash | 1 | [View](#rolling-hash) |
-| Segment Tree | 1 | [View](#segment-tree) |
+| Segment Tree | 2 | [View](#segment-tree) |
 | Shortest Path | 4 | [View](#shortest-path) |
 | Simulation | 7 | [View](#simulation) |
 | Sliding Window | 6 | [View](#sliding-window) |
@@ -112,6 +113,7 @@ Both indexes start small and expand naturally.
 | 1536 | Minimum Swaps to Arrange a Binary Grid | Medium | Array / Greedy / Sorting / Matrix | [View](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid/) |
 | 1545 | Find Kth Bit in Nth Binary String | Medium | String / Recursion / Divide and Conquer | [View](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/) |
 | 1582 | Special Positions in a Binary Matrix | Easy | Array / Matrix | [View](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix/) |
+| 1622 | Fancy Sequence | Hard | Design / Math / Segment Tree | [View](./1622.%20Fancy%20Sequence/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | String / Dynamic Programming / Stack | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | Math / Bit Manipulation / Simulation | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | String / Greedy / Math | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
@@ -293,6 +295,11 @@ Both indexes start small and expand naturally.
 | 1382 | Balance a Binary Search Tree | Medium | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
 
+### Design
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 1622 | Fancy Sequence | Hard | [View](./1622.%20Fancy%20Sequence/) |
+
 ### Divide and Conquer
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
@@ -398,6 +405,7 @@ Both indexes start small and expand naturally.
 | 1390 | Four Divisors | Medium | [View](./1390.%20Four%20Divisors/) |
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
 | 1415 | The k-th Lexicographical String of All Happy Strings of Length n | Medium | [View](./1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/) |
+| 1622 | Fancy Sequence | Hard | [View](./1622.%20Fancy%20Sequence/) |
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
@@ -453,6 +461,7 @@ Both indexes start small and expand naturally.
 ### Segment Tree
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 1622 | Fancy Sequence | Hard | [View](./1622.%20Fancy%20Sequence/) |
 | 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 
 ### Shortest Path
