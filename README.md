@@ -54,7 +54,7 @@ Both indexes start small and expand naturally.
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Math | 17 | [View](#math) |
-| Matrix | 16 | [View](#matrix) |
+| Matrix | 17 | [View](#matrix) |
 | Monotonic Stack | 1 | [View](#monotonic-stack) |
 | Ordered Set | 1 | [View](#ordered-set) |
 | Prefix Sum | 8 | [View](#prefix-sum) |
@@ -62,7 +62,7 @@ Both indexes start small and expand naturally.
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Segment Tree | 2 | [View](#segment-tree) |
 | Shortest Path | 4 | [View](#shortest-path) |
-| Simulation | 8 | [View](#simulation) |
+| Simulation | 9 | [View](#simulation) |
 | Sliding Window | 7 | [View](#sliding-window) |
 | Sorting | 13 | [View](#sorting) |
 | Stack | 2 | [View](#stack) |
@@ -122,6 +122,7 @@ Both indexes start small and expand naturally.
 | 1784 | Check if Binary String Has at Most One Segment of Ones | Easy | String | [View](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | Array / Greedy / Sorting / Two Pointers | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
 | 1878 | Get Biggest Three Rhombus Sums in a Grid | Medium | Array / Matrix / Prefix Sum | [View](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid/) |
+| 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | Matrix / Simulation | [View](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/) |
 | 1888 | Minimum Number of Flips to Make the Binary String Alternating | Medium | String / Sliding Window | [View](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating/) |
 | 1895 | Largest Magic Square | Medium | Array / Matrix / Prefix Sum | [View](./1895.%20Largest%20Magic%20Square/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | Array / Binary Search / BFS / DFS / Union Find / Matrix | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
@@ -437,6 +438,7 @@ Both indexes start small and expand naturally.
 | 1582 | Special Positions in a Binary Matrix | Easy | [View](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix/) |
 | 1727 | Largest Submatrix With Rearrangements | Medium | [View](./1727.%20Largest%20Submatrix%20With%20Rearrangements/) |
 | 1878 | Get Biggest Three Rhombus Sums in a Grid | Medium | [View](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid/) |
+| 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | [View](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/) |
 | 1895 | Largest Magic Square | Medium | [View](./1895.%20Largest%20Magic%20Square/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
 | 1975 | Maximum Matrix Sum | Medium | [View](./1975.%20Maximum%20Matrix%20Sum/) |
@@ -499,6 +501,7 @@ Both indexes start small and expand naturally.
 | 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
+| 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | [View](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/) |
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 3379 | Transformed Array | Easy | [View](./3379.%20Transformed%20Array/) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
