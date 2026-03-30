@@ -41,7 +41,7 @@ Both indexes start small and expand naturally.
 | Bit Manipulation | 14 | [View](#bit-manipulation) |
 | Combinatorics | 1 | [View](#combinatorics) |
 | Coordinate Compression | 1 | [View](#coordinate-compression) |
-| Counting | 2 | [View](#counting) |
+| Counting | 3 | [View](#counting) |
 | DFS | 6 | [View](#dfs) |
 | Design | 1 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
@@ -50,7 +50,7 @@ Both indexes start small and expand naturally.
 | Geometry | 4 | [View](#geometry) |
 | Graph | 5 | [View](#graph) |
 | Greedy | 15 | [View](#greedy) |
-| Hash Table | 10 | [View](#hash-table) |
+| Hash Table | 11 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Math | 18 | [View](#math) |
@@ -66,7 +66,7 @@ Both indexes start small and expand naturally.
 | Sliding Window | 7 | [View](#sliding-window) |
 | Sorting | 13 | [View](#sorting) |
 | Stack | 2 | [View](#stack) |
-| String | 23 | [View](#string) |
+| String | 24 | [View](#string) |
 | Tree | 6 | [View](#tree) |
 | Trie | 1 | [View](#trie) |
 | Two Pointers | 3 | [View](#two-pointers) |
@@ -134,6 +134,7 @@ Both indexes start small and expand naturally.
 | 2483 | Minimum Penalty for a Shop | Medium | String / Prefix Sum | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
 | 2573 | Find the String with LCP | Hard | String / Dynamic Programming / Matrix | [View](./2573.%20Find%20the%20String%20with%20LCP/) |
 | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | String / Simulation | [View](./2839.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) |
+| 2840 | Check if Strings Can be Made Equal With Operations II | Medium | String / Hash Table / Counting | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
 | 2906 | Construct Product Matrix | Medium | Array / Matrix / Math / Prefix Sum | [View](./2906.%20Construct%20Product%20Matrix/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | Array / Sorting / Greedy | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
 | 2946 | Matrix Similarity After Cyclic Shifts | Easy | Matrix / Simulation | [View](./2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts/) |
@@ -307,6 +308,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 1356 | Sort Integers by The Number of 1 Bits | Easy | [View](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits/) |
+| 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
 | 3713 | Longest Balanced Substring I | Medium | [View](./3713.%20Longest%20Balanced%20Substring%20I/) |
 
 ### DFS
@@ -399,6 +401,7 @@ Both indexes start small and expand naturally.
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
 | 1461 | Check If a String Contains All Binary Codes of Size K | Medium | [View](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/) |
+| 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
 | 3548 | Equal Sum Grid Partition II | Hard | [View](./3548.%20Equal%20Sum%20Grid%20Partition%20II/) |
 | 3713 | Longest Balanced Substring I | Medium | [View](./3713.%20Longest%20Balanced%20Substring%20I/) |
@@ -589,6 +592,7 @@ Both indexes start small and expand naturally.
 | 2483 | Minimum Penalty for a Shop | Medium | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
 | 2573 | Find the String with LCP | Hard | [View](./2573.%20Find%20the%20String%20with%20LCP/) |
 | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | [View](./2839.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) |
+| 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
 | 2976 | Minimum Cost to Convert String I | Medium | [View](./2976.%20Minimum%20Cost%20to%20Convert%20String%20I/) |
 | 2977 | Minimum Cost to Convert String II | Hard | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
