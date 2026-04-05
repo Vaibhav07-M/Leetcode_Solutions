@@ -62,11 +62,11 @@ Both indexes start small and expand naturally.
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Segment Tree | 2 | [View](#segment-tree) |
 | Shortest Path | 4 | [View](#shortest-path) |
-| Simulation | 13 | [View](#simulation) |
+| Simulation | 14 | [View](#simulation) |
 | Sliding Window | 7 | [View](#sliding-window) |
 | Sorting | 15 | [View](#sorting) |
 | Stack | 3 | [View](#stack) |
-| String | 26 | [View](#string) |
+| String | 27 | [View](#string) |
 | Tree | 6 | [View](#tree) |
 | Trie | 1 | [View](#trie) |
 | Two Pointers | 3 | [View](#two-pointers) |
@@ -82,6 +82,7 @@ Both indexes start small and expand naturally.
 | 110 | Balanced Binary Tree | Easy | Tree / DFS / Binary Tree | [View](./110.%20Balanced%20Binary%20Tree/) |
 | 190 | Reverse Bits | Easy | Divide and Conquer / Bit Manipulation | [View](./190.%20Reverse%20Bits/) |
 | 401 | Binary Watch | Easy | Backtracking / Bit Manipulation | [View](./401.%20Binary%20Watch/) |
+| 657 | Robot Return to Origin | Easy | String / Simulation | [View](./657.%20Robot%20Return%20to%20Origin/) |
 | 693 | Binary Number with Alternating Bits | Easy | Bit Manipulation | [View](./693.%20Binary%20Number%20with%20Alternating%20Bits/) |
 | 696 | Count Binary Substrings | Easy | String / Two Pointers | [View](./696.%20Count%20Binary%20Substrings/) |
 | 712 | Minimum ASCII Delete Sum for Two Strings | Medium | String / Dynamic Programming | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
@@ -540,6 +541,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
+| 657 | Robot Return to Origin | Easy | [View](./657.%20Robot%20Return%20to%20Origin/) |
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | [View](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/) |
@@ -594,6 +596,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
+| 657 | Robot Return to Origin | Easy | [View](./657.%20Robot%20Return%20to%20Origin/) |
 | 696 | Count Binary Substrings | Easy | [View](./696.%20Count%20Binary%20Substrings/) |
 | 712 | Minimum ASCII Delete Sum for Two Strings | Medium | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
 | 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
