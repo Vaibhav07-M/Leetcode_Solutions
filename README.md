@@ -62,7 +62,7 @@ Both indexes start small and expand naturally.
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Segment Tree | 2 | [View](#segment-tree) |
 | Shortest Path | 4 | [View](#shortest-path) |
-| Simulation | 14 | [View](#simulation) |
+| Simulation | 15 | [View](#simulation) |
 | Sliding Window | 7 | [View](#sliding-window) |
 | Sorting | 15 | [View](#sorting) |
 | Stack | 3 | [View](#stack) |
@@ -94,6 +94,7 @@ Both indexes start small and expand naturally.
 | 840 | Magic Squares In Grid | Medium | Array / Hash Table / Math / Matrix | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 868 | Binary Gap | Easy | Bit Manipulation | [View](./868.%20Binary%20Gap/) |
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | Tree / DFS / Binary Tree | [View](./865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/) |
+| 874 | Walking Robot Simulation | Medium | Simulation | [View](./874.%20Walking%20Robot%20Simulation/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | Array / Hash Table | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
 | 1009 | Complement of Base 10 Integer | Easy | Bit Manipulation | [View](./1009.%20Complement%20of%20Base%2010%20Integer/) |
 | 1022 | Sum of Root To Leaf Binary Numbers | Easy | Tree / DFS / Binary Tree | [View](./1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/) |
@@ -543,6 +544,7 @@ Both indexes start small and expand naturally.
 | 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
 | 657 | Robot Return to Origin | Easy | [View](./657.%20Robot%20Return%20to%20Origin/) |
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
+| 874 | Walking Robot Simulation | Medium | [View](./874.%20Walking%20Robot%20Simulation/) |
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | [View](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/) |
 | 2075 | Decode the Slanted Ciphertext | Medium | [View](./2075.%20Decode%20the%20Slanted%20Ciphertext/) |
