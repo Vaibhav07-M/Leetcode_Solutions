@@ -43,7 +43,7 @@ Both indexes start small and expand naturally.
 | Coordinate Compression | 1 | [View](#coordinate-compression) |
 | Counting | 3 | [View](#counting) |
 | DFS | 6 | [View](#dfs) |
-| Design | 1 | [View](#design) |
+| Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
 | Dynamic Programming | 17 | [View](#dynamic-programming) |
 | Enumeration | 2 | [View](#enumeration) |
@@ -53,7 +53,7 @@ Both indexes start small and expand naturally.
 | Hash Table | 11 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
-| Math | 18 | [View](#math) |
+| Math | 19 | [View](#math) |
 | Matrix | 25 | [View](#matrix) |
 | Monotonic Stack | 1 | [View](#monotonic-stack) |
 | Ordered Set | 1 | [View](#ordered-set) |
@@ -62,7 +62,7 @@ Both indexes start small and expand naturally.
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Segment Tree | 2 | [View](#segment-tree) |
 | Shortest Path | 4 | [View](#shortest-path) |
-| Simulation | 15 | [View](#simulation) |
+| Simulation | 16 | [View](#simulation) |
 | Sliding Window | 7 | [View](#sliding-window) |
 | Sorting | 15 | [View](#sorting) |
 | Stack | 3 | [View](#stack) |
@@ -132,6 +132,7 @@ Both indexes start small and expand naturally.
 | 1975 | Maximum Matrix Sum | Medium | Array / Greedy / Matrix | [View](./1975.%20Maximum%20Matrix%20Sum/) |
 | 1980 | Find Unique Binary String | Medium | Array / String / Backtracking | [View](./1980.%20Find%20Unique%20Binary%20String/) |
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | Array / Sorting / Sliding Window | [View](./1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) |
+| 2069 | Walking Robot Simulation II | Medium | Design / Simulation / Math | [View](./2069.%20Walking%20Robot%20Simulation%20II/) |
 | 2075 | Decode the Slanted Ciphertext | Medium | String / Matrix / Simulation | [View](./2075.%20Decode%20the%20Slanted%20Ciphertext/) |
 | 2402 | Meeting Rooms III | Hard | Heap / Sorting / Simulation | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 2483 | Minimum Penalty for a Shop | Medium | String / Prefix Sum | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
@@ -336,6 +337,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 1622 | Fancy Sequence | Hard | [View](./1622.%20Fancy%20Sequence/) |
+| 2069 | Walking Robot Simulation II | Medium | [View](./2069.%20Walking%20Robot%20Simulation%20II/) |
 
 ### Divide and Conquer
 | # | Title | Difficulty | Solution |
@@ -452,6 +454,7 @@ Both indexes start small and expand naturally.
 | 1622 | Fancy Sequence | Hard | [View](./1622.%20Fancy%20Sequence/) |
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
+| 2069 | Walking Robot Simulation II | Medium | [View](./2069.%20Walking%20Robot%20Simulation%20II/) |
 | 2906 | Construct Product Matrix | Medium | [View](./2906.%20Construct%20Product%20Matrix/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
@@ -547,6 +550,7 @@ Both indexes start small and expand naturally.
 | 874 | Walking Robot Simulation | Medium | [View](./874.%20Walking%20Robot%20Simulation/) |
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | [View](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/) |
+| 2069 | Walking Robot Simulation II | Medium | [View](./2069.%20Walking%20Robot%20Simulation%20II/) |
 | 2075 | Decode the Slanted Ciphertext | Medium | [View](./2075.%20Decode%20the%20Slanted%20Ciphertext/) |
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
