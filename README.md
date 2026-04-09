@@ -65,6 +65,7 @@ Both indexes start small and expand naturally.
 | Simulation | 17 | [View](#simulation) |
 | Sliding Window | 7 | [View](#sliding-window) |
 | Sorting | 15 | [View](#sorting) |
+| Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
 | String | 27 | [View](#string) |
 | Tree | 6 | [View](#tree) |
@@ -175,6 +176,7 @@ Both indexes start small and expand naturally.
 | 3650 | Minimum Cost Path with Edge Reversals | Medium | Graph / Shortest Path / Heap (Priority Queue) / Dynamic Programming | [View](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | Array / Matrix / Graph / Shortest Path / Heap (Priority Queue) / Dynamic Programming | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
 | 3653 | XOR After Range Multiplication Queries I | Medium | Array / Math / Simulation | [View](./3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I/) |
+| 3655 | XOR After Range Multiplication Queries II | Hard | Array / Math / Simulation / Square Root Decomposition | [View](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II/) |
 | 3661 | Maximum Walls Destroyed by Robots | Hard | Array / Binary Search / Dynamic Programming / Sorting | [View](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | String / BFS / Math / Greedy | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 | 3713 | Longest Balanced Substring I | Medium | String / Hash Table / Counting | [View](./3713.%20Longest%20Balanced%20Substring%20I/) |
@@ -244,6 +246,7 @@ Both indexes start small and expand naturally.
 | 3643 | Flip Square Submatrix Vertically | Easy | [View](./3643.%20Flip%20Square%20Submatrix%20Vertically/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
 | 3653 | XOR After Range Multiplication Queries I | Medium | [View](./3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I/) |
+| 3655 | XOR After Range Multiplication Queries II | Hard | [View](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II/) |
 | 3661 | Maximum Walls Destroyed by Robots | Hard | [View](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/) |
 | 3719 | Longest Balanced Subarray I | Medium | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
 | 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
@@ -463,6 +466,7 @@ Both indexes start small and expand naturally.
 | 3296 | Minimum Number of Seconds to Make Mountain Height Zero | Medium | [View](./3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
 | 3653 | XOR After Range Multiplication Queries I | Medium | [View](./3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I/) |
+| 3655 | XOR After Range Multiplication Queries II | Hard | [View](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 
 ### Matrix
@@ -564,6 +568,7 @@ Both indexes start small and expand naturally.
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
 | 3643 | Flip Square Submatrix Vertically | Easy | [View](./3643.%20Flip%20Square%20Submatrix%20Vertically/) |
 | 3653 | XOR After Range Multiplication Queries I | Medium | [View](./3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I/) |
+| 3655 | XOR After Range Multiplication Queries II | Hard | [View](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II/) |
 
 ### Sliding Window
 | # | Title | Difficulty | Solution |
@@ -594,6 +599,11 @@ Both indexes start small and expand naturally.
 | 3567 | Minimum Absolute Difference in Sliding Submatrix | Medium | [View](./3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix/) |
 | 3634 | Minimum Removals to Balance Array | Medium | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
 | 3661 | Maximum Walls Destroyed by Robots | Hard | [View](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/) |
+
+### Square Root Decomposition
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 3655 | XOR After Range Multiplication Queries II | Hard | [View](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II/) |
 
 ### Stack
 | # | Title | Difficulty | Solution |
