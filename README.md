@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 57 | [View](#array) |
+| Array | 58 | [View](#array) |
 | BFS | 3 | [View](#bfs) |
 | Backtracking | 3 | [View](#backtracking) |
 | Binary Search | 9 | [View](#binary-search) |
@@ -41,7 +41,7 @@ Both indexes start small and expand naturally.
 | Bit Manipulation | 14 | [View](#bit-manipulation) |
 | Combinatorics | 1 | [View](#combinatorics) |
 | Coordinate Compression | 1 | [View](#coordinate-compression) |
-| Counting | 4 | [View](#counting) |
+| Counting | 5 | [View](#counting) |
 | DFS | 6 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
@@ -50,7 +50,7 @@ Both indexes start small and expand naturally.
 | Geometry | 4 | [View](#geometry) |
 | Graph | 5 | [View](#graph) |
 | Greedy | 16 | [View](#greedy) |
-| Hash Table | 12 | [View](#hash-table) |
+| Hash Table | 13 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Math | 20 | [View](#math) |
@@ -184,6 +184,7 @@ Both indexes start small and expand naturally.
 | 3719 | Longest Balanced Subarray I | Medium | Array / Hash Table / Sliding Window | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
 | 3721 | Longest Balanced Subarray II | Hard | Array / Hash Table / Sliding Window / Segment Tree / Prefix Sum | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | Array / Hash Table / Counting | [View](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) |
+| 3741 | Minimum Distance Between Three Equal Elements II | Medium | Array / Hash Table / Counting | [View](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II/) |
 
 ---
 
@@ -252,6 +253,7 @@ Both indexes start small and expand naturally.
 | 3719 | Longest Balanced Subarray I | Medium | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
 | 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | [View](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) |
+| 3741 | Minimum Distance Between Three Equal Elements II | Medium | [View](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II/) |
 
 ### BFS
 | # | Title | Difficulty | Solution |
@@ -330,6 +332,7 @@ Both indexes start small and expand naturally.
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
 | 3713 | Longest Balanced Substring I | Medium | [View](./3713.%20Longest%20Balanced%20Substring%20I/) |
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | [View](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) |
+| 3741 | Minimum Distance Between Three Equal Elements II | Medium | [View](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II/) |
 
 ### DFS
 | # | Title | Difficulty | Solution |
@@ -433,6 +436,7 @@ Both indexes start small and expand naturally.
 | 3719 | Longest Balanced Subarray I | Medium | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
 | 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | [View](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) |
+| 3741 | Minimum Distance Between Three Equal Elements II | Medium | [View](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II/) |
 
 ### Heap (Priority Queue)
 | # | Title | Difficulty | Solution |
