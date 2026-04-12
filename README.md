@@ -45,7 +45,7 @@ Both indexes start small and expand naturally.
 | DFS | 6 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 17 | [View](#dynamic-programming) |
+| Dynamic Programming | 18 | [View](#dynamic-programming) |
 | Enumeration | 2 | [View](#enumeration) |
 | Geometry | 4 | [View](#geometry) |
 | Graph | 5 | [View](#graph) |
@@ -67,7 +67,7 @@ Both indexes start small and expand naturally.
 | Sorting | 15 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
-| String | 27 | [View](#string) |
+| String | 28 | [View](#string) |
 | Tree | 6 | [View](#tree) |
 | Trie | 1 | [View](#trie) |
 | Two Pointers | 3 | [View](#two-pointers) |
@@ -103,6 +103,7 @@ Both indexes start small and expand naturally.
 | 1200 | Minimum Absolute Difference | Easy | Array / Sorting | [View](./1200.%20Minimum%20Absolute%20Difference/) |
 | 1266 | Minimum Time Visiting All Points | Easy | Array / Math / Geometry | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | Array / Binary Search / Matrix / Prefix Sum | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
+| 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard | String / Dynamic Programming | [View](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | Tree / DFS / Binary Tree / Dynamic Programming | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | Binary Search / Matrix | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 | 1356 | Sort Integers by The Number of 1 Bits | Easy | Array / Bit Manipulation / Sorting / Counting | [View](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits/) |
@@ -363,6 +364,7 @@ Both indexes start small and expand naturally.
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 712 | Minimum ASCII Delete Sum for Two Strings | Medium | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
+| 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard | [View](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
 | 1458 | Max Dot Product of Two Subsequences | Hard | [View](./1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences/) |
@@ -629,6 +631,7 @@ Both indexes start small and expand naturally.
 | 712 | Minimum ASCII Delete Sum for Two Strings | Medium | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
 | 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 761 | Special Binary String | Hard | [View](./761.%20Special%20Binary%20String/) |
+| 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard | [View](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/) |
 | 1404 | Number of Steps to Reduce a Number in Binary Representation to One | Medium | [View](./1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/) |
 | 1415 | The k-th Lexicographical String of All Happy Strings of Length n | Medium | [View](./1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/) |
 | 1461 | Check If a String Contains All Binary Codes of Size K | Medium | [View](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/) |
