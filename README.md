@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 58 | [View](#array) |
+| Array | 59 | [View](#array) |
 | BFS | 3 | [View](#bfs) |
 | Backtracking | 3 | [View](#backtracking) |
 | Binary Search | 9 | [View](#binary-search) |
@@ -125,6 +125,7 @@ Both indexes start small and expand naturally.
 | 1727 | Largest Submatrix With Rearrangements | Medium | Array / Matrix / Sorting | [View](./1727.%20Largest%20Submatrix%20With%20Rearrangements/) |
 | 1758 | Minimum Changes To Make Alternating Binary String | Easy | String / Greedy | [View](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/) |
 | 1784 | Check if Binary String Has at Most One Segment of Ones | Easy | String | [View](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/) |
+| 1848 | Minimum Distance to the Target Element | Easy | Array | [View](./1848.%20Minimum%20Distance%20to%20the%20Target%20Element/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | Array / Greedy / Sorting / Two Pointers | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
 | 1878 | Get Biggest Three Rhombus Sums in a Grid | Medium | Array / Matrix / Prefix Sum | [View](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid/) |
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | Matrix / Simulation | [View](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/) |
@@ -210,6 +211,7 @@ Both indexes start small and expand naturally.
 | 1582 | Special Positions in a Binary Matrix | Easy | [View](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix/) |
 | 1594 | Maximum Non Negative Product in a Matrix | Medium | [View](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/) |
 | 1727 | Largest Submatrix With Rearrangements | Medium | [View](./1727.%20Largest%20Submatrix%20With%20Rearrangements/) |
+| 1848 | Minimum Distance to the Target Element | Easy | [View](./1848.%20Minimum%20Distance%20to%20the%20Target%20Element/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
 | 1878 | Get Biggest Three Rhombus Sums in a Grid | Medium | [View](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid/) |
 |
