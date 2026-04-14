@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 59 | [View](#array) |
+| Array | 60 | [View](#array) |
 | BFS | 3 | [View](#bfs) |
 | Backtracking | 3 | [View](#backtracking) |
 | Binary Search | 9 | [View](#binary-search) |
@@ -45,7 +45,7 @@ Both indexes start small and expand naturally.
 | DFS | 6 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 18 | [View](#dynamic-programming) |
+| Dynamic Programming | 19 | [View](#dynamic-programming) |
 | Enumeration | 2 | [View](#enumeration) |
 | Geometry | 4 | [View](#geometry) |
 | Graph | 5 | [View](#graph) |
@@ -64,7 +64,7 @@ Both indexes start small and expand naturally.
 | Shortest Path | 4 | [View](#shortest-path) |
 | Simulation | 17 | [View](#simulation) |
 | Sliding Window | 7 | [View](#sliding-window) |
-| Sorting | 15 | [View](#sorting) |
+| Sorting | 16 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
 | String | 28 | [View](#string) |
@@ -138,6 +138,7 @@ Both indexes start small and expand naturally.
 | 2069 | Walking Robot Simulation II | Medium | Design / Simulation / Math | [View](./2069.%20Walking%20Robot%20Simulation%20II/) |
 | 2075 | Decode the Slanted Ciphertext | Medium | String / Matrix / Simulation | [View](./2075.%20Decode%20the%20Slanted%20Ciphertext/) |
 | 2402 | Meeting Rooms III | Hard | Heap / Sorting / Simulation | [View](./2402.%20Meeting%20Rooms%20III/) |
+| 2463 | Minimum Total Distance Traveled | Hard | Array / Dynamic Programming / Sorting | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
 | 2483 | Minimum Penalty for a Shop | Medium | String / Prefix Sum | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
 | 2573 | Find the String with LCP | Hard | String / Dynamic Programming / Matrix | [View](./2573.%20Find%20the%20String%20with%20LCP/) |
 | 2751 | Robot Collisions | Hard | Array / Stack / Sorting / Simulation | [View](./2751.%20Robot%20Collisions/) |
@@ -221,6 +222,7 @@ Both indexes start small and expand naturally.
 | 1980 | Find Unique Binary String | Medium | [View](./1980.%20Find%20Unique%20Binary%20String/) |
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | [View](./1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) |
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
+| 2463 | Minimum Total Distance Traveled | Hard | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
 | 2906 | Construct Product Matrix | Medium | [View](./2906.%20Construct%20Product%20Matrix/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
@@ -372,6 +374,7 @@ Both indexes start small and expand naturally.
 | 1458 | Max Dot Product of Two Subsequences | Hard | [View](./1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences/) |
 | 1594 | Maximum Non Negative Product in a Matrix | Medium | [View](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
+| 2463 | Minimum Total Distance Traveled | Hard | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
 | 2573 | Find the String with LCP | Hard | [View](./2573.%20Find%20the%20String%20with%20LCP/) |
 | 2977 | Minimum Cost to Convert String II | Hard | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
 | 3129 | Find All Possible Stable Binary Arrays I | Medium | [View](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I/) |
@@ -603,6 +606,7 @@ Both indexes start small and expand naturally.
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | [View](./1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) |
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
+| 2463 | Minimum Total Distance Traveled | Hard | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
