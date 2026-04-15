@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 60 | [View](#array) |
+| Array | 61 | [View](#array) |
 | BFS | 3 | [View](#bfs) |
 | Backtracking | 3 | [View](#backtracking) |
 | Binary Search | 9 | [View](#binary-search) |
@@ -67,7 +67,7 @@ Both indexes start small and expand naturally.
 | Sorting | 16 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
-| String | 28 | [View](#string) |
+| String | 29 | [View](#string) |
 | Tree | 6 | [View](#tree) |
 | Trie | 1 | [View](#trie) |
 | Two Pointers | 3 | [View](#two-pointers) |
@@ -140,6 +140,7 @@ Both indexes start small and expand naturally.
 | 2402 | Meeting Rooms III | Hard | Heap / Sorting / Simulation | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 2463 | Minimum Total Distance Traveled | Hard | Array / Dynamic Programming / Sorting | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
 | 2483 | Minimum Penalty for a Shop | Medium | String / Prefix Sum | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
+| 2515 | Shortest Distance to Target String in a Circular Array | Easy | Array / String | [View](./2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/) |
 | 2573 | Find the String with LCP | Hard | String / Dynamic Programming / Matrix | [View](./2573.%20Find%20the%20String%20with%20LCP/) |
 | 2751 | Robot Collisions | Hard | Array / Stack / Sorting / Simulation | [View](./2751.%20Robot%20Collisions/) |
 | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | String / Simulation | [View](./2839.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) |
@@ -223,6 +224,7 @@ Both indexes start small and expand naturally.
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | [View](./1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) |
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 2463 | Minimum Total Distance Traveled | Hard | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
+| 2515 | Shortest Distance to Target String in a Circular Array | Easy | [View](./2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
 | 2906 | Construct Product Matrix | Medium | [View](./2906.%20Construct%20Product%20Matrix/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
@@ -650,6 +652,7 @@ Both indexes start small and expand naturally.
 | 1980 | Find Unique Binary String | Medium | [View](./1980.%20Find%20Unique%20Binary%20String/) |
 | 2075 | Decode the Slanted Ciphertext | Medium | [View](./2075.%20Decode%20the%20Slanted%20Ciphertext/) |
 | 2483 | Minimum Penalty for a Shop | Medium | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
+| 2515 | Shortest Distance to Target String in a Circular Array | Easy | [View](./2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/) |
 | 2573 | Find the String with LCP | Hard | [View](./2573.%20Find%20the%20String%20with%20LCP/) |
 | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | [View](./2839.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) |
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
