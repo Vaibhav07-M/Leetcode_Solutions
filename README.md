@@ -32,10 +32,10 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 61 | [View](#array) |
+| Array | 62 | [View](#array) |
 | BFS | 3 | [View](#bfs) |
 | Backtracking | 3 | [View](#backtracking) |
-| Binary Search | 9 | [View](#binary-search) |
+| Binary Search | 10 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 6 | [View](#binary-tree) |
 | Bit Manipulation | 14 | [View](#bit-manipulation) |
@@ -50,7 +50,7 @@ Both indexes start small and expand naturally.
 | Geometry | 4 | [View](#geometry) |
 | Graph | 5 | [View](#graph) |
 | Greedy | 16 | [View](#greedy) |
-| Hash Table | 13 | [View](#hash-table) |
+| Hash Table | 14 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Math | 20 | [View](#math) |
@@ -167,6 +167,7 @@ Both indexes start small and expand naturally.
 | 3453 | Separate Squares I | Medium | Array / Binary Search / Geometry / Math / Sorting | [View](./3453.%20Separate%20Squares%20I/) |
 | 3454 | Separate Squares II | Hard | Array / Binary Search / Geometry / Line Sweep / Coordinate Compression / Sorting | [View](./3454.%20Separate%20Squares%20II/) |
 | 3474 | Lexicographically Smallest Generated String | Hard | String / Greedy | [View](./3474.%20Lexicographically%20Smallest%20Generated%20String/) |
+| 3488 | Closest Equal Element Queries | Medium | Array / Hash Table / Binary Search | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | Array / Greedy / Simulation | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | Array / Heap / Greedy / Simulation | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
 | 3546 | Equal Sum Grid Partition I | Medium | Array / Matrix / Prefix Sum | [View](./3546.%20Equal%20Sum%20Grid%20Partition%20I/) |
@@ -244,6 +245,7 @@ Both indexes start small and expand naturally.
 | 3418 | Maximum Amount of Money Robot Can Earn | Medium | [View](./3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
 | 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
+| 3488 | Closest Equal Element Queries | Medium | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
 | 3546 | Equal Sum Grid Partition I | Medium | [View](./3546.%20Equal%20Sum%20Grid%20Partition%20I/) |
@@ -286,6 +288,7 @@ Both indexes start small and expand naturally.
 | 3296 | Minimum Number of Seconds to Make Mountain Height Zero | Medium | [View](./3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
 | 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
+| 3488 | Closest Equal Element Queries | Medium | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
 | 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
 | 3661 | Maximum Walls Destroyed by Robots | Hard | [View](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/) |
 
@@ -439,6 +442,7 @@ Both indexes start small and expand naturally.
 | 1461 | Check If a String Contains All Binary Codes of Size K | Medium | [View](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/) |
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
+| 3488 | Closest Equal Element Queries | Medium | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
 | 3548 | Equal Sum Grid Partition II | Hard | [View](./3548.%20Equal%20Sum%20Grid%20Partition%20II/) |
 | 3713 | Longest Balanced Substring I | Medium | [View](./3713.%20Longest%20Balanced%20Substring%20I/) |
 | 3714 | Longest Balanced Substring II | Medium | [View](./3714.%20Longest%20Balanced%20Substring%20II/) |
