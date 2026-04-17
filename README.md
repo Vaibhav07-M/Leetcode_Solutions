@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 62 | [View](#array) |
+| Array | 63 | [View](#array) |
 | BFS | 3 | [View](#bfs) |
 | Backtracking | 3 | [View](#backtracking) |
 | Binary Search | 10 | [View](#binary-search) |
@@ -50,10 +50,10 @@ Both indexes start small and expand naturally.
 | Geometry | 4 | [View](#geometry) |
 | Graph | 5 | [View](#graph) |
 | Greedy | 16 | [View](#greedy) |
-| Hash Table | 14 | [View](#hash-table) |
+| Hash Table | 15 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
-| Math | 20 | [View](#math) |
+| Math | 21 | [View](#math) |
 | Matrix | 25 | [View](#matrix) |
 | Monotonic Stack | 1 | [View](#monotonic-stack) |
 | Ordered Set | 1 | [View](#ordered-set) |
@@ -190,6 +190,7 @@ Both indexes start small and expand naturally.
 | 3721 | Longest Balanced Subarray II | Hard | Array / Hash Table / Sliding Window / Segment Tree / Prefix Sum | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | Array / Hash Table / Counting | [View](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) |
 | 3741 | Minimum Distance Between Three Equal Elements II | Medium | Array / Hash Table / Counting | [View](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II/) |
+| 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | Array / Hash Table / Math | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
 
 ---
 
@@ -263,6 +264,7 @@ Both indexes start small and expand naturally.
 | 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | [View](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) |
 | 3741 | Minimum Distance Between Three Equal Elements II | Medium | [View](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II/) |
+| 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
 
 ### BFS
 | # | Title | Difficulty | Solution |
@@ -450,6 +452,7 @@ Both indexes start small and expand naturally.
 | 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | [View](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) |
 | 3741 | Minimum Distance Between Three Equal Elements II | Medium | [View](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II/) |
+| 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
 
 ### Heap (Priority Queue)
 | # | Title | Difficulty | Solution |
@@ -489,6 +492,7 @@ Both indexes start small and expand naturally.
 | 3653 | XOR After Range Multiplication Queries I | Medium | [View](./3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I/) |
 | 3655 | XOR After Range Multiplication Queries II | Hard | [View](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
+| 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
 
 ### Matrix
 | # | Title | Difficulty | Solution |
