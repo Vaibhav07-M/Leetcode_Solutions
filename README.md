@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 65 | [View](#array) |
+| Array | 66 | [View](#array) |
 | BFS | 3 | [View](#bfs) |
 | Backtracking | 3 | [View](#backtracking) |
 | Binary Search | 10 | [View](#binary-search) |
@@ -71,7 +71,7 @@ Both indexes start small and expand naturally.
 | Tree | 6 | [View](#tree) |
 | Trie | 1 | [View](#trie) |
 | Two Pointers | 4 | [View](#two-pointers) |
-| Union Find | 2 | [View](#union-find) |
+| Union Find | 3 | [View](#union-find) |
 
 ### Completed Problems
 
@@ -122,6 +122,7 @@ Both indexes start small and expand naturally.
 | 1653 | Minimum Deletions to Make String Balanced | Medium | String / Dynamic Programming / Stack | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | Math / Bit Manipulation / Simulation | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | String / Greedy / Math | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
+| 1722 | Minimize Hamming Distance After Swap Operations | Medium | Array / Union Find | [View](./1722.%20Minimize%20Hamming%20Distance%20After%20Swap%20Operations/) |
 | 1727 | Largest Submatrix With Rearrangements | Medium | Array / Matrix / Sorting | [View](./1727.%20Largest%20Submatrix%20With%20Rearrangements/) |
 | 1758 | Minimum Changes To Make Alternating Binary String | Easy | String / Greedy | [View](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/) |
 | 1784 | Check if Binary String Has at Most One Segment of Ones | Easy | String | [View](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/) |
@@ -217,6 +218,7 @@ Both indexes start small and expand naturally.
 | 1536 | Minimum Swaps to Arrange a Binary Grid | Medium | [View](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid/) |
 | 1582 | Special Positions in a Binary Matrix | Easy | [View](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix/) |
 | 1594 | Maximum Non Negative Product in a Matrix | Medium | [View](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/) |
+| 1722 | Minimize Hamming Distance After Swap Operations | Medium | [View](./1722.%20Minimize%20Hamming%20Distance%20After%20Swap%20Operations/) |
 | 1727 | Largest Submatrix With Rearrangements | Medium | [View](./1727.%20Largest%20Submatrix%20With%20Rearrangements/) |
 | 1848 | Minimum Distance to the Target Element | Easy | [View](./1848.%20Minimum%20Distance%20to%20the%20Target%20Element/) |
 | 1855 | Maximum Distance Between a Pair of Values | Medium | [View](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values/) |
@@ -703,6 +705,7 @@ Both indexes start small and expand naturally.
 ### Union Find
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 1722 | Minimize Hamming Distance After Swap Operations | Medium | [View](./1722.%20Minimize%20Hamming%20Distance%20After%20Swap%20Operations/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
 | 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
 
