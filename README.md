@@ -53,7 +53,7 @@ Both indexes start small and expand naturally.
 | Hash Table | 16 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
-| Math | 22 | [View](#math) |
+| Math | 23 | [View](#math) |
 | Matrix | 25 | [View](#matrix) |
 | Monotonic Stack | 1 | [View](#monotonic-stack) |
 | Ordered Set | 1 | [View](#ordered-set) |
@@ -67,7 +67,7 @@ Both indexes start small and expand naturally.
 | Sorting | 16 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
-| String | 30 | [View](#string) |
+| String | 31 | [View](#string) |
 | Tree | 6 | [View](#tree) |
 | Trie | 1 | [View](#trie) |
 | Two Pointers | 4 | [View](#two-pointers) |
@@ -147,6 +147,7 @@ Both indexes start small and expand naturally.
 | 2573 | Find the String with LCP | Hard | String / Dynamic Programming / Matrix | [View](./2573.%20Find%20the%20String%20with%20LCP/) |
 | 2615 | Sum of Distances | Medium | Array / Hash Table / Prefix Sum | [View](./2615.%20Sum%20of%20Distances/) |
 | 2751 | Robot Collisions | Hard | Array / Stack / Sorting / Simulation | [View](./2751.%20Robot%20Collisions/) |
+| 2833 | Furthest Point From Origin | Easy | String / Math | [View](./2833.%20Furthest%20Point%20From%20Origin/) |
 | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | String / Simulation | [View](./2839.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) |
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | String / Hash Table / Counting | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
 | 2906 | Construct Product Matrix | Medium | Array / Matrix / Math / Prefix Sum | [View](./2906.%20Construct%20Product%20Matrix/) |
@@ -495,6 +496,7 @@ Both indexes start small and expand naturally.
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
 | 2069 | Walking Robot Simulation II | Medium | [View](./2069.%20Walking%20Robot%20Simulation%20II/) |
+| 2833 | Furthest Point From Origin | Easy | [View](./2833.%20Furthest%20Point%20From%20Origin/) |
 | 2906 | Construct Product Matrix | Medium | [View](./2906.%20Construct%20Product%20Matrix/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
@@ -676,6 +678,7 @@ Both indexes start small and expand naturally.
 | 2483 | Minimum Penalty for a Shop | Medium | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
 | 2515 | Shortest Distance to Target String in a Circular Array | Easy | [View](./2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/) |
 | 2573 | Find the String with LCP | Hard | [View](./2573.%20Find%20the%20String%20with%20LCP/) |
+| 2833 | Furthest Point From Origin | Easy | [View](./2833.%20Furthest%20Point%20From%20Origin/) |
 | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | [View](./2839.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) |
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
 | 2976 | Minimum Cost to Convert String I | Medium | [View](./2976.%20Minimum%20Cost%20to%20Convert%20String%20I/) |
