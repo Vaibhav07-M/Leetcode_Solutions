@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 69 | [View](#array) |
+| Array | 72 | [View](#array) |
 | BFS | 4 | [View](#bfs) |
 | Backtracking | 3 | [View](#backtracking) |
 | Binary Search | 11 | [View](#binary-search) |
