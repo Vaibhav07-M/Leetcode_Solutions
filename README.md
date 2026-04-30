@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 72 | [View](#array) |
+| Array | 73 | [View](#array) |
 | BFS | 4 | [View](#bfs) |
 | Backtracking | 3 | [View](#backtracking) |
 | Binary Search | 11 | [View](#binary-search) |
@@ -45,7 +45,7 @@ Both indexes start small and expand naturally.
 | DFS | 8 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 20 | [View](#dynamic-programming) |
+| Dynamic Programming | 21 | [View](#dynamic-programming) |
 | Enumeration | 2 | [View](#enumeration) |
 | Geometry | 5 | [View](#geometry) |
 | Graph | 6 | [View](#graph) |
@@ -54,7 +54,7 @@ Both indexes start small and expand naturally.
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Math | 24 | [View](#math) |
-| Matrix | 29 | [View](#matrix) |
+| Matrix | 30 | [View](#matrix) |
 | Monotonic Stack | 1 | [View](#monotonic-stack) |
 | Ordered Set | 1 | [View](#ordered-set) |
 | Prefix Sum | 13 | [View](#prefix-sum) |
@@ -200,6 +200,7 @@ Both indexes start small and expand naturally.
 | 3721 | Longest Balanced Subarray II | Hard | Array / Hash Table / Sliding Window / Segment Tree / Prefix Sum | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | Array / Hash Table / Counting | [View](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) |
 | 3741 | Minimum Distance Between Three Equal Elements II | Medium | Array / Hash Table / Counting | [View](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II/) |
+| 3742 | Maximum Path Score in a Grid | Medium | Array / Dynamic Programming / Matrix | [View](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid/) |
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | Array / Hash Table / Math | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
 | 3783 | Mirror Distance of an Integer | Easy | Math | [View](./3783.%20Mirror%20Distance%20of%20an%20Integer/) |
 
@@ -282,6 +283,7 @@ Both indexes start small and expand naturally.
 | 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | [View](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) |
 | 3741 | Minimum Distance Between Three Equal Elements II | Medium | [View](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II/) |
+| 3742 | Maximum Path Score in a Grid | Medium | [View](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid/) |
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
 
 ### BFS
@@ -414,6 +416,7 @@ Both indexes start small and expand naturally.
 | 3650 | Minimum Cost Path with Edge Reversals | Medium | [View](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
 | 3661 | Maximum Walls Destroyed by Robots | Hard | [View](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/) |
+| 3742 | Maximum Path Score in a Grid | Medium | [View](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid/) |
 
 ### Enumeration
 | # | Title | Difficulty | Solution |
@@ -555,6 +558,7 @@ Both indexes start small and expand naturally.
 | 3567 | Minimum Absolute Difference in Sliding Submatrix | Medium | [View](./3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix/) |
 | 3643 | Flip Square Submatrix Vertically | Easy | [View](./3643.%20Flip%20Square%20Submatrix%20Vertically/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
+| 3742 | Maximum Path Score in a Grid | Medium | [View](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid/) |
 
 ### Monotonic Stack
 | # | Title | Difficulty | Solution |
