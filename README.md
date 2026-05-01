@@ -32,20 +32,20 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 73 | [View](#array) |
+| Array | 75 | [View](#array) |
 | BFS | 4 | [View](#bfs) |
 | Backtracking | 3 | [View](#backtracking) |
 | Binary Search | 11 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 6 | [View](#binary-tree) |
-| Bit Manipulation | 14 | [View](#bit-manipulation) |
+| Bit Manipulation | 13 | [View](#bit-manipulation) |
 | Combinatorics | 1 | [View](#combinatorics) |
 | Coordinate Compression | 1 | [View](#coordinate-compression) |
 | Counting | 5 | [View](#counting) |
 | DFS | 8 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 21 | [View](#dynamic-programming) |
+| Dynamic Programming | 22 | [View](#dynamic-programming) |
 | Enumeration | 2 | [View](#enumeration) |
 | Geometry | 5 | [View](#geometry) |
 | Graph | 6 | [View](#graph) |
@@ -53,7 +53,7 @@ Both indexes start small and expand naturally.
 | Hash Table | 16 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
-| Math | 24 | [View](#math) |
+| Math | 25 | [View](#math) |
 | Matrix | 30 | [View](#matrix) |
 | Monotonic Stack | 1 | [View](#monotonic-stack) |
 | Ordered Set | 1 | [View](#ordered-set) |
@@ -82,6 +82,7 @@ Both indexes start small and expand naturally.
 | 85 | Maximal Rectangle | Hard | Array / Dynamic Programming / Stack / Matrix / Monotonic Stack | [View](./85.%20Maximal%20Rectangle/) |
 | 110 | Balanced Binary Tree | Easy | Tree / DFS / Binary Tree | [View](./110.%20Balanced%20Binary%20Tree/) |
 | 190 | Reverse Bits | Easy | Divide and Conquer / Bit Manipulation | [View](./190.%20Reverse%20Bits/) |
+| 396 | Rotate Function | Medium | Array / Math / Dynamic Programming | [View](./396.%20Rotate%20Function/) |
 | 401 | Binary Watch | Easy | Backtracking / Bit Manipulation | [View](./401.%20Binary%20Watch/) |
 | 657 | Robot Return to Origin | Easy | String / Simulation | [View](./657.%20Robot%20Return%20to%20Origin/) |
 | 693 | Binary Number with Alternating Bits | Easy | Bit Manipulation | [View](./693.%20Binary%20Number%20with%20Alternating%20Bits/) |
@@ -213,6 +214,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 66 | Plus One | Easy | [View](./66.%20Plus%20One/) |
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
+| 396 | Rotate Function | Medium | [View](./396.%20Rotate%20Function/) |
 | 744 | Find Smallest Letter Greater Than Target | Easy | [View](./744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
@@ -397,6 +399,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
+| 396 | Rotate Function | Medium | [View](./396.%20Rotate%20Function/) |
 | 712 | Minimum ASCII Delete Sum for Two Strings | Medium | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
 | 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard | [View](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/) |
@@ -502,6 +505,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 66 | Plus One | Easy | [View](./66.%20Plus%20One/) |
 | 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
+| 396 | Rotate Function | Medium | [View](./396.%20Rotate%20Function/) |
 | 762 | Prime Number of Set Bits in Binary Representation | Easy | [View](./762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) |
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
