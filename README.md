@@ -45,7 +45,7 @@ Both indexes start small and expand naturally.
 | DFS | 8 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 22 | [View](#dynamic-programming) |
+| Dynamic Programming | 23 | [View](#dynamic-programming) |
 | Enumeration | 2 | [View](#enumeration) |
 | Geometry | 5 | [View](#geometry) |
 | Graph | 6 | [View](#graph) |
@@ -53,7 +53,7 @@ Both indexes start small and expand naturally.
 | Hash Table | 16 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
-| Math | 25 | [View](#math) |
+| Math | 26 | [View](#math) |
 | Matrix | 30 | [View](#matrix) |
 | Monotonic Stack | 1 | [View](#monotonic-stack) |
 | Ordered Set | 1 | [View](#ordered-set) |
@@ -92,6 +92,7 @@ Both indexes start small and expand naturally.
 | 756 | Pyramid Transition Matrix | Medium | Hash Table / String / Backtracking | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 761 | Special Binary String | Hard | String / Recursion / Greedy | [View](./761.%20Special%20Binary%20String/) |
 | 762 | Prime Number of Set Bits in Binary Representation | Easy | Math / Bit Manipulation | [View](./762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) |
+| 788 | Rotated Digits | Medium | Math / Dynamic Programming | [View](./788.%20Rotated%20Digits/) |
 | 799 | Champagne Tower | Medium | Dynamic Programming / Simulation / Math | [View](./799.%20Champagne%20Tower/) |
 | 840 | Magic Squares In Grid | Medium | Array / Hash Table / Math / Matrix | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 868 | Binary Gap | Easy | Bit Manipulation | [View](./868.%20Binary%20Gap/) |
@@ -401,6 +402,7 @@ Both indexes start small and expand naturally.
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 396 | Rotate Function | Medium | [View](./396.%20Rotate%20Function/) |
 | 712 | Minimum ASCII Delete Sum for Two Strings | Medium | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
+| 788 | Rotated Digits | Medium | [View](./788.%20Rotated%20Digits/) |
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
 | 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard | [View](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
@@ -507,6 +509,7 @@ Both indexes start small and expand naturally.
 | 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
 | 396 | Rotate Function | Medium | [View](./396.%20Rotate%20Function/) |
 | 762 | Prime Number of Set Bits in Binary Representation | Easy | [View](./762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) |
+| 788 | Rotated Digits | Medium | [View](./788.%20Rotated%20Digits/) |
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 1266 | Minimum Time Visiting All Points | Easy | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
