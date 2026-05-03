@@ -62,12 +62,12 @@ Both indexes start small and expand naturally.
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Segment Tree | 2 | [View](#segment-tree) |
 | Shortest Path | 4 | [View](#shortest-path) |
-| Simulation | 17 | [View](#simulation) |
+| Simulation | 18 | [View](#simulation) |
 | Sliding Window | 7 | [View](#sliding-window) |
 | Sorting | 18 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
-| String | 31 | [View](#string) |
+| String | 32 | [View](#string) |
 | Tree | 6 | [View](#tree) |
 | Trie | 1 | [View](#trie) |
 | Two Pointers | 4 | [View](#two-pointers) |
@@ -93,6 +93,7 @@ Both indexes start small and expand naturally.
 | 761 | Special Binary String | Hard | String / Recursion / Greedy | [View](./761.%20Special%20Binary%20String/) |
 | 762 | Prime Number of Set Bits in Binary Representation | Easy | Math / Bit Manipulation | [View](./762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) |
 | 788 | Rotated Digits | Medium | Math / Dynamic Programming | [View](./788.%20Rotated%20Digits/) |
+| 796 | Rotate String | Easy | String / Simulation | [View](./796.%20Rotate%20String/) |
 | 799 | Champagne Tower | Medium | Dynamic Programming / Simulation / Math | [View](./799.%20Champagne%20Tower/) |
 | 840 | Magic Squares In Grid | Medium | Array / Hash Table / Math / Matrix | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 868 | Binary Gap | Easy | Bit Manipulation | [View](./868.%20Binary%20Gap/) |
@@ -624,6 +625,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
 | 657 | Robot Return to Origin | Easy | [View](./657.%20Robot%20Return%20to%20Origin/) |
+| 796 | Rotate String | Easy | [View](./796.%20Rotate%20String/) |
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
 | 874 | Walking Robot Simulation | Medium | [View](./874.%20Walking%20Robot%20Simulation/) |
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
@@ -695,6 +697,7 @@ Both indexes start small and expand naturally.
 | 712 | Minimum ASCII Delete Sum for Two Strings | Medium | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
 | 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 761 | Special Binary String | Hard | [View](./761.%20Special%20Binary%20String/) |
+| 796 | Rotate String | Easy | [View](./796.%20Rotate%20String/) |
 | 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard | [View](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/) |
 | 1404 | Number of Steps to Reduce a Number in Binary Representation to One | Medium | [View](./1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/) |
 | 1415 | The k-th Lexicographical String of All Happy Strings of Length n | Medium | [View](./1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/) |
