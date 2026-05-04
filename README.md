@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 75 | [View](#array) |
+| Array | 76 | [View](#array) |
 | BFS | 4 | [View](#bfs) |
 | Backtracking | 3 | [View](#backtracking) |
 | Binary Search | 11 | [View](#binary-search) |
@@ -53,8 +53,8 @@ Both indexes start small and expand naturally.
 | Hash Table | 16 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
-| Math | 26 | [View](#math) |
-| Matrix | 30 | [View](#matrix) |
+| Math | 27 | [View](#math) |
+| Matrix | 31 | [View](#matrix) |
 | Monotonic Stack | 1 | [View](#monotonic-stack) |
 | Ordered Set | 1 | [View](#ordered-set) |
 | Prefix Sum | 13 | [View](#prefix-sum) |
@@ -77,6 +77,7 @@ Both indexes start small and expand naturally.
 
 | # | Title | Difficulty | Category | Solution |
 |---|--------|------------|----------|---------|
+| 48 | Rotate Image | Medium | Array / Math / Matrix | [View](./48.%20Rotate%20Image/) |
 | 66 | Plus One | Easy | Array / Math | [View](./66.%20Plus%20One/) |
 | 67 | Add Binary | Easy | Math / String / Bit Manipulation / Simulation | [View](./67.%20Add%20Binary/) |
 | 85 | Maximal Rectangle | Hard | Array / Dynamic Programming / Stack / Matrix / Monotonic Stack | [View](./85.%20Maximal%20Rectangle/) |
@@ -214,6 +215,7 @@ Both indexes start small and expand naturally.
 ### Array
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 48 | Rotate Image | Medium | [View](./48.%20Rotate%20Image/) |
 | 66 | Plus One | Easy | [View](./66.%20Plus%20One/) |
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 396 | Rotate Function | Medium | [View](./396.%20Rotate%20Function/) |
@@ -506,6 +508,7 @@ Both indexes start small and expand naturally.
 ### Math
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 48 | Rotate Image | Medium | [View](./48.%20Rotate%20Image/) |
 | 66 | Plus One | Easy | [View](./66.%20Plus%20One/) |
 | 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
 | 396 | Rotate Function | Medium | [View](./396.%20Rotate%20Function/) |
@@ -537,6 +540,7 @@ Both indexes start small and expand naturally.
 ### Matrix
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 48 | Rotate Image | Medium | [View](./48.%20Rotate%20Image/) |
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
