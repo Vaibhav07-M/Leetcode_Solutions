@@ -31,10 +31,10 @@ Both indexes start small and expand naturally.
 ## Category Index
 
 | Category | Number of Problems | Link |
-|----------|--------------------|------|
+----------|--------------------|------|
 | Array | 76 | [View](#array) |
-| BFS | 4 | [View](#bfs) |
 | Backtracking | 3 | [View](#backtracking) |
+| BFS | 4 | [View](#bfs) |
 | Binary Search | 11 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 6 | [View](#binary-tree) |
@@ -53,6 +53,7 @@ Both indexes start small and expand naturally.
 | Hash Table | 16 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
+| Linked List | 1 | [View](#linked-list) |
 | Math | 27 | [View](#math) |
 | Matrix | 31 | [View](#matrix) |
 | Monotonic Stack | 1 | [View](#monotonic-stack) |
@@ -68,9 +69,9 @@ Both indexes start small and expand naturally.
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
 | String | 32 | [View](#string) |
-| Tree | 6 | [View](#tree) |
 | Trie | 1 | [View](#trie) |
-| Two Pointers | 4 | [View](#two-pointers) |
+| Tree | 6 | [View](#tree) |
+| Two Pointers | 5 | [View](#two-pointers) |
 | Union Find | 3 | [View](#union-find) |
 
 ### Completed Problems
@@ -78,6 +79,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Category | Solution |
 |---|--------|------------|----------|---------|
 | 48 | Rotate Image | Medium | Array / Math / Matrix | [View](./48.%20Rotate%20Image/) |
+| 61 | Rotate List | Medium | Linked List / Two Pointers | [View](./61.%20Rotate%20List/) |
 | 66 | Plus One | Easy | Array / Math | [View](./66.%20Plus%20One/) |
 | 67 | Add Binary | Easy | Math / String / Bit Manipulation / Simulation | [View](./67.%20Add%20Binary/) |
 | 85 | Maximal Rectangle | Hard | Array / Dynamic Programming / Stack / Matrix / Monotonic Stack | [View](./85.%20Maximal%20Rectangle/) |
@@ -505,6 +507,11 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
 
+### Linked List
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 61 | Rotate List | Medium | [View](./61.%20Rotate%20List/) |
+
 ### Math
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
@@ -742,10 +749,11 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 2977 | Minimum Cost to Convert String II | Hard | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
-
+ 
 ### Two Pointers
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 61 | Rotate List | Medium | [View](./61.%20Rotate%20List/) |
 | 696 | Count Binary Substrings | Easy | [View](./696.%20Count%20Binary%20Substrings/) |
 | 1855 | Maximum Distance Between a Pair of Values | Medium | [View](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
