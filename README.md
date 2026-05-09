@@ -55,7 +55,7 @@ Both indexes start small and expand naturally.
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 1 | [View](#linked-list) |
 | Math | 28 | [View](#math) |
-| Matrix | 32 | [View](#matrix) |
+| Matrix | 33 | [View](#matrix) |
 | Monotonic Stack | 2 | [View](#monotonic-stack) |
 | Ordered Set | 1 | [View](#ordered-set) |
 | Prefix Sum | 13 | [View](#prefix-sum) |
@@ -63,7 +63,7 @@ Both indexes start small and expand naturally.
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Segment Tree | 2 | [View](#segment-tree) |
 | Shortest Path | 4 | [View](#shortest-path) |
-| Simulation | 19 | [View](#simulation) |
+| Simulation | 20 | [View](#simulation) |
 | Sliding Window | 7 | [View](#sliding-window) |
 | Sorting | 18 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
@@ -142,6 +142,7 @@ Both indexes start small and expand naturally.
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | Matrix / Simulation | [View](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/) |
 | 1888 | Minimum Number of Flips to Make the Binary String Alternating | Medium | String / Sliding Window | [View](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating/) |
 | 1895 | Largest Magic Square | Medium | Array / Matrix / Prefix Sum | [View](./1895.%20Largest%20Magic%20Square/) |
+| 1914 | Cyclically Rotating a Grid | Medium | Matrix / Simulation | [View](./1914.%20Cyclically%20Rotating%20a%20Grid/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | Array / Binary Search / BFS / DFS / Union Find / Matrix | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
 | 1975 | Maximum Matrix Sum | Medium | Array / Greedy / Matrix | [View](./1975.%20Maximum%20Matrix%20Sum/) |
 | 1980 | Find Unique Binary String | Medium | Array / String / Backtracking | [View](./1980.%20Find%20Unique%20Binary%20String/) |
@@ -571,6 +572,7 @@ Both indexes start small and expand naturally.
 | 1878 | Get Biggest Three Rhombus Sums in a Grid | Medium | [View](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid/) |
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | [View](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/) |
 | 1895 | Largest Magic Square | Medium | [View](./1895.%20Largest%20Magic%20Square/) |
+| 1914 | Cyclically Rotating a Grid | Medium | [View](./1914.%20Cyclically%20Rotating%20a%20Grid/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
 | 1975 | Maximum Matrix Sum | Medium | [View](./1975.%20Maximum%20Matrix%20Sum/) |
 | 2033 | Minimum Operations to Make a Uni-Value Grid | Medium | [View](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/) |
@@ -653,6 +655,7 @@ Both indexes start small and expand naturally.
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
 | 1861 | Rotating the Box | Medium | [View](./1861.%20Rotating%20the%20Box/) |
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | [View](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/) |
+| 1914 | Cyclically Rotating a Grid | Medium | [View](./1914.%20Cyclically%20Rotating%20a%20Grid/) |
 | 2069 | Walking Robot Simulation II | Medium | [View](./2069.%20Walking%20Robot%20Simulation%20II/) |
 | 2075 | Decode the Slanted Ciphertext | Medium | [View](./2075.%20Decode%20the%20Slanted%20Ciphertext/) |
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
