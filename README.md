@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 ----------|--------------------|------|
-| Array | 78 | [View](#array) |
+| Array | 79 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 6 | [View](#bfs) |
 | Binary Search | 11 | [View](#binary-search) |
@@ -54,7 +54,7 @@ Both indexes start small and expand naturally.
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 1 | [View](#linked-list) |
-| Math | 28 | [View](#math) |
+| Math | 29 | [View](#math) |
 | Matrix | 33 | [View](#matrix) |
 | Monotonic Stack | 2 | [View](#monotonic-stack) |
 | Ordered Set | 1 | [View](#ordered-set) |
@@ -155,6 +155,7 @@ Both indexes start small and expand naturally.
 | 2463 | Minimum Total Distance Traveled | Hard | Array / Dynamic Programming / Sorting | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
 | 2483 | Minimum Penalty for a Shop | Medium | String / Prefix Sum | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
 | 2515 | Shortest Distance to Target String in a Circular Array | Easy | Array / String | [View](./2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/) |
+| 2553 | Separate the Digits in an Array | Easy | Array / Math | [View](./2553.%20Separate%20the%20Digits%20in%20an%20Array/) |
 | 2573 | Find the String with LCP | Hard | String / Dynamic Programming / Matrix | [View](./2573.%20Find%20the%20String%20with%20LCP/) |
 | 2615 | Sum of Distances | Medium | Array / Hash Table / Prefix Sum | [View](./2615.%20Sum%20of%20Distances/) |
 | 2751 | Robot Collisions | Hard | Array / Stack / Sorting / Simulation | [View](./2751.%20Robot%20Collisions/) |
@@ -256,6 +257,7 @@ Both indexes start small and expand naturally.
 | 2452 | Words Within Two Edits of Dictionary | Medium | [View](./2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary/) |
 | 2463 | Minimum Total Distance Traveled | Hard | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
 | 2515 | Shortest Distance to Target String in a Circular Array | Easy | [View](./2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/) |
+| 2553 | Separate the Digits in an Array | Easy | [View](./2553.%20Separate%20the%20Digits%20in%20an%20Array/) |
 | 2615 | Sum of Distances | Medium | [View](./2615.%20Sum%20of%20Distances/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
 | 2906 | Construct Product Matrix | Medium | [View](./2906.%20Construct%20Product%20Matrix/) |
@@ -543,6 +545,7 @@ Both indexes start small and expand naturally.
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
 | 2033 | Minimum Operations to Make a Uni-Value Grid | Medium | [View](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/) |
 | 2069 | Walking Robot Simulation II | Medium | [View](./2069.%20Walking%20Robot%20Simulation%20II/) |
+| 2553 | Separate the Digits in an Array | Easy | [View](./2553.%20Separate%20the%20Digits%20in%20an%20Array/) |
 | 2833 | Furthest Point From Origin | Easy | [View](./2833.%20Furthest%20Point%20From%20Origin/) |
 | 2906 | Construct Product Matrix | Medium | [View](./2906.%20Construct%20Product%20Matrix/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
