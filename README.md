@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 ----------|--------------------|------|
-| Array | 81 | [View](#array) |
+| Array | 82 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 6 | [View](#bfs) |
 | Binary Search | 11 | [View](#binary-search) |
@@ -41,7 +41,7 @@ Both indexes start small and expand naturally.
 | Bit Manipulation | 13 | [View](#bit-manipulation) |
 | Combinatorics | 1 | [View](#combinatorics) |
 | Coordinate Compression | 1 | [View](#coordinate-compression) |
-| Counting | 5 | [View](#counting) |
+| Counting | 6 | [View](#counting) |
 | DFS | 8 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
@@ -50,7 +50,7 @@ Both indexes start small and expand naturally.
 | Geometry | 5 | [View](#geometry) |
 | Graph | 7 | [View](#graph) |
 | Greedy | 18 | [View](#greedy) |
-| Hash Table | 16 | [View](#hash-table) |
+| Hash Table | 17 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 1 | [View](#linked-list) |
@@ -162,6 +162,7 @@ Both indexes start small and expand naturally.
 | 2615 | Sum of Distances | Medium | Array / Hash Table / Prefix Sum | [View](./2615.%20Sum%20of%20Distances/) |
 | 2751 | Robot Collisions | Hard | Array / Stack / Sorting / Simulation | [View](./2751.%20Robot%20Collisions/) |
 | 2770 | Maximum Number of Jumps to Reach the Last Index | Medium | Dynamic Programming / Segment Tree | [View](./2770.%20Maximum%20Number%20of%20Jumps%20to%20Reach%20the%20Last%20Index/) |
+| 2784 | Check if Array is Good | Easy | Array / Hash Table / Counting | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
 | 2833 | Furthest Point From Origin | Easy | String / Math | [View](./2833.%20Furthest%20Point%20From%20Origin/) |
 | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | String / Simulation | [View](./2839.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) |
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | String / Hash Table / Counting | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
@@ -264,6 +265,7 @@ Both indexes start small and expand naturally.
 | 2553 | Separate the Digits in an Array | Easy | [View](./2553.%20Separate%20the%20Digits%20in%20an%20Array/) |
 | 2615 | Sum of Distances | Medium | [View](./2615.%20Sum%20of%20Distances/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
+| 2784 | Check if Array is Good | Easy | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
 | 2906 | Construct Product Matrix | Medium | [View](./2906.%20Construct%20Product%20Matrix/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
@@ -385,6 +387,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 1356 | Sort Integers by The Number of 1 Bits | Easy | [View](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits/) |
+| 2784 | Check if Array is Good | Easy | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
 | 3713 | Longest Balanced Substring I | Medium | [View](./3713.%20Longest%20Balanced%20Substring%20I/) |
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | [View](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) |
@@ -500,6 +503,7 @@ Both indexes start small and expand naturally.
 | 961 | N-Repeated Element in Size 2N Array | Easy | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
 | 1461 | Check If a String Contains All Binary Codes of Size K | Medium | [View](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/) |
 | 2615 | Sum of Distances | Medium | [View](./2615.%20Sum%20of%20Distances/) |
+| 2784 | Check if Array is Good | Easy | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
 | 3488 | Closest Equal Element Queries | Medium | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
