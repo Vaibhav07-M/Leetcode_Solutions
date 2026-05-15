@@ -32,10 +32,10 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 ----------|--------------------|------|
-| Array | 82 | [View](#array) |
+| Array | 83 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 6 | [View](#bfs) |
-| Binary Search | 11 | [View](#binary-search) |
+| Binary Search | 12 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 6 | [View](#binary-tree) |
 | Bit Manipulation | 13 | [View](#bit-manipulation) |
@@ -84,6 +84,7 @@ Both indexes start small and expand naturally.
 | 67 | Add Binary | Easy | Math / String / Bit Manipulation / Simulation | [View](./67.%20Add%20Binary/) |
 | 85 | Maximal Rectangle | Hard | Array / Dynamic Programming / Stack / Matrix / Monotonic Stack | [View](./85.%20Maximal%20Rectangle/) |
 | 110 | Balanced Binary Tree | Easy | Tree / DFS / Binary Tree | [View](./110.%20Balanced%20Binary%20Tree/) |
+| 153 | Find Minimum in Rotated Sorted Array | Medium | Array / Binary Search | [View](./153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/) |
 | 190 | Reverse Bits | Easy | Divide and Conquer / Bit Manipulation | [View](./190.%20Reverse%20Bits/) |
 | 396 | Rotate Function | Medium | Array / Math / Dynamic Programming | [View](./396.%20Rotate%20Function/) |
 | 401 | Binary Watch | Easy | Backtracking / Bit Manipulation | [View](./401.%20Binary%20Watch/) |
@@ -229,6 +230,7 @@ Both indexes start small and expand naturally.
 | 48 | Rotate Image | Medium | [View](./48.%20Rotate%20Image/) |
 | 66 | Plus One | Easy | [View](./66.%20Plus%20One/) |
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
+| 153 | Find Minimum in Rotated Sorted Array | Medium | [View](./153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/) |
 | 396 | Rotate Function | Medium | [View](./396.%20Rotate%20Function/) |
 | 744 | Find Smallest Letter Greater Than Target | Easy | [View](./744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
@@ -328,6 +330,7 @@ Both indexes start small and expand naturally.
 ### Binary Search
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 153 | Find Minimum in Rotated Sorted Array | Medium | [View](./153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/) |
 | 744 | Find Smallest Letter Greater Than Target | Easy | [View](./744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/) |
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
