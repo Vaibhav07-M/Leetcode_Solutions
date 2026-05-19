@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 ----------|--------------------|------|
-| Array | 86 | [View](#array) |
+| Array | 87 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 8 | [View](#bfs) |
 | Binary Search | 13 | [View](#binary-search) |
@@ -71,7 +71,7 @@ Both indexes start small and expand naturally.
 | String | 32 | [View](#string) |
 | Trie | 1 | [View](#trie) |
 | Tree | 6 | [View](#tree) |
-| Two Pointers | 5 | [View](#two-pointers) |
+| Two Pointers | 6 | [View](#two-pointers) |
 | Union Find | 3 | [View](#union-find) |
 
 ### Completed Problems
@@ -161,6 +161,7 @@ Both indexes start small and expand naturally.
 | 2463 | Minimum Total Distance Traveled | Hard | Array / Dynamic Programming / Sorting | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
 | 2483 | Minimum Penalty for a Shop | Medium | String / Prefix Sum | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
 | 2515 | Shortest Distance to Target String in a Circular Array | Easy | Array / String | [View](./2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/) |
+| 2540 | Minimum Common Value | Easy | Array / Two Pointers | [View](./2540.%20Minimum%20Common%20Value/) |
 | 2553 | Separate the Digits in an Array | Easy | Array / Math | [View](./2553.%20Separate%20the%20Digits%20in%20an%20Array/) |
 | 2573 | Find the String with LCP | Hard | String / Dynamic Programming / Matrix | [View](./2573.%20Find%20the%20String%20with%20LCP/) |
 | 2615 | Sum of Distances | Medium | Array / Hash Table / Prefix Sum | [View](./2615.%20Sum%20of%20Distances/) |
@@ -270,6 +271,7 @@ Both indexes start small and expand naturally.
 | 2452 | Words Within Two Edits of Dictionary | Medium | [View](./2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary/) |
 | 2463 | Minimum Total Distance Traveled | Hard | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
 | 2515 | Shortest Distance to Target String in a Circular Array | Easy | [View](./2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/) |
+| 2540 | Minimum Common Value | Easy | [View](./2540.%20Minimum%20Common%20Value/) |
 | 2553 | Separate the Digits in an Array | Easy | [View](./2553.%20Separate%20the%20Digits%20in%20an%20Array/) |
 | 2615 | Sum of Distances | Medium | [View](./2615.%20Sum%20of%20Distances/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
@@ -804,6 +806,7 @@ Both indexes start small and expand naturally.
 | 696 | Count Binary Substrings | Easy | [View](./696.%20Count%20Binary%20Substrings/) |
 | 1855 | Maximum Distance Between a Pair of Values | Medium | [View](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
+| 2540 | Minimum Common Value | Easy | [View](./2540.%20Minimum%20Common%20Value/) |
 | 3634 | Minimum Removals to Balance Array | Medium | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
 
 ### Union Find
