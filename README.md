@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 ----------|--------------------|------|
-| Array | 87 | [View](#array) |
+| Array | 88 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 8 | [View](#bfs) |
 | Binary Search | 13 | [View](#binary-search) |
@@ -165,6 +165,7 @@ Both indexes start small and expand naturally.
 | 2553 | Separate the Digits in an Array | Easy | Array / Math | [View](./2553.%20Separate%20the%20Digits%20in%20an%20Array/) |
 | 2573 | Find the String with LCP | Hard | String / Dynamic Programming / Matrix | [View](./2573.%20Find%20the%20String%20with%20LCP/) |
 | 2615 | Sum of Distances | Medium | Array / Hash Table / Prefix Sum | [View](./2615.%20Sum%20of%20Distances/) |
+| 2657 | Find the Prefix Common Array of Two Arrays | Medium | Array | [View](./2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays/) |
 | 2751 | Robot Collisions | Hard | Array / Stack / Sorting / Simulation | [View](./2751.%20Robot%20Collisions/) |
 | 2770 | Maximum Number of Jumps to Reach the Last Index | Medium | Dynamic Programming / Segment Tree | [View](./2770.%20Maximum%20Number%20of%20Jumps%20to%20Reach%20the%20Last%20Index/) |
 | 2784 | Check if Array is Good | Easy | Array / Hash Table / Counting | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
@@ -274,6 +275,7 @@ Both indexes start small and expand naturally.
 | 2540 | Minimum Common Value | Easy | [View](./2540.%20Minimum%20Common%20Value/) |
 | 2553 | Separate the Digits in an Array | Easy | [View](./2553.%20Separate%20the%20Digits%20in%20an%20Array/) |
 | 2615 | Sum of Distances | Medium | [View](./2615.%20Sum%20of%20Distances/) |
+| 2657 | Find the Prefix Common Array of Two Arrays | Medium | [View](./2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
 | 2784 | Check if Array is Good | Easy | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
 | 2906 | Construct Product Matrix | Medium | [View](./2906.%20Construct%20Product%20Matrix/) |
