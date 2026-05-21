@@ -69,7 +69,7 @@ Both indexes start small and expand naturally.
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
 | String | 32 | [View](#string) |
-| Trie | 1 | [View](#trie) |
+| Trie | 2 | [View](#trie) |
 | Tree | 6 | [View](#tree) |
 | Two Pointers | 6 | [View](#two-pointers) |
 | Union Find | 3 | [View](#union-find) |
@@ -180,6 +180,7 @@ Both indexes start small and expand naturally.
 | 2977 | Minimum Cost to Convert String II | Hard | String / Dynamic Programming / Graph / Shortest Path / Trie | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
 | 3010 | Divide an Array Into Subarrays With Minimum Cost I | Easy | Array / Greedy | [View](./3010.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I/) |
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | Array / Sliding Window / Heap (Priority Queue) / Ordered Set | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
+| 3043 | Find the Length of the Longest Common Prefix | Medium | Trie | [View](./3043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | Array / Geometry / Math / Enumeration | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
 | 3070 | Count Submatrices with Top-Left Element and Sum Less Than k | Medium | Array / Matrix / Prefix Sum | [View](./3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | Greedy / Sorting | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
@@ -800,6 +801,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 2977 | Minimum Cost to Convert String II | Hard | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
+| 3043 | Find the Length of the Longest Common Prefix | Medium | [View](./3043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix/) |
  
 ### Two Pointers
 | # | Title | Difficulty | Solution |
