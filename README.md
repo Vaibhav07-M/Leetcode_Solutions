@@ -32,10 +32,10 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 ----------|--------------------|------|
-| Array | 88 | [View](#array) |
+| Array | 89 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 8 | [View](#bfs) |
-| Binary Search | 13 | [View](#binary-search) |
+| Binary Search | 14 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 6 | [View](#binary-tree) |
 | Bit Manipulation | 13 | [View](#bit-manipulation) |
@@ -78,6 +78,7 @@ Both indexes start small and expand naturally.
 
 | # | Title | Difficulty | Category | Solution |
 |---|--------|------------|----------|---------|
+| 33 | Search in Rotated Sorted Array | Medium | Array / Binary Search | [View](./33.%20Search%20in%20Rotated%20Sorted%20Array/) |
 | 48 | Rotate Image | Medium | Array / Math / Matrix | [View](./48.%20Rotate%20Image/) |
 | 61 | Rotate List | Medium | Linked List / Two Pointers | [View](./61.%20Rotate%20List/) |
 | 66 | Plus One | Easy | Array / Math | [View](./66.%20Plus%20One/) |
@@ -233,6 +234,7 @@ Both indexes start small and expand naturally.
 ### Array
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 33 | Search in Rotated Sorted Array | Medium | [View](./33.%20Search%20in%20Rotated%20Sorted%20Array/) |
 | 48 | Rotate Image | Medium | [View](./48.%20Rotate%20Image/) |
 | 66 | Plus One | Easy | [View](./66.%20Plus%20One/) |
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
@@ -343,6 +345,7 @@ Both indexes start small and expand naturally.
 ### Binary Search
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 33 | Search in Rotated Sorted Array | Medium | [View](./33.%20Search%20in%20Rotated%20Sorted%20Array/) |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | [View](./153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/) |
 | 154 | Find Minimum in Rotated Sorted Array II | Hard | [View](./154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/) |
 | 744 | Find Smallest Letter Greater Than Target | Easy | [View](./744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/) |
