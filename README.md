@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 ----------|--------------------|------|
-| Array | 90 | [View](#array) |
+| Array | 91 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 8 | [View](#bfs) |
 | Binary Search | 14 | [View](#binary-search) |
@@ -42,10 +42,10 @@ Both indexes start small and expand naturally.
 | Combinatorics | 1 | [View](#combinatorics) |
 | Coordinate Compression | 1 | [View](#coordinate-compression) |
 | Counting | 6 | [View](#counting) |
-| DFS | 9 | [View](#dfs) |
+| DFS | 10 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 25 | [View](#dynamic-programming) |
+| Dynamic Programming | 26 | [View](#dynamic-programming) |
 | Enumeration | 2 | [View](#enumeration) |
 | Geometry | 5 | [View](#geometry) |
 | Graph | 8 | [View](#graph) |
@@ -115,6 +115,7 @@ Both indexes start small and expand naturally.
 | 1306 | Jump Game III | Medium | Array / BFS / DFS | [View](./1306.%20Jump%20Game%20III/) |
 | 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard | String / Dynamic Programming | [View](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | Tree / DFS / Binary Tree / Dynamic Programming | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
+| 1340 | Jump Game V | Hard | Array / Dynamic Programming / DFS | [View](./1340.%20Jump%20Game%20V/) |
 | 1345 | Jump Game IV | Hard | Array / BFS / Graph / Hash Table | [View](./1345.%20Jump%20Game%20IV/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | Binary Search / Matrix | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 | 1356 | Sort Integers by The Number of 1 Bits | Easy | Array / Bit Manipulation / Sorting / Counting | [View](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits/) |
@@ -249,6 +250,7 @@ Both indexes start small and expand naturally.
 | 1266 | Minimum Time Visiting All Points | Easy | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
 | 1292 | Maximum Side Length of a Square with Sum less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
 | 1306 | Jump Game III | Medium | [View](./1306.%20Jump%20Game%20III/) |
+| 1340 | Jump Game V | Hard | [View](./1340.%20Jump%20Game%20V/) |
 | 1345 | Jump Game IV | Hard | [View](./1345.%20Jump%20Game%20IV/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 | 1356 | Sort Integers by The Number of 1 Bits | Easy | [View](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits/) |
@@ -423,6 +425,7 @@ Both indexes start small and expand naturally.
 | 1022 | Sum of Root To Leaf Binary Numbers | Easy | [View](./1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/) |
 | 1306 | Jump Game III | Medium | [View](./1306.%20Jump%20Game%20III/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
+| 1340 | Jump Game V | Hard | [View](./1340.%20Jump%20Game%20V/) |
 | 1382 | Balance a Binary Search Tree | Medium | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
 | 1391 | Check if There is a Valid Path in a Grid | Medium | [View](./1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/) |
 | 1559 | Detect Cycles in 2D Grid | Medium | [View](./1559.%20Detect%20Cycles%20in%202D%20Grid/) |
@@ -451,6 +454,7 @@ Both indexes start small and expand naturally.
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
 | 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard | [View](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
+| 1340 | Jump Game V | Hard | [View](./1340.%20Jump%20Game%20V/) |
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
 | 1458 | Max Dot Product of Two Subsequences | Hard | [View](./1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences/) |
 | 1594 | Maximum Non Negative Product in a Matrix | Medium | [View](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/) |
