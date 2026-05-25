@@ -34,7 +34,7 @@ Both indexes start small and expand naturally.
 ----------|--------------------|------|
 | Array | 91 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
-| BFS | 8 | [View](#bfs) |
+| BFS | 9 | [View](#bfs) |
 | Binary Search | 14 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 6 | [View](#binary-tree) |
@@ -58,17 +58,17 @@ Both indexes start small and expand naturally.
 | Matrix | 33 | [View](#matrix) |
 | Monotonic Stack | 2 | [View](#monotonic-stack) |
 | Ordered Set | 1 | [View](#ordered-set) |
-| Prefix Sum | 14 | [View](#prefix-sum) |
+| Prefix Sum | 15 | [View](#prefix-sum) |
 | Recursion | 2 | [View](#recursion) |
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Segment Tree | 2 | [View](#segment-tree) |
 | Shortest Path | 4 | [View](#shortest-path) |
 | Simulation | 20 | [View](#simulation) |
-| Sliding Window | 7 | [View](#sliding-window) |
+| Sliding Window | 8 | [View](#sliding-window) |
 | Sorting | 19 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
-| String | 32 | [View](#string) |
+| String | 33 | [View](#string) |
 | Trie | 2 | [View](#trie) |
 | Tree | 6 | [View](#tree) |
 | Two Pointers | 6 | [View](#two-pointers) |
@@ -146,6 +146,7 @@ Both indexes start small and expand naturally.
 | 1848 | Minimum Distance to the Target Element | Easy | Array | [View](./1848.%20Minimum%20Distance%20to%20the%20Target%20Element/) |
 | 1855 | Maximum Distance Between a Pair of Values | Medium | Array / Two Pointers | [View](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values/) |
 | 1861 | Rotating the Box | Medium | Matrix / Simulation | [View](./1861.%20Rotating%20the%20Box/) |
+| 1871 | Jump Game VII | Medium | String / BFS / Prefix Sum / Sliding Window | [View](./1871.%20Jump%20Game%20VII/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | Array / Greedy / Sorting / Two Pointers | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
 | 1878 | Get Biggest Three Rhombus Sums in a Grid | Medium | Array / Matrix / Prefix Sum | [View](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid/) |
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | Matrix / Simulation | [View](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/) |
@@ -335,6 +336,7 @@ Both indexes start small and expand naturally.
 | 1306 | Jump Game III | Medium | [View](./1306.%20Jump%20Game%20III/) |
 | 1345 | Jump Game IV | Hard | [View](./1345.%20Jump%20Game%20IV/) |
 | 1391 | Check if There is a Valid Path in a Grid | Medium | [View](./1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/) |
+| 1871 | Jump Game VII | Medium | [View](./1871.%20Jump%20Game%20VII/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
 | 3629 | Minimum Jumps to Reach End via Prime Teleportation | Medium | [View](./3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
@@ -651,6 +653,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 1292 | Maximum Side Length of a Square with Sum less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
 | 1674 | Minimum Moves to Make Array Complementary | Medium | [View](./1674.%20Minimum%20Moves%20to%20Make%20Array%20Complementary/) |
+| 1871 | Jump Game VII | Medium | [View](./1871.%20Jump%20Game%20VII/) |
 | 1878 | Get Biggest Three Rhombus Sums in a Grid | Medium | [View](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid/) |
 | 1895 | Largest Magic Square | Medium | [View](./1895.%20Largest%20Magic%20Square/) |
 | 2483 | Minimum Penalty for a Shop | Medium | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
@@ -717,6 +720,7 @@ Both indexes start small and expand naturally.
 ### Sliding Window
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 1871 | Jump Game VII | Medium | [View](./1871.%20Jump%20Game%20VII/) |
 | 1888 | Minimum Number of Flips to Make the Binary String Alternating | Medium | [View](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating/) |
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | [View](./1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) |
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
@@ -779,6 +783,7 @@ Both indexes start small and expand naturally.
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
 | 1758 | Minimum Changes To Make Alternating Binary String | Easy | [View](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/) |
 | 1784 | Check if Binary String Has at Most One Segment of Ones | Easy | [View](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/) |
+| 1871 | Jump Game VII | Medium | [View](./1871.%20Jump%20Game%20VII/) |
 | 1888 | Minimum Number of Flips to Make the Binary String Alternating | Medium | [View](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating/) |
 | 1980 | Find Unique Binary String | Medium | [View](./1980.%20Find%20Unique%20Binary%20String/) |
 | 2075 | Decode the Slanted Ciphertext | Medium | [View](./2075.%20Decode%20the%20Slanted%20Ciphertext/) |
