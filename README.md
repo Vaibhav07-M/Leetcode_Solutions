@@ -68,8 +68,9 @@ Both indexes start small and expand naturally.
 | Sorting | 19 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
-| String | 35 | [View](#string) |
-| Trie | 2 | [View](#trie) |
+| String | 36 | [View](#string) |
+| Suffix | 1 | [View](#suffix) |
+| Trie | 3 | [View](#trie) |
 | Tree | 6 | [View](#tree) |
 | Two Pointers | 6 | [View](#two-pointers) |
 | Union Find | 3 | [View](#union-find) |
@@ -188,6 +189,7 @@ Both indexes start small and expand naturally.
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | Array / Geometry / Math / Enumeration | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
 | 3070 | Count Submatrices with Top-Left Element and Sum Less Than k | Medium | Array / Matrix / Prefix Sum | [View](./3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | Greedy / Sorting | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
+| 3093 | Longest Common Suffix Queries | Hard | Trie / String | [View](./3093.%20Longest%20Common%20Suffix%20Queries/) |
 | 3120 | Count the Number of Special Characters I | Easy | String / Hash Table | [View](./3120.%20Count%20the%20Number%20of%20Special%20Characters%20I/) |
 | 3121 | Count the Number of Special Characters II | Medium | String / Counting | [View](./3121.%20Count%20the%20Number%20of%20Special%20Characters%20II/) |
 | 3129 | Find All Possible Stable Binary Arrays I | Medium | Array / Dynamic Programming | [View](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I/) |
@@ -801,12 +803,18 @@ Both indexes start small and expand naturally.
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
 | 2976 | Minimum Cost to Convert String I | Medium | [View](./2976.%20Minimum%20Cost%20to%20Convert%20String%20I/) |
 | 2977 | Minimum Cost to Convert String II | Hard | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
+| 3093 | Longest Common Suffix Queries | Hard | [View](./3093.%20Longest%20Common%20Suffix%20Queries/) |
 | 3120 | Count the Number of Special Characters I | Easy | [View](./3120.%20Count%20the%20Number%20of%20Special%20Characters%20I/) |
 | 3121 | Count the Number of Special Characters II | Medium | [View](./3121.%20Count%20the%20Number%20of%20Special%20Characters%20II/) |
 | 3474 | Lexicographically Smallest Generated String | Hard | [View](./3474.%20Lexicographically%20Smallest%20Generated%20String/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 | 3713 | Longest Balanced Substring I | Medium | [View](./3713.%20Longest%20Balanced%20Substring%20I/) |
 | 3714 | Longest Balanced Substring II | Medium | [View](./3714.%20Longest%20Balanced%20Substring%20II/) |
+
+### Suffix
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 3093 | Longest Common Suffix Queries | Hard | [View](./3093.%20Longest%20Common%20Suffix%20Queries/) |
 
 ### Tree
 | # | Title | Difficulty | Solution |
@@ -823,6 +831,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 2977 | Minimum Cost to Convert String II | Hard | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
 | 3043 | Find the Length of the Longest Common Prefix | Medium | [View](./3043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix/) |
+| 3093 | Longest Common Suffix Queries | Hard | [View](./3093.%20Longest%20Common%20Suffix%20Queries/) |
  
 ### Two Pointers
 | # | Title | Difficulty | Solution |
