@@ -1,0 +1,19 @@
+class Solution {
+public:
+    int minimumCost(vector<int>& cost) {
+
+        sort(cost.begin(), cost.end(), greater<int>());
+
+        int ans = 0;
+
+        for(int i = 0; i < cost.size(); i++) {
+
+            // every third candy is free
+            if(i % 3 == 2) continue;
+
+            ans += cost[i];
+        }
+
+        return ans;
+    }
+};
