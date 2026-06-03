@@ -35,7 +35,7 @@ Both indexes start small and expand naturally.
 | Array | 92 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 9 | [View](#bfs) |
-| Binary Search | 15 | [View](#binary-search) |
+| Binary Search | 16 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 6 | [View](#binary-tree) |
 | Bit Manipulation | 13 | [View](#bit-manipulation) |
@@ -49,7 +49,7 @@ Both indexes start small and expand naturally.
 | Enumeration | 2 | [View](#enumeration) |
 | Geometry | 5 | [View](#geometry) |
 | Graph | 8 | [View](#graph) |
-| Greedy | 21 | [View](#greedy) |
+| Greedy | 22 | [View](#greedy) |
 | Hash Table | 19 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
@@ -63,9 +63,9 @@ Both indexes start small and expand naturally.
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Segment Tree | 2 | [View](#segment-tree) |
 | Shortest Path | 4 | [View](#shortest-path) |
-| Simulation | 21 | [View](#simulation) |
+| Simulation | 22 | [View](#simulation) |
 | Sliding Window | 8 | [View](#sliding-window) |
-| Sorting | 21 | [View](#sorting) |
+| Sorting | 22 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
 | String | 36 | [View](#string) |
@@ -218,6 +218,7 @@ Both indexes start small and expand naturally.
 | 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | Graph / Union Find / Binary Search / Greedy | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
 | 3633 | Earliest Finish Time for Land and Water Rides I | Easy | Greedy / Simulation | [View](./3633.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20I/) |
 | 3634 | Minimum Removals to Balance Array | Medium | Array / Sorting / Sliding Window / Two Pointers | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
+| 3635 | Earliest Finish Time for Land and Water Rides II | Medium | Greedy / Simulation | [View](./3635.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20II/) |
 | 3637 | Trionic Array I | Easy | Array | [View](./3637.%20Trionic%20Array%20I/) |
 | 3640 | Trionic Array II | Hard | Array / Dynamic Programming | [View](./3640.%20Trionic%20Array%20II/) |
 | 3643 | Flip Square Submatrix Vertically | Easy | Array / Matrix / Simulation | [View](./3643.%20Flip%20Square%20Submatrix%20Vertically/) |
@@ -375,6 +376,7 @@ Both indexes start small and expand naturally.
 | 3464 | Maximize the Distance Between Points on a Square | Hard | [View](./3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square/) |
 | 3488 | Closest Equal Element Queries | Medium | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
 | 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
+| 3635 | Earliest Finish Time for Land and Water Rides II | Medium | [View](./3635.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20II/) |
 | 3661 | Maximum Walls Destroyed by Robots | Hard | [View](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/) |
 
 ### Binary Search Tree
@@ -539,6 +541,7 @@ Both indexes start small and expand naturally.
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
 | 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
 | 3633 | Earliest Finish Time for Land and Water Rides I | Easy | [View](./3633.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20I/) |
+| 3635 | Earliest Finish Time for Land and Water Rides II | Medium | [View](./3635.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20II/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 
 ### Hash Table
@@ -734,6 +737,7 @@ Both indexes start small and expand naturally.
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
 | 3633 | Earliest Finish Time for Land and Water Rides I | Easy | [View](./3633.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20I/) |
+| 3635 | Earliest Finish Time for Land and Water Rides II | Medium | [View](./3635.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20II/) |
 | 3643 | Flip Square Submatrix Vertically | Easy | [View](./3643.%20Flip%20Square%20Submatrix%20Vertically/) |
 | 3653 | XOR After Range Multiplication Queries I | Medium | [View](./3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I/) |
 | 3655 | XOR After Range Multiplication Queries II | Hard | [View](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II/) |
@@ -773,6 +777,7 @@ Both indexes start small and expand naturally.
 | 3464 | Maximize the Distance Between Points on a Square | Hard | [View](./3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square/) |
 | 3567 | Minimum Absolute Difference in Sliding Submatrix | Medium | [View](./3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix/) |
 | 3634 | Minimum Removals to Balance Array | Medium | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
+| 3635 | Earliest Finish Time for Land and Water Rides II | Medium | [View](./3635.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20II/) |
 | 3661 | Maximum Walls Destroyed by Robots | Hard | [View](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/) |
 
 ### Square Root Decomposition
