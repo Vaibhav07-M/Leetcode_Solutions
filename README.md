@@ -45,7 +45,7 @@ Both indexes start small and expand naturally.
 | DFS | 10 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 26 | [View](#dynamic-programming) |
+| Dynamic Programming | 27 | [View](#dynamic-programming) |
 | Enumeration | 3 | [View](#enumeration) |
 | Geometry | 5 | [View](#geometry) |
 | Graph | 8 | [View](#graph) |
@@ -54,7 +54,7 @@ Both indexes start small and expand naturally.
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 1 | [View](#linked-list) |
-| Math | 32 | [View](#math) |
+| Math | 33 | [View](#math) |
 | Matrix | 33 | [View](#matrix) |
 | Monotonic Stack | 2 | [View](#monotonic-stack) |
 | Ordered Set | 2 | [View](#ordered-set) |
@@ -238,6 +238,7 @@ Both indexes start small and expand naturally.
 | 3741 | Minimum Distance Between Three Equal Elements II | Medium | Array / Hash Table / Counting | [View](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II/) |
 | 3742 | Maximum Path Score in a Grid | Medium | Array / Dynamic Programming / Matrix | [View](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid/) |
 | 3751 | Total Waviness of Numbers in Range I | Medium | Math / Enumeration | [View](./3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I/) |
+| 3753 | Total Waviness of Numbers in Range II | Hard | Math / Digit DP / Dynamic Programming | [View](./3753.%20Total%20Waviness%20of%20Numbers%20in%20Range%20II/) |
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | Array / Hash Table / Math | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
 | 3783 | Mirror Distance of an Integer | Easy | Math | [View](./3783.%20Mirror%20Distance%20of%20an%20Integer/) |
 
@@ -491,6 +492,7 @@ Both indexes start small and expand naturally.
 | 3660 | Jump Game IX | Medium | [View](./3660.%20Jump%20Game%20IX/) |
 | 3661 | Maximum Walls Destroyed by Robots | Hard | [View](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/) |
 | 3742 | Maximum Path Score in a Grid | Medium | [View](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid/) |
+| 3753 | Total Waviness of Numbers in Range II | Hard | [View](./3753.%20Total%20Waviness%20of%20Numbers%20in%20Range%20II/) |
 
 ### Enumeration
 | # | Title | Difficulty | Solution |
@@ -621,6 +623,7 @@ Both indexes start small and expand naturally.
 | 3655 | XOR After Range Multiplication Queries II | Hard | [View](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 | 3751 | Total Waviness of Numbers in Range I | Medium | [View](./3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I/) |
+| 3753 | Total Waviness of Numbers in Range II | Hard | [View](./3753.%20Total%20Waviness%20of%20Numbers%20in%20Range%20II/) |
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
 | 3783 | Mirror Distance of an Integer | Easy | [View](./3783.%20Mirror%20Distance%20of%20an%20Integer/) |
 
