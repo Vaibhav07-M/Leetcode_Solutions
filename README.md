@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 ----------|--------------------|------|
-| Array | 92 | [View](#array) |
+| Array | 93 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 9 | [View](#bfs) |
 | Binary Search | 16 | [View](#binary-search) |
@@ -58,7 +58,7 @@ Both indexes start small and expand naturally.
 | Matrix | 33 | [View](#matrix) |
 | Monotonic Stack | 2 | [View](#monotonic-stack) |
 | Ordered Set | 2 | [View](#ordered-set) |
-| Prefix Sum | 15 | [View](#prefix-sum) |
+| Prefix Sum | 16 | [View](#prefix-sum) |
 | Recursion | 2 | [View](#recursion) |
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Segment Tree | 2 | [View](#segment-tree) |
@@ -172,6 +172,7 @@ Both indexes start small and expand naturally.
 | 2540 | Minimum Common Value | Easy | Array / Two Pointers | [View](./2540.%20Minimum%20Common%20Value/) |
 | 2553 | Separate the Digits in an Array | Easy | Array / Math | [View](./2553.%20Separate%20the%20Digits%20in%20an%20Array/) |
 | 2573 | Find the String with LCP | Hard | String / Dynamic Programming / Matrix | [View](./2573.%20Find%20the%20String%20with%20LCP/) |
+| 2574 | Left and Right Sum Differences | Easy | Array / Prefix Sum | [View](./2574.%20Left%20and%20Right%20Sum%20Differences/) |
 | 2615 | Sum of Distances | Medium | Array / Hash Table / Prefix Sum | [View](./2615.%20Sum%20of%20Distances/) |
 | 2657 | Find the Prefix Common Array of Two Arrays | Medium | Array | [View](./2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays/) |
 | 2751 | Robot Collisions | Hard | Array / Stack / Sorting / Simulation | [View](./2751.%20Robot%20Collisions/) |
@@ -294,6 +295,7 @@ Both indexes start small and expand naturally.
 | 2515 | Shortest Distance to Target String in a Circular Array | Easy | [View](./2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/) |
 | 2540 | Minimum Common Value | Easy | [View](./2540.%20Minimum%20Common%20Value/) |
 | 2553 | Separate the Digits in an Array | Easy | [View](./2553.%20Separate%20the%20Digits%20in%20an%20Array/) |
+| 2574 | Left and Right Sum Differences | Easy | [View](./2574.%20Left%20and%20Right%20Sum%20Differences/) |
 | 2615 | Sum of Distances | Medium | [View](./2615.%20Sum%20of%20Distances/) |
 | 2657 | Find the Prefix Common Array of Two Arrays | Medium | [View](./2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
@@ -685,6 +687,7 @@ Both indexes start small and expand naturally.
 | 1878 | Get Biggest Three Rhombus Sums in a Grid | Medium | [View](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid/) |
 | 1895 | Largest Magic Square | Medium | [View](./1895.%20Largest%20Magic%20Square/) |
 | 2483 | Minimum Penalty for a Shop | Medium | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
+| 2574 | Left and Right Sum Differences | Easy | [View](./2574.%20Left%20and%20Right%20Sum%20Differences/) |
 | 2615 | Sum of Distances | Medium | [View](./2615.%20Sum%20of%20Distances/) |
 | 2906 | Construct Product Matrix | Medium | [View](./2906.%20Construct%20Product%20Matrix/) |
 | 3070 | Count Submatrices with Top-Left Element and Sum Less Than k | Medium | [View](./3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k/) |
