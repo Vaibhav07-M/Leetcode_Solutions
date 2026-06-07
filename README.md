@@ -50,7 +50,7 @@ Both indexes start small and expand naturally.
 | Geometry | 5 | [View](#geometry) |
 | Graph | 8 | [View](#graph) |
 | Greedy | 22 | [View](#greedy) |
-| Hash Table | 19 | [View](#hash-table) |
+| Hash Table | 20 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 1 | [View](#linked-list) |
@@ -71,7 +71,7 @@ Both indexes start small and expand naturally.
 | String | 36 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Trie | 3 | [View](#trie) |
-| Tree | 6 | [View](#tree) |
+| Tree | 7 | [View](#tree) |
 | Two Pointers | 6 | [View](#two-pointers) |
 | Union Find | 3 | [View](#union-find) |
 
@@ -165,6 +165,7 @@ Both indexes start small and expand naturally.
 | 2078 | Two Furthest Houses With Different Colors | Easy | Array | [View](./2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors/) |
 | 2126 | Destroying Asteroids | Medium | Greedy / Sorting | [View](./2126.%20Destroying%20Asteroids/) |
 | 2144 | Minimum Cost of Buying Candies With Discount | Easy | Greedy / Sorting | [View](./2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/) |
+| 2196 | Create Binary Tree From Descriptions | Medium | Tree / Hash Table | [View](./2196.%20Create%20Binary%20Tree%20From%20Descriptions/) |
 | 2402 | Meeting Rooms III | Hard | Heap / Sorting / Simulation | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 2463 | Minimum Total Distance Traveled | Hard | Array / Dynamic Programming / Sorting | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
 | 2483 | Minimum Penalty for a Shop | Medium | String / Prefix Sum | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
@@ -558,6 +559,7 @@ Both indexes start small and expand naturally.
 | 961 | N-Repeated Element in Size 2N Array | Easy | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
 | 1345 | Jump Game IV | Hard | [View](./1345.%20Jump%20Game%20IV/) |
 | 1461 | Check If a String Contains All Binary Codes of Size K | Medium | [View](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/) |
+| 2196 | Create Binary Tree From Descriptions | Medium | [View](./2196.%20Create%20Binary%20Tree%20From%20Descriptions/) |
 | 2615 | Sum of Distances | Medium | [View](./2615.%20Sum%20of%20Distances/) |
 | 2784 | Check if Array is Good | Easy | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
@@ -855,6 +857,7 @@ Both indexes start small and expand naturally.
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1382 | Balance a Binary Search Tree | Medium | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
+| 2196 | Create Binary Tree From Descriptions | Medium | [View](./2196.%20Create%20Binary%20Tree%20From%20Descriptions/) |
 
 ### Trie
 | # | Title | Difficulty | Solution |
