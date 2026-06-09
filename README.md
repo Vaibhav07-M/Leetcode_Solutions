@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 ----------|--------------------|------|
-| Array | 94 | [View](#array) |
+| Array | 95 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 9 | [View](#bfs) |
 | Binary Search | 16 | [View](#binary-search) |
@@ -233,6 +233,7 @@ Both indexes start small and expand naturally.
 | 3660 | Jump Game IX | Medium | Array / Monotonic Stack / Dynamic Programming | [View](./3660.%20Jump%20Game%20IX/) |
 | 3661 | Maximum Walls Destroyed by Robots | Hard | Array / Binary Search / Dynamic Programming / Sorting | [View](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | String / BFS / Math / Greedy | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
+| 3689 | Maximum Total Subarray Value I | Medium | Array | [View](./3689.%20Maximum%20Total%20Subarray%20Value%20I/) |
 | 3713 | Longest Balanced Substring I | Medium | String / Hash Table / Counting | [View](./3713.%20Longest%20Balanced%20Substring%20I/) |
 | 3714 | Longest Balanced Substring II | Medium | String / Hash Table / Prefix Sum | [View](./3714.%20Longest%20Balanced%20Substring%20II/) |
 | 3719 | Longest Balanced Subarray I | Medium | Array / Hash Table / Sliding Window | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
@@ -341,6 +342,7 @@ Both indexes start small and expand naturally.
 | 3655 | XOR After Range Multiplication Queries II | Hard | [View](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II/) |
 | 3660 | Jump Game IX | Medium | [View](./3660.%20Jump%20Game%20IX/) |
 | 3661 | Maximum Walls Destroyed by Robots | Hard | [View](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/) |
+| 3689 | Maximum Total Subarray Value I | Medium | [View](./3689.%20Maximum%20Total%20Subarray%20Value%20I/) |
 | 3719 | Longest Balanced Subarray I | Medium | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
 | 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | [View](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) |
