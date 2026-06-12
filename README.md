@@ -54,7 +54,8 @@ Both indexes start small and expand naturally.
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 1 | [View](#linked-list) |
-| Math | 34 | [View](#math) |
+| Lowest Common Ancestor | 1 | [View](#lowest-common-ancestor) |
+| Math | 35 | [View](#math) |
 | Matrix | 33 | [View](#matrix) |
 | Monotonic Stack | 2 | [View](#monotonic-stack) |
 | Ordered Set | 2 | [View](#ordered-set) |
@@ -71,7 +72,7 @@ Both indexes start small and expand naturally.
 | String | 36 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Trie | 3 | [View](#trie) |
-| Tree | 8 | [View](#tree) |
+| Tree | 9 | [View](#tree) |
 | Two Pointers | 6 | [View](#two-pointers) |
 | Union Find | 3 | [View](#union-find) |
 
@@ -218,6 +219,7 @@ Both indexes start small and expand naturally.
 | 3546 | Equal Sum Grid Partition I | Medium | Array / Matrix / Prefix Sum | [View](./3546.%20Equal%20Sum%20Grid%20Partition%20I/) |
 | 3548 | Equal Sum Grid Partition II | Hard | Array / Hash Table / Matrix / Prefix Sum | [View](./3548.%20Equal%20Sum%20Grid%20Partition%20II/) |
 | 3558 | Number of Ways to Assign Edge Weights I | Medium | Tree / BFS / Math | [View](./3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) |
+| 3559 | Number of Ways to Assign Edge Weights II | Hard | Tree / Lowest Common Ancestor / Math | [View](./3559.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20II/) |
 | 3567 | Minimum Absolute Difference in Sliding Submatrix | Medium | Array / Matrix / Sliding Window / Sorting | [View](./3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix/) |
 | 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | Graph / Union Find / Binary Search / Greedy | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
 | 3633 | Earliest Finish Time for Land and Water Rides I | Easy | Greedy / Simulation | [View](./3633.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20I/) |
@@ -602,6 +604,11 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 61 | Rotate List | Medium | [View](./61.%20Rotate%20List/) |
 
+### Lowest Common Ancestor
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 3559 | Number of Ways to Assign Edge Weights II | Hard | [View](./3559.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20II/) |
+
 ### Math
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
@@ -631,6 +638,7 @@ Both indexes start small and expand naturally.
 | 3300 | Minimum Number of Seconds to Make Mountain Height Zero II | Hard | [View](./3300.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero%20II/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
 | 3558 | Number of Ways to Assign Edge Weights I | Medium | [View](./3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) |
+| 3559 | Number of Ways to Assign Edge Weights II | Hard | [View](./3559.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20II/) |
 | 3629 | Minimum Jumps to Reach End via Prime Teleportation | Medium | [View](./3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation/) |
 | 3653 | XOR After Range Multiplication Queries I | Medium | [View](./3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I/) |
 | 3655 | XOR After Range Multiplication Queries II | Hard | [View](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II/) |
@@ -867,6 +875,7 @@ Both indexes start small and expand naturally.
 | 1382 | Balance a Binary Search Tree | Medium | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
 | 2196 | Create Binary Tree From Descriptions | Medium | [View](./2196.%20Create%20Binary%20Tree%20From%20Descriptions/) |
 | 3558 | Number of Ways to Assign Edge Weights I | Medium | [View](./3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) |
+| 3559 | Number of Ways to Assign Edge Weights II | Hard | [View](./3559.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20II/) |
 
 ### Trie
 | # | Title | Difficulty | Solution |
