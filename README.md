@@ -31,7 +31,7 @@ Both indexes start small and expand naturally.
 ## Category Index
 
 | Category | Number of Problems | Link |
-----------|--------------------|------|
+| Array | 96 | [View](#array) |
 | Array | 95 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 10 | [View](#bfs) |
@@ -54,7 +54,7 @@ Both indexes start small and expand naturally.
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 1 | [View](#linked-list) |
-| Lowest Common Ancestor | 1 | [View](#lowest-common-ancestor) |
+| Math | 36 | [View](#math) |
 | Math | 35 | [View](#math) |
 | Matrix | 33 | [View](#matrix) |
 | Monotonic Stack | 2 | [View](#monotonic-stack) |
@@ -69,7 +69,7 @@ Both indexes start small and expand naturally.
 | Sorting | 22 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
-| String | 36 | [View](#string) |
+| String | 37 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Trie | 3 | [View](#trie) |
 | Tree | 9 | [View](#tree) |
@@ -249,6 +249,7 @@ Both indexes start small and expand naturally.
 | 3753 | Total Waviness of Numbers in Range II | Hard | Math / Digit DP / Dynamic Programming | [View](./3753.%20Total%20Waviness%20of%20Numbers%20in%20Range%20II/) |
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | Array / Hash Table / Math | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
 | 3783 | Mirror Distance of an Integer | Easy | Math | [View](./3783.%20Mirror%20Distance%20of%20an%20Integer/) |
+| 3838 | Weighted Word Mapping | Easy | Array / String / Math | [View](./3838.%20Weighted%20Word%20Mapping/) |
 
 ---
 
@@ -354,6 +355,7 @@ Both indexes start small and expand naturally.
 | 3741 | Minimum Distance Between Three Equal Elements II | Medium | [View](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II/) |
 | 3742 | Maximum Path Score in a Grid | Medium | [View](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid/) |
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
+| 3838 | Weighted Word Mapping | Easy | [View](./3838.%20Weighted%20Word%20Mapping/) |
 
 ### BFS
 | # | Title | Difficulty | Solution |
@@ -647,6 +649,7 @@ Both indexes start small and expand naturally.
 | 3753 | Total Waviness of Numbers in Range II | Hard | [View](./3753.%20Total%20Waviness%20of%20Numbers%20in%20Range%20II/) |
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
 | 3783 | Mirror Distance of an Integer | Easy | [View](./3783.%20Mirror%20Distance%20of%20an%20Integer/) |
+| 3838 | Weighted Word Mapping | Easy | [View](./3838.%20Weighted%20Word%20Mapping/) |
 
 ### Matrix
 | # | Title | Difficulty | Solution |
@@ -858,6 +861,7 @@ Both indexes start small and expand naturally.
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 | 3713 | Longest Balanced Substring I | Medium | [View](./3713.%20Longest%20Balanced%20Substring%20I/) |
 | 3714 | Longest Balanced Substring II | Medium | [View](./3714.%20Longest%20Balanced%20Substring%20II/) |
+| 3838 | Weighted Word Mapping | Easy | [View](./3838.%20Weighted%20Word%20Mapping/) |
 
 ### Suffix
 | # | Title | Difficulty | Solution |
