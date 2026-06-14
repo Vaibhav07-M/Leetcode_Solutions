@@ -53,7 +53,7 @@ Both indexes start small and expand naturally.
 | Hash Table | 20 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
-| Linked List | 1 | [View](#linked-list) |
+| Linked List | 2 | [View](#linked-list) |
 | Math | 36 | [View](#math) |
 | Math | 35 | [View](#math) |
 | Matrix | 33 | [View](#matrix) |
@@ -73,7 +73,7 @@ Both indexes start small and expand naturally.
 | Suffix | 1 | [View](#suffix) |
 | Trie | 3 | [View](#trie) |
 | Tree | 9 | [View](#tree) |
-| Two Pointers | 6 | [View](#two-pointers) |
+| Two Pointers | 7 | [View](#two-pointers) |
 | Union Find | 3 | [View](#union-find) |
 
 ### Completed Problems
@@ -165,6 +165,7 @@ Both indexes start small and expand naturally.
 | 2075 | Decode the Slanted Ciphertext | Medium | String / Matrix / Simulation | [View](./2075.%20Decode%20the%20Slanted%20Ciphertext/) |
 | 2078 | Two Furthest Houses With Different Colors | Easy | Array | [View](./2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors/) |
 | 2126 | Destroying Asteroids | Medium | Greedy / Sorting | [View](./2126.%20Destroying%20Asteroids/) |
+| 2130 | Maximum Twin Sum of a Linked List | Medium | Linked List / Two Pointers | [View](./2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/) |
 | 2144 | Minimum Cost of Buying Candies With Discount | Easy | Greedy / Sorting | [View](./2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/) |
 | 2161 | Partition Array According to Given Pivot | Easy | Array | [View](./2161.%20Partition%20Array%20According%20to%20Given%20Pivot/) |
 | 2196 | Create Binary Tree From Descriptions | Medium | Tree / Hash Table | [View](./2196.%20Create%20Binary%20Tree%20From%20Descriptions/) |
@@ -605,6 +606,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 61 | Rotate List | Medium | [View](./61.%20Rotate%20List/) |
+| 2130 | Maximum Twin Sum of a Linked List | Medium | [View](./2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/) |
 
 ### Lowest Common Ancestor
 | # | Title | Difficulty | Solution |
@@ -895,6 +897,7 @@ Both indexes start small and expand naturally.
 | 696 | Count Binary Substrings | Easy | [View](./696.%20Count%20Binary%20Substrings/) |
 | 1855 | Maximum Distance Between a Pair of Values | Medium | [View](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
+| 2130 | Maximum Twin Sum of a Linked List | Medium | [View](./2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/) |
 | 2540 | Minimum Common Value | Easy | [View](./2540.%20Minimum%20Common%20Value/) |
 | 3634 | Minimum Removals to Balance Array | Medium | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
 
