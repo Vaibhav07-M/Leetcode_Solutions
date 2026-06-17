@@ -49,7 +49,7 @@ Both indexes start small and expand naturally.
 | Enumeration | 3 | [View](#enumeration) |
 | Geometry | 5 | [View](#geometry) |
 | Graph | 8 | [View](#graph) |
-| Greedy | 22 | [View](#greedy) |
+| Greedy | 23 | [View](#greedy) |
 | Hash Table | 20 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
@@ -64,12 +64,12 @@ Both indexes start small and expand naturally.
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Segment Tree | 2 | [View](#segment-tree) |
 | Shortest Path | 4 | [View](#shortest-path) |
-| Simulation | 23 | [View](#simulation) |
+| Simulation | 24 | [View](#simulation) |
 | Sliding Window | 8 | [View](#sliding-window) |
 | Sorting | 22 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
-| String | 38 | [View](#string) |
+| String | 39 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Trie | 3 | [View](#trie) |
 | Tree | 9 | [View](#tree) |
@@ -225,6 +225,7 @@ Both indexes start small and expand naturally.
 | 3567 | Minimum Absolute Difference in Sliding Submatrix | Medium | Array / Matrix / Sliding Window / Sorting | [View](./3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix/) |
 | 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | Graph / Union Find / Binary Search / Greedy | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
 | 3612 | Process String with Special Operations I | Medium | String / Stack / Simulation | [View](./3612.%20Process%20String%20with%20Special%20Operations%20I/) |
+| 3614 | Process String with Special Operations II | Hard | String / Stack / Simulation | [View](./3614.%20Process%20String%20with%20Special%20Operations%20II/) |
 | 3633 | Earliest Finish Time for Land and Water Rides I | Easy | Greedy / Simulation | [View](./3633.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20I/) |
 | 3634 | Minimum Removals to Balance Array | Medium | Array / Sorting / Sliding Window / Two Pointers | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
 | 3635 | Earliest Finish Time for Land and Water Rides II | Medium | Greedy / Simulation | [View](./3635.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20II/) |
@@ -562,6 +563,7 @@ Both indexes start small and expand naturally.
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
 | 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
+| 3614 | Process String with Special Operations II | Hard | [View](./3614.%20Process%20String%20with%20Special%20Operations%20II/) |
 | 3633 | Earliest Finish Time for Land and Water Rides I | Easy | [View](./3633.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20I/) |
 | 3635 | Earliest Finish Time for Land and Water Rides II | Medium | [View](./3635.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20II/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
@@ -772,6 +774,7 @@ Both indexes start small and expand naturally.
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
 | 3612 | Process String with Special Operations I | Medium | [View](./3612.%20Process%20String%20with%20Special%20Operations%20I/) |
+| 3614 | Process String with Special Operations II | Hard | [View](./3614.%20Process%20String%20with%20Special%20Operations%20II/) |
 | 3633 | Earliest Finish Time for Land and Water Rides I | Easy | [View](./3633.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20I/) |
 | 3635 | Earliest Finish Time for Land and Water Rides II | Medium | [View](./3635.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20II/) |
 | 3643 | Flip Square Submatrix Vertically | Easy | [View](./3643.%20Flip%20Square%20Submatrix%20Vertically/) |
@@ -865,6 +868,7 @@ Both indexes start small and expand naturally.
 | 3121 | Count the Number of Special Characters II | Medium | [View](./3121.%20Count%20the%20Number%20of%20Special%20Characters%20II/) |
 | 3474 | Lexicographically Smallest Generated String | Hard | [View](./3474.%20Lexicographically%20Smallest%20Generated%20String/) |
 | 3612 | Process String with Special Operations I | Medium | [View](./3612.%20Process%20String%20with%20Special%20Operations%20I/) |
+| 3614 | Process String with Special Operations II | Hard | [View](./3614.%20Process%20String%20with%20Special%20Operations%20II/) |S
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 | 3713 | Longest Balanced Substring I | Medium | [View](./3713.%20Longest%20Balanced%20Substring%20I/) |
 | 3714 | Longest Balanced Substring II | Medium | [View](./3714.%20Longest%20Balanced%20Substring%20II/) |
