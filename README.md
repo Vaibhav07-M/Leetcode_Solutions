@@ -47,15 +47,14 @@ Both indexes start small and expand naturally.
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
 | Dynamic Programming | 27 | [View](#dynamic-programming) |
 | Enumeration | 3 | [View](#enumeration) |
-| Geometry | 5 | [View](#geometry) |
+| Geometry | 6 | [View](#geometry) |
 | Graph | 8 | [View](#graph) |
 | Greedy | 23 | [View](#greedy) |
 | Hash Table | 20 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
-| Math | 36 | [View](#math) |
-| Math | 35 | [View](#math) |
+| Math | 37 | [View](#math) |
 | Matrix | 33 | [View](#matrix) |
 | Monotonic Stack | 2 | [View](#monotonic-stack) |
 | Ordered Set | 2 | [View](#ordered-set) |
@@ -119,6 +118,7 @@ Both indexes start small and expand naturally.
 | 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard | String / Dynamic Programming | [View](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | Tree / DFS / Binary Tree / Dynamic Programming | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1340 | Jump Game V | Hard | Array / Dynamic Programming / DFS | [View](./1340.%20Jump%20Game%20V/) |
+| 1344 | Angle Between Hands of a Clock | Medium | Math / Geometry | [View](./1344.%20Angle%20Between%20Hands%20of%20a%20Clock/) |
 | 1345 | Jump Game IV | Hard | Array / BFS / Graph / Hash Table | [View](./1345.%20Jump%20Game%20IV/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | Binary Search / Matrix | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 | 1356 | Sort Integers by The Number of 1 Bits | Easy | Array / Bit Manipulation / Sorting / Counting | [View](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits/) |
@@ -524,6 +524,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 1266 | Minimum Time Visiting All Points | Easy | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
+| 1344 | Angle Between Hands of a Clock | Medium | [View](./1344.%20Angle%20Between%20Hands%20of%20a%20Clock/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
 | 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
@@ -630,6 +631,7 @@ Both indexes start small and expand naturally.
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 1266 | Minimum Time Visiting All Points | Easy | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
+| 1344 | Angle Between Hands of a Clock | Medium | [View](./1344.%20Angle%20Between%20Hands%20of%20a%20Clock/) |
 | 1390 | Four Divisors | Medium | [View](./1390.%20Four%20Divisors/) |
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
 | 1415 | The k-th Lexicographical String of All Happy Strings of Length n | Medium | [View](./1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/) |
