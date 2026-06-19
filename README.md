@@ -31,8 +31,7 @@ Both indexes start small and expand naturally.
 ## Category Index
 
 | Category | Number of Problems | Link |
-| Array | 96 | [View](#array) |
-| Array | 95 | [View](#array) |
+| Array | 97 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 10 | [View](#bfs) |
 | Binary Search | 16 | [View](#binary-search) |
@@ -58,7 +57,7 @@ Both indexes start small and expand naturally.
 | Matrix | 33 | [View](#matrix) |
 | Monotonic Stack | 2 | [View](#monotonic-stack) |
 | Ordered Set | 2 | [View](#ordered-set) |
-| Prefix Sum | 16 | [View](#prefix-sum) |
+| Prefix Sum | 17 | [View](#prefix-sum) |
 | Recursion | 2 | [View](#recursion) |
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Segment Tree | 2 | [View](#segment-tree) |
@@ -143,6 +142,7 @@ Both indexes start small and expand naturally.
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | String / Greedy / Math | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
 | 1722 | Minimize Hamming Distance After Swap Operations | Medium | Array / Union Find | [View](./1722.%20Minimize%20Hamming%20Distance%20After%20Swap%20Operations/) |
 | 1727 | Largest Submatrix With Rearrangements | Medium | Array / Matrix / Sorting | [View](./1727.%20Largest%20Submatrix%20With%20Rearrangements/) |
+| 1732 | Find the Highest Altitude | Easy | Array / Prefix Sum | [View](./1732.%20Find%20the%20Highest%20Altitude/) |
 | 1752 | Check if Array Is Sorted and Rotated | Easy | Array | [View](./1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated/) |
 | 1758 | Minimum Changes To Make Alternating Binary String | Easy | String / Greedy | [View](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/) |
 | 1784 | Check if Binary String Has at Most One Segment of Ones | Easy | String | [View](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/) |
@@ -289,6 +289,7 @@ Both indexes start small and expand naturally.
 | 1674 | Minimum Moves to Make Array Complementary | Medium | [View](./1674.%20Minimum%20Moves%20to%20Make%20Array%20Complementary/) |
 | 1722 | Minimize Hamming Distance After Swap Operations | Medium | [View](./1722.%20Minimize%20Hamming%20Distance%20After%20Swap%20Operations/) |
 | 1727 | Largest Submatrix With Rearrangements | Medium | [View](./1727.%20Largest%20Submatrix%20With%20Rearrangements/) |
+| 1732 | Find the Highest Altitude | Easy | [View](./1732.%20Find%20the%20Highest%20Altitude/) |
 | 1752 | Check if Array Is Sorted and Rotated | Easy | [View](./1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated/) |
 | 1848 | Minimum Distance to the Target Element | Easy | [View](./1848.%20Minimum%20Distance%20to%20the%20Target%20Element/) |
 | 1855 | Maximum Distance Between a Pair of Values | Medium | [View](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values/) |
@@ -713,6 +714,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 1292 | Maximum Side Length of a Square with Sum less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
 | 1674 | Minimum Moves to Make Array Complementary | Medium | [View](./1674.%20Minimum%20Moves%20to%20Make%20Array%20Complementary/) |
+| 1732 | Find the Highest Altitude | Easy | [View](./1732.%20Find%20the%20Highest%20Altitude/) |
 | 1871 | Jump Game VII | Medium | [View](./1871.%20Jump%20Game%20VII/) |
 | 1878 | Get Biggest Three Rhombus Sums in a Grid | Medium | [View](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid/) |
 | 1895 | Largest Magic Square | Medium | [View](./1895.%20Largest%20Magic%20Square/) |
