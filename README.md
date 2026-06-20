@@ -48,12 +48,12 @@ Both indexes start small and expand naturally.
 | Enumeration | 3 | [View](#enumeration) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 8 | [View](#graph) |
-| Greedy | 23 | [View](#greedy) |
+| Greedy | 24 | [View](#greedy) |
 | Hash Table | 20 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
-| Math | 37 | [View](#math) |
+| Math | 38 | [View](#math) |
 | Matrix | 33 | [View](#matrix) |
 | Monotonic Stack | 2 | [View](#monotonic-stack) |
 | Ordered Set | 2 | [View](#ordered-set) |
@@ -64,7 +64,7 @@ Both indexes start small and expand naturally.
 | Shortest Path | 4 | [View](#shortest-path) |
 | Simulation | 24 | [View](#simulation) |
 | Sliding Window | 8 | [View](#sliding-window) |
-| Sorting | 22 | [View](#sorting) |
+| Sorting | 23 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
 | String | 39 | [View](#string) |
@@ -146,6 +146,7 @@ Both indexes start small and expand naturally.
 | 1752 | Check if Array Is Sorted and Rotated | Easy | Array | [View](./1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated/) |
 | 1758 | Minimum Changes To Make Alternating Binary String | Easy | String / Greedy | [View](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/) |
 | 1784 | Check if Binary String Has at Most One Segment of Ones | Easy | String | [View](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/) |
+| 1840 | Maximum Building Height | Hard | Greedy / Math / Sorting | [View](./1840.%20Maximum%20Building%20Height/) |
 | 1848 | Minimum Distance to the Target Element | Easy | Array | [View](./1848.%20Minimum%20Distance%20to%20the%20Target%20Element/) |
 | 1855 | Maximum Distance Between a Pair of Values | Medium | Array / Two Pointers | [View](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values/) |
 | 1861 | Rotating the Box | Medium | Matrix / Simulation | [View](./1861.%20Rotating%20the%20Box/) |
@@ -554,6 +555,7 @@ Both indexes start small and expand naturally.
 | 1674 | Minimum Moves to Make Array Complementary | Medium | [View](./1674.%20Minimum%20Moves%20to%20Make%20Array%20Complementary/) |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
 | 1758 | Minimum Changes To Make Alternating Binary String | Easy | [View](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/) |
+| 1840 | Maximum Building Height | Hard | [View](./1840.%20Maximum%20Building%20Height/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
 | 1975 | Maximum Matrix Sum | Medium | [View](./1975.%20Maximum%20Matrix%20Sum/) |
 | 2126 | Destroying Asteroids | Medium | [View](./2126.%20Destroying%20Asteroids/) |
@@ -639,6 +641,7 @@ Both indexes start small and expand naturally.
 | 1622 | Fancy Sequence | Hard | [View](./1622.%20Fancy%20Sequence/) |
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
+| 1840 | Maximum Building Height | Hard | [View](./1840.%20Maximum%20Building%20Height/) |
 | 2033 | Minimum Operations to Make a Uni-Value Grid | Medium | [View](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/) |
 | 2069 | Walking Robot Simulation II | Medium | [View](./2069.%20Walking%20Robot%20Simulation%20II/) |
 | 2553 | Separate the Digits in an Array | Easy | [View](./2553.%20Separate%20the%20Digits%20in%20an%20Array/) |
@@ -805,6 +808,7 @@ Both indexes start small and expand naturally.
 | 1536 | Minimum Swaps to Arrange a Binary Grid | Medium | [View](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid/) |
 | 1665 | Minimum Initial Energy to Finish Tasks | Hard | [View](./1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks/) |
 | 1727 | Largest Submatrix With Rearrangements | Medium | [View](./1727.%20Largest%20Submatrix%20With%20Rearrangements/) |
+| 1840 | Maximum Building Height | Hard | [View](./1840.%20Maximum%20Building%20Height/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | [View](./1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) |
 | 2033 | Minimum Operations to Make a Uni-Value Grid | Medium | [View](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/) |
