@@ -31,7 +31,7 @@ Both indexes start small and expand naturally.
 ## Category Index
 
 | Category | Number of Problems | Link |
-| Array | 97 | [View](#array) |
+| Array | 98 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 10 | [View](#bfs) |
 | Binary Search | 16 | [View](#binary-search) |
@@ -40,7 +40,7 @@ Both indexes start small and expand naturally.
 | Bit Manipulation | 13 | [View](#bit-manipulation) |
 | Combinatorics | 1 | [View](#combinatorics) |
 | Coordinate Compression | 1 | [View](#coordinate-compression) |
-| Counting | 8 | [View](#counting) |
+| Counting | 9 | [View](#counting) |
 | DFS | 10 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
@@ -48,7 +48,7 @@ Both indexes start small and expand naturally.
 | Enumeration | 3 | [View](#enumeration) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 8 | [View](#graph) |
-| Greedy | 24 | [View](#greedy) |
+| Greedy | 25 | [View](#greedy) |
 | Hash Table | 20 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
@@ -64,7 +64,7 @@ Both indexes start small and expand naturally.
 | Shortest Path | 4 | [View](#shortest-path) |
 | Simulation | 24 | [View](#simulation) |
 | Sliding Window | 8 | [View](#sliding-window) |
-| Sorting | 23 | [View](#sorting) |
+| Sorting | 24 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
 | String | 39 | [View](#string) |
@@ -146,6 +146,7 @@ Both indexes start small and expand naturally.
 | 1752 | Check if Array Is Sorted and Rotated | Easy | Array | [View](./1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated/) |
 | 1758 | Minimum Changes To Make Alternating Binary String | Easy | String / Greedy | [View](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/) |
 | 1784 | Check if Binary String Has at Most One Segment of Ones | Easy | String | [View](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/) |
+| 1833 | Maximum Ice Cream Bars | Medium | Array / Greedy / Counting / Sorting | [View](./1833.%20Maximum%20Ice%20Cream%20Bars/) |
 | 1840 | Maximum Building Height | Hard | Greedy / Math / Sorting | [View](./1840.%20Maximum%20Building%20Height/) |
 | 1848 | Minimum Distance to the Target Element | Easy | Array | [View](./1848.%20Minimum%20Distance%20to%20the%20Target%20Element/) |
 | 1855 | Maximum Distance Between a Pair of Values | Medium | Array / Two Pointers | [View](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values/) |
@@ -292,6 +293,7 @@ Both indexes start small and expand naturally.
 | 1727 | Largest Submatrix With Rearrangements | Medium | [View](./1727.%20Largest%20Submatrix%20With%20Rearrangements/) |
 | 1732 | Find the Highest Altitude | Easy | [View](./1732.%20Find%20the%20Highest%20Altitude/) |
 | 1752 | Check if Array Is Sorted and Rotated | Easy | [View](./1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated/) |
+| 1833 | Maximum Ice Cream Bars | Medium | [View](./1833.%20Maximum%20Ice%20Cream%20Bars/) |
 | 1848 | Minimum Distance to the Target Element | Easy | [View](./1848.%20Minimum%20Distance%20to%20the%20Target%20Element/) |
 | 1855 | Maximum Distance Between a Pair of Values | Medium | [View](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
@@ -449,6 +451,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 1356 | Sort Integers by The Number of 1 Bits | Easy | [View](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits/) |
+| 1833 | Maximum Ice Cream Bars | Medium | [View](./1833.%20Maximum%20Ice%20Cream%20Bars/) |
 | 2784 | Check if Array is Good | Easy | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
 | 3120 | Count the Number of Special Characters I | Easy | [View](./3120.%20Count%20the%20Number%20of%20Special%20Characters%20I/) |
@@ -555,6 +558,7 @@ Both indexes start small and expand naturally.
 | 1674 | Minimum Moves to Make Array Complementary | Medium | [View](./1674.%20Minimum%20Moves%20to%20Make%20Array%20Complementary/) |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
 | 1758 | Minimum Changes To Make Alternating Binary String | Easy | [View](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/) |
+| 1833 | Maximum Ice Cream Bars | Medium | [View](./1833.%20Maximum%20Ice%20Cream%20Bars/) |
 | 1840 | Maximum Building Height | Hard | [View](./1840.%20Maximum%20Building%20Height/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
 | 1975 | Maximum Matrix Sum | Medium | [View](./1975.%20Maximum%20Matrix%20Sum/) |
@@ -808,6 +812,7 @@ Both indexes start small and expand naturally.
 | 1536 | Minimum Swaps to Arrange a Binary Grid | Medium | [View](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid/) |
 | 1665 | Minimum Initial Energy to Finish Tasks | Hard | [View](./1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks/) |
 | 1727 | Largest Submatrix With Rearrangements | Medium | [View](./1727.%20Largest%20Submatrix%20With%20Rearrangements/) |
+| 1833 | Maximum Ice Cream Bars | Medium | [View](./1833.%20Maximum%20Ice%20Cream%20Bars/) |
 | 1840 | Maximum Building Height | Hard | [View](./1840.%20Maximum%20Building%20Height/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | [View](./1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) |
