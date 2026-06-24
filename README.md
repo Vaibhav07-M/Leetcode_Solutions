@@ -31,7 +31,7 @@ Both indexes start small and expand naturally.
 ## Category Index
 
 | Category | Number of Problems | Link |
-| Array | 99 | [View](#array) |
+| Array | 100 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 10 | [View](#bfs) |
 | Binary Search | 16 | [View](#binary-search) |
@@ -44,10 +44,10 @@ Both indexes start small and expand naturally.
 | DFS | 10 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 28 | [View](#dynamic-programming) |
+| Dynamic Programming | 29 | [View](#dynamic-programming) |
 | Enumeration | 3 | [View](#enumeration) |
 | Geometry | 6 | [View](#geometry) |
-| Graph | 8 | [View](#graph) |
+| Graph | 9 | [View](#graph) |
 | Greedy | 25 | [View](#greedy) |
 | Hash Table | 21 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
@@ -55,6 +55,7 @@ Both indexes start small and expand naturally.
 | Linked List | 3 | [View](#linked-list) |
 | Math | 38 | [View](#math) |
 | Matrix | 33 | [View](#matrix) |
+| Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Monotonic Stack | 2 | [View](#monotonic-stack) |
 | Ordered Set | 2 | [View](#ordered-set) |
 | Prefix Sum | 18 | [View](#prefix-sum) |
@@ -246,6 +247,7 @@ Both indexes start small and expand naturally.
 | 3689 | Maximum Total Subarray Value I | Medium | Array | [View](./3689.%20Maximum%20Total%20Subarray%20Value%20I/) |
 | 3691 | Maximum Total Subarray Value II | Hard | Array | [View](./3691.%20Maximum%20Total%20Subarray%20Value%20II/) |
 | 3699 | Number of ZigZag Arrays I | Hard | Array / Dynamic Programming / Prefix Sum | [View](./3699.%20Number%20of%20ZigZag%20Arrays%20I/) |
+| 3700 | Number of ZigZag Arrays II | Hard | Array / Dynamic Programming / Matrix Exponentiation / Graph | [View](./3700.%20Number%20of%20ZigZag%20Arrays%20II/) |
 | 3713 | Longest Balanced Substring I | Medium | String / Hash Table / Counting | [View](./3713.%20Longest%20Balanced%20Substring%20I/) |
 | 3714 | Longest Balanced Substring II | Medium | String / Hash Table / Prefix Sum | [View](./3714.%20Longest%20Balanced%20Substring%20II/) |
 | 3719 | Longest Balanced Subarray I | Medium | Array / Hash Table / Sliding Window | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
@@ -360,6 +362,7 @@ Both indexes start small and expand naturally.
 | 3689 | Maximum Total Subarray Value I | Medium | [View](./3689.%20Maximum%20Total%20Subarray%20Value%20I/) |
 | 3691 | Maximum Total Subarray Value II | Hard | [View](./3691.%20Maximum%20Total%20Subarray%20Value%20II/) |
 | 3699 | Number of ZigZag Arrays I | Hard | [View](./3699.%20Number%20of%20ZigZag%20Arrays%20I/) |
+| 3700 | Number of ZigZag Arrays II | Hard | [View](./3700.%20Number%20of%20ZigZag%20Arrays%20II/) |
 | 3719 | Longest Balanced Subarray I | Medium | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
 | 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | [View](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) |
@@ -520,6 +523,7 @@ Both indexes start small and expand naturally.
 | 3660 | Jump Game IX | Medium | [View](./3660.%20Jump%20Game%20IX/) |
 | 3661 | Maximum Walls Destroyed by Robots | Hard | [View](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/) |
 | 3699 | Number of ZigZag Arrays I | Hard | [View](./3699.%20Number%20of%20ZigZag%20Arrays%20I/) |
+| 3700 | Number of ZigZag Arrays II | Hard | [View](./3700.%20Number%20of%20ZigZag%20Arrays%20II/) |
 | 3742 | Maximum Path Score in a Grid | Medium | [View](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid/) |
 | 3753 | Total Waviness of Numbers in Range II | Hard | [View](./3753.%20Total%20Waviness%20of%20Numbers%20in%20Range%20II/) |
 
@@ -551,6 +555,7 @@ Both indexes start small and expand naturally.
 | 3629 | Minimum Jumps to Reach End via Prime Teleportation | Medium | [View](./3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation/) |
 | 3650 | Minimum Cost Path with Edge Reversals | Medium | [View](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
+| 3700 | Number of ZigZag Arrays II | Hard | [View](./3700.%20Number%20of%20ZigZag%20Arrays%20II/) |
 
 ### Greedy
 | # | Title | Difficulty | Solution |
@@ -709,6 +714,11 @@ Both indexes start small and expand naturally.
 | 3643 | Flip Square Submatrix Vertically | Easy | [View](./3643.%20Flip%20Square%20Submatrix%20Vertically/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
 | 3742 | Maximum Path Score in a Grid | Medium | [View](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid/) |
+
+### Matrix Exponentiation
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 3700 | Number of ZigZag Arrays II | Hard | [View](./3700.%20Number%20of%20ZigZag%20Arrays%20II/) |
 
 ### Monotonic Stack
 | # | Title | Difficulty | Solution |
