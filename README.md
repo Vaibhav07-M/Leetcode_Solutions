@@ -31,7 +31,7 @@ Both indexes start small and expand naturally.
 ## Category Index
 
 | Category | Number of Problems | Link |
-| Array | 102 | [View](#array) |
+| Array | 103 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 10 | [View](#bfs) |
 | Binary Search | 16 | [View](#binary-search) |
@@ -48,8 +48,8 @@ Both indexes start small and expand naturally.
 | Enumeration | 3 | [View](#enumeration) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 9 | [View](#graph) |
-| Greedy | 25 | [View](#greedy) |
-| Hash Table | 21 | [View](#hash-table) |
+| Greedy | 26 | [View](#greedy) |
+| Hash Table | 22 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
@@ -198,6 +198,7 @@ Both indexes start small and expand naturally.
 | 2977 | Minimum Cost to Convert String II | Hard | String / Dynamic Programming / Graph / Shortest Path / Trie | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
 | 3010 | Divide an Array Into Subarrays With Minimum Cost I | Easy | Array / Greedy | [View](./3010.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I/) |
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | Array / Sliding Window / Heap (Priority Queue) / Ordered Set | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
+| 3020 | Find the Maximum Number of Elements in Subset | Medium | Array / Hash Table / Greedy | [View](./3020.%20Find%20the%20Maximum%20Number%20of%20Elements%20in%20Subset/) |
 | 3043 | Find the Length of the Longest Common Prefix | Medium | Trie | [View](./3043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | Array / Geometry / Math / Enumeration | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
 | 3070 | Count Submatrices with Top-Left Element and Sum Less Than k | Medium | Array / Matrix / Prefix Sum | [View](./3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k/) |
@@ -335,6 +336,7 @@ Both indexes start small and expand naturally.
 | 3129 | Find All Possible Stable Binary Arrays I | Medium | [View](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I/) |
 | 3130 | Find All Possible Stable Binary Arrays II | Hard | [View](./3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II/) |
 | 3161 | Block Placement Queries | Hard | [View](./3161.%20Block%20Placement%20Queries/) |
+| 3020 | Find the Maximum Number of Elements in Subset | Medium | [View](./3020.%20Find%20the%20Maximum%20Number%20of%20Elements%20in%20Subset/) |
 | 3212 | Count Submatrices With Equal Frequency of X and Y | Medium | [View](./3212.%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y/) |
 | 3225 | Maximum Score From Grid Operations | Hard | [View](./3225.%20Maximum%20Score%20From%20Grid%20Operations/) |
 | 3300 | Minimum Element After Replacement With Digit Sum | Easy | [View](./3300.%20Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum/) |
@@ -582,6 +584,7 @@ Both indexes start small and expand naturally.
 | 2144 | Minimum Cost of Buying Candies With Discount | Easy | [View](./2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
 | 3010 | Divide an Array Into Subarrays With Minimum Cost I | Easy | [View](./3010.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I/) |
+| 3020 | Find the Maximum Number of Elements in Subset | Medium | [View](./3020.%20Find%20the%20Maximum%20Number%20of%20Elements%20in%20Subset/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
 | 3474 | Lexicographically Smallest Generated String | Hard | [View](./3474.%20Lexicographically%20Smallest%20Generated%20String/) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
@@ -606,6 +609,7 @@ Both indexes start small and expand naturally.
 | 2784 | Check if Array is Good | Easy | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
+| 3020 | Find the Maximum Number of Elements in Subset | Medium | [View](./3020.%20Find%20the%20Maximum%20Number%20of%20Elements%20in%20Subset/) |
 | 3120 | Count the Number of Special Characters I | Easy | [View](./3120.%20Count%20the%20Number%20of%20Special%20Characters%20I/) |
 | 3488 | Closest Equal Element Queries | Medium | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
 | 3548 | Equal Sum Grid Partition II | Hard | [View](./3548.%20Equal%20Sum%20Grid%20Partition%20II/) |
