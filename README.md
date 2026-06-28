@@ -31,7 +31,7 @@ Both indexes start small and expand naturally.
 ## Category Index
 
 | Category | Number of Problems | Link |
-| Array | 103 | [View](#array) |
+| Array | 104 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 10 | [View](#bfs) |
 | Binary Search | 16 | [View](#binary-search) |
@@ -48,7 +48,7 @@ Both indexes start small and expand naturally.
 | Enumeration | 3 | [View](#enumeration) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 9 | [View](#graph) |
-| Greedy | 26 | [View](#greedy) |
+| Greedy | 27 | [View](#greedy) |
 | Hash Table | 22 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
@@ -65,7 +65,7 @@ Both indexes start small and expand naturally.
 | Shortest Path | 4 | [View](#shortest-path) |
 | Simulation | 24 | [View](#simulation) |
 | Sliding Window | 8 | [View](#sliding-window) |
-| Sorting | 24 | [View](#sorting) |
+| Sorting | 25 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
 | String | 40 | [View](#string) |
@@ -150,6 +150,7 @@ Both indexes start small and expand naturally.
 | 1784 | Check if Binary String Has at Most One Segment of Ones | Easy | String | [View](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/) |
 | 1833 | Maximum Ice Cream Bars | Medium | Array / Greedy / Counting / Sorting | [View](./1833.%20Maximum%20Ice%20Cream%20Bars/) |
 | 1840 | Maximum Building Height | Hard | Greedy / Math / Sorting | [View](./1840.%20Maximum%20Building%20Height/) |
+| 1846 | Maximum Element After Decreasing and Rearranging | Medium | Array / Greedy / Sorting | [View](./1846.%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging/) |
 | 1848 | Minimum Distance to the Target Element | Easy | Array | [View](./1848.%20Minimum%20Distance%20to%20the%20Target%20Element/) |
 | 1855 | Maximum Distance Between a Pair of Values | Medium | Array / Two Pointers | [View](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values/) |
 | 1861 | Rotating the Box | Medium | Matrix / Simulation | [View](./1861.%20Rotating%20the%20Box/) |
@@ -301,6 +302,7 @@ Both indexes start small and expand naturally.
 | 1732 | Find the Highest Altitude | Easy | [View](./1732.%20Find%20the%20Highest%20Altitude/) |
 | 1752 | Check if Array Is Sorted and Rotated | Easy | [View](./1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated/) |
 | 1833 | Maximum Ice Cream Bars | Medium | [View](./1833.%20Maximum%20Ice%20Cream%20Bars/) |
+| 1846 | Maximum Element After Decreasing and Rearranging | Medium | [View](./1846.%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging/) |
 | 1848 | Minimum Distance to the Target Element | Easy | [View](./1848.%20Minimum%20Distance%20to%20the%20Target%20Element/) |
 | 1855 | Maximum Distance Between a Pair of Values | Medium | [View](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
@@ -578,6 +580,7 @@ Both indexes start small and expand naturally.
 | 1758 | Minimum Changes To Make Alternating Binary String | Easy | [View](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/) |
 | 1833 | Maximum Ice Cream Bars | Medium | [View](./1833.%20Maximum%20Ice%20Cream%20Bars/) |
 | 1840 | Maximum Building Height | Hard | [View](./1840.%20Maximum%20Building%20Height/) |
+| 1846 | Maximum Element After Decreasing and Rearranging | Medium | [View](./1846.%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
 | 1975 | Maximum Matrix Sum | Medium | [View](./1975.%20Maximum%20Matrix%20Sum/) |
 | 2126 | Destroying Asteroids | Medium | [View](./2126.%20Destroying%20Asteroids/) |
@@ -843,6 +846,7 @@ Both indexes start small and expand naturally.
 | 1727 | Largest Submatrix With Rearrangements | Medium | [View](./1727.%20Largest%20Submatrix%20With%20Rearrangements/) |
 | 1833 | Maximum Ice Cream Bars | Medium | [View](./1833.%20Maximum%20Ice%20Cream%20Bars/) |
 | 1840 | Maximum Building Height | Hard | [View](./1840.%20Maximum%20Building%20Height/) |
+| 1846 | Maximum Element After Decreasing and Rearranging | Medium | [View](./1846.%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | [View](./1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) |
 | 2033 | Minimum Operations to Make a Uni-Value Grid | Medium | [View](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/) |
