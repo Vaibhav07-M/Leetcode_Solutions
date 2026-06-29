@@ -68,7 +68,7 @@ Both indexes start small and expand naturally.
 | Sorting | 25 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
-| String | 40 | [View](#string) |
+| String | 41 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Trie | 3 | [View](#trie) |
 | Tree | 9 | [View](#tree) |
@@ -161,6 +161,7 @@ Both indexes start small and expand naturally.
 | 1888 | Minimum Number of Flips to Make the Binary String Alternating | Medium | String / Sliding Window | [View](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating/) |
 | 1895 | Largest Magic Square | Medium | Array / Matrix / Prefix Sum | [View](./1895.%20Largest%20Magic%20Square/) |
 | 1914 | Cyclically Rotating a Grid | Medium | Matrix / Simulation | [View](./1914.%20Cyclically%20Rotating%20a%20Grid/) |
+| 1967 | Number of Strings That Appear as Substrings in Word | Easy | String | [View](./1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | Array / Binary Search / BFS / DFS / Union Find / Matrix | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
 | 1975 | Maximum Matrix Sum | Medium | Array / Greedy / Matrix | [View](./1975.%20Maximum%20Matrix%20Sum/) |
 | 1980 | Find Unique Binary String | Medium | Array / String / Backtracking | [View](./1980.%20Find%20Unique%20Binary%20String/) |
@@ -899,6 +900,7 @@ Both indexes start small and expand naturally.
 | 1784 | Check if Binary String Has at Most One Segment of Ones | Easy | [View](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/) |
 | 1871 | Jump Game VII | Medium | [View](./1871.%20Jump%20Game%20VII/) |
 | 1888 | Minimum Number of Flips to Make the Binary String Alternating | Medium | [View](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating/) |
+| 1967 | Number of Strings That Appear as Substrings in Word | Easy | [View](./1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) |
 | 1980 | Find Unique Binary String | Medium | [View](./1980.%20Find%20Unique%20Binary%20String/) |
 | 2075 | Decode the Slanted Ciphertext | Medium | [View](./2075.%20Decode%20the%20Slanted%20Ciphertext/) |
 | 2452 | Words Within Two Edits of Dictionary | Medium | [View](./2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary/) |
