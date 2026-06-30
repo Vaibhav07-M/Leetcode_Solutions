@@ -64,15 +64,15 @@ Both indexes start small and expand naturally.
 | Segment Tree | 2 | [View](#segment-tree) |
 | Shortest Path | 4 | [View](#shortest-path) |
 | Simulation | 24 | [View](#simulation) |
-| Sliding Window | 8 | [View](#sliding-window) |
+| Sliding Window | 9 | [View](#sliding-window) |
 | Sorting | 25 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
-| String | 41 | [View](#string) |
+| String | 42 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Trie | 3 | [View](#trie) |
 | Tree | 9 | [View](#tree) |
-| Two Pointers | 8 | [View](#two-pointers) |
+| Two Pointers | 9 | [View](#two-pointers) |
 | Union Find | 3 | [View](#union-find) |
 
 ### Completed Problems
@@ -123,6 +123,7 @@ Both indexes start small and expand naturally.
 | 1345 | Jump Game IV | Hard | Array / BFS / Graph / Hash Table | [View](./1345.%20Jump%20Game%20IV/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | Binary Search / Matrix | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 | 1356 | Sort Integers by The Number of 1 Bits | Easy | Array / Bit Manipulation / Sorting / Counting | [View](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits/) |
+| 1358 | Number of Substrings Containing All Three Characters | Medium | String / Sliding Window / Two Pointers | [View](./1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters/) |
 | 1382 | Balance a Binary Search Tree | Medium | Tree / DFS / Binary Search Tree / Binary Tree / Greedy / Divide and Conquer | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
 | 1390 | Four Divisors | Medium | Array / Math | [View](./1390.%20Four%20Divisors/) |
 | 1391 | Check if There is a Valid Path in a Grid | Medium | Graph / BFS / DFS / Matrix | [View](./1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/) |
@@ -828,6 +829,7 @@ Both indexes start small and expand naturally.
 ### Sliding Window
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 1358 | Number of Substrings Containing All Three Characters | Medium | [View](./1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters/) |
 | 1871 | Jump Game VII | Medium | [View](./1871.%20Jump%20Game%20VII/) |
 | 1888 | Minimum Number of Flips to Make the Binary String Alternating | Medium | [View](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating/) |
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | [View](./1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) |
@@ -890,6 +892,7 @@ Both indexes start small and expand naturally.
 | 796 | Rotate String | Easy | [View](./796.%20Rotate%20String/) |
 | 1189 | Maximum Number of Balloons | Easy | [View](./1189.%20Maximum%20Number%20of%20Balloons/) |
 | 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard | [View](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/) |
+| 1358 | Number of Substrings Containing All Three Characters | Medium | [View](./1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters/) |
 | 1404 | Number of Steps to Reduce a Number in Binary Representation to One | Medium | [View](./1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/) |
 | 1415 | The k-th Lexicographical String of All Happy Strings of Length n | Medium | [View](./1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/) |
 | 1461 | Check If a String Contains All Binary Codes of Size K | Medium | [View](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/) |
@@ -953,6 +956,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 61 | Rotate List | Medium | [View](./61.%20Rotate%20List/) |
 | 696 | Count Binary Substrings | Easy | [View](./696.%20Count%20Binary%20Substrings/) |
+| 1358 | Number of Substrings Containing All Three Characters | Medium | [View](./1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters/) |
 | 1855 | Maximum Distance Between a Pair of Values | Medium | [View](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
 | 2095 | Delete the Middle Node of a Linked List | Medium | [View](./2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/) |
