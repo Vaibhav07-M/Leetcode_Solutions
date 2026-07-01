@@ -33,8 +33,8 @@ Both indexes start small and expand naturally.
 | Category | Number of Problems | Link |
 | Array | 104 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
-| BFS | 10 | [View](#bfs) |
-| Binary Search | 16 | [View](#binary-search) |
+| BFS | 11 | [View](#bfs) |
+| Binary Search | 17 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 7 | [View](#binary-tree) |
 | Bit Manipulation | 13 | [View](#bit-manipulation) |
@@ -47,14 +47,14 @@ Both indexes start small and expand naturally.
 | Dynamic Programming | 29 | [View](#dynamic-programming) |
 | Enumeration | 3 | [View](#enumeration) |
 | Geometry | 6 | [View](#geometry) |
-| Graph | 9 | [View](#graph) |
+| Graph | 10 | [View](#graph) |
 | Greedy | 27 | [View](#greedy) |
 | Hash Table | 22 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
 | Math | 38 | [View](#math) |
-| Matrix | 33 | [View](#matrix) |
+| Matrix | 34 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Monotonic Stack | 2 | [View](#monotonic-stack) |
 | Ordered Set | 2 | [View](#ordered-set) |
@@ -190,6 +190,7 @@ Both indexes start small and expand naturally.
 | 2751 | Robot Collisions | Hard | Array / Stack / Sorting / Simulation | [View](./2751.%20Robot%20Collisions/) |
 | 2770 | Maximum Number of Jumps to Reach the Last Index | Medium | Dynamic Programming / Segment Tree | [View](./2770.%20Maximum%20Number%20of%20Jumps%20to%20Reach%20the%20Last%20Index/) |
 | 2784 | Check if Array is Good | Easy | Array / Hash Table / Counting | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
+| 2812 | Find the Safest Path in a Grid | Medium | Graph / Breadth-First Search / Binary Search / Matrix | [View](./2812.%20Find%20the%20Safest%20Path%20in%20a%20Grid/) |
 | 2833 | Furthest Point From Origin | Easy | String / Math | [View](./2833.%20Furthest%20Point%20From%20Origin/) |
 | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | String / Simulation | [View](./2839.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) |
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | String / Hash Table / Counting | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
@@ -390,6 +391,7 @@ Both indexes start small and expand naturally.
 | 1391 | Check if There is a Valid Path in a Grid | Medium | [View](./1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/) |
 | 1871 | Jump Game VII | Medium | [View](./1871.%20Jump%20Game%20VII/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
+| 2812 | Find the Safest Path in a Grid | Medium | [View](./2812.%20Find%20the%20Safest%20Path%20in%20a%20Grid/) |
 | 3558 | Number of Ways to Assign Edge Weights I | Medium | [View](./3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) |
 | 3629 | Minimum Jumps to Reach End via Prime Teleportation | Medium | [View](./3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
@@ -411,6 +413,7 @@ Both indexes start small and expand naturally.
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
+| 2812 | Find the Safest Path in a Grid | Medium | [View](./2812.%20Find%20the%20Safest%20Path%20in%20a%20Grid/) |
 | 3161 | Block Placement Queries | Hard | [View](./3161.%20Block%20Placement%20Queries/) |
 | 3296 | Minimum Number of Seconds to Make Mountain Height Zero | Medium | [View](./3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero/) || 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
 | 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
@@ -561,6 +564,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 1345 | Jump Game IV | Hard | [View](./1345.%20Jump%20Game%20IV/) |
 | 1391 | Check if There is a Valid Path in a Grid | Medium | [View](./1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/) |
+| 2812 | Find the Safest Path in a Grid | Medium | [View](./2812.%20Find%20the%20Safest%20Path%20in%20a%20Grid/) |
 | 2976 | Minimum Cost to Convert String I | Medium | [View](./2976.%20Minimum%20Cost%20to%20Convert%20String%20I/) |
 | 2977 | Minimum Cost to Convert String II | Hard | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
 | 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
@@ -718,6 +722,7 @@ Both indexes start small and expand naturally.
 | 2033 | Minimum Operations to Make a Uni-Value Grid | Medium | [View](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/) |
 | 2075 | Decode the Slanted Ciphertext | Medium | [View](./2075.%20Decode%20the%20Slanted%20Ciphertext/) |
 | 2573 | Find the String with LCP | Hard | [View](./2573.%20Find%20the%20String%20with%20LCP/) |
+| 2812 | Find the Safest Path in a Grid | Medium | [View](./2812.%20Find%20the%20Safest%20Path%20in%20a%20Grid/) |
 | 2906 | Construct Product Matrix | Medium | [View](./2906.%20Construct%20Product%20Matrix/) |
 | 2946 | Matrix Similarity After Cyclic Shifts | Easy | [View](./2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts/) |
 | 3070 | Count Submatrices with Top-Left Element and Sum Less Than k | Medium | [View](./3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k/) |
