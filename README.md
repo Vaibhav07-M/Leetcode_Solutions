@@ -31,6 +31,7 @@ Both indexes start small and expand naturally.
 ## Category Index
 
 | Category | Number of Problems | Link |
+|----------|--------------------|------|
 | Array | 104 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 12 | [View](#bfs) |
