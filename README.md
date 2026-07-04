@@ -33,7 +33,7 @@ Both indexes start small and expand naturally.
 | Category | Number of Problems | Link |
 | Array | 104 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
-| BFS | 11 | [View](#bfs) |
+| BFS | 12 | [View](#bfs) |
 | Binary Search | 18 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 7 | [View](#binary-tree) |
@@ -47,7 +47,7 @@ Both indexes start small and expand naturally.
 | Dynamic Programming | 30 | [View](#dynamic-programming) |
 | Enumeration | 3 | [View](#enumeration) |
 | Geometry | 6 | [View](#geometry) |
-| Graph | 12 | [View](#graph) |
+| Graph | 13 | [View](#graph) |
 | Greedy | 27 | [View](#greedy) |
 | Hash Table | 22 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
@@ -181,6 +181,7 @@ Both indexes start small and expand naturally.
 | 2402 | Meeting Rooms III | Hard | Heap / Sorting / Simulation | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 2463 | Minimum Total Distance Traveled | Hard | Array / Dynamic Programming / Sorting | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
 | 2483 | Minimum Penalty for a Shop | Medium | String / Prefix Sum | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
+| 2492 | Minimum Score of a Path Between Two Cities | Medium | Graph / Breadth-First Search | [View](./2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities/) |
 | 2515 | Shortest Distance to Target String in a Circular Array | Easy | Array / String | [View](./2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/) |
 | 2540 | Minimum Common Value | Easy | Array / Two Pointers | [View](./2540.%20Minimum%20Common%20Value/) |
 | 2553 | Separate the Digits in an Array | Easy | Array / Math | [View](./2553.%20Separate%20the%20Digits%20in%20an%20Array/) |
@@ -394,6 +395,7 @@ Both indexes start small and expand naturally.
 | 1391 | Check if There is a Valid Path in a Grid | Medium | [View](./1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/) |
 | 1871 | Jump Game VII | Medium | [View](./1871.%20Jump%20Game%20VII/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
+| 2492 | Minimum Score of a Path Between Two Cities | Medium | [View](./2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities/) |
 | 2812 | Find the Safest Path in a Grid | Medium | [View](./2812.%20Find%20the%20Safest%20Path%20in%20a%20Grid/) |
 | 3558 | Number of Ways to Assign Edge Weights I | Medium | [View](./3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) |
 | 3629 | Minimum Jumps to Reach End via Prime Teleportation | Medium | [View](./3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation/) |
@@ -569,6 +571,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 1345 | Jump Game IV | Hard | [View](./1345.%20Jump%20Game%20IV/) |
 | 1391 | Check if There is a Valid Path in a Grid | Medium | [View](./1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/) |
+| 2492 | Minimum Score of a Path Between Two Cities | Medium | [View](./2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities/) |
 | 2812 | Find the Safest Path in a Grid | Medium | [View](./2812.%20Find%20the%20Safest%20Path%20in%20a%20Grid/) |
 | 2976 | Minimum Cost to Convert String I | Medium | [View](./2976.%20Minimum%20Cost%20to%20Convert%20String%20I/) |
 | 2977 | Minimum Cost to Convert String II | Hard | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
