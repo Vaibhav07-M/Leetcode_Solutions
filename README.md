@@ -45,7 +45,7 @@ Both indexes start small and expand naturally.
 | DFS | 10 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 30 | [View](#dynamic-programming) |
+| Dynamic Programming | 31 | [View](#dynamic-programming) |
 | Enumeration | 3 | [View](#enumeration) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 13 | [View](#graph) |
@@ -55,7 +55,7 @@ Both indexes start small and expand naturally.
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
 | Math | 38 | [View](#math) |
-| Matrix | 35 | [View](#matrix) |
+| Matrix | 36 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Monotonic Stack | 2 | [View](#monotonic-stack) |
 | Ordered Set | 2 | [View](#ordered-set) |
@@ -117,6 +117,7 @@ Both indexes start small and expand naturally.
 | 1200 | Minimum Absolute Difference | Easy | Array / Sorting | [View](./1200.%20Minimum%20Absolute%20Difference/) |
 | 1266 | Minimum Time Visiting All Points | Easy | Array / Math / Geometry | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | Array / Binary Search / Matrix / Prefix Sum | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
+| 1301 | Number of Paths with Max Score | Hard | Dynamic Programming / Matrix | [View](./1301.%20Number%20of%20Paths%20with%20Max%20Score/) |
 | 1306 | Jump Game III | Medium | Array / BFS / DFS | [View](./1306.%20Jump%20Game%20III/) |
 | 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard | String / Dynamic Programming | [View](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | Tree / DFS / Binary Tree / Dynamic Programming | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
@@ -391,6 +392,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
+| 1301 | Number of Paths with Max Score | Hard | [View](./1301.%20Number%20of%20Paths%20with%20Max%20Score/) |
 | 1306 | Jump Game III | Medium | [View](./1306.%20Jump%20Game%20III/) |
 | 1345 | Jump Game IV | Hard | [View](./1345.%20Jump%20Game%20IV/) |
 | 1391 | Check if There is a Valid Path in a Grid | Medium | [View](./1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/) |
@@ -716,6 +718,7 @@ Both indexes start small and expand naturally.
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
+| 1301 | Number of Paths with Max Score | Hard | [View](./1301.%20Number%20of%20Paths%20with%20Max%20Score/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 | 1391 | Check if There is a Valid Path in a Grid | Medium | [View](./1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/) |
 | 1536 | Minimum Swaps to Arrange a Binary Grid | Medium | [View](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid/) |
