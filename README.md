@@ -54,7 +54,7 @@ Both indexes start small and expand naturally.
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
-| Math | 38 | [View](#math) |
+| Math | 39 | [View](#math) |
 | Matrix | 36 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Monotonic Stack | 2 | [View](#monotonic-stack) |
@@ -69,7 +69,7 @@ Both indexes start small and expand naturally.
 | Sorting | 26 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
-| String | 42 | [View](#string) |
+| String | 43 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -271,6 +271,7 @@ Both indexes start small and expand naturally.
 | 3742 | Maximum Path Score in a Grid | Medium | Array / Dynamic Programming / Matrix | [View](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid/) |
 | 3751 | Total Waviness of Numbers in Range I | Medium | Math / Enumeration | [View](./3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I/) |
 | 3753 | Total Waviness of Numbers in Range II | Hard | Math / Digit DP / Dynamic Programming | [View](./3753.%20Total%20Waviness%20of%20Numbers%20in%20Range%20II/) |
+| 3754 | Concatenate Non-Zero Digits and Multiply by Sum I | Easy | Math / String | [View](./3754.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I/) |
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | Array / Hash Table / Math | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
 | 3783 | Mirror Distance of an Integer | Easy | Math | [View](./3783.%20Mirror%20Distance%20of%20an%20Integer/) |
 | 3838 | Weighted Word Mapping | Easy | Array / String / Math | [View](./3838.%20Weighted%20Word%20Mapping/) |
@@ -710,6 +711,7 @@ Both indexes start small and expand naturally.
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 | 3751 | Total Waviness of Numbers in Range I | Medium | [View](./3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I/) |
 | 3753 | Total Waviness of Numbers in Range II | Hard | [View](./3753.%20Total%20Waviness%20of%20Numbers%20in%20Range%20II/) |
+| 3754 | Concatenate Non-Zero Digits and Multiply by Sum I | Easy | [View](./3754.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I/) |
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
 | 3783 | Mirror Distance of an Integer | Easy | [View](./3783.%20Mirror%20Distance%20of%20an%20Integer/) |
 | 3838 | Weighted Word Mapping | Easy | [View](./3838.%20Weighted%20Word%20Mapping/) |
@@ -949,6 +951,7 @@ Both indexes start small and expand naturally.
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 | 3713 | Longest Balanced Substring I | Medium | [View](./3713.%20Longest%20Balanced%20Substring%20I/) |
 | 3714 | Longest Balanced Substring II | Medium | [View](./3714.%20Longest%20Balanced%20Substring%20II/) |
+| 3754 | Concatenate Non-Zero Digits and Multiply by Sum I | Easy | [View](./3754.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I/) |
 | 3838 | Weighted Word Mapping | Easy | [View](./3838.%20Weighted%20Word%20Mapping/) |
 
 ### Suffix
