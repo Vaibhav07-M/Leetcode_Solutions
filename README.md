@@ -48,7 +48,7 @@ Both indexes start small and expand naturally.
 | Dynamic Programming | 31 | [View](#dynamic-programming) |
 | Enumeration | 3 | [View](#enumeration) |
 | Geometry | 6 | [View](#geometry) |
-| Graph | 13 | [View](#graph) |
+| Graph | 14 | [View](#graph) |
 | Greedy | 28 | [View](#greedy) |
 | Hash Table | 22 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
@@ -75,7 +75,7 @@ Both indexes start small and expand naturally.
 | Trie | 3 | [View](#trie) |
 | Tree | 9 | [View](#tree) |
 | Two Pointers | 9 | [View](#two-pointers) |
-| Union Find | 3 | [View](#union-find) |
+| Union Find | 4 | [View](#union-find) |
 
 ### Completed Problems
 
@@ -233,6 +233,7 @@ Both indexes start small and expand naturally.
 | 3488 | Closest Equal Element Queries | Medium | Array / Hash Table / Binary Search | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | Array / Greedy / Simulation | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | Array / Heap / Greedy / Simulation | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
+| 3532 | Path Existence Queries in a Graph I | Medium | Union Find / Graph | [View](./3532.%20Path%20Existence%20Queries%20in%20a%20Graph%20I/) |
 | 3546 | Equal Sum Grid Partition I | Medium | Array / Matrix / Prefix Sum | [View](./3546.%20Equal%20Sum%20Grid%20Partition%20I/) |
 | 3548 | Equal Sum Grid Partition II | Hard | Array / Hash Table / Matrix / Prefix Sum | [View](./3548.%20Equal%20Sum%20Grid%20Partition%20II/) |
 | 3558 | Number of Ways to Assign Edge Weights I | Medium | Tree / BFS / Math | [View](./3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) |
@@ -584,6 +585,7 @@ Both indexes start small and expand naturally.
 | 2976 | Minimum Cost to Convert String I | Medium | [View](./2976.%20Minimum%20Cost%20to%20Convert%20String%20I/) |
 | 2977 | Minimum Cost to Convert String II | Hard | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
 | 3286 | Find a Safe Walk Through a Grid | Medium | [View](./3286.%20Find%20a%20Safe%20Walk%20Through%20a%20Grid/) |
+| 3532 | Path Existence Queries in a Graph I | Medium | [View](./3532.%20Path%20Existence%20Queries%20in%20a%20Graph%20I/) |
 | 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
 | 3620 | Network Recovery Pathways | Hard | [View](./3620.%20Network%20Recovery%20Pathways/) |
 | 3629 | Minimum Jumps to Reach End via Prime Teleportation | Medium | [View](./3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation/) |
@@ -1006,6 +1008,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 1722 | Minimize Hamming Distance After Swap Operations | Medium | [View](./1722.%20Minimize%20Hamming%20Distance%20After%20Swap%20Operations/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
+| 3532 | Path Existence Queries in a Graph I | Medium | [View](./3532.%20Path%20Existence%20Queries%20in%20a%20Graph%20I/) |
 | 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
 
 ---
