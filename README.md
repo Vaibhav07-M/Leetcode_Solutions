@@ -35,6 +35,7 @@ Both indexes start small and expand naturally.
 | Array | 105 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 12 | [View](#bfs) |
+| Binary Lifting | 1 | [View](#binary-lifting) |
 | Binary Search | 19 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 7 | [View](#binary-tree) |
@@ -48,7 +49,7 @@ Both indexes start small and expand naturally.
 | Dynamic Programming | 31 | [View](#dynamic-programming) |
 | Enumeration | 3 | [View](#enumeration) |
 | Geometry | 6 | [View](#geometry) |
-| Graph | 14 | [View](#graph) |
+| Graph | 15 | [View](#graph) |
 | Greedy | 28 | [View](#greedy) |
 | Hash Table | 22 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
@@ -66,7 +67,7 @@ Both indexes start small and expand naturally.
 | Shortest Path | 5 | [View](#shortest-path) |
 | Simulation | 24 | [View](#simulation) |
 | Sliding Window | 9 | [View](#sliding-window) |
-| Sorting | 26 | [View](#sorting) |
+| Sorting | 27 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
 | String | 44 | [View](#string) |
@@ -234,6 +235,7 @@ Both indexes start small and expand naturally.
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | Array / Greedy / Simulation | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | Array / Heap / Greedy / Simulation | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
 | 3532 | Path Existence Queries in a Graph I | Medium | Union Find / Graph | [View](./3532.%20Path%20Existence%20Queries%20in%20a%20Graph%20I/) |
+| 3534 | Path Existence Queries in a Graph II | Hard | Graph / Binary Lifting / Sorting | [View](./3534.%20Path%20Existence%20Queries%20in%20a%20Graph%20II/) |
 | 3546 | Equal Sum Grid Partition I | Medium | Array / Matrix / Prefix Sum | [View](./3546.%20Equal%20Sum%20Grid%20Partition%20I/) |
 | 3548 | Equal Sum Grid Partition II | Hard | Array / Hash Table / Matrix / Prefix Sum | [View](./3548.%20Equal%20Sum%20Grid%20Partition%20II/) |
 | 3558 | Number of Ways to Assign Edge Weights I | Medium | Tree / BFS / Math | [View](./3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) |
@@ -393,6 +395,13 @@ Both indexes start small and expand naturally.
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
 | 3838 | Weighted Word Mapping | Easy | [View](./3838.%20Weighted%20Word%20Mapping/) |
 
+### Backtracking
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 401 | Binary Watch | Easy | [View](./401.%20Binary%20Watch/) |
+| 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
+| 1980 | Find Unique Binary String | Medium | [View](./1980.%20Find%20Unique%20Binary%20String/) |
+
 ### BFS
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
@@ -409,12 +418,10 @@ Both indexes start small and expand naturally.
 | 3629 | Minimum Jumps to Reach End via Prime Teleportation | Medium | [View](./3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 
-### Backtracking
+### Binary Lifting
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
-| 401 | Binary Watch | Easy | [View](./401.%20Binary%20Watch/) |
-| 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
-| 1980 | Find Unique Binary String | Medium | [View](./1980.%20Find%20Unique%20Binary%20String/) |
+| 3534 | Path Existence Queries in a Graph II | Hard | [View](./3534.%20Path%20Existence%20Queries%20in%20a%20Graph%20II/) |
 
 ### Binary Search
 | # | Title | Difficulty | Solution |
@@ -586,6 +593,7 @@ Both indexes start small and expand naturally.
 | 2977 | Minimum Cost to Convert String II | Hard | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
 | 3286 | Find a Safe Walk Through a Grid | Medium | [View](./3286.%20Find%20a%20Safe%20Walk%20Through%20a%20Grid/) |
 | 3532 | Path Existence Queries in a Graph I | Medium | [View](./3532.%20Path%20Existence%20Queries%20in%20a%20Graph%20I/) |
+| 3534 | Path Existence Queries in a Graph II | Hard | [View](./3534.%20Path%20Existence%20Queries%20in%20a%20Graph%20II/) |
 | 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
 | 3620 | Network Recovery Pathways | Hard | [View](./3620.%20Network%20Recovery%20Pathways/) |
 | 3629 | Minimum Jumps to Reach End via Prime Teleportation | Medium | [View](./3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation/) |
@@ -895,6 +903,7 @@ Both indexes start small and expand naturally.
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
 | 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
 | 3464 | Maximize the Distance Between Points on a Square | Hard | [View](./3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square/) |
+| 3534 | Path Existence Queries in a Graph II | Hard | [View](./3534.%20Path%20Existence%20Queries%20in%20a%20Graph%20II/) |
 | 3567 | Minimum Absolute Difference in Sliding Submatrix | Medium | [View](./3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix/) |
 | 3634 | Minimum Removals to Balance Array | Medium | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
 | 3635 | Earliest Finish Time for Land and Water Rides II | Medium | [View](./3635.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20II/) |
