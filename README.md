@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 105 | [View](#array) |
+| Array | 106 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 13 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -51,7 +51,7 @@ Both indexes start small and expand naturally.
 | Geometry | 6 | [View](#geometry) |
 | Graph | 16 | [View](#graph) |
 | Greedy | 28 | [View](#greedy) |
-| Hash Table | 22 | [View](#hash-table) |
+| Hash Table | 23 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
@@ -67,7 +67,7 @@ Both indexes start small and expand naturally.
 | Shortest Path | 5 | [View](#shortest-path) |
 | Simulation | 24 | [View](#simulation) |
 | Sliding Window | 9 | [View](#sliding-window) |
-| Sorting | 27 | [View](#sorting) |
+| Sorting | 28 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
 | String | 44 | [View](#string) |
@@ -122,6 +122,7 @@ Both indexes start small and expand naturally.
 | 1301 | Number of Paths with Max Score | Hard | Dynamic Programming / Matrix | [View](./1301.%20Number%20of%20Paths%20with%20Max%20Score/) |
 | 1306 | Jump Game III | Medium | Array / BFS / DFS | [View](./1306.%20Jump%20Game%20III/) |
 | 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard | String / Dynamic Programming | [View](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/) |
+| 1331 | Rank Transform of an Array | Easy | Array / Sorting / Hash Table | [View](./1331.%20Rank%20Transform%20of%20an%20Array/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | Tree / DFS / Binary Tree / Dynamic Programming | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1340 | Jump Game V | Hard | Array / Dynamic Programming / DFS | [View](./1340.%20Jump%20Game%20V/) |
 | 1344 | Angle Between Hands of a Clock | Medium | Math / Geometry | [View](./1344.%20Angle%20Between%20Hands%20of%20a%20Clock/) |
@@ -303,6 +304,7 @@ Both indexes start small and expand naturally.
 | 1288 | Remove Covered Intervals | Medium | [View](./1288.%20Remove%20Covered%20Intervals/) |
 | 1292 | Maximum Side Length of a Square with Sum less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
 | 1306 | Jump Game III | Medium | [View](./1306.%20Jump%20Game%20III/) |
+| 1331 | Rank Transform of an Array | Easy | [View](./1331.%20Rank%20Transform%20of%20an%20Array/) |
 | 1340 | Jump Game V | Hard | [View](./1340.%20Jump%20Game%20V/) |
 | 1345 | Jump Game IV | Hard | [View](./1345.%20Jump%20Game%20IV/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
@@ -643,6 +645,7 @@ Both indexes start small and expand naturally.
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
 | 1189 | Maximum Number of Balloons | Easy | [View](./1189.%20Maximum%20Number%20of%20Balloons/) |
+| 1331 | Rank Transform of an Array | Easy | [View](./1331.%20Rank%20Transform%20of%20an%20Array/) |
 | 1345 | Jump Game IV | Hard | [View](./1345.%20Jump%20Game%20IV/) |
 | 1461 | Check If a String Contains All Binary Codes of Size K | Medium | [View](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/) |
 | 2196 | Create Binary Tree From Descriptions | Medium | [View](./2196.%20Create%20Binary%20Tree%20From%20Descriptions/) |
@@ -886,6 +889,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 1200 | Minimum Absolute Difference | Easy | [View](./1200.%20Minimum%20Absolute%20Difference/) |
 | 1288 | Remove Covered Intervals | Medium | [View](./1288.%20Remove%20Covered%20Intervals/) |
+| 1331 | Rank Transform of an Array | Easy | [View](./1331.%20Rank%20Transform%20of%20an%20Array/) |
 | 1356 | Sort Integers by The Number of 1 Bits | Easy | [View](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits/) |
 | 1536 | Minimum Swaps to Arrange a Binary Grid | Medium | [View](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid/) |
 | 1665 | Minimum Initial Energy to Finish Tasks | Hard | [View](./1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks/) |
