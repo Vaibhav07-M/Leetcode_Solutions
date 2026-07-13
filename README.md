@@ -47,7 +47,7 @@ Both indexes start small and expand naturally.
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
 | Dynamic Programming | 31 | [View](#dynamic-programming) |
-| Enumeration | 3 | [View](#enumeration) |
+| Enumeration | 4 | [View](#enumeration) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 16 | [View](#graph) |
 | Greedy | 28 | [View](#greedy) |
@@ -55,7 +55,7 @@ Both indexes start small and expand naturally.
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
-| Math | 39 | [View](#math) |
+| Math | 40 | [View](#math) |
 | Matrix | 36 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Monotonic Stack | 2 | [View](#monotonic-stack) |
@@ -70,7 +70,7 @@ Both indexes start small and expand naturally.
 | Sorting | 28 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
-| String | 44 | [View](#string) |
+| String | 45 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -118,6 +118,7 @@ Both indexes start small and expand naturally.
 | 1200 | Minimum Absolute Difference | Easy | Array / Sorting | [View](./1200.%20Minimum%20Absolute%20Difference/) |
 | 1266 | Minimum Time Visiting All Points | Easy | Array / Math / Geometry | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
 | 1288 | Remove Covered Intervals | Medium | Array / Greedy / Sorting | [View](./1288.%20Remove%20Covered%20Intervals/) |
+| 1291 | Sequential Digits | Medium | Math / Enumeration / String | [View](./1291.%20Sequential%20Digits/) |
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | Array / Binary Search / Matrix / Prefix Sum | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
 | 1301 | Number of Paths with Max Score | Hard | Dynamic Programming / Matrix | [View](./1301.%20Number%20of%20Paths%20with%20Max%20Score/) |
 | 1306 | Jump Game III | Medium | Array / BFS / DFS | [View](./1306.%20Jump%20Game%20III/) |
@@ -572,6 +573,7 @@ Both indexes start small and expand naturally.
 ### Enumeration
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 1291 | Sequential Digits | Medium | [View](./1291.%20Sequential%20Digits/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
 | 3751 | Total Waviness of Numbers in Range I | Medium | [View](./3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I/) |
@@ -703,6 +705,7 @@ Both indexes start small and expand naturally.
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 1266 | Minimum Time Visiting All Points | Easy | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
+| 1291 | Sequential Digits | Medium | [View](./1291.%20Sequential%20Digits/) |
 | 1344 | Angle Between Hands of a Clock | Medium | [View](./1344.%20Angle%20Between%20Hands%20of%20a%20Clock/) |
 | 1390 | Four Divisors | Medium | [View](./1390.%20Four%20Divisors/) |
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
@@ -939,6 +942,7 @@ Both indexes start small and expand naturally.
 | 761 | Special Binary String | Hard | [View](./761.%20Special%20Binary%20String/) |
 | 796 | Rotate String | Easy | [View](./796.%20Rotate%20String/) |
 | 1189 | Maximum Number of Balloons | Easy | [View](./1189.%20Maximum%20Number%20of%20Balloons/) |
+| 1291 | Sequential Digits | Medium | [View](./1291.%20Sequential%20Digits/) |
 | 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard | [View](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/) |
 | 1358 | Number of Substrings Containing All Three Characters | Medium | [View](./1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters/) |
 | 1404 | Number of Steps to Reduce a Number in Binary Representation to One | Medium | [View](./1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/) |
