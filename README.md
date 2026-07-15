@@ -48,7 +48,7 @@ Both indexes start small and expand naturally.
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
 | Dynamic Programming | 32 | [View](#dynamic-programming) |
 | Enumeration | 4 | [View](#enumeration) |
-| GCD | 1 | [View](#gcd) |
+| GCD | 2 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 16 | [View](#graph) |
 | Greedy | 28 | [View](#greedy) |
@@ -56,10 +56,11 @@ Both indexes start small and expand naturally.
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
-| Math | 41 | [View](#math) |
+| Math | 42 | [View](#math) |
 | Matrix | 36 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Monotonic Stack | 2 | [View](#monotonic-stack) |
+| Number Theory | 1 | [View](#number-theory) |
 | Ordered Set | 2 | [View](#ordered-set) |
 | Prefix Sum | 21 | [View](#prefix-sum) |
 | Recursion | 2 | [View](#recursion) |
@@ -261,6 +262,7 @@ Both indexes start small and expand naturally.
 | 3653 | XOR After Range Multiplication Queries I | Medium | Array / Math / Simulation | [View](./3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I/) |
 | 3655 | XOR After Range Multiplication Queries II | Hard | Array / Math / Simulation / Square Root Decomposition | [View](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II/) |
 | 3629 | Minimum Jumps to Reach End via Prime Teleportation | Medium | Array / BFS / Graph / Math | [View](./3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation/) |
+| 3658 | GCD of Odd and Even Sums | Easy | Math / Number Theory / GCD | [View](./3658.%20GCD%20of%20Odd%20and%20Even%20Sums/) |
 | 3660 | Jump Game IX | Medium | Array / Monotonic Stack / Dynamic Programming | [View](./3660.%20Jump%20Game%20IX/) |
 | 3661 | Maximum Walls Destroyed by Robots | Hard | Array / Binary Search / Dynamic Programming / Sorting | [View](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | String / BFS / Math / Greedy | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
@@ -585,6 +587,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 3336 | Find the Number of Subsequences With Equal GCD | Hard | [View](./3336.%20Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD/) |
+| 3658 | GCD of Odd and Even Sums | Easy | [View](./3658.%20GCD%20of%20Odd%20and%20Even%20Sums/) |
 
 ### Geometry
 | # | Title | Difficulty | Solution |
@@ -738,6 +741,7 @@ Both indexes start small and expand naturally.
 | 3629 | Minimum Jumps to Reach End via Prime Teleportation | Medium | [View](./3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation/) |
 | 3653 | XOR After Range Multiplication Queries I | Medium | [View](./3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I/) |
 | 3655 | XOR After Range Multiplication Queries II | Hard | [View](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II/) |
+| 3658 | GCD of Odd and Even Sums | Easy | [View](./3658.%20GCD%20of%20Odd%20and%20Even%20Sums/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 | 3751 | Total Waviness of Numbers in Range I | Medium | [View](./3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I/) |
 | 3753 | Total Waviness of Numbers in Range II | Hard | [View](./3753.%20Total%20Waviness%20of%20Numbers%20in%20Range%20II/) |
@@ -795,6 +799,11 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 3660 | Jump Game IX | Medium | [View](./3660.%20Jump%20Game%20IX/) |
+
+### Number Theory
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 3658 | GCD of Odd and Even Sums | Easy | [View](./3658.%20GCD%20of%20Odd%20and%20Even%20Sums/) |
 
 ### Ordered Set
 | # | Title | Difficulty | Solution |
