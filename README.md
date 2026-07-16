@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 106 | [View](#array) |
+| Array | 107 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 13 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -48,7 +48,7 @@ Both indexes start small and expand naturally.
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
 | Dynamic Programming | 32 | [View](#dynamic-programming) |
 | Enumeration | 4 | [View](#enumeration) |
-| GCD | 2 | [View](#gcd) |
+| GCD | 3 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 16 | [View](#graph) |
 | Greedy | 28 | [View](#greedy) |
@@ -56,11 +56,11 @@ Both indexes start small and expand naturally.
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
-| Math | 42 | [View](#math) |
+| Math | 43 | [View](#math) |
 | Matrix | 36 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Monotonic Stack | 2 | [View](#monotonic-stack) |
-| Number Theory | 1 | [View](#number-theory) |
+| Number Theory | 2 | [View](#number-theory) |
 | Ordered Set | 2 | [View](#ordered-set) |
 | Prefix Sum | 21 | [View](#prefix-sum) |
 | Recursion | 2 | [View](#recursion) |
@@ -69,7 +69,7 @@ Both indexes start small and expand naturally.
 | Shortest Path | 5 | [View](#shortest-path) |
 | Simulation | 24 | [View](#simulation) |
 | Sliding Window | 9 | [View](#sliding-window) |
-| Sorting | 28 | [View](#sorting) |
+| Sorting | 29 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
 | String | 45 | [View](#string) |
@@ -77,7 +77,7 @@ Both indexes start small and expand naturally.
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
 | Tree | 9 | [View](#tree) |
-| Two Pointers | 9 | [View](#two-pointers) |
+| Two Pointers | 10 | [View](#two-pointers) |
 | Union Find | 4 | [View](#union-find) |
 
 ### Completed Problems
@@ -286,6 +286,7 @@ Both indexes start small and expand naturally.
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | Array / Hash Table / Math | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
 | 3783 | Mirror Distance of an Integer | Easy | Math | [View](./3783.%20Mirror%20Distance%20of%20an%20Integer/) |
 | 3838 | Weighted Word Mapping | Easy | Array / String / Math | [View](./3838.%20Weighted%20Word%20Mapping/) |
+| 3867 | Sum of GCD of Formed Pairs | Medium | Array / Math / Number Theory / GCD / Sorting / Two Pointers | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 
 ---
 
@@ -402,6 +403,7 @@ Both indexes start small and expand naturally.
 | 3742 | Maximum Path Score in a Grid | Medium | [View](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid/) |
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
 | 3838 | Weighted Word Mapping | Easy | [View](./3838.%20Weighted%20Word%20Mapping/) |
+| 3867 | Sum of GCD of Formed Pairs | Medium | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 
 ### Backtracking
 | # | Title | Difficulty | Solution |
@@ -588,6 +590,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 3336 | Find the Number of Subsequences With Equal GCD | Hard | [View](./3336.%20Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD/) |
 | 3658 | GCD of Odd and Even Sums | Easy | [View](./3658.%20GCD%20of%20Odd%20and%20Even%20Sums/) |
+| 3867 | Sum of GCD of Formed Pairs | Medium | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 
 ### Geometry
 | # | Title | Difficulty | Solution |
@@ -749,6 +752,7 @@ Both indexes start small and expand naturally.
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
 | 3783 | Mirror Distance of an Integer | Easy | [View](./3783.%20Mirror%20Distance%20of%20an%20Integer/) |
 | 3838 | Weighted Word Mapping | Easy | [View](./3838.%20Weighted%20Word%20Mapping/) |
+| 3867 | Sum of GCD of Formed Pairs | Medium | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 
 ### Matrix
 | # | Title | Difficulty | Solution |
@@ -804,6 +808,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 3658 | GCD of Odd and Even Sums | Easy | [View](./3658.%20GCD%20of%20Odd%20and%20Even%20Sums/) |
+| 3867 | Sum of GCD of Formed Pairs | Medium | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 
 ### Ordered Set
 | # | Title | Difficulty | Solution |
@@ -936,6 +941,7 @@ Both indexes start small and expand naturally.
 | 3634 | Minimum Removals to Balance Array | Medium | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
 | 3635 | Earliest Finish Time for Land and Water Rides II | Medium | [View](./3635.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20II/) |
 | 3661 | Maximum Walls Destroyed by Robots | Hard | [View](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/) |
+| 3867 | Sum of GCD of Formed Pairs | Medium | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 
 ### Square Root Decomposition
 | # | Title | Difficulty | Solution |
@@ -1040,6 +1046,7 @@ Both indexes start small and expand naturally.
 | 2130 | Maximum Twin Sum of a Linked List | Medium | [View](./2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/) |
 | 2540 | Minimum Common Value | Easy | [View](./2540.%20Minimum%20Common%20Value/) |
 | 3634 | Minimum Removals to Balance Array | Medium | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
+| 3867 | Sum of GCD of Formed Pairs | Medium | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 
 ### Union Find
 | # | Title | Difficulty | Solution |
