@@ -32,11 +32,11 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 107 | [View](#array) |
+| Array | 108 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 13 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
-| Binary Search | 19 | [View](#binary-search) |
+| Binary Search | 20 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 7 | [View](#binary-tree) |
 | Bit Manipulation | 13 | [View](#bit-manipulation) |
@@ -48,28 +48,29 @@ Both indexes start small and expand naturally.
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
 | Dynamic Programming | 32 | [View](#dynamic-programming) |
 | Enumeration | 4 | [View](#enumeration) |
-| GCD | 3 | [View](#gcd) |
+| GCD | 4 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 16 | [View](#graph) |
 | Greedy | 28 | [View](#greedy) |
 | Hash Table | 23 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
+| Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
-| Math | 43 | [View](#math) |
+| Math | 44 | [View](#math) |
 | Matrix | 36 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Monotonic Stack | 2 | [View](#monotonic-stack) |
-| Number Theory | 2 | [View](#number-theory) |
+| Number Theory | 3 | [View](#number-theory) |
 | Ordered Set | 2 | [View](#ordered-set) |
-| Prefix Sum | 21 | [View](#prefix-sum) |
+| Prefix Sum | 22 | [View](#prefix-sum) |
 | Recursion | 2 | [View](#recursion) |
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Segment Tree | 2 | [View](#segment-tree) |
 | Shortest Path | 5 | [View](#shortest-path) |
 | Simulation | 24 | [View](#simulation) |
 | Sliding Window | 9 | [View](#sliding-window) |
-| Sorting | 29 | [View](#sorting) |
+| Sorting | 30 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 3 | [View](#stack) |
 | String | 45 | [View](#string) |
@@ -228,6 +229,7 @@ Both indexes start small and expand naturally.
 | 3286 | Find a Safe Walk Through a Grid | Medium | Graph / Shortest Path / Matrix | [View](./3286.%20Find%20a%20Safe%20Walk%20Through%20a%20Grid/) |
 | 3296 | Minimum Number of Seconds to Make Mountain Height Zero | Medium | Binary Search / Math | [View](./3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero/) |
 | 3300 | Minimum Element After Replacement With Digit Sum | Easy | Array / Math | [View](./3300.%20Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum/) |
+| 3312 | Sorted GCD Pair Queries | Hard | Array / Math / Number Theory / GCD / Sorting / Binary Search / Prefix Sum / Inclusion-Exclusion | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
 | 3314 | Construct the Minimum Bitwise Array I | Easy | Array / Bit Manipulation | [View](./3314.%20Construct%20the%20Minimum%20Bitwise%20Array%20I/) |
 | 3315 | Construct the Minimum Bitwise Array II | Medium | Array / Bit Manipulation | [View](./3315.%20Construct%20the%20Minimum%20Bitwise%20Array%20II/) |
 | 3336 | Find the Number of Subsequences With Equal GCD | Hard | Dynamic Programming / Math / GCD | [View](./3336.%20Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD/) |
@@ -367,6 +369,7 @@ Both indexes start small and expand naturally.
 | 3212 | Count Submatrices With Equal Frequency of X and Y | Medium | [View](./3212.%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y/) |
 | 3225 | Maximum Score From Grid Operations | Hard | [View](./3225.%20Maximum%20Score%20From%20Grid%20Operations/) |
 | 3300 | Minimum Element After Replacement With Digit Sum | Easy | [View](./3300.%20Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum/) |
+| 3312 | Sorted GCD Pair Queries | Hard | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
 | 3314 | Construct the Minimum Bitwise Array I | Easy | [View](./3314.%20Construct%20the%20Minimum%20Bitwise%20Array%20I/) |
 | 3315 | Construct the Minimum Bitwise Array II | Medium | [View](./3315.%20Construct%20the%20Minimum%20Bitwise%20Array%20II/) |
 | 3379 | Transformed Array | Easy | [View](./3379.%20Transformed%20Array/) |
@@ -447,6 +450,7 @@ Both indexes start small and expand naturally.
 | 2812 | Find the Safest Path in a Grid | Medium | [View](./2812.%20Find%20the%20Safest%20Path%20in%20a%20Grid/) |
 | 3161 | Block Placement Queries | Hard | [View](./3161.%20Block%20Placement%20Queries/) |
 | 3296 | Minimum Number of Seconds to Make Mountain Height Zero | Medium | [View](./3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero/) || 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
+| 3312 | Sorted GCD Pair Queries | Hard | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
 | 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
 | 3464 | Maximize the Distance Between Points on a Square | Hard | [View](./3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square/) |
 | 3488 | Closest Equal Element Queries | Medium | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
@@ -588,6 +592,7 @@ Both indexes start small and expand naturally.
 ### GCD
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 3312 | Sorted GCD Pair Queries | Hard | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
 | 3336 | Find the Number of Subsequences With Equal GCD | Hard | [View](./3336.%20Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD/) |
 | 3658 | GCD of Odd and Even Sums | Easy | [View](./3658.%20GCD%20of%20Odd%20and%20Even%20Sums/) |
 | 3867 | Sum of GCD of Formed Pairs | Medium | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
@@ -690,6 +695,11 @@ Both indexes start small and expand naturally.
 | 3650 | Minimum Cost Path with Edge Reversals | Medium | [View](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
 
+### Inclusion-Exclusion
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 3312 | Sorted GCD Pair Queries | Hard | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
+
 ### Line Sweep
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
@@ -737,6 +747,7 @@ Both indexes start small and expand naturally.
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
 | 3296 | Minimum Number of Seconds to Make Mountain Height Zero | Medium | [View](./3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero/) |
 | 3300 | Minimum Number of Seconds to Make Mountain Height Zero II | Hard | [View](./3300.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero%20II/) |
+| 3312 | Sorted GCD Pair Queries | Hard | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
 | 3336 | Find the Number of Subsequences With Equal GCD | Hard | [View](./3336.%20Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
 | 3558 | Number of Ways to Assign Edge Weights I | Medium | [View](./3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) |
@@ -807,6 +818,7 @@ Both indexes start small and expand naturally.
 ### Number Theory
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 3312 | Sorted GCD Pair Queries | Hard | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
 | 3658 | GCD of Odd and Even Sums | Easy | [View](./3658.%20GCD%20of%20Odd%20and%20Even%20Sums/) |
 | 3867 | Sum of GCD of Formed Pairs | Medium | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 
@@ -832,6 +844,7 @@ Both indexes start small and expand naturally.
 | 3070 | Count Submatrices with Top-Left Element and Sum Less Than k | Medium | [View](./3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k/) |
 | 3212 | Count Submatrices With Equal Frequency of X and Y | Medium | [View](./3212.%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y/) |
 | 3225 | Maximum Score From Grid Operations | Hard | [View](./3225.%20Maximum%20Score%20From%20Grid%20Operations/) |
+| 3312 | Sorted GCD Pair Queries | Hard | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
 | 3546 | Equal Sum Grid Partition I | Medium | [View](./3546.%20Equal%20Sum%20Grid%20Partition%20I/) |
 | 3548 | Equal Sum Grid Partition II | Hard | [View](./3548.%20Equal%20Sum%20Grid%20Partition%20II/) |
 | 3699 | Number of ZigZag Arrays I | Hard | [View](./3699.%20Number%20of%20ZigZag%20Arrays%20I/) |
@@ -933,6 +946,7 @@ Both indexes start small and expand naturally.
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
+| 3312 | Sorted GCD Pair Queries | Hard | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
 | 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
 | 3464 | Maximize the Distance Between Points on a Square | Hard | [View](./3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square/) |
