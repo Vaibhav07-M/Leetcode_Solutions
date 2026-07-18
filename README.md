@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 108 | [View](#array) |
+| Array | 109 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 13 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -48,7 +48,7 @@ Both indexes start small and expand naturally.
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
 | Dynamic Programming | 32 | [View](#dynamic-programming) |
 | Enumeration | 4 | [View](#enumeration) |
-| GCD | 4 | [View](#gcd) |
+| GCD | 5 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 16 | [View](#graph) |
 | Greedy | 28 | [View](#greedy) |
@@ -57,11 +57,11 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
-| Math | 44 | [View](#math) |
+| Math | 45 | [View](#math) |
 | Matrix | 36 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Monotonic Stack | 2 | [View](#monotonic-stack) |
-| Number Theory | 3 | [View](#number-theory) |
+| Number Theory | 4 | [View](#number-theory) |
 | Ordered Set | 2 | [View](#ordered-set) |
 | Prefix Sum | 22 | [View](#prefix-sum) |
 | Recursion | 2 | [View](#recursion) |
@@ -175,6 +175,7 @@ Both indexes start small and expand naturally.
 | 1967 | Number of Strings That Appear as Substrings in Word | Easy | String | [View](./1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | Array / Binary Search / BFS / DFS / Union Find / Matrix | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
 | 1975 | Maximum Matrix Sum | Medium | Array / Greedy / Matrix | [View](./1975.%20Maximum%20Matrix%20Sum/) |
+| 1979 | Find Greatest Common Divisor of Array | Easy | Array / Math / Number Theory / GCD | [View](./1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array/) |
 | 1980 | Find Unique Binary String | Medium | Array / String / Backtracking | [View](./1980.%20Find%20Unique%20Binary%20String/) |
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | Array / Sorting / Sliding Window | [View](./1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) |
 | 2033 | Minimum Operations to Make a Uni-Value Grid | Medium | Array / Matrix / Math / Sorting | [View](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/) |
@@ -337,6 +338,7 @@ Both indexes start small and expand naturally.
 | 1895 | Largest Magic Square | Medium | [View](./1895.%20Largest%20Magic%20Square/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
 | 1975 | Maximum Matrix Sum | Medium | [View](./1975.%20Maximum%20Matrix%20Sum/) |
+| 1979 | Find Greatest Common Divisor of Array | Easy | [View](./1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array/) |
 | 1980 | Find Unique Binary String | Medium | [View](./1980.%20Find%20Unique%20Binary%20String/) |
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | [View](./1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) |
 | 2033 | Minimum Operations to Make a Uni-Value Grid | Medium | [View](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/) |
@@ -592,6 +594,7 @@ Both indexes start small and expand naturally.
 ### GCD
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 1979 | Find Greatest Common Divisor of Array | Easy | [View](./1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array/) |
 | 3312 | Sorted GCD Pair Queries | Hard | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
 | 3336 | Find the Number of Subsequences With Equal GCD | Hard | [View](./3336.%20Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD/) |
 | 3658 | GCD of Odd and Even Sums | Easy | [View](./3658.%20GCD%20of%20Odd%20and%20Even%20Sums/) |
@@ -738,6 +741,7 @@ Both indexes start small and expand naturally.
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
 | 1840 | Maximum Building Height | Hard | [View](./1840.%20Maximum%20Building%20Height/) |
+| 1979 | Find Greatest Common Divisor of Array | Easy | [View](./1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array/) |
 | 2033 | Minimum Operations to Make a Uni-Value Grid | Medium | [View](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/) |
 | 2069 | Walking Robot Simulation II | Medium | [View](./2069.%20Walking%20Robot%20Simulation%20II/) |
 | 2553 | Separate the Digits in an Array | Easy | [View](./2553.%20Separate%20the%20Digits%20in%20an%20Array/) |
@@ -818,6 +822,7 @@ Both indexes start small and expand naturally.
 ### Number Theory
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 1979 | Find Greatest Common Divisor of Array | Easy | [View](./1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array/) |
 | 3312 | Sorted GCD Pair Queries | Hard | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
 | 3658 | GCD of Odd and Even Sums | Easy | [View](./3658.%20GCD%20of%20Odd%20and%20Even%20Sums/) |
 | 3867 | Sum of GCD of Formed Pairs | Medium | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
