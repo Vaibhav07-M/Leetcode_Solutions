@@ -51,7 +51,7 @@ Both indexes start small and expand naturally.
 | GCD | 5 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 16 | [View](#graph) |
-| Greedy | 28 | [View](#greedy) |
+| Greedy | 29 | [View](#greedy) |
 | Hash Table | 23 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
@@ -60,7 +60,7 @@ Both indexes start small and expand naturally.
 | Math | 45 | [View](#math) |
 | Matrix | 36 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
-| Monotonic Stack | 2 | [View](#monotonic-stack) |
+| Monotonic Stack | 3 | [View](#monotonic-stack) |
 | Number Theory | 4 | [View](#number-theory) |
 | Ordered Set | 2 | [View](#ordered-set) |
 | Prefix Sum | 22 | [View](#prefix-sum) |
@@ -72,8 +72,8 @@ Both indexes start small and expand naturally.
 | Sliding Window | 9 | [View](#sliding-window) |
 | Sorting | 30 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
-| Stack | 3 | [View](#stack) |
-| String | 45 | [View](#string) |
+| Stack | 4 | [View](#stack) |
+| String | 46 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -114,8 +114,8 @@ Both indexes start small and expand naturally.
 | 874 | Walking Robot Simulation | Medium | Simulation | [View](./874.%20Walking%20Robot%20Simulation/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | Array / Hash Table | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
 | 1009 | Complement of Base 10 Integer | Easy | Bit Manipulation | [View](./1009.%20Complement%20of%20Base%2010%20Integer/) |
-| 3161 | Block Placement Queries | Hard | Ordered Set / Array / Binary Search | [View](./3161.%20Block%20Placement%20Queries/) |
 | 1022 | Sum of Root To Leaf Binary Numbers | Easy | Tree / DFS / Binary Tree | [View](./1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/) |
+| 1081 | Smallest Subsequence of Distinct Characters | Medium | String / Stack / Greedy / Monotonic Stack | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | Tree / BFS / Binary Tree | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1189 | Maximum Number of Balloons | Easy | String / Hash Table / Counting | [View](./1189.%20Maximum%20Number%20of%20Balloons/) |
 | 1200 | Minimum Absolute Difference | Easy | Array / Sorting | [View](./1200.%20Minimum%20Absolute%20Difference/) |
@@ -225,6 +225,7 @@ Both indexes start small and expand naturally.
 | 3121 | Count the Number of Special Characters II | Medium | String / Counting | [View](./3121.%20Count%20the%20Number%20of%20Special%20Characters%20II/) |
 | 3129 | Find All Possible Stable Binary Arrays I | Medium | Array / Dynamic Programming | [View](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I/) |
 | 3130 | Find All Possible Stable Binary Arrays II | Hard | Array / Dynamic Programming | [View](./3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II/) |
+| 3161 | Block Placement Queries | Hard | Ordered Set / Array / Binary Search | [View](./3161.%20Block%20Placement%20Queries/) |
 | 3212 | Count Submatrices With Equal Frequency of X and Y | Medium | Array / Matrix / Prefix Sum | [View](./3212.%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y/) |
 | 3225 | Maximum Score From Grid Operations | Hard | Array / Dynamic Programming / Matrix / Prefix Sum | [View](./3225.%20Maximum%20Score%20From%20Grid%20Operations/) |
 | 3286 | Find a Safe Walk Through a Grid | Medium | Graph / Shortest Path / Matrix | [View](./3286.%20Find%20a%20Safe%20Walk%20Through%20a%20Grid/) |
@@ -634,6 +635,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 761 | Special Binary String | Hard | [View](./761.%20Special%20Binary%20String/) |
+| 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
 | 1288 | Remove Covered Intervals | Medium | [View](./1288.%20Remove%20Covered%20Intervals/) |
 | 1382 | Balance a Binary Search Tree | Medium | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
 | 1415 | The k-th Lexicographical String of All Happy Strings of Length n | Medium | [View](./1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/) |
@@ -817,6 +819,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
+| 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
 | 3660 | Jump Game IX | Medium | [View](./3660.%20Jump%20Game%20IX/) |
 
 ### Number Theory
@@ -971,6 +974,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
+| 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
 
@@ -984,6 +988,7 @@ Both indexes start small and expand naturally.
 | 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 761 | Special Binary String | Hard | [View](./761.%20Special%20Binary%20String/) |
 | 796 | Rotate String | Easy | [View](./796.%20Rotate%20String/) |
+| 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
 | 1189 | Maximum Number of Balloons | Easy | [View](./1189.%20Maximum%20Number%20of%20Balloons/) |
 | 1291 | Sequential Digits | Medium | [View](./1291.%20Sequential%20Digits/) |
 | 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard | [View](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/) |
