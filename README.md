@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 109 | [View](#array) |
+| Array | 110 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 13 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -58,7 +58,7 @@ Both indexes start small and expand naturally.
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
 | Math | 45 | [View](#math) |
-| Matrix | 36 | [View](#matrix) |
+| Matrix | 37 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Monotonic Stack | 3 | [View](#monotonic-stack) |
 | Number Theory | 4 | [View](#number-theory) |
@@ -68,7 +68,7 @@ Both indexes start small and expand naturally.
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Segment Tree | 2 | [View](#segment-tree) |
 | Shortest Path | 5 | [View](#shortest-path) |
-| Simulation | 24 | [View](#simulation) |
+| Simulation | 25 | [View](#simulation) |
 | Sliding Window | 9 | [View](#sliding-window) |
 | Sorting | 30 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
@@ -119,6 +119,7 @@ Both indexes start small and expand naturally.
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | Tree / BFS / Binary Tree | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1189 | Maximum Number of Balloons | Easy | String / Hash Table / Counting | [View](./1189.%20Maximum%20Number%20of%20Balloons/) |
 | 1200 | Minimum Absolute Difference | Easy | Array / Sorting | [View](./1200.%20Minimum%20Absolute%20Difference/) |
+| 1260 | Shift 2D Grid | Easy | Array / Matrix / Simulation | [View](./1260.%20Shift%202D%20Grid/) |
 | 1266 | Minimum Time Visiting All Points | Easy | Array / Math / Geometry | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
 | 1288 | Remove Covered Intervals | Medium | Array / Greedy / Sorting | [View](./1288.%20Remove%20Covered%20Intervals/) |
 | 1291 | Sequential Digits | Medium | Math / Enumeration / String | [View](./1291.%20Sequential%20Digits/) |
@@ -310,6 +311,7 @@ Both indexes start small and expand naturally.
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
 | 1200 | Minimum Absolute Difference | Easy | [View](./1200.%20Minimum%20Absolute%20Difference/) |
+| 1260 | Shift 2D Grid | Easy | [View](./1260.%20Shift%202D%20Grid/) |
 | 1266 | Minimum Time Visiting All Points | Easy | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
 | 1288 | Remove Covered Intervals | Medium | [View](./1288.%20Remove%20Covered%20Intervals/) |
 | 1292 | Maximum Side Length of a Square with Sum less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
@@ -777,6 +779,7 @@ Both indexes start small and expand naturally.
 | 48 | Rotate Image | Medium | [View](./48.%20Rotate%20Image/) |
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
+| 1260 | Shift 2D Grid | Easy | [View](./1260.%20Shift%202D%20Grid/) |
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
 | 1301 | Number of Paths with Max Score | Hard | [View](./1301.%20Number%20of%20Paths%20with%20Max%20Score/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
@@ -896,6 +899,7 @@ Both indexes start small and expand naturally.
 | 796 | Rotate String | Easy | [View](./796.%20Rotate%20String/) |
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
 | 874 | Walking Robot Simulation | Medium | [View](./874.%20Walking%20Robot%20Simulation/) |
+| 1260 | Shift 2D Grid | Easy | [View](./1260.%20Shift%202D%20Grid/) |
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
 | 1861 | Rotating the Box | Medium | [View](./1861.%20Rotating%20the%20Box/) |
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | [View](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/) |
