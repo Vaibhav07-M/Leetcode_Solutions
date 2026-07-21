@@ -51,7 +51,7 @@ Both indexes start small and expand naturally.
 | GCD | 5 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 16 | [View](#graph) |
-| Greedy | 29 | [View](#greedy) |
+| Greedy | 30 | [View](#greedy) |
 | Hash Table | 23 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
@@ -66,14 +66,15 @@ Both indexes start small and expand naturally.
 | Prefix Sum | 22 | [View](#prefix-sum) |
 | Recursion | 2 | [View](#recursion) |
 | Rolling Hash | 1 | [View](#rolling-hash) |
+| Run-Length Encoding | 1 | [View](#run-length-encoding) |
 | Segment Tree | 2 | [View](#segment-tree) |
 | Shortest Path | 5 | [View](#shortest-path) |
-| Simulation | 25 | [View](#simulation) |
+| Simulation | 26 | [View](#simulation) |
 | Sliding Window | 9 | [View](#sliding-window) |
 | Sorting | 30 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 4 | [View](#stack) |
-| String | 46 | [View](#string) |
+| String | 47 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -243,6 +244,7 @@ Both indexes start small and expand naturally.
 | 3464 | Maximize the Distance Between Points on a Square | Hard | Array / Binary Search / Geometry / Sorting | [View](./3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square/) |
 | 3474 | Lexicographically Smallest Generated String | Hard | String / Greedy | [View](./3474.%20Lexicographically%20Smallest%20Generated%20String/) |
 | 3488 | Closest Equal Element Queries | Medium | Array / Hash Table / Binary Search | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
+| 3499 | Maximize Active Section with Trade I | Medium | String / Greedy / Simulation / Run-Length Encoding | [View](./3499.%20Maximize%20Active%20Section%20with%20Trade%20I/) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | Array / Greedy / Simulation | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | Array / Heap / Greedy / Simulation | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
 | 3532 | Path Existence Queries in a Graph I | Medium | Union Find / Graph | [View](./3532.%20Path%20Existence%20Queries%20in%20a%20Graph%20I/) |
@@ -658,6 +660,7 @@ Both indexes start small and expand naturally.
 | 3020 | Find the Maximum Number of Elements in Subset | Medium | [View](./3020.%20Find%20the%20Maximum%20Number%20of%20Elements%20in%20Subset/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
 | 3474 | Lexicographically Smallest Generated String | Hard | [View](./3474.%20Lexicographically%20Smallest%20Generated%20String/) |
+| 3499 | Maximize Active Section with Trade I | Medium | [View](./3499.%20Maximize%20Active%20Section%20with%20Trade%20I/) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
 | 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
@@ -876,6 +879,11 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 1461 | Check If a String Contains All Binary Codes of Size K | Medium | [View](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/) |
 
+### Run-Length Encoding
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 3499 | Maximize Active Section with Trade I | Medium | [View](./3499.%20Maximize%20Active%20Section%20with%20Trade%20I/) |
+
 ### Segment Tree
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
@@ -911,6 +919,7 @@ Both indexes start small and expand naturally.
 | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | [View](./2839.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) |
 | 2946 | Matrix Similarity After Cyclic Shifts | Easy | [View](./2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts/) |
 | 3379 | Transformed Array | Easy | [View](./3379.%20Transformed%20Array/) |
+| 3499 | Maximize Active Section with Trade I | Medium | [View](./3499.%20Maximize%20Active%20Section%20with%20Trade%20I/) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
@@ -1023,6 +1032,7 @@ Both indexes start small and expand naturally.
 | 3120 | Count the Number of Special Characters I | Easy | [View](./3120.%20Count%20the%20Number%20of%20Special%20Characters%20I/) |
 | 3121 | Count the Number of Special Characters II | Medium | [View](./3121.%20Count%20the%20Number%20of%20Special%20Characters%20II/) |
 | 3474 | Lexicographically Smallest Generated String | Hard | [View](./3474.%20Lexicographically%20Smallest%20Generated%20String/) |
+| 3499 | Maximize Active Section with Trade I | Medium | [View](./3499.%20Maximize%20Active%20Section%20with%20Trade%20I/) |
 | 3612 | Process String with Special Operations I | Medium | [View](./3612.%20Process%20String%20with%20Special%20Operations%20I/) |
 | 3614 | Process String with Special Operations II | Hard | [View](./3614.%20Process%20String%20with%20Special%20Operations%20II/) |S
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
