@@ -39,7 +39,7 @@ Both indexes start small and expand naturally.
 | Binary Search | 21 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 7 | [View](#binary-tree) |
-| Bit Manipulation | 13 | [View](#bit-manipulation) |
+| Bit Manipulation | 14 | [View](#bit-manipulation) |
 | Combinatorics | 1 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 10 | [View](#counting) |
@@ -57,7 +57,7 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
-| Math | 45 | [View](#math) |
+| Math | 46 | [View](#math) |
 | Matrix | 37 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Monotonic Stack | 3 | [View](#monotonic-stack) |
@@ -81,6 +81,7 @@ Both indexes start small and expand naturally.
 | Tree | 9 | [View](#tree) |
 | Two Pointers | 10 | [View](#two-pointers) |
 | Union Find | 4 | [View](#union-find) |
+| XOR | 3 | [View](#xor) |
 
 ### Completed Problems
 
@@ -248,6 +249,7 @@ Both indexes start small and expand naturally.
 | 3501 | Maximize Active Section with Trade II | Hard | String / Binary Search / Segment Tree / Greedy / Run-Length Encoding | [View](./3501.%20Maximize%20Active%20Section%20with%20Trade%20II/) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | Array / Greedy / Simulation | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | Array / Heap / Greedy / Simulation | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
+| 3513 | Number of Unique XOR Triplets I | Medium | Bit Manipulation / Math / XOR | [View](./3513.%20Number%20of%20Unique%20XOR%20Triplets%20I/) |
 | 3532 | Path Existence Queries in a Graph I | Medium | Union Find / Graph | [View](./3532.%20Path%20Existence%20Queries%20in%20a%20Graph%20I/) |
 | 3534 | Path Existence Queries in a Graph II | Hard | Graph / Binary Lifting / Sorting | [View](./3534.%20Path%20Existence%20Queries%20in%20a%20Graph%20II/) |
 | 3546 | Equal Sum Grid Partition I | Medium | Array / Matrix / Prefix Sum | [View](./3546.%20Equal%20Sum%20Grid%20Partition%20I/) |
@@ -502,6 +504,7 @@ Both indexes start small and expand naturally.
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
 | 3314 | Construct the Minimum Bitwise Array I | Easy | [View](./3314.%20Construct%20the%20Minimum%20Bitwise%20Array%20I/) |
 | 3315 | Construct the Minimum Bitwise Array II | Medium | [View](./3315.%20Construct%20the%20Minimum%20Bitwise%20Array%20II/) |
+| 3513 | Number of Unique XOR Triplets I | Medium | [View](./3513.%20Number%20of%20Unique%20XOR%20Triplets%20I/) |
 
 ### Combinatorics
 | # | Title | Difficulty | Solution |
@@ -764,6 +767,7 @@ Both indexes start small and expand naturally.
 | 3312 | Sorted GCD Pair Queries | Hard | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
 | 3336 | Find the Number of Subsequences With Equal GCD | Hard | [View](./3336.%20Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
+| 3513 | Number of Unique XOR Triplets I | Medium | [View](./3513.%20Number%20of%20Unique%20XOR%20Triplets%20I/) |
 | 3558 | Number of Ways to Assign Edge Weights I | Medium | [View](./3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) |
 | 3559 | Number of Ways to Assign Edge Weights II | Hard | [View](./3559.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20II/) |
 | 3629 | Minimum Jumps to Reach End via Prime Teleportation | Medium | [View](./3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation/) |
@@ -1099,6 +1103,13 @@ Both indexes start small and expand naturally.
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
 | 3532 | Path Existence Queries in a Graph I | Medium | [View](./3532.%20Path%20Existence%20Queries%20in%20a%20Graph%20I/) |
 | 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
+
+### XOR
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 3513 | Number of Unique XOR Triplets I | Medium | [View](./3513.%20Number%20of%20Unique%20XOR%20Triplets%20I/) |
+| 3653 | XOR After Range Multiplication Queries I | Medium | [View](./3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I/) |
+| 3655 | XOR After Range Multiplication Queries II | Hard | [View](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II/) |
 
 ---
 
