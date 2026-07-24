@@ -39,14 +39,14 @@ Both indexes start small and expand naturally.
 | Binary Search | 21 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 7 | [View](#binary-tree) |
-| Bit Manipulation | 14 | [View](#bit-manipulation) |
+| Bit Manipulation | 15 | [View](#bit-manipulation) |
 | Combinatorics | 1 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 10 | [View](#counting) |
 | DFS | 10 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 32 | [View](#dynamic-programming) |
+| Dynamic Programming | 33 | [View](#dynamic-programming) |
 | Enumeration | 4 | [View](#enumeration) |
 | GCD | 5 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
@@ -81,7 +81,7 @@ Both indexes start small and expand naturally.
 | Tree | 9 | [View](#tree) |
 | Two Pointers | 10 | [View](#two-pointers) |
 | Union Find | 4 | [View](#union-find) |
-| XOR | 3 | [View](#xor) |
+| XOR | 4 | [View](#xor) |
 
 ### Completed Problems
 
@@ -250,6 +250,7 @@ Both indexes start small and expand naturally.
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | Array / Greedy / Simulation | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | Array / Heap / Greedy / Simulation | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
 | 3513 | Number of Unique XOR Triplets I | Medium | Bit Manipulation / Math / XOR | [View](./3513.%20Number%20of%20Unique%20XOR%20Triplets%20I/) |
+| 3514 | Number of Unique XOR Triplets II | Medium | Dynamic Programming / Bit Manipulation / XOR | [View](./3514.%20Number%20of%20Unique%20XOR%20Triplets%20II/) |
 | 3532 | Path Existence Queries in a Graph I | Medium | Union Find / Graph | [View](./3532.%20Path%20Existence%20Queries%20in%20a%20Graph%20I/) |
 | 3534 | Path Existence Queries in a Graph II | Hard | Graph / Binary Lifting / Sorting | [View](./3534.%20Path%20Existence%20Queries%20in%20a%20Graph%20II/) |
 | 3546 | Equal Sum Grid Partition I | Medium | Array / Matrix / Prefix Sum | [View](./3546.%20Equal%20Sum%20Grid%20Partition%20I/) |
@@ -505,6 +506,7 @@ Both indexes start small and expand naturally.
 | 3314 | Construct the Minimum Bitwise Array I | Easy | [View](./3314.%20Construct%20the%20Minimum%20Bitwise%20Array%20I/) |
 | 3315 | Construct the Minimum Bitwise Array II | Medium | [View](./3315.%20Construct%20the%20Minimum%20Bitwise%20Array%20II/) |
 | 3513 | Number of Unique XOR Triplets I | Medium | [View](./3513.%20Number%20of%20Unique%20XOR%20Triplets%20I/) |
+| 3514 | Number of Unique XOR Triplets II | Medium | [View](./3514.%20Number%20of%20Unique%20XOR%20Triplets%20II/) |
 
 ### Combinatorics
 | # | Title | Difficulty | Solution |
@@ -582,6 +584,7 @@ Both indexes start small and expand naturally.
 | 3225 | Maximum Score From Grid Operations | Hard | [View](./3225.%20Maximum%20Score%20From%20Grid%20Operations/) |
 | 3336 | Find the Number of Subsequences With Equal GCD | Hard | [View](./3336.%20Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD/) |
 | 3418 | Maximum Amount of Money Robot Can Earn | Medium | [View](./3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn/) |
+| 3514 | Number of Unique XOR Triplets II | Medium | [View](./3514.%20Number%20of%20Unique%20XOR%20Triplets%20II/) |
 | 3620 | Network Recovery Pathways | Hard | [View](./3620.%20Network%20Recovery%20Pathways/) |
 | 3640 | Trionic Array II | Hard | [View](./3640.%20Trionic%20Array%20II/) |
 | 3650 | Minimum Cost Path with Edge Reversals | Medium | [View](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals/) |
@@ -1108,6 +1111,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 3513 | Number of Unique XOR Triplets I | Medium | [View](./3513.%20Number%20of%20Unique%20XOR%20Triplets%20I/) |
+| 3514 | Number of Unique XOR Triplets II | Medium | [View](./3514.%20Number%20of%20Unique%20XOR%20Triplets%20II/) |
 | 3653 | XOR After Range Multiplication Queries I | Medium | [View](./3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I/) |
 | 3655 | XOR After Range Multiplication Queries II | Hard | [View](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II/) |
 
