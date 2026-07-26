@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 110 | [View](#array) |
+| Array | 111 | [View](#array) |
 | Backtracking | 3 | [View](#backtracking) |
 | BFS | 13 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -51,13 +51,13 @@ Both indexes start small and expand naturally.
 | GCD | 5 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 16 | [View](#graph) |
-| Greedy | 31 | [View](#greedy) |
+| Greedy | 32 | [View](#greedy) |
 | Hash Table | 23 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
-| Math | 47 | [View](#math) |
+| Math | 48 | [View](#math) |
 | Matrix | 37 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Monotonic Stack | 3 | [View](#monotonic-stack) |
@@ -71,7 +71,7 @@ Both indexes start small and expand naturally.
 | Shortest Path | 5 | [View](#shortest-path) |
 | Simulation | 26 | [View](#simulation) |
 | Sliding Window | 9 | [View](#sliding-window) |
-| Sorting | 30 | [View](#sorting) |
+| Sorting | 31 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 4 | [View](#stack) |
 | String | 48 | [View](#string) |
@@ -99,6 +99,7 @@ Both indexes start small and expand naturally.
 | 190 | Reverse Bits | Easy | Divide and Conquer / Bit Manipulation | [View](./190.%20Reverse%20Bits/) |
 | 396 | Rotate Function | Medium | Array / Math / Dynamic Programming | [View](./396.%20Rotate%20Function/) |
 | 401 | Binary Watch | Easy | Backtracking / Bit Manipulation | [View](./401.%20Binary%20Watch/) |
+| 628 | Maximum Product of Three Numbers | Easy | Array / Sorting / Greedy / Math | [View](./628.%20Maximum%20Product%20of%20Three%20Numbers/) |
 | 657 | Robot Return to Origin | Easy | String / Simulation | [View](./657.%20Robot%20Return%20to%20Origin/) |
 | 693 | Binary Number with Alternating Bits | Easy | Bit Manipulation | [View](./693.%20Binary%20Number%20with%20Alternating%20Bits/) |
 | 696 | Count Binary Substrings | Easy | String / Two Pointers | [View](./696.%20Count%20Binary%20Substrings/) |
@@ -314,6 +315,7 @@ Both indexes start small and expand naturally.
 | 153 | Find Minimum in Rotated Sorted Array | Medium | [View](./153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/) |
 | 154 | Find Minimum in Rotated Sorted Array II | Hard | [View](./154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/) |
 | 396 | Rotate Function | Medium | [View](./396.%20Rotate%20Function/) |
+| 628 | Maximum Product of Three Numbers | Easy | [View](./628.%20Maximum%20Product%20of%20Three%20Numbers/) |
 | 744 | Find Smallest Letter Greater Than Target | Easy | [View](./744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
@@ -648,6 +650,7 @@ Both indexes start small and expand naturally.
 ### Greedy
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 628 | Maximum Product of Three Numbers | Easy | [View](./628.%20Maximum%20Product%20of%20Three%20Numbers/) |
 | 761 | Special Binary String | Hard | [View](./761.%20Special%20Binary%20String/) |
 | 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
 | 1288 | Remove Covered Intervals | Medium | [View](./1288.%20Remove%20Covered%20Intervals/) |
@@ -745,6 +748,7 @@ Both indexes start small and expand naturally.
 | 66 | Plus One | Easy | [View](./66.%20Plus%20One/) |
 | 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
 | 396 | Rotate Function | Medium | [View](./396.%20Rotate%20Function/) |
+| 628 | Maximum Product of Three Numbers | Easy | [View](./628.%20Maximum%20Product%20of%20Three%20Numbers/) |
 | 762 | Prime Number of Set Bits in Binary Representation | Easy | [View](./762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) |
 | 788 | Rotated Digits | Medium | [View](./788.%20Rotated%20Digits/) |
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
@@ -962,6 +966,7 @@ Both indexes start small and expand naturally.
 ### Sorting
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 628 | Maximum Product of Three Numbers | Easy | [View](./628.%20Maximum%20Product%20of%20Three%20Numbers/) |
 | 1200 | Minimum Absolute Difference | Easy | [View](./1200.%20Minimum%20Absolute%20Difference/) |
 | 1288 | Remove Covered Intervals | Medium | [View](./1288.%20Remove%20Covered%20Intervals/) |
 | 1331 | Rank Transform of an Array | Easy | [View](./1331.%20Rank%20Transform%20of%20an%20Array/) |
