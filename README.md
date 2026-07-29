@@ -33,16 +33,16 @@ Both indexes start small and expand naturally.
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
 | Array | 112 | [View](#array) |
-| Backtracking | 3 | [View](#backtracking) |
+| Backtracking | 4 | [View](#backtracking) |
 | BFS | 13 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
 | Binary Search | 21 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 7 | [View](#binary-tree) |
 | Bit Manipulation | 15 | [View](#bit-manipulation) |
-| Combinatorics | 1 | [View](#combinatorics) |
+| Combinatorics | 2 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
-| Counting | 11 | [View](#counting) |
+| Counting | 12 | [View](#counting) |
 | DFS | 10 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
@@ -51,13 +51,13 @@ Both indexes start small and expand naturally.
 | GCD | 5 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 16 | [View](#graph) |
-| Greedy | 34 | [View](#greedy) |
+| Greedy | 35 | [View](#greedy) |
 | Hash Table | 24 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
-| Math | 49 | [View](#math) |
+| Math | 50 | [View](#math) |
 | Matrix | 37 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Monotonic Stack | 3 | [View](#monotonic-stack) |
@@ -74,7 +74,7 @@ Both indexes start small and expand naturally.
 | Sorting | 32 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 4 | [View](#stack) |
-| String | 49 | [View](#string) |
+| String | 50 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -254,6 +254,7 @@ Both indexes start small and expand naturally.
 | 3513 | Number of Unique XOR Triplets I | Medium | Bit Manipulation / Math / XOR | [View](./3513.%20Number%20of%20Unique%20XOR%20Triplets%20I/) |
 | 3514 | Number of Unique XOR Triplets II | Medium | Dynamic Programming / Bit Manipulation / XOR | [View](./3514.%20Number%20of%20Unique%20XOR%20Triplets%20II/) |
 | 3517 | Smallest Palindromic Rearrangement I | Medium | String / Greedy / Counting / Hash Table | [View](./3517.%20Smallest%20Palindromic%20Rearrangement%20I/) |
+| 3518 | Smallest Palindromic Rearrangement II | Hard | String / Greedy / Combinatorics / Math / Counting / Backtracking | [View](./3518.%20Smallest%20Palindromic%20Rearrangement%20II/) |
 | 3532 | Path Existence Queries in a Graph I | Medium | Union Find / Graph | [View](./3532.%20Path%20Existence%20Queries%20in%20a%20Graph%20I/) |
 | 3534 | Path Existence Queries in a Graph II | Hard | Graph / Binary Lifting / Sorting | [View](./3534.%20Path%20Existence%20Queries%20in%20a%20Graph%20II/) |
 | 3536 | Maximum Product of Two Digits | Easy | Math / Enumeration | [View](./3536.%20Maximum%20Product%20of%20Two%20Digits/) |
@@ -431,6 +432,7 @@ Both indexes start small and expand naturally.
 | 401 | Binary Watch | Easy | [View](./401.%20Binary%20Watch/) |
 | 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 1980 | Find Unique Binary String | Medium | [View](./1980.%20Find%20Unique%20Binary%20String/) |
+| 3518 | Smallest Palindromic Rearrangement II | Hard | [View](./3518.%20Smallest%20Palindromic%20Rearrangement%20II/) |
 
 ### BFS
 | # | Title | Difficulty | Solution |
@@ -518,6 +520,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
+| 3518 | Smallest Palindromic Rearrangement II | Hard | [View](./3518.%20Smallest%20Palindromic%20Rearrangement%20II/) |
 
 ### Coordinate Compression
 | # | Title | Difficulty | Solution |
@@ -536,6 +539,7 @@ Both indexes start small and expand naturally.
 | 3120 | Count the Number of Special Characters I | Easy | [View](./3120.%20Count%20the%20Number%20of%20Special%20Characters%20I/) |
 | 3121 | Count the Number of Special Characters II | Medium | [View](./3121.%20Count%20the%20Number%20of%20Special%20Characters%20II/) |
 | 3517 | Smallest Palindromic Rearrangement I | Medium | [View](./3517.%20Smallest%20Palindromic%20Rearrangement%20I/) |
+| 3518 | Smallest Palindromic Rearrangement II | Hard | [View](./3518.%20Smallest%20Palindromic%20Rearrangement%20II/) |
 | 3713 | Longest Balanced Substring I | Medium | [View](./3713.%20Longest%20Balanced%20Substring%20I/) |
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | [View](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) |
 | 3741 | Minimum Distance Between Three Equal Elements II | Medium | [View](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II/) |
@@ -683,6 +687,7 @@ Both indexes start small and expand naturally.
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
 | 3517 | Smallest Palindromic Rearrangement I | Medium | [View](./3517.%20Smallest%20Palindromic%20Rearrangement%20I/) |
+| 3518 | Smallest Palindromic Rearrangement II | Hard | [View](./3518.%20Smallest%20Palindromic%20Rearrangement%20II/) |
 | 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
 | 3614 | Process String with Special Operations II | Hard | [View](./3614.%20Process%20String%20with%20Special%20Operations%20II/) |
 | 3633 | Earliest Finish Time for Land and Water Rides I | Easy | [View](./3633.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20I/) |
@@ -785,6 +790,7 @@ Both indexes start small and expand naturally.
 | 3336 | Find the Number of Subsequences With Equal GCD | Hard | [View](./3336.%20Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
 | 3513 | Number of Unique XOR Triplets I | Medium | [View](./3513.%20Number%20of%20Unique%20XOR%20Triplets%20I/) |
+| 3518 | Smallest Palindromic Rearrangement II | Hard | [View](./3518.%20Smallest%20Palindromic%20Rearrangement%20II/) |
 | 3536 | Maximum Product of Two Digits | Easy | [View](./3536.%20Maximum%20Product%20of%20Two%20Digits/) |
 | 3558 | Number of Ways to Assign Edge Weights I | Medium | [View](./3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) |
 | 3559 | Number of Ways to Assign Edge Weights II | Hard | [View](./3559.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20II/) |
@@ -1064,6 +1070,7 @@ Both indexes start small and expand naturally.
 | 3499 | Maximize Active Section with Trade I | Medium | [View](./3499.%20Maximize%20Active%20Section%20with%20Trade%20I/) |
 | 3501 | Maximize Active Section with Trade II | Hard | [View](./3501.%20Maximize%20Active%20Section%20with%20Trade%20II/) |
 | 3517 | Smallest Palindromic Rearrangement I | Medium | [View](./3517.%20Smallest%20Palindromic%20Rearrangement%20I/) |
+| 3518 | Smallest Palindromic Rearrangement II | Hard | [View](./3518.%20Smallest%20Palindromic%20Rearrangement%20II/) |
 | 3612 | Process String with Special Operations I | Medium | [View](./3612.%20Process%20String%20with%20Special%20Operations%20I/) |
 | 3614 | Process String with Special Operations II | Hard | [View](./3614.%20Process%20String%20with%20Special%20Operations%20II/) |S
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
