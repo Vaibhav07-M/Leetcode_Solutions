@@ -51,13 +51,13 @@ Both indexes start small and expand naturally.
 | GCD | 5 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 16 | [View](#graph) |
-| Greedy | 35 | [View](#greedy) |
+| Greedy | 36 | [View](#greedy) |
 | Hash Table | 24 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
-| Math | 50 | [View](#math) |
+| Math | 51 | [View](#math) |
 | Matrix | 37 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Monotonic Stack | 3 | [View](#monotonic-stack) |
@@ -74,7 +74,7 @@ Both indexes start small and expand naturally.
 | Sorting | 32 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 4 | [View](#stack) |
-| String | 50 | [View](#string) |
+| String | 51 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -220,6 +220,7 @@ Both indexes start small and expand naturally.
 | 2977 | Minimum Cost to Convert String II | Hard | String / Dynamic Programming / Graph / Shortest Path / Trie | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
 | 3010 | Divide an Array Into Subarrays With Minimum Cost I | Easy | Array / Greedy | [View](./3010.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I/) |
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | Array / Sliding Window / Heap (Priority Queue) / Ordered Set | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
+| 3014 | Minimum Number of Pushes to Type Word I | Easy | Greedy / Math / String | [View](./3014.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I/) |
 | 3020 | Find the Maximum Number of Elements in Subset | Medium | Array / Hash Table / Greedy | [View](./3020.%20Find%20the%20Maximum%20Number%20of%20Elements%20in%20Subset/) |
 | 3043 | Find the Length of the Longest Common Prefix | Medium | Trie | [View](./3043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | Array / Geometry / Math / Enumeration | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
@@ -679,6 +680,7 @@ Both indexes start small and expand naturally.
 | 2144 | Minimum Cost of Buying Candies With Discount | Easy | [View](./2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
 | 3010 | Divide an Array Into Subarrays With Minimum Cost I | Easy | [View](./3010.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I/) |
+| 3014 | Minimum Number of Pushes to Type Word I | Easy | [View](./3014.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I/) |
 | 3020 | Find the Maximum Number of Elements in Subset | Medium | [View](./3020.%20Find%20the%20Maximum%20Number%20of%20Elements%20in%20Subset/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
 | 3474 | Lexicographically Smallest Generated String | Hard | [View](./3474.%20Lexicographically%20Smallest%20Generated%20String/) |
@@ -783,6 +785,7 @@ Both indexes start small and expand naturally.
 | 2833 | Furthest Point From Origin | Easy | [View](./2833.%20Furthest%20Point%20From%20Origin/) |
 | 2906 | Construct Product Matrix | Medium | [View](./2906.%20Construct%20Product%20Matrix/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
+| 3014 | Minimum Number of Pushes to Type Word I | Easy | [View](./3014.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
 | 3296 | Minimum Number of Seconds to Make Mountain Height Zero | Medium | [View](./3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero/) |
 | 3300 | Minimum Number of Seconds to Make Mountain Height Zero II | Hard | [View](./3300.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero%20II/) |
@@ -1063,6 +1066,7 @@ Both indexes start small and expand naturally.
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
 | 2976 | Minimum Cost to Convert String I | Medium | [View](./2976.%20Minimum%20Cost%20to%20Convert%20String%20I/) |
 | 2977 | Minimum Cost to Convert String II | Hard | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
+| 3014 | Minimum Number of Pushes to Type Word I | Easy | [View](./3014.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I/) |
 | 3093 | Longest Common Suffix Queries | Hard | [View](./3093.%20Longest%20Common%20Suffix%20Queries/) |
 | 3120 | Count the Number of Special Characters I | Easy | [View](./3120.%20Count%20the%20Number%20of%20Special%20Characters%20I/) |
 | 3121 | Count the Number of Special Characters II | Medium | [View](./3121.%20Count%20the%20Number%20of%20Special%20Characters%20II/) |
