@@ -46,8 +46,9 @@ Both indexes start small and expand naturally.
 | DFS | 10 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 33 | [View](#dynamic-programming) |
+| Dynamic Programming | 34 | [View](#dynamic-programming) |
 | Enumeration | 5 | [View](#enumeration) |
+| Game Theory | 1 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 16 | [View](#graph) |
@@ -60,6 +61,7 @@ Both indexes start small and expand naturally.
 | Math | 51 | [View](#math) |
 | Matrix | 37 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
+| Minimax | 1 | [View](#minimax) |
 | Monotonic Stack | 3 | [View](#monotonic-stack) |
 | Number Theory | 4 | [View](#number-theory) |
 | Ordered Set | 2 | [View](#ordered-set) |
@@ -99,6 +101,7 @@ Both indexes start small and expand naturally.
 | 190 | Reverse Bits | Easy | Divide and Conquer / Bit Manipulation | [View](./190.%20Reverse%20Bits/) |
 | 396 | Rotate Function | Medium | Array / Math / Dynamic Programming | [View](./396.%20Rotate%20Function/) |
 | 401 | Binary Watch | Easy | Backtracking / Bit Manipulation | [View](./401.%20Binary%20Watch/) |
+| 486 | Predict the Winner | Medium | Dynamic Programming / Game Theory / Minimax | [View](./486.%20Predict%20the%20Winner/) |
 | 628 | Maximum Product of Three Numbers | Easy | Array / Sorting / Greedy / Math | [View](./628.%20Maximum%20Product%20of%20Three%20Numbers/) |
 | 657 | Robot Return to Origin | Easy | String / Simulation | [View](./657.%20Robot%20Return%20to%20Origin/) |
 | 693 | Binary Number with Alternating Bits | Easy | Bit Manipulation | [View](./693.%20Binary%20Number%20with%20Alternating%20Bits/) |
@@ -578,6 +581,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 396 | Rotate Function | Medium | [View](./396.%20Rotate%20Function/) |
+| 486 | Predict the Winner | Medium | [View](./486.%20Predict%20the%20Winner/) |
 | 712 | Minimum ASCII Delete Sum for Two Strings | Medium | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
 | 788 | Rotated Digits | Medium | [View](./788.%20Rotated%20Digits/) |
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
@@ -617,6 +621,11 @@ Both indexes start small and expand naturally.
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
 | 3536 | Maximum Product of Two Digits | Easy | [View](./3536.%20Maximum%20Product%20of%20Two%20Digits/) |
 | 3751 | Total Waviness of Numbers in Range I | Medium | [View](./3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I/) |
+
+### Game Theory
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 486 | Predict the Winner | Medium | [View](./486.%20Predict%20the%20Winner/) |
 
 ### GCD
 | # | Title | Difficulty | Solution |
@@ -857,6 +866,11 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 3700 | Number of ZigZag Arrays II | Hard | [View](./3700.%20Number%20of%20ZigZag%20Arrays%20II/) |
+
+### Minimax
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 486 | Predict the Winner | Medium | [View](./486.%20Predict%20the%20Winner/) |
 
 ### Monotonic Stack
 | # | Title | Difficulty | Solution |
