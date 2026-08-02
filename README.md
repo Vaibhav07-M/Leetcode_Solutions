@@ -46,9 +46,9 @@ Both indexes start small and expand naturally.
 | DFS | 10 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 34 | [View](#dynamic-programming) |
+| Dynamic Programming | 35 | [View](#dynamic-programming) |
 | Enumeration | 5 | [View](#enumeration) |
-| Game Theory | 1 | [View](#game-theory) |
+| Game Theory | 2 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 16 | [View](#graph) |
@@ -58,10 +58,10 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
-| Math | 51 | [View](#math) |
+| Math | 52 | [View](#math) |
 | Matrix | 37 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
-| Minimax | 1 | [View](#minimax) |
+| Minimax | 2 | [View](#minimax) |
 | Monotonic Stack | 3 | [View](#monotonic-stack) |
 | Number Theory | 4 | [View](#number-theory) |
 | Ordered Set | 2 | [View](#ordered-set) |
@@ -118,6 +118,7 @@ Both indexes start small and expand naturally.
 | 868 | Binary Gap | Easy | Bit Manipulation | [View](./868.%20Binary%20Gap/) |
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | Tree / DFS / Binary Tree | [View](./865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/) |
 | 874 | Walking Robot Simulation | Medium | Simulation | [View](./874.%20Walking%20Robot%20Simulation/) |
+| 877 | Stone Game | Medium | Dynamic Programming / Game Theory / Minimax / Math | [View](./877.%20Stone%20Game/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | Array / Hash Table | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
 | 1009 | Complement of Base 10 Integer | Easy | Bit Manipulation | [View](./1009.%20Complement%20of%20Base%2010%20Integer/) |
 | 1022 | Sum of Root To Leaf Binary Numbers | Easy | Tree / DFS / Binary Tree | [View](./1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/) |
@@ -585,6 +586,7 @@ Both indexes start small and expand naturally.
 | 712 | Minimum ASCII Delete Sum for Two Strings | Medium | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
 | 788 | Rotated Digits | Medium | [View](./788.%20Rotated%20Digits/) |
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
+| 877 | Stone Game | Medium | [View](./877.%20Stone%20Game/) |
 | 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard | [View](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1340 | Jump Game V | Hard | [View](./1340.%20Jump%20Game%20V/) |
@@ -626,6 +628,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 486 | Predict the Winner | Medium | [View](./486.%20Predict%20the%20Winner/) |
+| 877 | Stone Game | Medium | [View](./877.%20Stone%20Game/) |
 
 ### GCD
 | # | Title | Difficulty | Solution |
@@ -779,6 +782,7 @@ Both indexes start small and expand naturally.
 | 788 | Rotated Digits | Medium | [View](./788.%20Rotated%20Digits/) |
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
+| 877 | Stone Game | Medium | [View](./877.%20Stone%20Game/) |
 | 1266 | Minimum Time Visiting All Points | Easy | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
 | 1291 | Sequential Digits | Medium | [View](./1291.%20Sequential%20Digits/) |
 | 1344 | Angle Between Hands of a Clock | Medium | [View](./1344.%20Angle%20Between%20Hands%20of%20a%20Clock/) |
@@ -871,6 +875,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 486 | Predict the Winner | Medium | [View](./486.%20Predict%20the%20Winner/) |
+| 877 | Stone Game | Medium | [View](./877.%20Stone%20Game/) |
 
 ### Monotonic Stack
 | # | Title | Difficulty | Solution |
