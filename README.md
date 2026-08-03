@@ -46,9 +46,9 @@ Both indexes start small and expand naturally.
 | DFS | 10 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 35 | [View](#dynamic-programming) |
+| Dynamic Programming | 36 | [View](#dynamic-programming) |
 | Enumeration | 5 | [View](#enumeration) |
-| Game Theory | 2 | [View](#game-theory) |
+| Game Theory | 3 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 16 | [View](#graph) |
@@ -61,7 +61,7 @@ Both indexes start small and expand naturally.
 | Math | 52 | [View](#math) |
 | Matrix | 37 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
-| Minimax | 2 | [View](#minimax) |
+| Minimax | 3 | [View](#minimax) |
 | Monotonic Stack | 3 | [View](#monotonic-stack) |
 | Number Theory | 4 | [View](#number-theory) |
 | Ordered Set | 2 | [View](#ordered-set) |
@@ -146,6 +146,7 @@ Both indexes start small and expand naturally.
 | 1390 | Four Divisors | Medium | Array / Math | [View](./1390.%20Four%20Divisors/) |
 | 1391 | Check if There is a Valid Path in a Grid | Medium | Graph / BFS / DFS / Matrix | [View](./1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/) |
 | 1404 | Number of Steps to Reduce a Number in Binary Representation to One | Medium | String / Bit Manipulation | [View](./1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/) |
+| 1406 | Stone Game III | Hard | Dynamic Programming / Game Theory / Minimax | [View](./1406.%20Stone%20Game%20III/) |
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | Dynamic Programming / Math / Combinatorics | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
 | 1415 | The k-th Lexicographical String of All Happy Strings of Length n | Medium | String / Greedy / Math | [View](./1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/) |
 | 1458 | Max Dot Product of Two Subsequences | Hard | Array / Dynamic Programming | [View](./1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences/) |
@@ -590,6 +591,7 @@ Both indexes start small and expand naturally.
 | 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard | [View](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1340 | Jump Game V | Hard | [View](./1340.%20Jump%20Game%20V/) |
+| 1406 | Stone Game III | Hard | [View](./1406.%20Stone%20Game%20III/) |
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
 | 1458 | Max Dot Product of Two Subsequences | Hard | [View](./1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences/) |
 | 1594 | Maximum Non Negative Product in a Matrix | Medium | [View](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/) |
@@ -629,6 +631,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 486 | Predict the Winner | Medium | [View](./486.%20Predict%20the%20Winner/) |
 | 877 | Stone Game | Medium | [View](./877.%20Stone%20Game/) |
+| 1406 | Stone Game III | Hard | [View](./1406.%20Stone%20Game%20III/) |
 
 ### GCD
 | # | Title | Difficulty | Solution |
@@ -876,6 +879,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 486 | Predict the Winner | Medium | [View](./486.%20Predict%20the%20Winner/) |
 | 877 | Stone Game | Medium | [View](./877.%20Stone%20Game/) |
+| 1406 | Stone Game III | Hard | [View](./1406.%20Stone%20Game%20III/) |
 
 ### Monotonic Stack
 | # | Title | Difficulty | Solution |
