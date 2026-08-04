@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 112 | [View](#array) |
+| Array | 113 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
 | BFS | 13 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -53,6 +53,7 @@ Both indexes start small and expand naturally.
 | Geometry | 6 | [View](#geometry) |
 | Graph | 16 | [View](#graph) |
 | Greedy | 37 | [View](#greedy) |
+| Hash Set | 1 | [View](#hash-set) |
 | Hash Table | 25 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
@@ -297,6 +298,7 @@ Both indexes start small and expand naturally.
 | 3714 | Longest Balanced Substring II | Medium | String / Hash Table / Prefix Sum | [View](./3714.%20Longest%20Balanced%20Substring%20II/) |
 | 3719 | Longest Balanced Subarray I | Medium | Array / Hash Table / Sliding Window | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
 | 3721 | Longest Balanced Subarray II | Hard | Array / Hash Table / Sliding Window / Segment Tree / Prefix Sum | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
+| 3731 | Find Missing Elements | Easy | Array / Hash Set | [View](./3731.%20Find%20Missing%20Elements/) |
 | 3737 | Count Subarrays With Majority Element I | Medium | Array / Prefix Sum | [View](./3737.%20Count%20Subarrays%20With%20Majority%20Element%20I/) |
 | 3739 | Count Subarrays With Majority Element II | Hard | Array / Prefix Sum / Binary Tree / Coordinate Compression | [View](./3739.%20Count%20Subarrays%20With%20Majority%20Element%20II/) |
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | Array / Hash Table / Counting | [View](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) |
@@ -424,6 +426,7 @@ Both indexes start small and expand naturally.
 | 3700 | Number of ZigZag Arrays II | Hard | [View](./3700.%20Number%20of%20ZigZag%20Arrays%20II/) |
 | 3719 | Longest Balanced Subarray I | Medium | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
 | 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
+| 3731 | Find Missing Elements | Easy | [View](./3731.%20Find%20Missing%20Elements/) |
 | 3737 | Count Subarrays With Majority Element I | Medium | [View](./3737.%20Count%20Subarrays%20With%20Majority%20Element%20I/) |
 | 3739 | Count Subarrays With Majority Element II | Hard | [View](./3739.%20Count%20Subarrays%20With%20Majority%20Element%20II/) |
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | [View](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) |
@@ -712,6 +715,11 @@ Both indexes start small and expand naturally.
 | 3633 | Earliest Finish Time for Land and Water Rides I | Easy | [View](./3633.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20I/) |
 | 3635 | Earliest Finish Time for Land and Water Rides II | Medium | [View](./3635.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20II/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
+
+### Hash Set
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 3731 | Find Missing Elements | Easy | [View](./3731.%20Find%20Missing%20Elements/) |
 
 ### Hash Table
 | # | Title | Difficulty | Solution |
