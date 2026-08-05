@@ -34,7 +34,7 @@ Both indexes start small and expand naturally.
 |----------|--------------------|------|
 | Array | 113 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
-| BFS | 13 | [View](#bfs) |
+| BFS | 14 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
 | Binary Search | 21 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
@@ -43,7 +43,7 @@ Both indexes start small and expand naturally.
 | Combinatorics | 2 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 12 | [View](#counting) |
-| DFS | 10 | [View](#dfs) |
+| DFS | 11 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
 | Dynamic Programming | 36 | [View](#dynamic-programming) |
@@ -51,7 +51,7 @@ Both indexes start small and expand naturally.
 | Game Theory | 3 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
-| Graph | 16 | [View](#graph) |
+| Graph | 17 | [View](#graph) |
 | Greedy | 37 | [View](#greedy) |
 | Hash Set | 1 | [View](#hash-set) |
 | Hash Table | 25 | [View](#hash-table) |
@@ -244,6 +244,7 @@ Both indexes start small and expand naturally.
 | 3286 | Find a Safe Walk Through a Grid | Medium | Graph / Shortest Path / Matrix | [View](./3286.%20Find%20a%20Safe%20Walk%20Through%20a%20Grid/) |
 | 3296 | Minimum Number of Seconds to Make Mountain Height Zero | Medium | Binary Search / Math | [View](./3296.%20Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero/) |
 | 3300 | Minimum Element After Replacement With Digit Sum | Easy | Array / Math | [View](./3300.%20Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum/) |
+| 3310 | Remove Methods From Project | Medium | Graph / BFS / DFS | [View](./3310.%20Remove%20Methods%20From%20Project/) |
 | 3312 | Sorted GCD Pair Queries | Hard | Array / Math / Number Theory / GCD / Sorting / Binary Search / Prefix Sum / Inclusion-Exclusion | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
 | 3314 | Construct the Minimum Bitwise Array I | Easy | Array / Bit Manipulation | [View](./3314.%20Construct%20the%20Minimum%20Bitwise%20Array%20I/) |
 | 3315 | Construct the Minimum Bitwise Array II | Medium | Array / Bit Manipulation | [View](./3315.%20Construct%20the%20Minimum%20Bitwise%20Array%20II/) |
@@ -457,6 +458,7 @@ Both indexes start small and expand naturally.
 | 2492 | Minimum Score of a Path Between Two Cities | Medium | [View](./2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities/) |
 | 2685 | Count the Number of Complete Components | Medium | [View](./2685.%20Count%20the%20Number%20of%20Complete%20Components/) |
 | 2812 | Find the Safest Path in a Grid | Medium | [View](./2812.%20Find%20the%20Safest%20Path%20in%20a%20Grid/) |
+| 3310 | Remove Methods From Project | Medium | [View](./3310.%20Remove%20Methods%20From%20Project/) |
 | 3558 | Number of Ways to Assign Edge Weights I | Medium | [View](./3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) |
 | 3629 | Minimum Jumps to Reach End via Prime Teleportation | Medium | [View](./3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
@@ -567,6 +569,7 @@ Both indexes start small and expand naturally.
 | 1391 | Check if There is a Valid Path in a Grid | Medium | [View](./1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/) |
 | 1559 | Detect Cycles in 2D Grid | Medium | [View](./1559.%20Detect%20Cycles%20in%202D%20Grid/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
+| 3310 | Remove Methods From Project | Medium | [View](./3310.%20Remove%20Methods%20From%20Project/) |
 
 ### Design
 | # | Title | Difficulty | Solution |
@@ -666,6 +669,7 @@ Both indexes start small and expand naturally.
 | 2976 | Minimum Cost to Convert String I | Medium | [View](./2976.%20Minimum%20Cost%20to%20Convert%20String%20I/) |
 | 2977 | Minimum Cost to Convert String II | Hard | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
 | 3286 | Find a Safe Walk Through a Grid | Medium | [View](./3286.%20Find%20a%20Safe%20Walk%20Through%20a%20Grid/) |
+| 3310 | Remove Methods From Project | Medium | [View](./3310.%20Remove%20Methods%20From%20Project/) |
 | 3532 | Path Existence Queries in a Graph I | Medium | [View](./3532.%20Path%20Existence%20Queries%20in%20a%20Graph%20I/) |
 | 3534 | Path Existence Queries in a Graph II | Hard | [View](./3534.%20Path%20Existence%20Queries%20in%20a%20Graph%20II/) |
 | 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
