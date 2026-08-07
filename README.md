@@ -52,19 +52,19 @@ Both indexes start small and expand naturally.
 | GCD | 5 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 17 | [View](#graph) |
-| Greedy | 37 | [View](#greedy) |
+| Greedy | 38 | [View](#greedy) |
 | Hash Set | 1 | [View](#hash-set) |
 | Hash Table | 25 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
-| Math | 53 | [View](#math) |
+| Math | 54 | [View](#math) |
 | Matrix | 37 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Minimax | 3 | [View](#minimax) |
 | Monotonic Stack | 3 | [View](#monotonic-stack) |
-| Number Theory | 4 | [View](#number-theory) |
+| Number Theory | 5 | [View](#number-theory) |
 | Ordered Set | 2 | [View](#ordered-set) |
 | Prefix Sum | 22 | [View](#prefix-sum) |
 | Recursion | 2 | [View](#recursion) |
@@ -77,7 +77,7 @@ Both indexes start small and expand naturally.
 | Sorting | 33 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 4 | [View](#stack) |
-| String | 52 | [View](#string) |
+| String | 53 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -250,6 +250,7 @@ Both indexes start small and expand naturally.
 | 3315 | Construct the Minimum Bitwise Array II | Medium | Array / Bit Manipulation | [View](./3315.%20Construct%20the%20Minimum%20Bitwise%20Array%20II/) |
 | 3336 | Find the Number of Subsequences With Equal GCD | Hard | Dynamic Programming / Math / GCD | [View](./3336.%20Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD/) |
 | 3345 | Smallest Divisible Digit Product I | Easy | Math / Simulation | [View](./3345.%20Smallest%20Divisible%20Digit%20Product%20I/) |
+| 3348 | Smallest Divisible Digit Product II | Hard | Math / Greedy / Number Theory / String | [View](./3348.%20Smallest%20Divisible%20Digit%20Product%20II/) |
 | 3379 | Transformed Array | Easy | Array / Simulation | [View](./3379.%20Transformed%20Array/) |
 | 3418 | Maximum Amount of Money Robot Can Earn | Medium | Array / Dynamic Programming / Matrix | [View](./3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn/) |
 | 3453 | Separate Squares I | Medium | Array / Binary Search / Geometry / Math / Sorting | [View](./3453.%20Separate%20Squares%20I/) |
@@ -708,6 +709,7 @@ Both indexes start small and expand naturally.
 | 3016 | Minimum Number of Pushes to Type Word II | Medium | [View](./3016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II/) |
 | 3020 | Find the Maximum Number of Elements in Subset | Medium | [View](./3020.%20Find%20the%20Maximum%20Number%20of%20Elements%20in%20Subset/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
+| 3348 | Smallest Divisible Digit Product II | Hard | [View](./3348.%20Smallest%20Divisible%20Digit%20Product%20II/) |
 | 3474 | Lexicographically Smallest Generated String | Hard | [View](./3474.%20Lexicographically%20Smallest%20Generated%20String/) |
 | 3499 | Maximize Active Section with Trade I | Medium | [View](./3499.%20Maximize%20Active%20Section%20with%20Trade%20I/) |
 | 3501 | Maximize Active Section with Trade II | Hard | [View](./3501.%20Maximize%20Active%20Section%20with%20Trade%20II/) |
@@ -824,6 +826,7 @@ Both indexes start small and expand naturally.
 | 3312 | Sorted GCD Pair Queries | Hard | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
 | 3336 | Find the Number of Subsequences With Equal GCD | Hard | [View](./3336.%20Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD/) |
 | 3345 | Smallest Divisible Digit Product I | Easy | [View](./3345.%20Smallest%20Divisible%20Digit%20Product%20I/) |
+| 3348 | Smallest Divisible Digit Product II | Hard | [View](./3348.%20Smallest%20Divisible%20Digit%20Product%20II/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
 | 3513 | Number of Unique XOR Triplets I | Medium | [View](./3513.%20Number%20of%20Unique%20XOR%20Triplets%20I/) |
 | 3518 | Smallest Palindromic Rearrangement II | Hard | [View](./3518.%20Smallest%20Palindromic%20Rearrangement%20II/) |
@@ -907,6 +910,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 1979 | Find Greatest Common Divisor of Array | Easy | [View](./1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array/) |
 | 3312 | Sorted GCD Pair Queries | Hard | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
+| 3348 | Smallest Divisible Digit Product II | Hard | [View](./3348.%20Smallest%20Divisible%20Digit%20Product%20II/) |
 | 3658 | GCD of Odd and Even Sums | Easy | [View](./3658.%20GCD%20of%20Odd%20and%20Even%20Sums/) |
 | 3867 | Sum of GCD of Formed Pairs | Medium | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 
@@ -1113,6 +1117,7 @@ Both indexes start small and expand naturally.
 | 3093 | Longest Common Suffix Queries | Hard | [View](./3093.%20Longest%20Common%20Suffix%20Queries/) |
 | 3120 | Count the Number of Special Characters I | Easy | [View](./3120.%20Count%20the%20Number%20of%20Special%20Characters%20I/) |
 | 3121 | Count the Number of Special Characters II | Medium | [View](./3121.%20Count%20the%20Number%20of%20Special%20Characters%20II/) |
+| 3348 | Smallest Divisible Digit Product II | Hard | [View](./3348.%20Smallest%20Divisible%20Digit%20Product%20II/) |
 | 3474 | Lexicographically Smallest Generated String | Hard | [View](./3474.%20Lexicographically%20Smallest%20Generated%20String/) |
 | 3499 | Maximize Active Section with Trade I | Medium | [View](./3499.%20Maximize%20Active%20Section%20with%20Trade%20I/) |
 | 3501 | Maximize Active Section with Trade II | Hard | [View](./3501.%20Maximize%20Active%20Section%20with%20Trade%20II/) |
