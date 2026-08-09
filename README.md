@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 113 | [View](#array) |
+| Array | 114 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
 | BFS | 14 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -46,9 +46,9 @@ Both indexes start small and expand naturally.
 | DFS | 11 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 36 | [View](#dynamic-programming) |
+| Dynamic Programming | 37 | [View](#dynamic-programming) |
 | Enumeration | 5 | [View](#enumeration) |
-| Game Theory | 3 | [View](#game-theory) |
+| Game Theory | 4 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 17 | [View](#graph) |
@@ -62,7 +62,7 @@ Both indexes start small and expand naturally.
 | Math | 54 | [View](#math) |
 | Matrix | 37 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
-| Minimax | 3 | [View](#minimax) |
+| Minimax | 4 | [View](#minimax) |
 | Monotonic Stack | 3 | [View](#monotonic-stack) |
 | Number Theory | 5 | [View](#number-theory) |
 | Ordered Set | 2 | [View](#ordered-set) |
@@ -124,6 +124,7 @@ Both indexes start small and expand naturally.
 | 1009 | Complement of Base 10 Integer | Easy | Bit Manipulation | [View](./1009.%20Complement%20of%20Base%2010%20Integer/) |
 | 1022 | Sum of Root To Leaf Binary Numbers | Easy | Tree / DFS / Binary Tree | [View](./1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/) |
 | 1081 | Smallest Subsequence of Distinct Characters | Medium | String / Stack / Greedy / Monotonic Stack | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
+| 1140 | Stone Game II | Medium | Array / Dynamic Programming / Game Theory / Minimax | [View](./1140.%20Stone%20Game%20II/) |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | Tree / BFS / Binary Tree | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1189 | Maximum Number of Balloons | Easy | String / Hash Table / Counting | [View](./1189.%20Maximum%20Number%20of%20Balloons/) |
 | 1200 | Minimum Absolute Difference | Easy | Array / Sorting | [View](./1200.%20Minimum%20Absolute%20Difference/) |
@@ -335,6 +336,7 @@ Both indexes start small and expand naturally.
 | 744 | Find Smallest Letter Greater Than Target | Easy | [View](./744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
+| 1140 | Stone Game II | Medium | [View](./1140.%20Stone%20Game%20II/) |
 | 1200 | Minimum Absolute Difference | Easy | [View](./1200.%20Minimum%20Absolute%20Difference/) |
 | 1260 | Shift 2D Grid | Easy | [View](./1260.%20Shift%202D%20Grid/) |
 | 1266 | Minimum Time Visiting All Points | Easy | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
@@ -597,6 +599,7 @@ Both indexes start small and expand naturally.
 | 788 | Rotated Digits | Medium | [View](./788.%20Rotated%20Digits/) |
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
 | 877 | Stone Game | Medium | [View](./877.%20Stone%20Game/) |
+| 1140 | Stone Game II | Medium | [View](./1140.%20Stone%20Game%20II/) |
 | 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard | [View](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1340 | Jump Game V | Hard | [View](./1340.%20Jump%20Game%20V/) |
@@ -640,6 +643,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 486 | Predict the Winner | Medium | [View](./486.%20Predict%20the%20Winner/) |
 | 877 | Stone Game | Medium | [View](./877.%20Stone%20Game/) |
+| 1140 | Stone Game II | Medium | [View](./1140.%20Stone%20Game%20II/) |
 | 1406 | Stone Game III | Hard | [View](./1406.%20Stone%20Game%20III/) |
 
 ### GCD
@@ -898,6 +902,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 486 | Predict the Winner | Medium | [View](./486.%20Predict%20the%20Winner/) |
 | 877 | Stone Game | Medium | [View](./877.%20Stone%20Game/) |
+| 1140 | Stone Game II | Medium | [View](./1140.%20Stone%20Game%20II/) |
 | 1406 | Stone Game III | Hard | [View](./1406.%20Stone%20Game%20III/) |
 
 ### Monotonic Stack
