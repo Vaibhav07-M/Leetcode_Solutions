@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 114 | [View](#array) |
+| Array | 115 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
 | BFS | 14 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -54,7 +54,7 @@ Both indexes start small and expand naturally.
 | Graph | 17 | [View](#graph) |
 | Greedy | 39 | [View](#greedy) |
 | Hash Set | 1 | [View](#hash-set) |
-| Hash Table | 25 | [View](#hash-table) |
+| Hash Table | 26 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
@@ -226,6 +226,7 @@ Both indexes start small and expand naturally.
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | Array / Hash Table / Enumeration / Math | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
 | 2976 | Minimum Cost to Convert String I | Medium | Array / String / Graph / Shortest Path | [View](./2976.%20Minimum%20Cost%20to%20Convert%20String%20I/) |
 | 2977 | Minimum Cost to Convert String II | Hard | String / Dynamic Programming / Graph / Shortest Path / Trie | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
+| 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | Array / Hash Table | [View](./2996.%20Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum/) |
 | 3010 | Divide an Array Into Subarrays With Minimum Cost I | Easy | Array / Greedy | [View](./3010.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I/) |
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | Array / Sliding Window / Heap (Priority Queue) / Ordered Set | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
 | 3014 | Minimum Number of Pushes to Type Word I | Easy | Greedy / Math / String | [View](./3014.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I/) |
@@ -391,6 +392,7 @@ Both indexes start small and expand naturally.
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
 | 2976 | Minimum Cost to Convert String I | Medium | [View](./2976.%20Minimum%20Cost%20to%20Convert%20String%20I/) |
+| 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | [View](./2996.%20Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum/) |
 | 3010 | Divide an Array Into Subarrays With Minimum Cost I | Easy | [View](./3010.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I/) |
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
@@ -752,6 +754,7 @@ Both indexes start small and expand naturally.
 | 2784 | Check if Array is Good | Easy | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
+| 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | [View](./2996.%20Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum/) |
 | 3016 | Minimum Number of Pushes to Type Word II | Medium | [View](./3016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II/) |
 | 3020 | Find the Maximum Number of Elements in Subset | Medium | [View](./3020.%20Find%20the%20Maximum%20Number%20of%20Elements%20in%20Subset/) |
 | 3120 | Count the Number of Special Characters I | Easy | [View](./3120.%20Count%20the%20Number%20of%20Special%20Characters%20I/) |
