@@ -53,6 +53,7 @@ Both indexes start small and expand naturally.
 | Geometry | 6 | [View](#geometry) |
 | Graph | 17 | [View](#graph) |
 | Greedy | 39 | [View](#greedy) |
+| Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
 | Hash Table | 26 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
@@ -73,7 +74,7 @@ Both indexes start small and expand naturally.
 | Segment Tree | 3 | [View](#segment-tree) |
 | Shortest Path | 5 | [View](#shortest-path) |
 | Simulation | 27 | [View](#simulation) |
-| Sliding Window | 9 | [View](#sliding-window) |
+| Sliding Window | 10 | [View](#sliding-window) |
 | Sorting | 33 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 4 | [View](#stack) |
@@ -223,6 +224,7 @@ Both indexes start small and expand naturally.
 | 2906 | Construct Product Matrix | Medium | Array / Matrix / Math / Prefix Sum | [View](./2906.%20Construct%20Product%20Matrix/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | Array / Sorting / Greedy | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
 | 2946 | Matrix Similarity After Cyclic Shifts | Easy | Matrix / Simulation | [View](./2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts/) |
+| 2958 | Length of Longest Subarray With at Most K Frequency | Medium | Sliding Window / Hash Map | [View](./2958.%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | Array / Hash Table / Enumeration / Math | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
 | 2976 | Minimum Cost to Convert String I | Medium | Array / String / Graph / Shortest Path | [View](./2976.%20Minimum%20Cost%20to%20Convert%20String%20I/) |
 | 2977 | Minimum Cost to Convert String II | Hard | String / Dynamic Programming / Graph / Shortest Path / Trie | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
@@ -734,6 +736,11 @@ Both indexes start small and expand naturally.
 | 3635 | Earliest Finish Time for Land and Water Rides II | Medium | [View](./3635.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20II/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 
+### Hash Map
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 2958 | Length of Longest Subarray With at Most K Frequency | Medium | [View](./2958.%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency/) |
+
 ### Hash Set
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
@@ -1033,6 +1040,7 @@ Both indexes start small and expand naturally.
 | 1871 | Jump Game VII | Medium | [View](./1871.%20Jump%20Game%20VII/) |
 | 1888 | Minimum Number of Flips to Make the Binary String Alternating | Medium | [View](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating/) |
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | [View](./1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) |
+| 2958 | Length of Longest Subarray With at Most K Frequency | Medium | [View](./2958.%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency/) |
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
 | 3567 | Minimum Absolute Difference in Sliding Submatrix | Medium | [View](./3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix/) |
 | 3634 | Minimum Removals to Balance Array | Medium | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
