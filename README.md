@@ -55,7 +55,7 @@ Both indexes start small and expand naturally.
 | Greedy | 39 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
-| Hash Table | 26 | [View](#hash-table) |
+| Hash Table | 27 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
@@ -74,11 +74,11 @@ Both indexes start small and expand naturally.
 | Segment Tree | 4 | [View](#segment-tree) |
 | Shortest Path | 5 | [View](#shortest-path) |
 | Simulation | 27 | [View](#simulation) |
-| Sliding Window | 10 | [View](#sliding-window) |
+| Sliding Window | 11 | [View](#sliding-window) |
 | Sorting | 33 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 4 | [View](#stack) |
-| String | 54 | [View](#string) |
+| String | 55 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -239,6 +239,7 @@ Both indexes start small and expand naturally.
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | Array / Geometry / Math / Enumeration | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
 | 3070 | Count Submatrices with Top-Left Element and Sum Less Than k | Medium | Array / Matrix / Prefix Sum | [View](./3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | Greedy / Sorting | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
+| 3090 | Maximum Length Substring With Two Occurrences | Easy | String / Sliding Window / Hash Table | [View](./3090.%20Maximum%20Length%20Substring%20With%20Two%20Occurrences/) |
 | 3093 | Longest Common Suffix Queries | Hard | Trie / String | [View](./3093.%20Longest%20Common%20Suffix%20Queries/) |
 | 3120 | Count the Number of Special Characters I | Easy | String / Hash Table | [View](./3120.%20Count%20the%20Number%20of%20Special%20Characters%20I/) |
 | 3121 | Count the Number of Special Characters II | Medium | String / Counting | [View](./3121.%20Count%20the%20Number%20of%20Special%20Characters%20II/) |
@@ -765,6 +766,7 @@ Both indexes start small and expand naturally.
 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | [View](./2996.%20Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum/) |
 | 3016 | Minimum Number of Pushes to Type Word II | Medium | [View](./3016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II/) |
 | 3020 | Find the Maximum Number of Elements in Subset | Medium | [View](./3020.%20Find%20the%20Maximum%20Number%20of%20Elements%20in%20Subset/) |
+| 3090 | Maximum Length Substring With Two Occurrences | Easy | [View](./3090.%20Maximum%20Length%20Substring%20With%20Two%20Occurrences/) |
 | 3120 | Count the Number of Special Characters I | Easy | [View](./3120.%20Count%20the%20Number%20of%20Special%20Characters%20I/) |
 | 3488 | Closest Equal Element Queries | Medium | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
 | 3517 | Smallest Palindromic Rearrangement I | Medium | [View](./3517.%20Smallest%20Palindromic%20Rearrangement%20I/) |
@@ -1044,6 +1046,7 @@ Both indexes start small and expand naturally.
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | [View](./1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) |
 | 2958 | Length of Longest Subarray With at Most K Frequency | Medium | [View](./2958.%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency/) |
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
+| 3090 | Maximum Length Substring With Two Occurrences | Easy | [View](./3090.%20Maximum%20Length%20Substring%20With%20Two%20Occurrences/) |
 | 3567 | Minimum Absolute Difference in Sliding Submatrix | Medium | [View](./3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix/) |
 | 3634 | Minimum Removals to Balance Array | Medium | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
 | 3719 | Longest Balanced Subarray I | Medium | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
@@ -1138,6 +1141,7 @@ Both indexes start small and expand naturally.
 | 2977 | Minimum Cost to Convert String II | Hard | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
 | 3014 | Minimum Number of Pushes to Type Word I | Easy | [View](./3014.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I/) |
 | 3016 | Minimum Number of Pushes to Type Word II | Medium | [View](./3016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II/) |
+| 3090 | Maximum Length Substring With Two Occurrences | Easy | [View](./3090.%20Maximum%20Length%20Substring%20With%20Two%20Occurrences/) |
 | 3093 | Longest Common Suffix Queries | Hard | [View](./3093.%20Longest%20Common%20Suffix%20Queries/) |
 | 3120 | Count the Number of Special Characters I | Easy | [View](./3120.%20Count%20the%20Number%20of%20Special%20Characters%20I/) |
 | 3121 | Count the Number of Special Characters II | Medium | [View](./3121.%20Count%20the%20Number%20of%20Special%20Characters%20II/) |
