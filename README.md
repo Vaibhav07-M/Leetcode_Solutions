@@ -32,14 +32,14 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 115 | [View](#array) |
+| Array | 116 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
 | BFS | 14 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
 | Binary Search | 21 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 7 | [View](#binary-tree) |
-| Bit Manipulation | 15 | [View](#bit-manipulation) |
+| Bit Manipulation | 16 | [View](#bit-manipulation) |
 | Combinatorics | 2 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 12 | [View](#counting) |
@@ -85,7 +85,7 @@ Both indexes start small and expand naturally.
 | Tree | 9 | [View](#tree) |
 | Two Pointers | 11 | [View](#two-pointers) |
 | Union Find | 4 | [View](#union-find) |
-| XOR | 4 | [View](#xor) |
+| XOR | 5 | [View](#xor) |
 
 ### Completed Problems
 
@@ -305,6 +305,7 @@ Both indexes start small and expand naturally.
 | 3691 | Maximum Total Subarray Value II | Hard | Array | [View](./3691.%20Maximum%20Total%20Subarray%20Value%20II/) |
 | 3699 | Number of ZigZag Arrays I | Hard | Array / Dynamic Programming / Prefix Sum | [View](./3699.%20Number%20of%20ZigZag%20Arrays%20I/) |
 | 3700 | Number of ZigZag Arrays II | Hard | Array / Dynamic Programming / Matrix Exponentiation / Graph | [View](./3700.%20Number%20of%20ZigZag%20Arrays%20II/) |
+| 3702 | Longest Subsequence With Non-Zero Bitwise XOR | Medium | Array / Bit Manipulation / XOR | [View](./3702.%20Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR/) |
 | 3713 | Longest Balanced Substring I | Medium | String / Hash Table / Counting | [View](./3713.%20Longest%20Balanced%20Substring%20I/) |
 | 3714 | Longest Balanced Substring II | Medium | String / Hash Table / Prefix Sum | [View](./3714.%20Longest%20Balanced%20Substring%20II/) |
 | 3719 | Longest Balanced Subarray I | Medium | Array / Hash Table / Sliding Window | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
@@ -437,6 +438,7 @@ Both indexes start small and expand naturally.
 | 3691 | Maximum Total Subarray Value II | Hard | [View](./3691.%20Maximum%20Total%20Subarray%20Value%20II/) |
 | 3699 | Number of ZigZag Arrays I | Hard | [View](./3699.%20Number%20of%20ZigZag%20Arrays%20I/) |
 | 3700 | Number of ZigZag Arrays II | Hard | [View](./3700.%20Number%20of%20ZigZag%20Arrays%20II/) |
+| 3702 | Longest Subsequence With Non-Zero Bitwise XOR | Medium | [View](./3702.%20Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR/) |
 | 3719 | Longest Balanced Subarray I | Medium | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
 | 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 | 3731 | Find Missing Elements | Easy | [View](./3731.%20Find%20Missing%20Elements/) |
@@ -539,6 +541,7 @@ Both indexes start small and expand naturally.
 | 3315 | Construct the Minimum Bitwise Array II | Medium | [View](./3315.%20Construct%20the%20Minimum%20Bitwise%20Array%20II/) |
 | 3513 | Number of Unique XOR Triplets I | Medium | [View](./3513.%20Number%20of%20Unique%20XOR%20Triplets%20I/) |
 | 3514 | Number of Unique XOR Triplets II | Medium | [View](./3514.%20Number%20of%20Unique%20XOR%20Triplets%20II/) |
+| 3702 | Longest Subsequence With Non-Zero Bitwise XOR | Medium | [View](./3702.%20Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR/) |
 
 ### Combinatorics
 | # | Title | Difficulty | Solution |
@@ -1221,6 +1224,7 @@ Both indexes start small and expand naturally.
 | 3514 | Number of Unique XOR Triplets II | Medium | [View](./3514.%20Number%20of%20Unique%20XOR%20Triplets%20II/) |
 | 3653 | XOR After Range Multiplication Queries I | Medium | [View](./3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I/) |
 | 3655 | XOR After Range Multiplication Queries II | Hard | [View](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II/) |
+| 3702 | Longest Subsequence With Non-Zero Bitwise XOR | Medium | [View](./3702.%20Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR/) |
 
 ---
 
