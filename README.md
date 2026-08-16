@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 116 | [View](#array) |
+| Array | 117 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
 | BFS | 14 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -42,17 +42,17 @@ Both indexes start small and expand naturally.
 | Bit Manipulation | 16 | [View](#bit-manipulation) |
 | Combinatorics | 2 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
-| Counting | 12 | [View](#counting) |
+| Counting | 13 | [View](#counting) |
 | DFS | 11 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
 | Dynamic Programming | 38 | [View](#dynamic-programming) |
 | Enumeration | 5 | [View](#enumeration) |
-| Game Theory | 5 | [View](#game-theory) |
+| Game Theory | 6 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 17 | [View](#graph) |
-| Greedy | 39 | [View](#greedy) |
+| Greedy | 40 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
 | Hash Table | 27 | [View](#hash-table) |
@@ -60,7 +60,7 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
-| Math | 55 | [View](#math) |
+| Math | 56 | [View](#math) |
 | Matrix | 37 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Minimax | 4 | [View](#minimax) |
@@ -192,6 +192,7 @@ Both indexes start small and expand naturally.
 | 1979 | Find Greatest Common Divisor of Array | Easy | Array / Math / Number Theory / GCD | [View](./1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array/) |
 | 1980 | Find Unique Binary String | Medium | Array / String / Backtracking | [View](./1980.%20Find%20Unique%20Binary%20String/) |
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | Array / Sorting / Sliding Window | [View](./1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) |
+| 2029 | Stone Game IX | Medium | Array / Math / Greedy / Counting / Game Theory | [View](./2029.%20Stone%20Game%20IX/) |
 | 2033 | Minimum Operations to Make a Uni-Value Grid | Medium | Array / Matrix / Math / Sorting | [View](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/) |
 | 2069 | Walking Robot Simulation II | Medium | Design / Simulation / Math | [View](./2069.%20Walking%20Robot%20Simulation%20II/) |
 | 2075 | Decode the Slanted Ciphertext | Medium | String / Matrix / Simulation | [View](./2075.%20Decode%20the%20Slanted%20Ciphertext/) |
@@ -379,6 +380,7 @@ Both indexes start small and expand naturally.
 | 1979 | Find Greatest Common Divisor of Array | Easy | [View](./1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array/) |
 | 1980 | Find Unique Binary String | Medium | [View](./1980.%20Find%20Unique%20Binary%20String/) |
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | [View](./1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) |
+| 2029 | Stone Game IX | Medium | [View](./2029.%20Stone%20Game%20IX/) |
 | 2033 | Minimum Operations to Make a Uni-Value Grid | Medium | [View](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/) |
 | 2078 | Two Furthest Houses With Different Colors | Easy | [View](./2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors/) |
 | 2161 | Partition Array According to Given Pivot | Easy | [View](./2161.%20Partition%20Array%20According%20to%20Given%20Pivot/) |
@@ -561,6 +563,7 @@ Both indexes start small and expand naturally.
 | 1189 | Maximum Number of Balloons | Easy | [View](./1189.%20Maximum%20Number%20of%20Balloons/) |
 | 1356 | Sort Integers by The Number of 1 Bits | Easy | [View](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits/) |
 | 1833 | Maximum Ice Cream Bars | Medium | [View](./1833.%20Maximum%20Ice%20Cream%20Bars/) |
+| 2029 | Stone Game IX | Medium | [View](./2029.%20Stone%20Game%20IX/) |
 | 2784 | Check if Array is Good | Easy | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
 | 3120 | Count the Number of Special Characters I | Easy | [View](./3120.%20Count%20the%20Number%20of%20Special%20Characters%20I/) |
@@ -657,6 +660,7 @@ Both indexes start small and expand naturally.
 | 1140 | Stone Game II | Medium | [View](./1140.%20Stone%20Game%20II/) |
 | 1406 | Stone Game III | Hard | [View](./1406.%20Stone%20Game%20III/) |
 | 1510 | Stone Game IV | Medium | [View](./1510.%20Stone%20Game%20IV/) |
+| 2029 | Stone Game IX | Medium | [View](./2029.%20Stone%20Game%20IX/) |
 
 ### GCD
 | # | Title | Difficulty | Solution |
@@ -718,6 +722,7 @@ Both indexes start small and expand naturally.
 | 1846 | Maximum Element After Decreasing and Rearranging | Medium | [View](./1846.%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
 | 1975 | Maximum Matrix Sum | Medium | [View](./1975.%20Maximum%20Matrix%20Sum/) |
+| 2029 | Stone Game IX | Medium | [View](./2029.%20Stone%20Game%20IX/) |
 | 2126 | Destroying Asteroids | Medium | [View](./2126.%20Destroying%20Asteroids/) |
 | 2144 | Minimum Cost of Buying Candies With Discount | Easy | [View](./2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
@@ -839,6 +844,7 @@ Both indexes start small and expand naturally.
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
 | 1840 | Maximum Building Height | Hard | [View](./1840.%20Maximum%20Building%20Height/) |
 | 1979 | Find Greatest Common Divisor of Array | Easy | [View](./1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array/) |
+| 2029 | Stone Game IX | Medium | [View](./2029.%20Stone%20Game%20IX/) |
 | 2033 | Minimum Operations to Make a Uni-Value Grid | Medium | [View](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/) |
 | 2069 | Walking Robot Simulation II | Medium | [View](./2069.%20Walking%20Robot%20Simulation%20II/) |
 | 2553 | Separate the Digits in an Array | Easy | [View](./2553.%20Separate%20the%20Digits%20in%20an%20Array/) |
