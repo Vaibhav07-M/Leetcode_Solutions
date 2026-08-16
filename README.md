@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 117 | [View](#array) |
+| Array | 118 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
 | BFS | 14 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -55,7 +55,7 @@ Both indexes start small and expand naturally.
 | Greedy | 40 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
-| Hash Table | 27 | [View](#hash-table) |
+| Hash Table | 28 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
@@ -91,6 +91,7 @@ Both indexes start small and expand naturally.
 
 | # | Title | Difficulty | Category | Solution |
 |---|--------|------------|----------|---------|
+| 1 | Two Sum | Easy | Array / Hash Table | [View](./1.%20Two%20Sum/) |
 | 33 | Search in Rotated Sorted Array | Medium | Array / Binary Search | [View](./33.%20Search%20in%20Rotated%20Sorted%20Array/) |
 | 48 | Rotate Image | Medium | Array / Math / Matrix | [View](./48.%20Rotate%20Image/) |
 | 61 | Rotate List | Medium | Linked List / Two Pointers | [View](./61.%20Rotate%20List/) |
@@ -333,6 +334,7 @@ Both indexes start small and expand naturally.
 ### Array
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 1 | Two Sum | Easy | [View](./1.%20Two%20Sum/) |
 | 33 | Search in Rotated Sorted Array | Medium | [View](./33.%20Search%20in%20Rotated%20Sorted%20Array/) |
 | 48 | Rotate Image | Medium | [View](./48.%20Rotate%20Image/) |
 | 66 | Plus One | Easy | [View](./66.%20Plus%20One/) |
@@ -759,6 +761,7 @@ Both indexes start small and expand naturally.
 ### Hash Table
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 1 | Two Sum | Easy | [View](./1.%20Two%20Sum/) |
 | 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
