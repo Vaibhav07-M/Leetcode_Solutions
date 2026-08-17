@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 118 | [View](#array) |
+| Array | 119 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
 | BFS | 14 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -46,9 +46,9 @@ Both indexes start small and expand naturally.
 | DFS | 11 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 38 | [View](#dynamic-programming) |
+| Dynamic Programming | 39 | [View](#dynamic-programming) |
 | Enumeration | 5 | [View](#enumeration) |
-| Game Theory | 6 | [View](#game-theory) |
+| Game Theory | 7 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 17 | [View](#graph) |
@@ -60,7 +60,7 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
-| Math | 56 | [View](#math) |
+| Math | 57 | [View](#math) |
 | Matrix | 37 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Minimax | 4 | [View](#minimax) |
@@ -160,6 +160,7 @@ Both indexes start small and expand naturally.
 | 1536 | Minimum Swaps to Arrange a Binary Grid | Medium | Array / Greedy / Sorting / Matrix | [View](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid/) |
 | 1545 | Find Kth Bit in Nth Binary String | Medium | String / Recursion / Divide and Conquer | [View](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/) |
 | 1559 | Detect Cycles in 2D Grid | Medium | DFS / Matrix | [View](./1559.%20Detect%20Cycles%20in%202D%20Grid/) |
+| 1563 | Stone Game V | Hard | Array / Math / Dynamic Programming / Game Theory | [View](./1563.%20Stone%20Game%20V/) |
 | 1582 | Special Positions in a Binary Matrix | Easy | Array / Matrix | [View](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix/) |
 | 1594 | Maximum Non Negative Product in a Matrix | Medium | Array / Dynamic Programming / Matrix | [View](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/) |
 | 1622 | Fancy Sequence | Hard | Design / Math / Segment Tree | [View](./1622.%20Fancy%20Sequence/) |
@@ -362,6 +363,7 @@ Both indexes start small and expand naturally.
 | 1458 | Max Dot Product of Two Subsequences | Hard | [View](./1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences/) |
 | 1464 | Maximum Product of Two Elements in an Array | Easy | [View](./1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/) |
 | 1536 | Minimum Swaps to Arrange a Binary Grid | Medium | [View](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid/) |
+| 1563 | Stone Game V | Hard | [View](./1563.%20Stone%20Game%20V/) |
 | 1582 | Special Positions in a Binary Matrix | Easy | [View](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix/) |
 | 1594 | Maximum Non Negative Product in a Matrix | Medium | [View](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/) |
 | 1665 | Minimum Initial Energy to Finish Tasks | Hard | [View](./1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks/) |
@@ -622,6 +624,7 @@ Both indexes start small and expand naturally.
 | 1510 | Stone Game IV | Medium | [View](./1510.%20Stone%20Game%20IV/) |
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
 | 1458 | Max Dot Product of Two Subsequences | Hard | [View](./1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences/) |
+| 1563 | Stone Game V | Hard | [View](./1563.%20Stone%20Game%20V/) |
 | 1594 | Maximum Non Negative Product in a Matrix | Medium | [View](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
 | 2463 | Minimum Total Distance Traveled | Hard | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
@@ -662,6 +665,7 @@ Both indexes start small and expand naturally.
 | 1140 | Stone Game II | Medium | [View](./1140.%20Stone%20Game%20II/) |
 | 1406 | Stone Game III | Hard | [View](./1406.%20Stone%20Game%20III/) |
 | 1510 | Stone Game IV | Medium | [View](./1510.%20Stone%20Game%20IV/) |
+| 1563 | Stone Game V | Hard | [View](./1563.%20Stone%20Game%20V/) |
 | 2029 | Stone Game IX | Medium | [View](./2029.%20Stone%20Game%20IX/) |
 
 ### GCD
@@ -842,6 +846,7 @@ Both indexes start small and expand naturally.
 | 1415 | The k-th Lexicographical String of All Happy Strings of Length n | Medium | [View](./1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/) |
 | 1464 | Maximum Product of Two Elements in an Array | Easy | [View](./1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/) |
 | 1510 | Stone Game IV | Medium | [View](./1510.%20Stone%20Game%20IV/) |
+| 1563 | Stone Game V | Hard | [View](./1563.%20Stone%20Game%20V/) |
 | 1622 | Fancy Sequence | Hard | [View](./1622.%20Fancy%20Sequence/) |
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
