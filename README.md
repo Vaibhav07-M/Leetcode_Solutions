@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 119 | [View](#array) |
+| Array | 120 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
 | BFS | 14 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -55,7 +55,7 @@ Both indexes start small and expand naturally.
 | Greedy | 40 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
-| Hash Table | 28 | [View](#hash-table) |
+| Hash Table | 29 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
@@ -267,6 +267,7 @@ Both indexes start small and expand naturally.
 | 3453 | Separate Squares I | Medium | Array / Binary Search / Geometry / Math / Sorting | [View](./3453.%20Separate%20Squares%20I/) |
 | 3454 | Separate Squares II | Hard | Array / Binary Search / Geometry / Line Sweep / Coordinate Compression / Sorting | [View](./3454.%20Separate%20Squares%20II/) |
 | 3464 | Maximize the Distance Between Points on a Square | Hard | Array / Binary Search / Geometry / Sorting | [View](./3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square/) |
+| 3471 | Find the Largest Almost Missing Integer | Easy | Array / Hash Table | [View](./3471.%20Find%20the%20Largest%20Almost%20Missing%20Integer/) |
 | 3474 | Lexicographically Smallest Generated String | Hard | String / Greedy | [View](./3474.%20Lexicographically%20Smallest%20Generated%20String/) |
 | 3488 | Closest Equal Element Queries | Medium | Array / Hash Table / Binary Search | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
 | 3499 | Maximize Active Section with Trade I | Medium | String / Greedy / Simulation / Run-Length Encoding | [View](./3499.%20Maximize%20Active%20Section%20with%20Trade%20I/) |
@@ -424,6 +425,7 @@ Both indexes start small and expand naturally.
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
 | 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
 | 3464 | Maximize the Distance Between Points on a Square | Hard | [View](./3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square/) |
+| 3471 | Find the Largest Almost Missing Integer | Easy | [View](./3471.%20Find%20the%20Largest%20Almost%20Missing%20Integer/) |
 | 3488 | Closest Equal Element Queries | Medium | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
@@ -783,6 +785,7 @@ Both indexes start small and expand naturally.
 | 3020 | Find the Maximum Number of Elements in Subset | Medium | [View](./3020.%20Find%20the%20Maximum%20Number%20of%20Elements%20in%20Subset/) |
 | 3090 | Maximum Length Substring With Two Occurrences | Easy | [View](./3090.%20Maximum%20Length%20Substring%20With%20Two%20Occurrences/) |
 | 3120 | Count the Number of Special Characters I | Easy | [View](./3120.%20Count%20the%20Number%20of%20Special%20Characters%20I/) |
+| 3471 | Find the Largest Almost Missing Integer | Easy | [View](./3471.%20Find%20the%20Largest%20Almost%20Missing%20Integer/) |
 | 3488 | Closest Equal Element Queries | Medium | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
 | 3517 | Smallest Palindromic Rearrangement I | Medium | [View](./3517.%20Smallest%20Palindromic%20Rearrangement%20I/) |
 | 3548 | Equal Sum Grid Partition II | Hard | [View](./3548.%20Equal%20Sum%20Grid%20Partition%20II/) |
