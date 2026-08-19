@@ -2,5 +2,3 @@ trial.cpp
 *.exe
 prompt_template.txt
 Master_prompt.txt
-.kilo
-.gitignore
