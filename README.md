@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 121 | [View](#array) |
+| Array | 122 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
 | BFS | 14 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -73,7 +73,7 @@ Both indexes start small and expand naturally.
 | Run-Length Encoding | 2 | [View](#run-length-encoding) |
 | Segment Tree | 4 | [View](#segment-tree) |
 | Shortest Path | 5 | [View](#shortest-path) |
-| Simulation | 27 | [View](#simulation) |
+| Simulation | 28 | [View](#simulation) |
 | Sliding Window | 11 | [View](#sliding-window) |
 | Sorting | 33 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
@@ -241,6 +241,7 @@ Both indexes start small and expand naturally.
 | 3020 | Find the Maximum Number of Elements in Subset | Medium | Array / Hash Table / Greedy | [View](./3020.%20Find%20the%20Maximum%20Number%20of%20Elements%20in%20Subset/) |
 | 3043 | Find the Length of the Longest Common Prefix | Medium | Trie | [View](./3043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | Array / Geometry / Math / Enumeration | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
+| 3069 | Distribute Elements Into Two Arrays I | Easy | Array / Simulation | [View](./3069.%20Distribute%20Elements%20Into%20Two%20Arrays%20I/) |
 | 3070 | Count Submatrices with Top-Left Element and Sum Less Than k | Medium | Array / Matrix / Prefix Sum | [View](./3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | Greedy / Sorting | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
 | 3090 | Maximum Length Substring With Two Occurrences | Easy | String / Sliding Window / Hash Table | [View](./3090.%20Maximum%20Length%20Substring%20With%20Two%20Occurrences/) |
@@ -410,6 +411,7 @@ Both indexes start small and expand naturally.
 | 3010 | Divide an Array Into Subarrays With Minimum Cost I | Easy | [View](./3010.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I/) |
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
+| 3069 | Distribute Elements Into Two Arrays I | Easy | [View](./3069.%20Distribute%20Elements%20Into%20Two%20Arrays%20I/) |
 | 3070 | Count Submatrices with Top-Left Element and Sum Less Than k | Medium | [View](./3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
 | 3129 | Find All Possible Stable Binary Arrays I | Medium | [View](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I/) |
@@ -1048,6 +1050,7 @@ Both indexes start small and expand naturally.
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
 | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | [View](./2839.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) |
 | 2946 | Matrix Similarity After Cyclic Shifts | Easy | [View](./2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts/) |
+| 3069 | Distribute Elements Into Two Arrays I | Easy | [View](./3069.%20Distribute%20Elements%20Into%20Two%20Arrays%20I/) |
 | 3345 | Smallest Divisible Digit Product I | Easy | [View](./3345.%20Smallest%20Divisible%20Digit%20Product%20I/) |
 | 3379 | Transformed Array | Easy | [View](./3379.%20Transformed%20Array/) |
 | 3499 | Maximize Active Section with Trade I | Medium | [View](./3499.%20Maximize%20Active%20Section%20with%20Trade%20I/) |
