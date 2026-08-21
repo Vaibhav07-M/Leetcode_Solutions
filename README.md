@@ -55,12 +55,12 @@ Both indexes start small and expand naturally.
 | Greedy | 41 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
-| Hash Table | 30 | [View](#hash-table) |
+| Hash Table | 31 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
-| Math | 58 | [View](#math) |
+| Math | 59 | [View](#math) |
 | Matrix | 37 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Minimax | 4 | [View](#minimax) |
@@ -78,7 +78,7 @@ Both indexes start small and expand naturally.
 | Sorting | 33 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 4 | [View](#stack) |
-| String | 55 | [View](#string) |
+| String | 56 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -92,6 +92,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Category | Solution |
 |---|--------|------------|----------|---------|
 | 1 | Two Sum | Easy | Array / Hash Table | [View](./1.%20Two%20Sum/) |
+| 13 | Roman to Integer | Easy | Hash Table / Math / String | [View](./13.%20Roman%20to%20Integer/) |
 | 33 | Search in Rotated Sorted Array | Medium | Array / Binary Search | [View](./33.%20Search%20in%20Rotated%20Sorted%20Array/) |
 | 48 | Rotate Image | Medium | Array / Math / Matrix | [View](./48.%20Rotate%20Image/) |
 | 61 | Rotate List | Medium | Linked List / Two Pointers | [View](./61.%20Rotate%20List/) |
@@ -779,6 +780,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 1 | Two Sum | Easy | [View](./1.%20Two%20Sum/) |
+| 13 | Roman to Integer | Easy | [View](./13.%20Roman%20to%20Integer/) |
 | 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
@@ -843,6 +845,7 @@ Both indexes start small and expand naturally.
 ### Math
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 13 | Roman to Integer | Easy | [View](./13.%20Roman%20to%20Integer/) |
 | 48 | Rotate Image | Medium | [View](./48.%20Rotate%20Image/) |
 | 66 | Plus One | Easy | [View](./66.%20Plus%20One/) |
 | 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
@@ -1140,6 +1143,7 @@ Both indexes start small and expand naturally.
 ### String
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 13 | Roman to Integer | Easy | [View](./13.%20Roman%20to%20Integer/) |
 | 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
 | 657 | Robot Return to Origin | Easy | [View](./657.%20Robot%20Return%20to%20Origin/) |
 | 696 | Count Binary Substrings | Easy | [View](./696.%20Count%20Binary%20Substrings/) |
