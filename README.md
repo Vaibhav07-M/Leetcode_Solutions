@@ -60,7 +60,7 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
-| Math | 59 | [View](#math) |
+| Math | 60 | [View](#math) |
 | Matrix | 37 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Minimax | 4 | [View](#minimax) |
@@ -294,6 +294,7 @@ Both indexes start small and expand naturally.
 | 3612 | Process String with Special Operations I | Medium | String / Stack / Simulation | [View](./3612.%20Process%20String%20with%20Special%20Operations%20I/) |
 | 3614 | Process String with Special Operations II | Hard | String / Stack / Simulation | [View](./3614.%20Process%20String%20with%20Special%20Operations%20II/) |
 | 3620 | Network Recovery Pathways | Hard | Graph / Dynamic Programming / Binary Search / Topological Sort | [View](./3620.%20Network%20Recovery%20Pathways/) |
+| 3622 | Check Divisibility by Digit Sum and Product | Easy | Math | [View](./3622.%20Check%20Divisibility%20by%20Digit%20Sum%20and%20Product/) |
 | 3633 | Earliest Finish Time for Land and Water Rides I | Easy | Greedy / Simulation | [View](./3633.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20I/) |
 | 3634 | Minimum Removals to Balance Array | Medium | Array / Sorting / Sliding Window / Two Pointers | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
 | 3635 | Earliest Finish Time for Land and Water Rides II | Medium | Greedy / Simulation | [View](./3635.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20II/) |
@@ -892,6 +893,7 @@ Both indexes start small and expand naturally.
 | 3536 | Maximum Product of Two Digits | Easy | [View](./3536.%20Maximum%20Product%20of%20Two%20Digits/) |
 | 3558 | Number of Ways to Assign Edge Weights I | Medium | [View](./3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) |
 | 3559 | Number of Ways to Assign Edge Weights II | Hard | [View](./3559.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20II/) |
+| 3622 | Check Divisibility by Digit Sum and Product | Easy | [View](./3622.%20Check%20Divisibility%20by%20Digit%20Sum%20and%20Product/) |
 | 3629 | Minimum Jumps to Reach End via Prime Teleportation | Medium | [View](./3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation/) |
 | 3653 | XOR After Range Multiplication Queries I | Medium | [View](./3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I/) |
 | 3655 | XOR After Range Multiplication Queries II | Hard | [View](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II/) |
