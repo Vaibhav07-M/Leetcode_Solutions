@@ -48,11 +48,11 @@ Both indexes start small and expand naturally.
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
 | Dynamic Programming | 39 | [View](#dynamic-programming) |
 | Enumeration | 5 | [View](#enumeration) |
-| Game Theory | 7 | [View](#game-theory) |
+| Game Theory | 8 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 17 | [View](#graph) |
-| Greedy | 41 | [View](#greedy) |
+| Greedy | 42 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
 | Hash Table | 31 | [View](#hash-table) |
@@ -60,7 +60,7 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
-| Math | 60 | [View](#math) |
+| Math | 61 | [View](#math) |
 | Matrix | 37 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Minimax | 4 | [View](#minimax) |
@@ -78,7 +78,7 @@ Both indexes start small and expand naturally.
 | Sorting | 33 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 4 | [View](#stack) |
-| String | 56 | [View](#string) |
+| String | 57 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -190,6 +190,7 @@ Both indexes start small and expand naturally.
 | 1888 | Minimum Number of Flips to Make the Binary String Alternating | Medium | String / Sliding Window | [View](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating/) |
 | 1895 | Largest Magic Square | Medium | Array / Matrix / Prefix Sum | [View](./1895.%20Largest%20Magic%20Square/) |
 | 1914 | Cyclically Rotating a Grid | Medium | Matrix / Simulation | [View](./1914.%20Cyclically%20Rotating%20a%20Grid/) |
+| 1927 | Sum Game | Medium | Math / String / Greedy / Game Theory | [View](./1927.%20Sum%20Game/) |
 | 1967 | Number of Strings That Appear as Substrings in Word | Easy | String | [View](./1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | Array / Binary Search / BFS / DFS / Union Find / Matrix | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
 | 1975 | Maximum Matrix Sum | Medium | Array / Greedy / Matrix | [View](./1975.%20Maximum%20Matrix%20Sum/) |
@@ -680,6 +681,7 @@ Both indexes start small and expand naturally.
 | 1406 | Stone Game III | Hard | [View](./1406.%20Stone%20Game%20III/) |
 | 1510 | Stone Game IV | Medium | [View](./1510.%20Stone%20Game%20IV/) |
 | 1563 | Stone Game V | Hard | [View](./1563.%20Stone%20Game%20V/) |
+| 1927 | Sum Game | Medium | [View](./1927.%20Sum%20Game/) |
 | 2029 | Stone Game IX | Medium | [View](./2029.%20Stone%20Game%20IX/) |
 
 ### GCD
@@ -742,6 +744,7 @@ Both indexes start small and expand naturally.
 | 1840 | Maximum Building Height | Hard | [View](./1840.%20Maximum%20Building%20Height/) |
 | 1846 | Maximum Element After Decreasing and Rearranging | Medium | [View](./1846.%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
+| 1927 | Sum Game | Medium | [View](./1927.%20Sum%20Game/) |
 | 1975 | Maximum Matrix Sum | Medium | [View](./1975.%20Maximum%20Matrix%20Sum/) |
 | 2029 | Stone Game IX | Medium | [View](./2029.%20Stone%20Game%20IX/) |
 | 2126 | Destroying Asteroids | Medium | [View](./2126.%20Destroying%20Asteroids/) |
@@ -870,6 +873,7 @@ Both indexes start small and expand naturally.
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
 | 1840 | Maximum Building Height | Hard | [View](./1840.%20Maximum%20Building%20Height/) |
+| 1927 | Sum Game | Medium | [View](./1927.%20Sum%20Game/) |
 | 1979 | Find Greatest Common Divisor of Array | Easy | [View](./1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array/) |
 | 2029 | Stone Game IX | Medium | [View](./2029.%20Stone%20Game%20IX/) |
 | 2033 | Minimum Operations to Make a Uni-Value Grid | Medium | [View](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/) |
@@ -1168,6 +1172,7 @@ Both indexes start small and expand naturally.
 | 1784 | Check if Binary String Has at Most One Segment of Ones | Easy | [View](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/) |
 | 1871 | Jump Game VII | Medium | [View](./1871.%20Jump%20Game%20VII/) |
 | 1888 | Minimum Number of Flips to Make the Binary String Alternating | Medium | [View](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating/) |
+| 1927 | Sum Game | Medium | [View](./1927.%20Sum%20Game/) |
 | 1967 | Number of Strings That Appear as Substrings in Word | Easy | [View](./1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) |
 | 1980 | Find Unique Binary String | Medium | [View](./1980.%20Find%20Unique%20Binary%20String/) |
 | 2075 | Decode the Slanted Ciphertext | Medium | [View](./2075.%20Decode%20the%20Slanted%20Ciphertext/) |
