@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 123 | [View](#array) |
+| Array | 124 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
 | BFS | 14 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -46,9 +46,9 @@ Both indexes start small and expand naturally.
 | DFS | 11 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 39 | [View](#dynamic-programming) |
+| Dynamic Programming | 40 | [View](#dynamic-programming) |
 | Enumeration | 5 | [View](#enumeration) |
-| Game Theory | 8 | [View](#game-theory) |
+| Game Theory | 9 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 17 | [View](#graph) |
@@ -60,14 +60,14 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 3 | [View](#linked-list) |
-| Math | 61 | [View](#math) |
+| Math | 62 | [View](#math) |
 | Matrix | 37 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
-| Minimax | 4 | [View](#minimax) |
+| Minimax | 5 | [View](#minimax) |
 | Monotonic Stack | 3 | [View](#monotonic-stack) |
 | Number Theory | 6 | [View](#number-theory) |
 | Ordered Set | 2 | [View](#ordered-set) |
-| Prefix Sum | 22 | [View](#prefix-sum) |
+| Prefix Sum | 23 | [View](#prefix-sum) |
 | Recursion | 2 | [View](#recursion) |
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Run-Length Encoding | 2 | [View](#run-length-encoding) |
@@ -86,6 +86,7 @@ Both indexes start small and expand naturally.
 | Two Pointers | 11 | [View](#two-pointers) |
 | Union Find | 4 | [View](#union-find) |
 | XOR | 5 | [View](#xor) |
+| Zero-Sum Game | 1 | [View](#zero-sum-game) |
 
 ### Completed Problems
 
@@ -184,6 +185,7 @@ Both indexes start small and expand naturally.
 | 1855 | Maximum Distance Between a Pair of Values | Medium | Array / Two Pointers | [View](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values/) |
 | 1861 | Rotating the Box | Medium | Matrix / Simulation | [View](./1861.%20Rotating%20the%20Box/) |
 | 1871 | Jump Game VII | Medium | String / BFS / Prefix Sum / Sliding Window | [View](./1871.%20Jump%20Game%20VII/) |
+| 1872 | Stone Game VIII | Hard | Array / Math / Dynamic Programming / Minimax / Prefix Sum / Game Theory / Zero-Sum Game | [View](./1872.%20Stone%20Game%20VIII/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | Array / Greedy / Sorting / Two Pointers | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
 | 1878 | Get Biggest Three Rhombus Sums in a Grid | Medium | Array / Matrix / Prefix Sum | [View](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid/) |
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | Matrix / Simulation | [View](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/) |
@@ -384,6 +386,7 @@ Both indexes start small and expand naturally.
 | 1846 | Maximum Element After Decreasing and Rearranging | Medium | [View](./1846.%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging/) |
 | 1848 | Minimum Distance to the Target Element | Easy | [View](./1848.%20Minimum%20Distance%20to%20the%20Target%20Element/) |
 | 1855 | Maximum Distance Between a Pair of Values | Medium | [View](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values/) |
+| 1872 | Stone Game VIII | Hard | [View](./1872.%20Stone%20Game%20VIII/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
 | 1878 | Get Biggest Three Rhombus Sums in a Grid | Medium | [View](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid/) |
 | 1895 | Largest Magic Square | Medium | [View](./1895.%20Largest%20Magic%20Square/) |
@@ -642,6 +645,7 @@ Both indexes start small and expand naturally.
 | 1563 | Stone Game V | Hard | [View](./1563.%20Stone%20Game%20V/) |
 | 1594 | Maximum Non Negative Product in a Matrix | Medium | [View](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
+| 1872 | Stone Game VIII | Hard | [View](./1872.%20Stone%20Game%20VIII/) |
 | 2463 | Minimum Total Distance Traveled | Hard | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
 | 2573 | Find the String with LCP | Hard | [View](./2573.%20Find%20the%20String%20with%20LCP/) |
 | 2770 | Maximum Number of Jumps to Reach the Last Index | Medium | [View](./2770.%20Maximum%20Number%20of%20Jumps%20to%20Reach%20the%20Last%20Index/) |
@@ -681,6 +685,7 @@ Both indexes start small and expand naturally.
 | 1406 | Stone Game III | Hard | [View](./1406.%20Stone%20Game%20III/) |
 | 1510 | Stone Game IV | Medium | [View](./1510.%20Stone%20Game%20IV/) |
 | 1563 | Stone Game V | Hard | [View](./1563.%20Stone%20Game%20V/) |
+| 1872 | Stone Game VIII | Hard | [View](./1872.%20Stone%20Game%20VIII/) |
 | 1927 | Sum Game | Medium | [View](./1927.%20Sum%20Game/) |
 | 2029 | Stone Game IX | Medium | [View](./2029.%20Stone%20Game%20IX/) |
 
@@ -873,6 +878,7 @@ Both indexes start small and expand naturally.
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
 | 1840 | Maximum Building Height | Hard | [View](./1840.%20Maximum%20Building%20Height/) |
+| 1872 | Stone Game VIII | Hard | [View](./1872.%20Stone%20Game%20VIII/) |
 | 1927 | Sum Game | Medium | [View](./1927.%20Sum%20Game/) |
 | 1979 | Find Greatest Common Divisor of Array | Easy | [View](./1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array/) |
 | 2029 | Stone Game IX | Medium | [View](./2029.%20Stone%20Game%20IX/) |
@@ -963,6 +969,7 @@ Both indexes start small and expand naturally.
 | 877 | Stone Game | Medium | [View](./877.%20Stone%20Game/) |
 | 1140 | Stone Game II | Medium | [View](./1140.%20Stone%20Game%20II/) |
 | 1406 | Stone Game III | Hard | [View](./1406.%20Stone%20Game%20III/) |
+| 1872 | Stone Game VIII | Hard | [View](./1872.%20Stone%20Game%20VIII/) |
 
 ### Monotonic Stack
 | # | Title | Difficulty | Solution |
@@ -994,6 +1001,7 @@ Both indexes start small and expand naturally.
 | 1674 | Minimum Moves to Make Array Complementary | Medium | [View](./1674.%20Minimum%20Moves%20to%20Make%20Array%20Complementary/) |
 | 1732 | Find the Highest Altitude | Easy | [View](./1732.%20Find%20the%20Highest%20Altitude/) |
 | 1871 | Jump Game VII | Medium | [View](./1871.%20Jump%20Game%20VII/) |
+| 1872 | Stone Game VIII | Hard | [View](./1872.%20Stone%20Game%20VIII/) |
 | 1878 | Get Biggest Three Rhombus Sums in a Grid | Medium | [View](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid/) |
 | 1895 | Largest Magic Square | Medium | [View](./1895.%20Largest%20Magic%20Square/) |
 | 2483 | Minimum Penalty for a Shop | Medium | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
@@ -1304,3 +1312,8 @@ Each `README.md` inside a problem folder contains:
 
 End of README.
 
+
+### Zero-Sum Game
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 1872 | Stone Game VIII | Hard | [View](./1872.%20Stone%20Game%20VIII/) |
