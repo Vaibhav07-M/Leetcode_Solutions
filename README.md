@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 124 | [View](#array) |
+| Array | 125 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
 | BFS | 14 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -55,7 +55,7 @@ Both indexes start small and expand naturally.
 | Greedy | 42 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
-| Hash Table | 31 | [View](#hash-table) |
+| Hash Table | 32 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
@@ -320,6 +320,7 @@ Both indexes start small and expand naturally.
 | 3702 | Longest Subsequence With Non-Zero Bitwise XOR | Medium | Array / Bit Manipulation / XOR | [View](./3702.%20Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR/) |
 | 3713 | Longest Balanced Substring I | Medium | String / Hash Table / Counting | [View](./3713.%20Longest%20Balanced%20Substring%20I/) |
 | 3714 | Longest Balanced Substring II | Medium | String / Hash Table / Prefix Sum | [View](./3714.%20Longest%20Balanced%20Substring%20II/) |
+| 3718 | Smallest Missing Multiple of K | Easy | Array / Hash Table | [View](./3718.%20Smallest%20Missing%20Multiple%20of%20K/) |
 | 3719 | Longest Balanced Subarray I | Medium | Array / Hash Table / Sliding Window | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
 | 3721 | Longest Balanced Subarray II | Hard | Array / Hash Table / Sliding Window / Segment Tree / Prefix Sum | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 | 3731 | Find Missing Elements | Easy | Array / Hash Set | [View](./3731.%20Find%20Missing%20Elements/) |
@@ -459,6 +460,7 @@ Both indexes start small and expand naturally.
 | 3699 | Number of ZigZag Arrays I | Hard | [View](./3699.%20Number%20of%20ZigZag%20Arrays%20I/) |
 | 3700 | Number of ZigZag Arrays II | Hard | [View](./3700.%20Number%20of%20ZigZag%20Arrays%20II/) |
 | 3702 | Longest Subsequence With Non-Zero Bitwise XOR | Medium | [View](./3702.%20Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR/) |
+| 3718 | Smallest Missing Multiple of K | Easy | [View](./3718.%20Smallest%20Missing%20Multiple%20of%20K/) |
 | 3719 | Longest Balanced Subarray I | Medium | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
 | 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 | 3731 | Find Missing Elements | Easy | [View](./3731.%20Find%20Missing%20Elements/) |
@@ -814,6 +816,7 @@ Both indexes start small and expand naturally.
 | 3548 | Equal Sum Grid Partition II | Hard | [View](./3548.%20Equal%20Sum%20Grid%20Partition%20II/) |
 | 3713 | Longest Balanced Substring I | Medium | [View](./3713.%20Longest%20Balanced%20Substring%20I/) |
 | 3714 | Longest Balanced Substring II | Medium | [View](./3714.%20Longest%20Balanced%20Substring%20II/) |
+| 3718 | Smallest Missing Multiple of K | Easy | [View](./3718.%20Smallest%20Missing%20Multiple%20of%20K/) |
 | 3719 | Longest Balanced Subarray I | Medium | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
 | 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | [View](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) |
