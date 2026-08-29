@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 125 | [View](#array) |
+| Array | 126 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
 | BFS | 14 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -75,7 +75,7 @@ Both indexes start small and expand naturally.
 | Shortest Path | 5 | [View](#shortest-path) |
 | Simulation | 28 | [View](#simulation) |
 | Sliding Window | 12 | [View](#sliding-window) |
-| Sorting | 33 | [View](#sorting) |
+| Sorting | 34 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 4 | [View](#stack) |
 | String | 60 | [View](#string) |
@@ -85,6 +85,7 @@ Both indexes start small and expand naturally.
 | Tree | 9 | [View](#tree) |
 | Two Pointers | 12 | [View](#two-pointers) |
 | Union Find | 4 | [View](#union-find) |
+| Union-Find | 1 | [View](#union-find) |
 | XOR | 5 | [View](#xor) |
 | Zero-Sum Game | 1 | [View](#zero-sum-game) |
 
@@ -234,6 +235,7 @@ Both indexes start small and expand naturally.
 | 2906 | Construct Product Matrix | Medium | Array / Matrix / Math / Prefix Sum | [View](./2906.%20Construct%20Product%20Matrix/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | Array / Sorting / Greedy | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
 | 2946 | Matrix Similarity After Cyclic Shifts | Easy | Matrix / Simulation | [View](./2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts/) |
+| 2948 | Make Lexicographically Smallest Array by Swapping Elements | Medium | Array / Union-Find / Sorting | [View](./2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements/) |
 | 2958 | Length of Longest Subarray With at Most K Frequency | Medium | Sliding Window / Hash Map | [View](./2958.%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | Array / Hash Table / Enumeration / Math | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
 | 2976 | Minimum Cost to Convert String I | Medium | Array / String / Graph / Shortest Path | [View](./2976.%20Minimum%20Cost%20to%20Convert%20String%20I/) |
@@ -416,6 +418,7 @@ Both indexes start small and expand naturally.
 | 2784 | Check if Array is Good | Easy | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
 | 2906 | Construct Product Matrix | Medium | [View](./2906.%20Construct%20Product%20Matrix/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
+| 2948 | Make Lexicographically Smallest Array by Swapping Elements | Medium | [View](./2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
 | 2976 | Minimum Cost to Convert String I | Medium | [View](./2976.%20Minimum%20Cost%20to%20Convert%20String%20I/) |
 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | [View](./2996.%20Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum/) |
@@ -1140,6 +1143,7 @@ Both indexes start small and expand naturally.
 | 2463 | Minimum Total Distance Traveled | Hard | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
+| 2948 | Make Lexicographically Smallest Array by Swapping Elements | Medium | [View](./2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements/) |
 | 3016 | Minimum Number of Pushes to Type Word II | Medium | [View](./3016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
 | 3312 | Sorted GCD Pair Queries | Hard | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
@@ -1283,6 +1287,11 @@ Both indexes start small and expand naturally.
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
 | 3532 | Path Existence Queries in a Graph I | Medium | [View](./3532.%20Path%20Existence%20Queries%20in%20a%20Graph%20I/) |
 | 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
+### Union-Find
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 2948 | Make Lexicographically Smallest Array by Swapping Elements | Medium | [View](./2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements/) |
+
 
 ### XOR
 | # | Title | Difficulty | Solution |
