@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 126 | [View](#array) |
+| Array | 127 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
 | BFS | 14 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -52,7 +52,7 @@ Both indexes start small and expand naturally.
 | GCD | 5 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
 | Graph | 17 | [View](#graph) |
-| Greedy | 43 | [View](#greedy) |
+| Greedy | 44 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
 | Hash Table | 33 | [View](#hash-table) |
@@ -205,6 +205,7 @@ Both indexes start small and expand naturally.
 | 2069 | Walking Robot Simulation II | Medium | Design / Simulation / Math | [View](./2069.%20Walking%20Robot%20Simulation%20II/) |
 | 2075 | Decode the Slanted Ciphertext | Medium | String / Matrix / Simulation | [View](./2075.%20Decode%20the%20Slanted%20Ciphertext/) |
 | 2078 | Two Furthest Houses With Different Colors | Easy | Array | [View](./2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors/) |
+| 2091 | Removing Minimum and Maximum From Array | Medium | Array / Greedy | [View](./2091.%20Removing%20Minimum%20and%20Maximum%20From%20Array/) |
 | 2095 | Delete the Middle Node of a Linked List | Medium | Linked List / Two Pointers | [View](./2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/) |
 | 2126 | Destroying Asteroids | Medium | Greedy / Sorting | [View](./2126.%20Destroying%20Asteroids/) |
 | 2130 | Maximum Twin Sum of a Linked List | Medium | Linked List / Two Pointers | [View](./2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/) |
@@ -404,6 +405,7 @@ Both indexes start small and expand naturally.
 | 2029 | Stone Game IX | Medium | [View](./2029.%20Stone%20Game%20IX/) |
 | 2033 | Minimum Operations to Make a Uni-Value Grid | Medium | [View](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/) |
 | 2078 | Two Furthest Houses With Different Colors | Easy | [View](./2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors/) |
+| 2091 | Removing Minimum and Maximum From Array | Medium | [View](./2091.%20Removing%20Minimum%20and%20Maximum%20From%20Array/) |
 | 2161 | Partition Array According to Given Pivot | Easy | [View](./2161.%20Partition%20Array%20According%20to%20Given%20Pivot/) |
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 2452 | Words Within Two Edits of Dictionary | Medium | [View](./2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary/) |
@@ -763,6 +765,7 @@ Both indexes start small and expand naturally.
 | 1927 | Sum Game | Medium | [View](./1927.%20Sum%20Game/) |
 | 1975 | Maximum Matrix Sum | Medium | [View](./1975.%20Maximum%20Matrix%20Sum/) |
 | 2029 | Stone Game IX | Medium | [View](./2029.%20Stone%20Game%20IX/) |
+| 2091 | Removing Minimum and Maximum From Array | Medium | [View](./2091.%20Removing%20Minimum%20and%20Maximum%20From%20Array/) |
 | 2126 | Destroying Asteroids | Medium | [View](./2126.%20Destroying%20Asteroids/) |
 | 2144 | Minimum Cost of Buying Candies With Discount | Easy | [View](./2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
