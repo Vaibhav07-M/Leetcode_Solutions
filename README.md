@@ -59,7 +59,7 @@ Both indexes start small and expand naturally.
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
-| Linked List | 3 | [View](#linked-list) |
+| Linked List | 4 | [View](#linked-list) |
 | Math | 62 | [View](#math) |
 | Matrix | 37 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
@@ -202,6 +202,7 @@ Both indexes start small and expand naturally.
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | Array / Sorting / Sliding Window | [View](./1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) |
 | 2029 | Stone Game IX | Medium | Array / Math / Greedy / Counting / Game Theory | [View](./2029.%20Stone%20Game%20IX/) |
 | 2033 | Minimum Operations to Make a Uni-Value Grid | Medium | Array / Matrix / Math / Sorting | [View](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/) |
+| 2058 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | Linked List | [View](./2058.%20Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points/) |
 | 2069 | Walking Robot Simulation II | Medium | Design / Simulation / Math | [View](./2069.%20Walking%20Robot%20Simulation%20II/) |
 | 2075 | Decode the Slanted Ciphertext | Medium | String / Matrix / Simulation | [View](./2075.%20Decode%20the%20Slanted%20Ciphertext/) |
 | 2078 | Two Furthest Houses With Different Colors | Easy | Array | [View](./2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors/) |
@@ -860,6 +861,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 61 | Rotate List | Medium | [View](./61.%20Rotate%20List/) |
+| 2058 | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | [View](./2058.%20Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points/) |
 | 2095 | Delete the Middle Node of a Linked List | Easy | [View](./2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/) |
 | 2130 | Maximum Twin Sum of a Linked List | Medium | [View](./2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/) |
 
