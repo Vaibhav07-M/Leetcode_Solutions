@@ -32,14 +32,14 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 127 | [View](#array) |
+| Array | 128 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
-| BFS | 14 | [View](#bfs) |
+| BFS | 15 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
 | Binary Search | 22 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 7 | [View](#binary-tree) |
-| Bit Manipulation | 18 | [View](#bit-manipulation) |
+| Bit Manipulation | 19 | [View](#bit-manipulation) |
 | Combinatorics | 3 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 14 | [View](#counting) |
@@ -55,13 +55,13 @@ Both indexes start small and expand naturally.
 | Greedy | 44 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
-| Hash Table | 33 | [View](#hash-table) |
+| Hash Table | 34 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
 | Math | 62 | [View](#math) |
-| Matrix | 37 | [View](#matrix) |
+| Matrix | 38 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Minimax | 5 | [View](#minimax) |
 | Monotonic Stack | 3 | [View](#monotonic-stack) |
@@ -298,6 +298,7 @@ Both indexes start small and expand naturally.
 | 3558 | Number of Ways to Assign Edge Weights I | Medium | Tree / BFS / Math | [View](./3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) |
 | 3559 | Number of Ways to Assign Edge Weights II | Hard | Tree / Lowest Common Ancestor / Math | [View](./3559.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20II/) |
 | 3567 | Minimum Absolute Difference in Sliding Submatrix | Medium | Array / Matrix / Sliding Window / Sorting | [View](./3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix/) |
+| 3568 | Minimum Moves to Clean the Classroom | Medium | Array / Hash Table / Bit Manipulation / BFS / Matrix | [View](./3568.%20Minimum%20Moves%20to%20Clean%20the%20Classroom/) |
 | 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | Graph / Union Find / Binary Search / Greedy | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
 | 3612 | Process String with Special Operations I | Medium | String / Stack / Simulation | [View](./3612.%20Process%20String%20with%20Special%20Operations%20I/) |
 | 3614 | Process String with Special Operations II | Hard | String / Stack / Simulation | [View](./3614.%20Process%20String%20with%20Special%20Operations%20II/) |
@@ -454,6 +455,7 @@ Both indexes start small and expand naturally.
 | 3546 | Equal Sum Grid Partition I | Medium | [View](./3546.%20Equal%20Sum%20Grid%20Partition%20I/) |
 | 3548 | Equal Sum Grid Partition II | Hard | [View](./3548.%20Equal%20Sum%20Grid%20Partition%20II/) |
 | 3567 | Minimum Absolute Difference in Sliding Submatrix | Medium | [View](./3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix/) |
+| 3568 | Minimum Moves to Clean the Classroom | Medium | [View](./3568.%20Minimum%20Moves%20to%20Clean%20the%20Classroom/) |
 | 3629 | Minimum Jumps to Reach End via Prime Teleportation | Medium | [View](./3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation/) |
 | 3634 | Minimum Removals to Balance Array | Medium | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
 | 3637 | Trionic Array I | Easy | [View](./3637.%20Trionic%20Array%20I/) |
@@ -505,6 +507,7 @@ Both indexes start small and expand naturally.
 | 2812 | Find the Safest Path in a Grid | Medium | [View](./2812.%20Find%20the%20Safest%20Path%20in%20a%20Grid/) |
 | 3310 | Remove Methods From Project | Medium | [View](./3310.%20Remove%20Methods%20From%20Project/) |
 | 3558 | Number of Ways to Assign Edge Weights I | Medium | [View](./3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) |
+| 3568 | Minimum Moves to Clean the Classroom | Medium | [View](./3568.%20Minimum%20Moves%20to%20Clean%20the%20Classroom/) |
 | 3629 | Minimum Jumps to Reach End via Prime Teleportation | Medium | [View](./3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 
@@ -575,6 +578,7 @@ Both indexes start small and expand naturally.
 | 3315 | Construct the Minimum Bitwise Array II | Medium | [View](./3315.%20Construct%20the%20Minimum%20Bitwise%20Array%20II/) |
 | 3513 | Number of Unique XOR Triplets I | Medium | [View](./3513.%20Number%20of%20Unique%20XOR%20Triplets%20I/) |
 | 3514 | Number of Unique XOR Triplets II | Medium | [View](./3514.%20Number%20of%20Unique%20XOR%20Triplets%20II/) |
+| 3568 | Minimum Moves to Clean the Classroom | Medium | [View](./3568.%20Minimum%20Moves%20to%20Clean%20the%20Classroom/) |
 | 3702 | Longest Subsequence With Non-Zero Bitwise XOR | Medium | [View](./3702.%20Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR/) |
 
 ### Combinatorics
@@ -828,6 +832,7 @@ Both indexes start small and expand naturally.
 | 3488 | Closest Equal Element Queries | Medium | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
 | 3517 | Smallest Palindromic Rearrangement I | Medium | [View](./3517.%20Smallest%20Palindromic%20Rearrangement%20I/) |
 | 3548 | Equal Sum Grid Partition II | Hard | [View](./3548.%20Equal%20Sum%20Grid%20Partition%20II/) |
+| 3568 | Minimum Moves to Clean the Classroom | Medium | [View](./3568.%20Minimum%20Moves%20to%20Clean%20the%20Classroom/) |
 | 3713 | Longest Balanced Substring I | Medium | [View](./3713.%20Longest%20Balanced%20Substring%20I/) |
 | 3714 | Longest Balanced Substring II | Medium | [View](./3714.%20Longest%20Balanced%20Substring%20II/) |
 | 3718 | Smallest Missing Multiple of K | Easy | [View](./3718.%20Smallest%20Missing%20Multiple%20of%20K/) |
@@ -972,6 +977,7 @@ Both indexes start small and expand naturally.
 | 3418 | Maximum Amount of Money Robot Can Earn | Medium | [View](./3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn/) |
 | 3546 | Equal Sum Grid Partition I | Medium | [View](./3546.%20Equal%20Sum%20Grid%20Partition%20I/) |
 | 3548 | Equal Sum Grid Partition II | Hard | [View](./3548.%20Equal%20Sum%20Grid%20Partition%20II/) || 3567 | Minimum Absolute Difference in Sliding Submatrix | Medium | [View](./3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix/) |
+| 3568 | Minimum Moves to Clean the Classroom | Medium | [View](./3568.%20Minimum%20Moves%20to%20Clean%20the%20Classroom/) |
 | 3643 | Flip Square Submatrix Vertically | Easy | [View](./3643.%20Flip%20Square%20Submatrix%20Vertically/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
 | 3742 | Maximum Path Score in a Grid | Medium | [View](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid/) |
