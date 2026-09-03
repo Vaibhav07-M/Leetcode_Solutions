@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 129 | [View](#array) |
+| Array | 130 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
 | BFS | 15 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -60,7 +60,7 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
-| Math | 63 | [View](#math) |
+| Math | 64 | [View](#math) |
 | Matrix | 38 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Minimax | 5 | [View](#minimax) |
@@ -346,6 +346,7 @@ Both indexes start small and expand naturally.
 | 3838 | Weighted Word Mapping | Easy | Array / String / Math | [View](./3838.%20Weighted%20Word%20Mapping/) |
 | 3867 | Sum of GCD of Formed Pairs | Medium | Array / Math / Number Theory / GCD / Sorting / Two Pointers | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 | 3875 | Construct Uniform Parity Array I | Easy | Array / Math | [View](./3875.%20Construct%20Uniform%20Parity%20Array%20I/) |
+| 3876 | Construct Uniform Parity Array II | Medium | Array / Math | [View](./3876.%20Construct%20Uniform%20Parity%20Array%20II/) |
 
 ---
 
@@ -485,6 +486,7 @@ Both indexes start small and expand naturally.
 | 3838 | Weighted Word Mapping | Easy | [View](./3838.%20Weighted%20Word%20Mapping/) |
 | 3867 | Sum of GCD of Formed Pairs | Medium | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 | 3875 | Construct Uniform Parity Array I | Easy | [View](./3875.%20Construct%20Uniform%20Parity%20Array%20I/) |
+| 3876 | Construct Uniform Parity Array II | Medium | [View](./3876.%20Construct%20Uniform%20Parity%20Array%20II/) |
 
 ### Backtracking
 | # | Title | Difficulty | Solution |
@@ -943,6 +945,7 @@ Both indexes start small and expand naturally.
 | 3838 | Weighted Word Mapping | Easy | [View](./3838.%20Weighted%20Word%20Mapping/) |
 | 3867 | Sum of GCD of Formed Pairs | Medium | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 | 3875 | Construct Uniform Parity Array I | Easy | [View](./3875.%20Construct%20Uniform%20Parity%20Array%20I/) |
+| 3876 | Construct Uniform Parity Array II | Medium | [View](./3876.%20Construct%20Uniform%20Parity%20Array%20II/) |
 
 ### Matrix
 | # | Title | Difficulty | Solution |
