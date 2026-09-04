@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 130 | [View](#array) |
+| Array | 131 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
 | BFS | 15 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -67,7 +67,7 @@ Both indexes start small and expand naturally.
 | Monotonic Stack | 3 | [View](#monotonic-stack) |
 | Number Theory | 6 | [View](#number-theory) |
 | Ordered Set | 2 | [View](#ordered-set) |
-| Prefix Sum | 23 | [View](#prefix-sum) |
+| Prefix Sum | 24 | [View](#prefix-sum) |
 | Recursion | 2 | [View](#recursion) |
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Run-Length Encoding | 2 | [View](#run-length-encoding) |
@@ -347,6 +347,7 @@ Both indexes start small and expand naturally.
 | 3867 | Sum of GCD of Formed Pairs | Medium | Array / Math / Number Theory / GCD / Sorting / Two Pointers | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 | 3875 | Construct Uniform Parity Array I | Easy | Array / Math | [View](./3875.%20Construct%20Uniform%20Parity%20Array%20I/) |
 | 3876 | Construct Uniform Parity Array II | Medium | Array / Math | [View](./3876.%20Construct%20Uniform%20Parity%20Array%20II/) |
+| 3903 | Smallest Stable Index I | Easy | Array / Prefix Sum | [View](./3903.%20Smallest%20Stable%20Index%20I/) |
 
 ---
 
@@ -487,6 +488,7 @@ Both indexes start small and expand naturally.
 | 3867 | Sum of GCD of Formed Pairs | Medium | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 | 3875 | Construct Uniform Parity Array I | Easy | [View](./3875.%20Construct%20Uniform%20Parity%20Array%20I/) |
 | 3876 | Construct Uniform Parity Array II | Medium | [View](./3876.%20Construct%20Uniform%20Parity%20Array%20II/) |
+| 3903 | Smallest Stable Index I | Easy | [View](./3903.%20Smallest%20Stable%20Index%20I/) |
 
 ### Backtracking
 | # | Title | Difficulty | Solution |
@@ -1051,6 +1053,7 @@ Both indexes start small and expand naturally.
 | 3737 | Count Subarrays With Majority Element I | Medium | [View](./3737.%20Count%20Subarrays%20With%20Majority%20Element%20I/) |
 | 3739 | Count Subarrays With Majority Element II | Hard | [View](./3739.%20Count%20Subarrays%20With%20Majority%20Element%20II/) |
 | 3756 | Concatenate Non-Zero Digits and Multiply by Sum II | Medium | String / Prefix Sum / Binary Search | [View](./3756.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20II/) |
+| 3903 | Smallest Stable Index I | Easy | [View](./3903.%20Smallest%20Stable%20Index%20I/) |
 
 ### Recursion
 | # | Title | Difficulty | Solution |
