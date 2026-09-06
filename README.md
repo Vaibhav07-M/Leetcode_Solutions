@@ -46,7 +46,7 @@ Both indexes start small and expand naturally.
 | DFS | 11 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 40 | [View](#dynamic-programming) |
+| Dynamic Programming | 41 | [View](#dynamic-programming) |
 | Enumeration | 7 | [View](#enumeration) |
 | Game Theory | 9 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
@@ -78,7 +78,7 @@ Both indexes start small and expand naturally.
 | Sorting | 34 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 4 | [View](#stack) |
-| String | 60 | [View](#string) |
+| String | 61 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -102,6 +102,7 @@ Both indexes start small and expand naturally.
 | 67 | Add Binary | Easy | Math / String / Bit Manipulation / Simulation | [View](./67.%20Add%20Binary/) |
 | 85 | Maximal Rectangle | Hard | Array / Dynamic Programming / Stack / Matrix / Monotonic Stack | [View](./85.%20Maximal%20Rectangle/) |
 | 110 | Balanced Binary Tree | Easy | Tree / DFS / Binary Tree | [View](./110.%20Balanced%20Binary%20Tree/) |
+| 115 | Distinct Subsequences | Hard | String / Dynamic Programming | [View](./115.%20Distinct%20Subsequences/) |
 | 153 | Find Minimum in Rotated Sorted Array | Medium | Array / Binary Search | [View](./153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/) |
 | 154 | Find Minimum in Rotated Sorted Array II | Hard | Array / Binary Search | [View](./154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/) |
 | 190 | Reverse Bits | Easy | Divide and Conquer / Bit Manipulation | [View](./190.%20Reverse%20Bits/) |
@@ -652,6 +653,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
+| 115 | Distinct Subsequences | Hard | [View](./115.%20Distinct%20Subsequences/) |
 | 396 | Rotate Function | Medium | [View](./396.%20Rotate%20Function/) |
 | 486 | Predict the Winner | Medium | [View](./486.%20Predict%20the%20Winner/) |
 | 712 | Minimum ASCII Delete Sum for Two Strings | Medium | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
@@ -1198,6 +1200,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 13 | Roman to Integer | Easy | [View](./13.%20Roman%20to%20Integer/) |
 | 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
+| 115 | Distinct Subsequences | Hard | [View](./115.%20Distinct%20Subsequences/) |
 | 657 | Robot Return to Origin | Easy | [View](./657.%20Robot%20Return%20to%20Origin/) |
 | 696 | Count Binary Substrings | Easy | [View](./696.%20Count%20Binary%20Substrings/) |
 | 712 | Minimum ASCII Delete Sum for Two Strings | Medium | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
