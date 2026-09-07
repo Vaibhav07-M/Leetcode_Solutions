@@ -46,7 +46,7 @@ Both indexes start small and expand naturally.
 | DFS | 11 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 41 | [View](#dynamic-programming) |
+| Dynamic Programming | 42 | [View](#dynamic-programming) |
 | Enumeration | 7 | [View](#enumeration) |
 | Game Theory | 9 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
@@ -78,7 +78,7 @@ Both indexes start small and expand naturally.
 | Sorting | 34 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 4 | [View](#stack) |
-| String | 61 | [View](#string) |
+| String | 62 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -126,6 +126,7 @@ Both indexes start small and expand naturally.
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | Tree / DFS / Binary Tree | [View](./865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/) |
 | 874 | Walking Robot Simulation | Medium | Simulation | [View](./874.%20Walking%20Robot%20Simulation/) |
 | 877 | Stone Game | Medium | Dynamic Programming / Game Theory / Minimax / Math | [View](./877.%20Stone%20Game/) |
+| 940 | Distinct Subsequences II | Hard | String / Dynamic Programming | [View](./940.%20Distinct%20Subsequences%20II/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | Array / Hash Table | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
 | 1009 | Complement of Base 10 Integer | Easy | Bit Manipulation | [View](./1009.%20Complement%20of%20Base%2010%20Integer/) |
 | 1022 | Sum of Root To Leaf Binary Numbers | Easy | Tree / DFS / Binary Tree | [View](./1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/) |
@@ -660,6 +661,7 @@ Both indexes start small and expand naturally.
 | 788 | Rotated Digits | Medium | [View](./788.%20Rotated%20Digits/) |
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
 | 877 | Stone Game | Medium | [View](./877.%20Stone%20Game/) |
+| 940 | Distinct Subsequences II | Hard | [View](./940.%20Distinct%20Subsequences%20II/) |
 | 1140 | Stone Game II | Medium | [View](./1140.%20Stone%20Game%20II/) |
 | 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard | [View](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
@@ -1207,6 +1209,7 @@ Both indexes start small and expand naturally.
 | 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 761 | Special Binary String | Hard | [View](./761.%20Special%20Binary%20String/) |
 | 796 | Rotate String | Easy | [View](./796.%20Rotate%20String/) |
+| 940 | Distinct Subsequences II | Hard | [View](./940.%20Distinct%20Subsequences%20II/) |
 | 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
 | 1189 | Maximum Number of Balloons | Easy | [View](./1189.%20Maximum%20Number%20of%20Balloons/) |
 | 1291 | Sequential Digits | Medium | [View](./1291.%20Sequential%20Digits/) |
