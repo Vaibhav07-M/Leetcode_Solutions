@@ -38,12 +38,12 @@ Both indexes start small and expand naturally.
 | Binary Lifting | 1 | [View](#binary-lifting) |
 | Binary Search | 22 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
-| Binary Tree | 7 | [View](#binary-tree) |
+| Binary Tree | 8 | [View](#binary-tree) |
 | Bit Manipulation | 19 | [View](#bit-manipulation) |
 | Combinatorics | 3 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 14 | [View](#counting) |
-| DFS | 11 | [View](#dfs) |
+| DFS | 12 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
 | Dynamic Programming | 42 | [View](#dynamic-programming) |
@@ -82,7 +82,7 @@ Both indexes start small and expand naturally.
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
-| Tree | 9 | [View](#tree) |
+| Tree | 10 | [View](#tree) |
 | Two Pointers | 12 | [View](#two-pointers) |
 | Union Find | 4 | [View](#union-find) |
 | Union-Find | 1 | [View](#union-find) |
@@ -216,6 +216,7 @@ Both indexes start small and expand naturally.
 | 2161 | Partition Array According to Given Pivot | Easy | Array | [View](./2161.%20Partition%20Array%20According%20to%20Given%20Pivot/) |
 | 2196 | Create Binary Tree From Descriptions | Medium | Tree / Hash Table | [View](./2196.%20Create%20Binary%20Tree%20From%20Descriptions/) |
 | 2213 | Longest Substring of One Repeating Character | Hard | Segment Tree | [View](./2213.%20Longest%20Substring%20of%20One%20Repeating%20Character/) |
+| 2265 | Count Nodes Equal to Average of Subtree | Medium | Tree / DFS / Binary Tree | [View](./2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/) |
 | 2402 | Meeting Rooms III | Hard | Heap / Sorting / Simulation | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 2463 | Minimum Total Distance Traveled | Hard | Array / Dynamic Programming / Sorting | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
 | 2483 | Minimum Penalty for a Shop | Medium | String / Prefix Sum | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
@@ -567,6 +568,7 @@ Both indexes start small and expand naturally.
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1382 | Balance a Binary Search Tree | Medium | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
+| 2265 | Count Nodes Equal to Average of Subtree | Medium | [View](./2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/) |
 | 3739 | Count Subarrays With Majority Element II | Hard | [View](./3739.%20Count%20Subarrays%20With%20Majority%20Element%20II/) |
 
 ### Bit Manipulation
@@ -637,6 +639,7 @@ Both indexes start small and expand naturally.
 | 1391 | Check if There is a Valid Path in a Grid | Medium | [View](./1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/) |
 | 1559 | Detect Cycles in 2D Grid | Medium | [View](./1559.%20Detect%20Cycles%20in%202D%20Grid/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
+| 2265 | Count Nodes Equal to Average of Subtree | Medium | [View](./2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/) |
 | 3310 | Remove Methods From Project | Medium | [View](./3310.%20Remove%20Methods%20From%20Project/) |
 
 ### Design
@@ -1287,6 +1290,7 @@ Both indexes start small and expand naturally.
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1382 | Balance a Binary Search Tree | Medium | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
 | 2196 | Create Binary Tree From Descriptions | Medium | [View](./2196.%20Create%20Binary%20Tree%20From%20Descriptions/) |
+| 2265 | Count Nodes Equal to Average of Subtree | Medium | [View](./2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/) |
 | 3558 | Number of Ways to Assign Edge Weights I | Medium | [View](./3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) |
 | 3559 | Number of Ways to Assign Edge Weights II | Hard | [View](./3559.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20II/) |
 
