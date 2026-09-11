@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 132 | [View](#array) |
+| Array | 133 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
 | BFS | 15 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -47,7 +47,7 @@ Both indexes start small and expand naturally.
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
 | Dynamic Programming | 42 | [View](#dynamic-programming) |
-| Enumeration | 7 | [View](#enumeration) |
+| Enumeration | 8 | [View](#enumeration) |
 | Game Theory | 9 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
 | Geometry | 6 | [View](#geometry) |
@@ -55,7 +55,7 @@ Both indexes start small and expand naturally.
 | Greedy | 44 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
-| Hash Table | 34 | [View](#hash-table) |
+| Hash Table | 35 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
@@ -68,7 +68,7 @@ Both indexes start small and expand naturally.
 | Number Theory | 6 | [View](#number-theory) |
 | Ordered Set | 2 | [View](#ordered-set) |
 | Prefix Sum | 25 | [View](#prefix-sum) |
-| Recursion | 2 | [View](#recursion) |
+| Recursion | 3 | [View](#recursion) |
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Run-Length Encoding | 2 | [View](#run-length-encoding) |
 | Segment Tree | 4 | [View](#segment-tree) |
@@ -284,6 +284,7 @@ Both indexes start small and expand naturally.
 | 3464 | Maximize the Distance Between Points on a Square | Hard | Array / Binary Search / Geometry / Sorting | [View](./3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square/) |
 | 3471 | Find the Largest Almost Missing Integer | Easy | Array / Hash Table | [View](./3471.%20Find%20the%20Largest%20Almost%20Missing%20Integer/) |
 | 3474 | Lexicographically Smallest Generated String | Hard | String / Greedy | [View](./3474.%20Lexicographically%20Smallest%20Generated%20String/) |
+| 3483 | Unique 3-Digit Even Numbers | Easy | Array / Hash Table / Recursion / Enumeration | [View](./3483.%20Unique%203-Digit%20Even%20Numbers/) |
 | 3488 | Closest Equal Element Queries | Medium | Array / Hash Table / Binary Search | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
 | 3499 | Maximize Active Section with Trade I | Medium | String / Greedy / Simulation / Run-Length Encoding | [View](./3499.%20Maximize%20Active%20Section%20with%20Trade%20I/) |
 | 3501 | Maximize Active Section with Trade II | Hard | String / Binary Search / Segment Tree / Greedy / Run-Length Encoding | [View](./3501.%20Maximize%20Active%20Section%20with%20Trade%20II/) |
@@ -458,6 +459,7 @@ Both indexes start small and expand naturally.
 | 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
 | 3464 | Maximize the Distance Between Points on a Square | Hard | [View](./3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square/) |
 | 3471 | Find the Largest Almost Missing Integer | Easy | [View](./3471.%20Find%20the%20Largest%20Almost%20Missing%20Integer/) |
+| 3483 | Unique 3-Digit Even Numbers | Easy | [View](./3483.%20Unique%203-Digit%20Even%20Numbers/) |
 | 3488 | Closest Equal Element Queries | Medium | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
@@ -706,6 +708,7 @@ Both indexes start small and expand naturally.
 | 1291 | Sequential Digits | Medium | [View](./1291.%20Sequential%20Digits/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
+| 3483 | Unique 3-Digit Even Numbers | Easy | [View](./3483.%20Unique%203-Digit%20Even%20Numbers/) |
 | 3536 | Maximum Product of Two Digits | Easy | [View](./3536.%20Maximum%20Product%20of%20Two%20Digits/) |
 | 3720 | Lexicographically Smallest Permutation Greater Than Target | Medium | [View](./3720.%20Lexicographically%20Smallest%20Permutation%20Greater%20Than%20Target/) |
 | 3734 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | [View](./3734.%20Lexicographically%20Smallest%20Palindromic%20Permutation%20Greater%20Than%20Target/) |
@@ -846,6 +849,7 @@ Both indexes start small and expand naturally.
 | 3090 | Maximum Length Substring With Two Occurrences | Easy | [View](./3090.%20Maximum%20Length%20Substring%20With%20Two%20Occurrences/) |
 | 3120 | Count the Number of Special Characters I | Easy | [View](./3120.%20Count%20the%20Number%20of%20Special%20Characters%20I/) |
 | 3471 | Find the Largest Almost Missing Integer | Easy | [View](./3471.%20Find%20the%20Largest%20Almost%20Missing%20Integer/) |
+| 3483 | Unique 3-Digit Even Numbers | Easy | [View](./3483.%20Unique%203-Digit%20Even%20Numbers/) |
 | 3488 | Closest Equal Element Queries | Medium | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
 | 3517 | Smallest Palindromic Rearrangement I | Medium | [View](./3517.%20Smallest%20Palindromic%20Rearrangement%20I/) |
 | 3548 | Equal Sum Grid Partition II | Hard | [View](./3548.%20Equal%20Sum%20Grid%20Partition%20II/) |
@@ -1074,6 +1078,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 761 | Special Binary String | Hard | [View](./761.%20Special%20Binary%20String/) |
 | 1545 | Find Kth Bit in Nth Binary String | Medium | [View](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/) |
+| 3483 | Unique 3-Digit Even Numbers | Easy | [View](./3483.%20Unique%203-Digit%20Even%20Numbers/) |
 
 ### Rolling Hash
 | # | Title | Difficulty | Solution |
