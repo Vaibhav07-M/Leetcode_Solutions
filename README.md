@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 134 | [View](#array) |
+| Array | 135 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
 | BFS | 15 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -61,7 +61,7 @@ Both indexes start small and expand naturally.
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
 | Math | 66 | [View](#math) |
-| Matrix | 38 | [View](#matrix) |
+| Matrix | 39 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Minimax | 5 | [View](#minimax) |
 | Monotonic Stack | 3 | [View](#monotonic-stack) |
@@ -121,6 +121,7 @@ Both indexes start small and expand naturally.
 | 788 | Rotated Digits | Medium | Math / Dynamic Programming | [View](./788.%20Rotated%20Digits/) |
 | 796 | Rotate String | Easy | String / Simulation | [View](./796.%20Rotate%20String/) |
 | 799 | Champagne Tower | Medium | Dynamic Programming / Simulation / Math | [View](./799.%20Champagne%20Tower/) |
+| 835 | Image Overlap | Medium | Array / Matrix | [View](./835.%20Image%20Overlap/) |
 | 840 | Magic Squares In Grid | Medium | Array / Hash Table / Math / Matrix | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 868 | Binary Gap | Easy | Bit Manipulation | [View](./868.%20Binary%20Gap/) |
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | Tree / DFS / Binary Tree | [View](./865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/) |
@@ -374,6 +375,7 @@ Both indexes start small and expand naturally.
 | 396 | Rotate Function | Medium | [View](./396.%20Rotate%20Function/) |
 | 628 | Maximum Product of Three Numbers | Easy | [View](./628.%20Maximum%20Product%20of%20Three%20Numbers/) |
 | 744 | Find Smallest Letter Greater Than Target | Easy | [View](./744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/) |
+| 835 | Image Overlap | Medium | [View](./835.%20Image%20Overlap/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
 | 1140 | Stone Game II | Medium | [View](./1140.%20Stone%20Game%20II/) |
@@ -975,6 +977,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 48 | Rotate Image | Medium | [View](./48.%20Rotate%20Image/) |
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
+| 835 | Image Overlap | Medium | [View](./835.%20Image%20Overlap/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 1260 | Shift 2D Grid | Easy | [View](./1260.%20Shift%202D%20Grid/) |
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
