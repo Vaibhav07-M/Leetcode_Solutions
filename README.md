@@ -50,7 +50,7 @@ Both indexes start small and expand naturally.
 | Enumeration | 8 | [View](#enumeration) |
 | Game Theory | 9 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
-| Geometry | 6 | [View](#geometry) |
+| Geometry | 7 | [View](#geometry) |
 | Graph | 17 | [View](#graph) |
 | Greedy | 44 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
@@ -60,7 +60,7 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
-| Math | 66 | [View](#math) |
+| Math | 67 | [View](#math) |
 | Matrix | 39 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Minimax | 5 | [View](#minimax) |
@@ -122,6 +122,7 @@ Both indexes start small and expand naturally.
 | 796 | Rotate String | Easy | String / Simulation | [View](./796.%20Rotate%20String/) |
 | 799 | Champagne Tower | Medium | Dynamic Programming / Simulation / Math | [View](./799.%20Champagne%20Tower/) |
 | 835 | Image Overlap | Medium | Array / Matrix | [View](./835.%20Image%20Overlap/) |
+| 836 | Rectangle Overlap | Easy | Math / Geometry | [View](./836.%20Rectangle%20Overlap/) |
 | 840 | Magic Squares In Grid | Medium | Array / Hash Table / Math / Matrix | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 868 | Binary Gap | Easy | Bit Manipulation | [View](./868.%20Binary%20Gap/) |
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | Tree / DFS / Binary Tree | [View](./865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/) |
@@ -745,6 +746,7 @@ Both indexes start small and expand naturally.
 ### Geometry
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 836 | Rectangle Overlap | Easy | [View](./836.%20Rectangle%20Overlap/) |
 | 1266 | Minimum Time Visiting All Points | Easy | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
 | 1344 | Angle Between Hands of a Clock | Medium | [View](./1344.%20Angle%20Between%20Hands%20of%20a%20Clock/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
@@ -914,6 +916,7 @@ Both indexes start small and expand naturally.
 | 762 | Prime Number of Set Bits in Binary Representation | Easy | [View](./762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) |
 | 788 | Rotated Digits | Medium | [View](./788.%20Rotated%20Digits/) |
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
+| 836 | Rectangle Overlap | Easy | [View](./836.%20Rectangle%20Overlap/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 877 | Stone Game | Medium | [View](./877.%20Stone%20Game/) |
 | 1266 | Minimum Time Visiting All Points | Easy | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
