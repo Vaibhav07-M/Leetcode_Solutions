@@ -32,11 +32,11 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 135 | [View](#array) |
+| Array | 136 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
 | BFS | 15 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
-| Binary Search | 23 | [View](#binary-search) |
+| Binary Search | 24 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 8 | [View](#binary-tree) |
 | Bit Manipulation | 19 | [View](#bit-manipulation) |
@@ -46,7 +46,7 @@ Both indexes start small and expand naturally.
 | DFS | 12 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 45 | [View](#dynamic-programming) |
+| Dynamic Programming | 46 | [View](#dynamic-programming) |
 | Enumeration | 8 | [View](#enumeration) |
 | Game Theory | 9 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
@@ -55,7 +55,7 @@ Both indexes start small and expand naturally.
 | Greedy | 45 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
-| Hash Table | 35 | [View](#hash-table) |
+| Hash Table | 36 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
@@ -74,7 +74,7 @@ Both indexes start small and expand naturally.
 | Segment Tree | 4 | [View](#segment-tree) |
 | Shortest Path | 5 | [View](#shortest-path) |
 | Simulation | 28 | [View](#simulation) |
-| Sliding Window | 12 | [View](#sliding-window) |
+| Sliding Window | 13 | [View](#sliding-window) |
 | Sorting | 35 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 4 | [View](#stack) |
@@ -164,6 +164,7 @@ Both indexes start small and expand naturally.
 | 1458 | Max Dot Product of Two Subsequences | Hard | Array / Dynamic Programming | [View](./1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences/) |
 | 1461 | Check If a String Contains All Binary Codes of Size K | Medium | String / Hash Table / Bit Manipulation / Rolling Hash | [View](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/) |
 | 1464 | Maximum Product of Two Elements in an Array | Easy | Array / Sorting / Greedy / Math | [View](./1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/) |
+| 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | Array / Hash Table / Binary Search / Dynamic Programming / Sliding Window | [View](./1477.%20Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum/) |
 | 1510 | Stone Game IV | Medium | Dynamic Programming / Game Theory / Math | [View](./1510.%20Stone%20Game%20IV/) |
 | 1536 | Minimum Swaps to Arrange a Binary Grid | Medium | Array / Greedy / Sorting / Matrix | [View](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid/) |
 | 1545 | Find Kth Bit in Nth Binary String | Medium | String / Recursion / Divide and Conquer | [View](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/) |
@@ -397,6 +398,7 @@ Both indexes start small and expand naturally.
 | 1390 | Four Divisors | Medium | [View](./1390.%20Four%20Divisors/) |
 | 1458 | Max Dot Product of Two Subsequences | Hard | [View](./1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences/) |
 | 1464 | Maximum Product of Two Elements in an Array | Easy | [View](./1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/) |
+| 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | [View](./1477.%20Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum/) |
 | 1536 | Minimum Swaps to Arrange a Binary Grid | Medium | [View](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid/) |
 | 1563 | Stone Game V | Hard | [View](./1563.%20Stone%20Game%20V/) |
 | 1582 | Special Positions in a Binary Matrix | Easy | [View](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix/) |
@@ -547,6 +549,7 @@ Both indexes start small and expand naturally.
 | 744 | Find Smallest Letter Greater Than Target | Easy | [View](./744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/) |
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
+| 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | [View](./1477.%20Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
 | 2812 | Find the Safest Path in a Grid | Medium | [View](./2812.%20Find%20the%20Safest%20Path%20in%20a%20Grid/) |
 | 3116 | Kth Smallest Amount With Single Denomination Combination | Hard | [View](./3116.%20Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination/) |
@@ -683,6 +686,7 @@ Both indexes start small and expand naturally.
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1340 | Jump Game V | Hard | [View](./1340.%20Jump%20Game%20V/) |
 | 1406 | Stone Game III | Hard | [View](./1406.%20Stone%20Game%20III/) |
+| 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | [View](./1477.%20Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum/) |
 | 1510 | Stone Game IV | Medium | [View](./1510.%20Stone%20Game%20IV/) |
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
 | 1458 | Max Dot Product of Two Subsequences | Hard | [View](./1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences/) |
@@ -852,6 +856,7 @@ Both indexes start small and expand naturally.
 | 1345 | Jump Game IV | Hard | [View](./1345.%20Jump%20Game%20IV/) |
 | 1386 | Cinema Seat Allocation | Medium | [View](./1386.%20Cinema%20Seat%20Allocation/) |
 | 1461 | Check If a String Contains All Binary Codes of Size K | Medium | [View](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/) |
+| 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | [View](./1477.%20Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum/) |
 | 2196 | Create Binary Tree From Descriptions | Medium | [View](./2196.%20Create%20Binary%20Tree%20From%20Descriptions/) |
 | 2615 | Sum of Distances | Medium | [View](./2615.%20Sum%20of%20Distances/) |
 | 2784 | Check if Array is Good | Easy | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
@@ -1164,6 +1169,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 1358 | Number of Substrings Containing All Three Characters | Medium | [View](./1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters/) |
+| 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | [View](./1477.%20Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum/) |
 | 1871 | Jump Game VII | Medium | [View](./1871.%20Jump%20Game%20VII/) |
 | 1888 | Minimum Number of Flips to Make the Binary String Alternating | Medium | [View](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating/) |
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | [View](./1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) |
