@@ -50,7 +50,7 @@ Both indexes start small and expand naturally.
 | Enumeration | 8 | [View](#enumeration) |
 | Game Theory | 9 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
-| Geometry | 7 | [View](#geometry) |
+| Geometry | 8 | [View](#geometry) |
 | Graph | 17 | [View](#graph) |
 | Greedy | 46 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
@@ -60,7 +60,7 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
-| Math | 68 | [View](#math) |
+| Math | 69 | [View](#math) |
 | Matrix | 39 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Minimax | 5 | [View](#minimax) |
@@ -157,6 +157,7 @@ Both indexes start small and expand naturally.
 | 1386 | Cinema Seat Allocation | Medium | Array / Hash Table / Greedy / Bit Manipulation | [View](./1386.%20Cinema%20Seat%20Allocation/) |
 | 1390 | Four Divisors | Medium | Array / Math | [View](./1390.%20Four%20Divisors/) |
 | 1391 | Check if There is a Valid Path in a Grid | Medium | Graph / BFS / DFS / Matrix | [View](./1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/) |
+| 1401 | Circle and Rectangle Overlapping | Medium | Math / Geometry | [View](./1401.%20Circle%20and%20Rectangle%20Overlapping/) |
 | 1404 | Number of Steps to Reduce a Number in Binary Representation to One | Medium | String / Bit Manipulation | [View](./1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/) |
 | 1406 | Stone Game III | Hard | Dynamic Programming / Game Theory / Minimax | [View](./1406.%20Stone%20Game%20III/) |
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | Dynamic Programming / Math / Combinatorics | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
@@ -759,6 +760,7 @@ Both indexes start small and expand naturally.
 | 836 | Rectangle Overlap | Easy | [View](./836.%20Rectangle%20Overlap/) |
 | 1266 | Minimum Time Visiting All Points | Easy | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
 | 1344 | Angle Between Hands of a Clock | Medium | [View](./1344.%20Angle%20Between%20Hands%20of%20a%20Clock/) |
+| 1401 | Circle and Rectangle Overlapping | Medium | [View](./1401.%20Circle%20and%20Rectangle%20Overlapping/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
 | 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
@@ -937,6 +939,7 @@ Both indexes start small and expand naturally.
 | 1291 | Sequential Digits | Medium | [View](./1291.%20Sequential%20Digits/) |
 | 1344 | Angle Between Hands of a Clock | Medium | [View](./1344.%20Angle%20Between%20Hands%20of%20a%20Clock/) |
 | 1390 | Four Divisors | Medium | [View](./1390.%20Four%20Divisors/) |
+| 1401 | Circle and Rectangle Overlapping | Medium | [View](./1401.%20Circle%20and%20Rectangle%20Overlapping/) |
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
 | 1415 | The k-th Lexicographical String of All Happy Strings of Length n | Medium | [View](./1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/) |
 | 1464 | Maximum Product of Two Elements in an Array | Easy | [View](./1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/) |
