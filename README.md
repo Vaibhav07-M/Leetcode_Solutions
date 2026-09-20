@@ -73,12 +73,12 @@ Both indexes start small and expand naturally.
 | Run-Length Encoding | 2 | [View](#run-length-encoding) |
 | Segment Tree | 4 | [View](#segment-tree) |
 | Shortest Path | 5 | [View](#shortest-path) |
-| Simulation | 28 | [View](#simulation) |
+| Simulation | 29 | [View](#simulation) |
 | Sliding Window | 13 | [View](#sliding-window) |
 | Sorting | 36 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 4 | [View](#stack) |
-| String | 64 | [View](#string) |
+| String | 65 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -294,6 +294,7 @@ Both indexes start small and expand naturally.
 | 3474 | Lexicographically Smallest Generated String | Hard | String / Greedy | [View](./3474.%20Lexicographically%20Smallest%20Generated%20String/) |
 | 3483 | Unique 3-Digit Even Numbers | Easy | Array / Hash Table / Recursion / Enumeration | [View](./3483.%20Unique%203-Digit%20Even%20Numbers/) |
 | 3488 | Closest Equal Element Queries | Medium | Array / Hash Table / Binary Search | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
+| 3498 | Reverse Degree of a String | Easy | String / Simulation | [View](./3498.%20Reverse%20Degree%20of%20a%20String/) |
 | 3499 | Maximize Active Section with Trade I | Medium | String / Greedy / Simulation / Run-Length Encoding | [View](./3499.%20Maximize%20Active%20Section%20with%20Trade%20I/) |
 | 3501 | Maximize Active Section with Trade II | Hard | String / Binary Search / Segment Tree / Greedy / Run-Length Encoding | [View](./3501.%20Maximize%20Active%20Section%20with%20Trade%20II/) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | Array / Greedy / Simulation | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
@@ -1159,6 +1160,7 @@ Both indexes start small and expand naturally.
 | 3069 | Distribute Elements Into Two Arrays I | Easy | [View](./3069.%20Distribute%20Elements%20Into%20Two%20Arrays%20I/) |
 | 3345 | Smallest Divisible Digit Product I | Easy | [View](./3345.%20Smallest%20Divisible%20Digit%20Product%20I/) |
 | 3379 | Transformed Array | Easy | [View](./3379.%20Transformed%20Array/) |
+| 3498 | Reverse Degree of a String | Easy | [View](./3498.%20Reverse%20Degree%20of%20a%20String/) |
 | 3499 | Maximize Active Section with Trade I | Medium | [View](./3499.%20Maximize%20Active%20Section%20with%20Trade%20I/) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
@@ -1294,6 +1296,7 @@ Both indexes start small and expand naturally.
 | 3302 | Find the Lexicographically Smallest Valid Sequence | Medium | [View](./3302.%20Find%20the%20Lexicographically%20Smallest%20Valid%20Sequence/) |
 | 3348 | Smallest Divisible Digit Product II | Hard | [View](./3348.%20Smallest%20Divisible%20Digit%20Product%20II/) |
 | 3474 | Lexicographically Smallest Generated String | Hard | [View](./3474.%20Lexicographically%20Smallest%20Generated%20String/) |
+| 3498 | Reverse Degree of a String | Easy | [View](./3498.%20Reverse%20Degree%20of%20a%20String/) |
 | 3499 | Maximize Active Section with Trade I | Medium | [View](./3499.%20Maximize%20Active%20Section%20with%20Trade%20I/) |
 | 3501 | Maximize Active Section with Trade II | Hard | [View](./3501.%20Maximize%20Active%20Section%20with%20Trade%20II/) |
 | 3517 | Smallest Palindromic Rearrangement I | Medium | [View](./3517.%20Smallest%20Palindromic%20Rearrangement%20I/) |
