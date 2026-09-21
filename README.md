@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 136 | [View](#array) |
+| Array | 137 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
 | BFS | 15 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -46,7 +46,7 @@ Both indexes start small and expand naturally.
 | DFS | 12 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 46 | [View](#dynamic-programming) |
+| Dynamic Programming | 47 | [View](#dynamic-programming) |
 | Enumeration | 8 | [View](#enumeration) |
 | Game Theory | 9 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
@@ -60,7 +60,7 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
-| Math | 69 | [View](#math) |
+| Math | 70 | [View](#math) |
 | Matrix | 39 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Minimax | 5 | [View](#minimax) |
@@ -303,6 +303,7 @@ Both indexes start small and expand naturally.
 | 3514 | Number of Unique XOR Triplets II | Medium | Dynamic Programming / Bit Manipulation / XOR | [View](./3514.%20Number%20of%20Unique%20XOR%20Triplets%20II/) |
 | 3517 | Smallest Palindromic Rearrangement I | Medium | String / Greedy / Counting / Hash Table | [View](./3517.%20Smallest%20Palindromic%20Rearrangement%20I/) |
 | 3518 | Smallest Palindromic Rearrangement II | Hard | String / Greedy / Combinatorics / Math / Counting / Backtracking | [View](./3518.%20Smallest%20Palindromic%20Rearrangement%20II/) |
+| 3524 | Find X Value of Array I | Medium | Array / Math / Dynamic Programming | [View](./3524.%20Find%20X%20Value%20of%20Array%20I/) |
 | 3532 | Path Existence Queries in a Graph I | Medium | Union Find / Graph | [View](./3532.%20Path%20Existence%20Queries%20in%20a%20Graph%20I/) |
 | 3534 | Path Existence Queries in a Graph II | Hard | Graph / Binary Lifting / Sorting | [View](./3534.%20Path%20Existence%20Queries%20in%20a%20Graph%20II/) |
 | 3536 | Maximum Product of Two Digits | Easy | Math / Enumeration | [View](./3536.%20Maximum%20Product%20of%20Two%20Digits/) |
@@ -475,6 +476,7 @@ Both indexes start small and expand naturally.
 | 3488 | Closest Equal Element Queries | Medium | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
+| 3524 | Find X Value of Array I | Medium | [View](./3524.%20Find%20X%20Value%20of%20Array%20I/) |
 | 3546 | Equal Sum Grid Partition I | Medium | [View](./3546.%20Equal%20Sum%20Grid%20Partition%20I/) |
 | 3548 | Equal Sum Grid Partition II | Hard | [View](./3548.%20Equal%20Sum%20Grid%20Partition%20II/) |
 | 3567 | Minimum Absolute Difference in Sliding Submatrix | Medium | [View](./3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix/) |
@@ -710,6 +712,7 @@ Both indexes start small and expand naturally.
 | 3414 | Maximum Score of Non-overlapping Intervals | Hard | [View](./3414.%20Maximum%20Score%20of%20Non-overlapping%20Intervals/) |
 | 3418 | Maximum Amount of Money Robot Can Earn | Medium | [View](./3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn/) |
 | 3514 | Number of Unique XOR Triplets II | Medium | [View](./3514.%20Number%20of%20Unique%20XOR%20Triplets%20II/) |
+| 3524 | Find X Value of Array I | Medium | [View](./3524.%20Find%20X%20Value%20of%20Array%20I/) |
 | 3620 | Network Recovery Pathways | Hard | [View](./3620.%20Network%20Recovery%20Pathways/) |
 | 3640 | Trionic Array II | Hard | [View](./3640.%20Trionic%20Array%20II/) |
 | 3650 | Minimum Cost Path with Edge Reversals | Medium | [View](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals/) |
@@ -973,6 +976,7 @@ Both indexes start small and expand naturally.
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
 | 3513 | Number of Unique XOR Triplets I | Medium | [View](./3513.%20Number%20of%20Unique%20XOR%20Triplets%20I/) |
 | 3518 | Smallest Palindromic Rearrangement II | Hard | [View](./3518.%20Smallest%20Palindromic%20Rearrangement%20II/) |
+| 3524 | Find X Value of Array I | Medium | [View](./3524.%20Find%20X%20Value%20of%20Array%20I/) |
 | 3536 | Maximum Product of Two Digits | Easy | [View](./3536.%20Maximum%20Product%20of%20Two%20Digits/) |
 | 3558 | Number of Ways to Assign Edge Weights I | Medium | [View](./3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) |
 | 3559 | Number of Ways to Assign Edge Weights II | Hard | [View](./3559.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20II/) |
