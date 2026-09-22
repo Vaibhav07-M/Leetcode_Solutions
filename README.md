@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 137 | [View](#array) |
+| Array | 138 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
 | BFS | 15 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -60,7 +60,7 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
-| Math | 70 | [View](#math) |
+| Math | 71 | [View](#math) |
 | Matrix | 39 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Minimax | 5 | [View](#minimax) |
@@ -71,7 +71,7 @@ Both indexes start small and expand naturally.
 | Recursion | 3 | [View](#recursion) |
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Run-Length Encoding | 2 | [View](#run-length-encoding) |
-| Segment Tree | 4 | [View](#segment-tree) |
+| Segment Tree | 5 | [View](#segment-tree) |
 | Shortest Path | 5 | [View](#shortest-path) |
 | Simulation | 29 | [View](#simulation) |
 | Sliding Window | 13 | [View](#sliding-window) |
@@ -304,6 +304,7 @@ Both indexes start small and expand naturally.
 | 3517 | Smallest Palindromic Rearrangement I | Medium | String / Greedy / Counting / Hash Table | [View](./3517.%20Smallest%20Palindromic%20Rearrangement%20I/) |
 | 3518 | Smallest Palindromic Rearrangement II | Hard | String / Greedy / Combinatorics / Math / Counting / Backtracking | [View](./3518.%20Smallest%20Palindromic%20Rearrangement%20II/) |
 | 3524 | Find X Value of Array I | Medium | Array / Math / Dynamic Programming | [View](./3524.%20Find%20X%20Value%20of%20Array%20I/) |
+| 3525 | Find X Value of Array II | Hard | Array / Math / Segment Tree | [View](./3525.%20Find%20X%20Value%20of%20Array%20II/) |
 | 3532 | Path Existence Queries in a Graph I | Medium | Union Find / Graph | [View](./3532.%20Path%20Existence%20Queries%20in%20a%20Graph%20I/) |
 | 3534 | Path Existence Queries in a Graph II | Hard | Graph / Binary Lifting / Sorting | [View](./3534.%20Path%20Existence%20Queries%20in%20a%20Graph%20II/) |
 | 3536 | Maximum Product of Two Digits | Easy | Math / Enumeration | [View](./3536.%20Maximum%20Product%20of%20Two%20Digits/) |
@@ -477,6 +478,7 @@ Both indexes start small and expand naturally.
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
 | 3524 | Find X Value of Array I | Medium | [View](./3524.%20Find%20X%20Value%20of%20Array%20I/) |
+| 3525 | Find X Value of Array II | Hard | [View](./3525.%20Find%20X%20Value%20of%20Array%20II/) |
 | 3546 | Equal Sum Grid Partition I | Medium | [View](./3546.%20Equal%20Sum%20Grid%20Partition%20I/) |
 | 3548 | Equal Sum Grid Partition II | Hard | [View](./3548.%20Equal%20Sum%20Grid%20Partition%20II/) |
 | 3567 | Minimum Absolute Difference in Sliding Submatrix | Medium | [View](./3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix/) |
@@ -977,6 +979,7 @@ Both indexes start small and expand naturally.
 | 3513 | Number of Unique XOR Triplets I | Medium | [View](./3513.%20Number%20of%20Unique%20XOR%20Triplets%20I/) |
 | 3518 | Smallest Palindromic Rearrangement II | Hard | [View](./3518.%20Smallest%20Palindromic%20Rearrangement%20II/) |
 | 3524 | Find X Value of Array I | Medium | [View](./3524.%20Find%20X%20Value%20of%20Array%20I/) |
+| 3525 | Find X Value of Array II | Hard | [View](./3525.%20Find%20X%20Value%20of%20Array%20II/) |
 | 3536 | Maximum Product of Two Digits | Easy | [View](./3536.%20Maximum%20Product%20of%20Two%20Digits/) |
 | 3558 | Number of Ways to Assign Edge Weights I | Medium | [View](./3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) |
 | 3559 | Number of Ways to Assign Edge Weights II | Hard | [View](./3559.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20II/) |
@@ -1131,6 +1134,7 @@ Both indexes start small and expand naturally.
 | 1622 | Fancy Sequence | Hard | [View](./1622.%20Fancy%20Sequence/) |
 | 2213 | Longest Substring of One Repeating Character | Hard | [View](./2213.%20Longest%20Substring%20of%20One%20Repeating%20Character/) |
 | 3501 | Maximize Active Section with Trade II | Hard | [View](./3501.%20Maximize%20Active%20Section%20with%20Trade%20II/) |
+| 3525 | Find X Value of Array II | Hard | [View](./3525.%20Find%20X%20Value%20of%20Array%20II/) |
 | 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 
 ### Shortest Path
