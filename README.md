@@ -32,11 +32,11 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 138 | [View](#array) |
+| Array | 139 | [View](#array) |
 | Backtracking | 4 | [View](#backtracking) |
 | BFS | 15 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
-| Binary Search | 24 | [View](#binary-search) |
+| Binary Search | 25 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 8 | [View](#binary-tree) |
 | Bit Manipulation | 19 | [View](#bit-manipulation) |
@@ -55,7 +55,7 @@ Both indexes start small and expand naturally.
 | Greedy | 46 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
-| Hash Table | 37 | [View](#hash-table) |
+| Hash Table | 38 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
@@ -67,14 +67,14 @@ Both indexes start small and expand naturally.
 | Monotonic Stack | 3 | [View](#monotonic-stack) |
 | Number Theory | 6 | [View](#number-theory) |
 | Ordered Set | 2 | [View](#ordered-set) |
-| Prefix Sum | 26 | [View](#prefix-sum) |
+| Prefix Sum | 27 | [View](#prefix-sum) |
 | Recursion | 3 | [View](#recursion) |
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Run-Length Encoding | 2 | [View](#run-length-encoding) |
 | Segment Tree | 5 | [View](#segment-tree) |
 | Shortest Path | 5 | [View](#shortest-path) |
 | Simulation | 29 | [View](#simulation) |
-| Sliding Window | 13 | [View](#sliding-window) |
+| Sliding Window | 14 | [View](#sliding-window) |
 | Sorting | 36 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 4 | [View](#stack) |
@@ -177,6 +177,7 @@ Both indexes start small and expand naturally.
 | 1621 | Number of Sets of K Non-Overlapping Line Segments | Medium | Math / Dynamic Programming / Combinatorics / Prefix Sum | [View](./1621.%20Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments/) |
 | 1622 | Fancy Sequence | Hard | Design / Math / Segment Tree | [View](./1622.%20Fancy%20Sequence/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | String / Dynamic Programming / Stack | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
+| 1658 | Minimum Operations to Reduce X to Zero | Medium | Array / Hash Table / Binary Search / Sliding Window / Prefix Sum | [View](./1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/) |
 | 1665 | Minimum Initial Energy to Finish Tasks | Hard | Array / Greedy / Sorting | [View](./1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks/) |
 | 1674 | Minimum Moves to Make Array Complementary | Medium | Array / Greedy / Prefix Sum | [View](./1674.%20Minimum%20Moves%20to%20Make%20Array%20Complementary/) |
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | Math / Bit Manipulation / Simulation | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
@@ -408,6 +409,7 @@ Both indexes start small and expand naturally.
 | 1563 | Stone Game V | Hard | [View](./1563.%20Stone%20Game%20V/) |
 | 1582 | Special Positions in a Binary Matrix | Easy | [View](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix/) |
 | 1594 | Maximum Non Negative Product in a Matrix | Medium | [View](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/) |
+| 1658 | Minimum Operations to Reduce X to Zero | Medium | [View](./1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/) |
 | 1665 | Minimum Initial Energy to Finish Tasks | Hard | [View](./1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks/) |
 | 1674 | Minimum Moves to Make Array Complementary | Medium | [View](./1674.%20Minimum%20Moves%20to%20Make%20Array%20Complementary/) |
 | 1722 | Minimize Hamming Distance After Swap Operations | Medium | [View](./1722.%20Minimize%20Hamming%20Distance%20After%20Swap%20Operations/) |
@@ -557,6 +559,7 @@ Both indexes start small and expand naturally.
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 | 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | [View](./1477.%20Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum/) |
+| 1658 | Minimum Operations to Reduce X to Zero | Medium | [View](./1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
 | 2812 | Find the Safest Path in a Grid | Medium | [View](./2812.%20Find%20the%20Safest%20Path%20in%20a%20Grid/) |
 | 3116 | Kth Smallest Amount With Single Denomination Combination | Hard | [View](./3116.%20Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination/) |
@@ -868,6 +871,7 @@ Both indexes start small and expand naturally.
 | 1461 | Check If a String Contains All Binary Codes of Size K | Medium | [View](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/) |
 | 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | [View](./1477.%20Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum/) |
 | 1520 | Maximum Number of Non-Overlapping Substrings | Hard | [View](./1520.%20Maximum%20Number%20of%20Non-Overlapping%20Substrings/) |
+| 1658 | Minimum Operations to Reduce X to Zero | Medium | [View](./1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/) |
 | 2196 | Create Binary Tree From Descriptions | Medium | [View](./2196.%20Create%20Binary%20Tree%20From%20Descriptions/) |
 | 2615 | Sum of Distances | Medium | [View](./2615.%20Sum%20of%20Distances/) |
 | 2784 | Check if Array is Good | Easy | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
@@ -1085,6 +1089,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 1292 | Maximum Side Length of a Square with Sum less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
 | 1621 | Number of Sets of K Non-Overlapping Line Segments | Medium | [View](./1621.%20Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments/) |
+| 1658 | Minimum Operations to Reduce X to Zero | Medium | [View](./1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/) |
 | 1674 | Minimum Moves to Make Array Complementary | Medium | [View](./1674.%20Minimum%20Moves%20to%20Make%20Array%20Complementary/) |
 | 1732 | Find the Highest Altitude | Easy | [View](./1732.%20Find%20the%20Highest%20Altitude/) |
 | 1871 | Jump Game VII | Medium | [View](./1871.%20Jump%20Game%20VII/) |
@@ -1186,6 +1191,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 1358 | Number of Substrings Containing All Three Characters | Medium | [View](./1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters/) |
 | 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | [View](./1477.%20Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum/) |
+| 1658 | Minimum Operations to Reduce X to Zero | Medium | [View](./1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/) |
 | 1871 | Jump Game VII | Medium | [View](./1871.%20Jump%20Game%20VII/) |
 | 1888 | Minimum Number of Flips to Make the Binary String Alternating | Medium | [View](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating/) |
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | [View](./1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) |
