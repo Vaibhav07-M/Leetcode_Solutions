@@ -33,8 +33,8 @@ Both indexes start small and expand naturally.
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
 | Array | 140 | [View](#array) |
-| Backtracking | 4 | [View](#backtracking) |
-| BFS | 15 | [View](#bfs) |
+| Backtracking | 5 | [View](#backtracking) |
+| BFS | 16 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
 | Binary Search | 25 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
@@ -55,7 +55,7 @@ Both indexes start small and expand naturally.
 | Greedy | 46 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
-| Hash Table | 38 | [View](#hash-table) |
+| Hash Table | 39 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
@@ -75,10 +75,10 @@ Both indexes start small and expand naturally.
 | Shortest Path | 5 | [View](#shortest-path) |
 | Simulation | 29 | [View](#simulation) |
 | Sliding Window | 14 | [View](#sliding-window) |
-| Sorting | 36 | [View](#sorting) |
+| Sorting | 37 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
-| Stack | 4 | [View](#stack) |
-| String | 65 | [View](#string) |
+| Stack | 5 | [View](#stack) |
+| String | 66 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -133,6 +133,7 @@ Both indexes start small and expand naturally.
 | 1009 | Complement of Base 10 Integer | Easy | Bit Manipulation | [View](./1009.%20Complement%20of%20Base%2010%20Integer/) |
 | 1022 | Sum of Root To Leaf Binary Numbers | Easy | Tree / DFS / Binary Tree | [View](./1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/) |
 | 1081 | Smallest Subsequence of Distinct Characters | Medium | String / Stack / Greedy / Monotonic Stack | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
+| 1096 | Brace Expansion II | Hard | Hash Table / String / Backtracking / Stack / BFS / Sorting | [View](./1096.%20Brace%20Expansion%20II/) |
 | 1140 | Stone Game II | Medium | Array / Dynamic Programming / Game Theory / Minimax | [View](./1140.%20Stone%20Game%20II/) |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | Tree / BFS / Binary Tree | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1189 | Maximum Number of Balloons | Easy | String / Hash Table / Counting | [View](./1189.%20Maximum%20Number%20of%20Balloons/) |
@@ -524,12 +525,14 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 401 | Binary Watch | Easy | [View](./401.%20Binary%20Watch/) |
 | 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
+| 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
 | 1980 | Find Unique Binary String | Medium | [View](./1980.%20Find%20Unique%20Binary%20String/) |
 | 3518 | Smallest Palindromic Rearrangement II | Hard | [View](./3518.%20Smallest%20Palindromic%20Rearrangement%20II/) |
 
 ### BFS
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1301 | Number of Paths with Max Score | Hard | [View](./1301.%20Number%20of%20Paths%20with%20Max%20Score/) |
 | 1306 | Jump Game III | Medium | [View](./1306.%20Jump%20Game%20III/) |
@@ -866,6 +869,7 @@ Both indexes start small and expand naturally.
 | 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
+| 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
 | 1189 | Maximum Number of Balloons | Easy | [View](./1189.%20Maximum%20Number%20of%20Balloons/) |
 | 1331 | Rank Transform of an Array | Easy | [View](./1331.%20Rank%20Transform%20of%20an%20Array/) |
 | 1345 | Jump Game IV | Hard | [View](./1345.%20Jump%20Game%20IV/) |
@@ -1211,6 +1215,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 628 | Maximum Product of Three Numbers | Easy | [View](./628.%20Maximum%20Product%20of%20Three%20Numbers/) |
+| 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
 | 1200 | Minimum Absolute Difference | Easy | [View](./1200.%20Minimum%20Absolute%20Difference/) |
 | 1288 | Remove Covered Intervals | Medium | [View](./1288.%20Remove%20Covered%20Intervals/) |
 | 1331 | Rank Transform of an Array | Easy | [View](./1331.%20Rank%20Transform%20of%20an%20Array/) |
@@ -1257,6 +1262,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
+| 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
 
@@ -1274,6 +1280,7 @@ Both indexes start small and expand naturally.
 | 796 | Rotate String | Easy | [View](./796.%20Rotate%20String/) |
 | 940 | Distinct Subsequences II | Hard | [View](./940.%20Distinct%20Subsequences%20II/) |
 | 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
+| 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
 | 1189 | Maximum Number of Balloons | Easy | [View](./1189.%20Maximum%20Number%20of%20Balloons/) |
 | 1291 | Sequential Digits | Medium | [View](./1291.%20Sequential%20Digits/) |
 | 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard | [View](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/) |
