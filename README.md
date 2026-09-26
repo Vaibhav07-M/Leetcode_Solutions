@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 140 | [View](#array) |
+| Array | 141 | [View](#array) |
 | Backtracking | 5 | [View](#backtracking) |
 | BFS | 16 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -55,7 +55,7 @@ Both indexes start small and expand naturally.
 | Greedy | 46 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
-| Hash Table | 39 | [View](#hash-table) |
+| Hash Table | 40 | [View](#hash-table) |
 | Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
@@ -78,7 +78,7 @@ Both indexes start small and expand naturally.
 | Sorting | 37 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 5 | [View](#stack) |
-| String | 66 | [View](#string) |
+| String | 67 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -189,6 +189,7 @@ Both indexes start small and expand naturally.
 | 1752 | Check if Array Is Sorted and Rotated | Easy | Array | [View](./1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated/) |
 | 1758 | Minimum Changes To Make Alternating Binary String | Easy | String / Greedy | [View](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/) |
 | 1784 | Check if Binary String Has at Most One Segment of Ones | Easy | String | [View](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/) |
+| 1807 | Evaluate the Bracket Pairs of a String | Medium | Array / Hash Table / String | [View](./1807.%20Evaluate%20the%20Bracket%20Pairs%20of%20a%20String/) |
 | 1833 | Maximum Ice Cream Bars | Medium | Array / Greedy / Counting / Sorting | [View](./1833.%20Maximum%20Ice%20Cream%20Bars/) |
 | 1840 | Maximum Building Height | Hard | Greedy / Math / Sorting | [View](./1840.%20Maximum%20Building%20Height/) |
 | 1846 | Maximum Element After Decreasing and Rearranging | Medium | Array / Greedy / Sorting | [View](./1846.%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging/) |
@@ -418,6 +419,7 @@ Both indexes start small and expand naturally.
 | 1727 | Largest Submatrix With Rearrangements | Medium | [View](./1727.%20Largest%20Submatrix%20With%20Rearrangements/) |
 | 1732 | Find the Highest Altitude | Easy | [View](./1732.%20Find%20the%20Highest%20Altitude/) |
 | 1752 | Check if Array Is Sorted and Rotated | Easy | [View](./1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated/) |
+| 1807 | Evaluate the Bracket Pairs of a String | Medium | [View](./1807.%20Evaluate%20the%20Bracket%20Pairs%20of%20a%20String/) |
 | 1833 | Maximum Ice Cream Bars | Medium | [View](./1833.%20Maximum%20Ice%20Cream%20Bars/) |
 | 1846 | Maximum Element After Decreasing and Rearranging | Medium | [View](./1846.%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging/) |
 | 1848 | Minimum Distance to the Target Element | Easy | [View](./1848.%20Minimum%20Distance%20to%20the%20Target%20Element/) |
@@ -878,6 +880,7 @@ Both indexes start small and expand naturally.
 | 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | [View](./1477.%20Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum/) |
 | 1520 | Maximum Number of Non-Overlapping Substrings | Hard | [View](./1520.%20Maximum%20Number%20of%20Non-Overlapping%20Substrings/) |
 | 1658 | Minimum Operations to Reduce X to Zero | Medium | [View](./1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/) |
+| 1807 | Evaluate the Bracket Pairs of a String | Medium | [View](./1807.%20Evaluate%20the%20Bracket%20Pairs%20of%20a%20String/) |
 | 2196 | Create Binary Tree From Descriptions | Medium | [View](./2196.%20Create%20Binary%20Tree%20From%20Descriptions/) |
 | 2615 | Sum of Distances | Medium | [View](./2615.%20Sum%20of%20Distances/) |
 | 2784 | Check if Array is Good | Easy | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
@@ -1294,6 +1297,7 @@ Both indexes start small and expand naturally.
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
 | 1758 | Minimum Changes To Make Alternating Binary String | Easy | [View](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/) |
 | 1784 | Check if Binary String Has at Most One Segment of Ones | Easy | [View](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/) |
+| 1807 | Evaluate the Bracket Pairs of a String | Medium | [View](./1807.%20Evaluate%20the%20Bracket%20Pairs%20of%20a%20String/) |
 | 1871 | Jump Game VII | Medium | [View](./1871.%20Jump%20Game%20VII/) |
 | 1888 | Minimum Number of Flips to Make the Binary String Alternating | Medium | [View](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating/) |
 | 1927 | Sum Game | Medium | [View](./1927.%20Sum%20Game/) |
