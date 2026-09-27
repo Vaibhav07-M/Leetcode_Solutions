@@ -40,6 +40,7 @@ Both indexes start small and expand naturally.
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 8 | [View](#binary-tree) |
 | Bit Manipulation | 19 | [View](#bit-manipulation) |
+| Bracket Sequences | 1 | [View](#bracket-sequences) |
 | Combinatorics | 4 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 14 | [View](#counting) |
@@ -77,8 +78,8 @@ Both indexes start small and expand naturally.
 | Sliding Window | 14 | [View](#sliding-window) |
 | Sorting | 37 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
-| Stack | 5 | [View](#stack) |
-| String | 67 | [View](#string) |
+| Stack | 6 | [View](#stack) |
+| String | 68 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -137,6 +138,7 @@ Both indexes start small and expand naturally.
 | 1140 | Stone Game II | Medium | Array / Dynamic Programming / Game Theory / Minimax | [View](./1140.%20Stone%20Game%20II/) |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | Tree / BFS / Binary Tree | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1189 | Maximum Number of Balloons | Easy | String / Hash Table / Counting | [View](./1189.%20Maximum%20Number%20of%20Balloons/) |
+| 1190 | Reverse Substrings Between Each Pair of Parentheses | Medium | String / Stack / Bracket Sequences | [View](./1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/) |
 | 1200 | Minimum Absolute Difference | Easy | Array / Sorting | [View](./1200.%20Minimum%20Absolute%20Difference/) |
 | 1260 | Shift 2D Grid | Easy | Array / Matrix / Simulation | [View](./1260.%20Shift%202D%20Grid/) |
 | 1266 | Minimum Time Visiting All Points | Easy | Array / Math / Geometry | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
@@ -372,6 +374,11 @@ Both indexes start small and expand naturally.
 | 3904 | Smallest Stable Index II | Medium | Array / Prefix Sum | [View](./3904.%20Smallest%20Stable%20Index%20II/) |
 
 ---
+### Bracket Sequences
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 1190 | Reverse Substrings Between Each Pair of Parentheses | Medium | [View](./1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/) |
+
 
 ## By Category
 
@@ -1266,6 +1273,7 @@ Both indexes start small and expand naturally.
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
 | 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
+| 1190 | Reverse Substrings Between Each Pair of Parentheses | Medium | [View](./1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
 
@@ -1285,6 +1293,7 @@ Both indexes start small and expand naturally.
 | 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
 | 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
 | 1189 | Maximum Number of Balloons | Easy | [View](./1189.%20Maximum%20Number%20of%20Balloons/) |
+| 1190 | Reverse Substrings Between Each Pair of Parentheses | Medium | [View](./1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/) |
 | 1291 | Sequential Digits | Medium | [View](./1291.%20Sequential%20Digits/) |
 | 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard | [View](./1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers/) |
 | 1358 | Number of Substrings Containing All Three Characters | Medium | [View](./1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters/) |
