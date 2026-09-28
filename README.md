@@ -40,7 +40,7 @@ Both indexes start small and expand naturally.
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 8 | [View](#binary-tree) |
 | Bit Manipulation | 19 | [View](#bit-manipulation) |
-| Bracket Sequences | 1 | [View](#bracket-sequences) |
+| Bracket Sequences | 2 | [View](#bracket-sequences) |
 | Combinatorics | 4 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 14 | [View](#counting) |
@@ -78,8 +78,8 @@ Both indexes start small and expand naturally.
 | Sliding Window | 14 | [View](#sliding-window) |
 | Sorting | 37 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
-| Stack | 6 | [View](#stack) |
-| String | 68 | [View](#string) |
+| Stack | 7 | [View](#stack) |
+| String | 69 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -177,6 +177,7 @@ Both indexes start small and expand naturally.
 | 1563 | Stone Game V | Hard | Array / Math / Dynamic Programming / Game Theory | [View](./1563.%20Stone%20Game%20V/) |
 | 1582 | Special Positions in a Binary Matrix | Easy | Array / Matrix | [View](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix/) |
 | 1594 | Maximum Non Negative Product in a Matrix | Medium | Array / Dynamic Programming / Matrix | [View](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/) |
+| 1614 | Maximum Nesting Depth of the Parentheses | Easy | String / Stack / Bracket Sequences | [View](./1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/) |
 | 1621 | Number of Sets of K Non-Overlapping Line Segments | Medium | Math / Dynamic Programming / Combinatorics / Prefix Sum | [View](./1621.%20Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments/) |
 | 1622 | Fancy Sequence | Hard | Design / Math / Segment Tree | [View](./1622.%20Fancy%20Sequence/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | String / Dynamic Programming / Stack | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
@@ -378,6 +379,11 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 1190 | Reverse Substrings Between Each Pair of Parentheses | Medium | [View](./1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/) |
+
+### Bracket Sequences
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 1614 | Maximum Nesting Depth of the Parentheses | Easy | [View](./1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/) |
 
 
 ## By Category
@@ -1274,6 +1280,7 @@ Both indexes start small and expand naturally.
 | 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
 | 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
 | 1190 | Reverse Substrings Between Each Pair of Parentheses | Medium | [View](./1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/) |
+| 1614 | Maximum Nesting Depth of the Parentheses | Easy | [View](./1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
 
@@ -1302,6 +1309,7 @@ Both indexes start small and expand naturally.
 | 1461 | Check If a String Contains All Binary Codes of Size K | Medium | [View](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/) |
 | 1520 | Maximum Number of Non-Overlapping Substrings | Hard | [View](./1520.%20Maximum%20Number%20of%20Non-Overlapping%20Substrings/) |
 | 1545 | Find Kth Bit in Nth Binary String | Medium | [View](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/) |
+| 1614 | Maximum Nesting Depth of the Parentheses | Easy | [View](./1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
 | 1758 | Minimum Changes To Make Alternating Binary String | Easy | [View](./1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/) |
