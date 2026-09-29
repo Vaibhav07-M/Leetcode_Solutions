@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 141 | [View](#array) |
+| Array | 142 | [View](#array) |
 | Backtracking | 5 | [View](#backtracking) |
 | BFS | 16 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -40,14 +40,14 @@ Both indexes start small and expand naturally.
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 8 | [View](#binary-tree) |
 | Bit Manipulation | 19 | [View](#bit-manipulation) |
-| Bracket Sequences | 2 | [View](#bracket-sequences) |
+| Bracket Sequences | 3 | [View](#bracket-sequences) |
 | Combinatorics | 4 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 14 | [View](#counting) |
 | DFS | 12 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 47 | [View](#dynamic-programming) |
+| Dynamic Programming | 48 | [View](#dynamic-programming) |
 | Enumeration | 8 | [View](#enumeration) |
 | Game Theory | 9 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
@@ -62,7 +62,7 @@ Both indexes start small and expand naturally.
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
 | Math | 72 | [View](#math) |
-| Matrix | 39 | [View](#matrix) |
+| Matrix | 40 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Minimax | 5 | [View](#minimax) |
 | Monotonic Stack | 3 | [View](#monotonic-stack) |
@@ -229,6 +229,7 @@ Both indexes start small and expand naturally.
 | 2196 | Create Binary Tree From Descriptions | Medium | Tree / Hash Table | [View](./2196.%20Create%20Binary%20Tree%20From%20Descriptions/) |
 | 2213 | Longest Substring of One Repeating Character | Hard | Segment Tree | [View](./2213.%20Longest%20Substring%20of%20One%20Repeating%20Character/) |
 | 2265 | Count Nodes Equal to Average of Subtree | Medium | Tree / DFS / Binary Tree | [View](./2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/) |
+| 2267 |  Check if There Is a Valid Parentheses String Path | Hard | Array / Dynamic Programming / Matrix / Bracket Sequences | [View](./2267.%20%20Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path/) |
 | 2402 | Meeting Rooms III | Hard | Heap / Sorting / Simulation | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 2463 | Minimum Total Distance Traveled | Hard | Array / Dynamic Programming / Sorting | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings | Hard | Two Pointers / String / Dynamic Programming / Greedy | [View](./2472.%20Maximum%20Number%20of%20Non-overlapping%20Palindrome%20Substrings/) |
@@ -385,6 +386,11 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | [View](./1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/) |
 
+### Bracket Sequences
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 2267 |  Check if There Is a Valid Parentheses String Path | Hard | [View](./2267.%20%20Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path/) |
+
 
 ## By Category
 
@@ -451,6 +457,7 @@ Both indexes start small and expand naturally.
 | 2078 | Two Furthest Houses With Different Colors | Easy | [View](./2078.%20Two%20Furthest%20Houses%20With%20Different%20Colors/) |
 | 2091 | Removing Minimum and Maximum From Array | Medium | [View](./2091.%20Removing%20Minimum%20and%20Maximum%20From%20Array/) |
 | 2161 | Partition Array According to Given Pivot | Easy | [View](./2161.%20Partition%20Array%20According%20to%20Given%20Pivot/) |
+| 2267 |  Check if There Is a Valid Parentheses String Path | Hard | [View](./2267.%20%20Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path/) |
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 2452 | Words Within Two Edits of Dictionary | Medium | [View](./2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary/) |
 | 2463 | Minimum Total Distance Traveled | Hard | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
@@ -725,6 +732,7 @@ Both indexes start small and expand naturally.
 | 1621 | Number of Sets of K Non-Overlapping Line Segments | Medium | [View](./1621.%20Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
 | 1872 | Stone Game VIII | Hard | [View](./1872.%20Stone%20Game%20VIII/) |
+| 2267 |  Check if There Is a Valid Parentheses String Path | Hard | [View](./2267.%20%20Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path/) |
 | 2463 | Minimum Total Distance Traveled | Hard | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings | Hard | [View](./2472.%20Maximum%20Number%20of%20Non-overlapping%20Palindrome%20Substrings/) |
 | 2573 | Find the String with LCP | Hard | [View](./2573.%20Find%20the%20String%20with%20LCP/) |
@@ -1054,6 +1062,7 @@ Both indexes start small and expand naturally.
 | 1975 | Maximum Matrix Sum | Medium | [View](./1975.%20Maximum%20Matrix%20Sum/) |
 | 2033 | Minimum Operations to Make a Uni-Value Grid | Medium | [View](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/) |
 | 2075 | Decode the Slanted Ciphertext | Medium | [View](./2075.%20Decode%20the%20Slanted%20Ciphertext/) |
+| 2267 |  Check if There Is a Valid Parentheses String Path | Hard | [View](./2267.%20%20Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path/) |
 | 2573 | Find the String with LCP | Hard | [View](./2573.%20Find%20the%20String%20with%20LCP/) |
 | 2812 | Find the Safest Path in a Grid | Medium | [View](./2812.%20Find%20the%20Safest%20Path%20in%20a%20Grid/) |
 | 2906 | Construct Product Matrix | Medium | [View](./2906.%20Construct%20Product%20Matrix/) |
