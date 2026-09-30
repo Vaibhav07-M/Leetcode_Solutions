@@ -40,7 +40,7 @@ Both indexes start small and expand naturally.
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 8 | [View](#binary-tree) |
 | Bit Manipulation | 19 | [View](#bit-manipulation) |
-| Bracket Sequences | 3 | [View](#bracket-sequences) |
+| Bracket Sequences | 4 | [View](#bracket-sequences) |
 | Combinatorics | 4 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 14 | [View](#counting) |
@@ -78,8 +78,8 @@ Both indexes start small and expand naturally.
 | Sliding Window | 14 | [View](#sliding-window) |
 | Sorting | 37 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
-| Stack | 7 | [View](#stack) |
-| String | 69 | [View](#string) |
+| Stack | 8 | [View](#stack) |
+| String | 70 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -135,6 +135,7 @@ Both indexes start small and expand naturally.
 | 1022 | Sum of Root To Leaf Binary Numbers | Easy | Tree / DFS / Binary Tree | [View](./1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/) |
 | 1081 | Smallest Subsequence of Distinct Characters | Medium | String / Stack / Greedy / Monotonic Stack | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
 | 1096 | Brace Expansion II | Hard | Hash Table / String / Backtracking / Stack / BFS / Sorting | [View](./1096.%20Brace%20Expansion%20II/) |
+| 1111 | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | String / Stack / Bracket Sequences | [View](./1111.%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings/) |
 | 1140 | Stone Game II | Medium | Array / Dynamic Programming / Game Theory / Minimax | [View](./1140.%20Stone%20Game%20II/) |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | Tree / BFS / Binary Tree | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1189 | Maximum Number of Balloons | Easy | String / Hash Table / Counting | [View](./1189.%20Maximum%20Number%20of%20Balloons/) |
@@ -390,6 +391,11 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 2267 |  Check if There Is a Valid Parentheses String Path | Hard | [View](./2267.%20%20Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path/) |
+
+### Bracket Sequences
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 1111 | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | [View](./1111.%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings/) |
 
 
 ## By Category
@@ -1288,6 +1294,7 @@ Both indexes start small and expand naturally.
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
 | 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
+| 1111 | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | [View](./1111.%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings/) |
 | 1190 | Reverse Substrings Between Each Pair of Parentheses | Medium | [View](./1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/) |
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | [View](./1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
@@ -1308,6 +1315,7 @@ Both indexes start small and expand naturally.
 | 940 | Distinct Subsequences II | Hard | [View](./940.%20Distinct%20Subsequences%20II/) |
 | 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
 | 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
+| 1111 | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | [View](./1111.%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings/) |
 | 1189 | Maximum Number of Balloons | Easy | [View](./1189.%20Maximum%20Number%20of%20Balloons/) |
 | 1190 | Reverse Substrings Between Each Pair of Parentheses | Medium | [View](./1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/) |
 | 1291 | Sequential Digits | Medium | [View](./1291.%20Sequential%20Digits/) |
