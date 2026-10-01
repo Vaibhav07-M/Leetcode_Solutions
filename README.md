@@ -40,7 +40,7 @@ Both indexes start small and expand naturally.
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 8 | [View](#binary-tree) |
 | Bit Manipulation | 19 | [View](#bit-manipulation) |
-| Bracket Sequences | 4 | [View](#bracket-sequences) |
+| Bracket Sequences | 5 | [View](#bracket-sequences) |
 | Combinatorics | 4 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 14 | [View](#counting) |
@@ -78,8 +78,8 @@ Both indexes start small and expand naturally.
 | Sliding Window | 14 | [View](#sliding-window) |
 | Sorting | 37 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
-| Stack | 8 | [View](#stack) |
-| String | 70 | [View](#string) |
+| Stack | 9 | [View](#stack) |
+| String | 71 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -96,6 +96,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|----------|---------|
 | 1 | Two Sum | Easy | Array / Hash Table | [View](./1.%20Two%20Sum/) |
 | 13 | Roman to Integer | Easy | Hash Table / Math / String | [View](./13.%20Roman%20to%20Integer/) |
+| 20 | Valid Parentheses | Easy | String / Stack / Bracket Sequences | [View](./20.%20Valid%20Parentheses/) |
 | 33 | Search in Rotated Sorted Array | Medium | Array / Binary Search | [View](./33.%20Search%20in%20Rotated%20Sorted%20Array/) |
 | 48 | Rotate Image | Medium | Array / Math / Matrix | [View](./48.%20Rotate%20Image/) |
 | 61 | Rotate List | Medium | Linked List / Two Pointers | [View](./61.%20Rotate%20List/) |
@@ -396,6 +397,11 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 1111 | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | [View](./1111.%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings/) |
+
+### Bracket Sequences
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 20 | Valid Parentheses | Easy | [View](./20.%20Valid%20Parentheses/) |
 
 
 ## By Category
@@ -1291,6 +1297,7 @@ Both indexes start small and expand naturally.
 ### Stack
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 20 | Valid Parentheses | Easy | [View](./20.%20Valid%20Parentheses/) |
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
 | 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
@@ -1304,6 +1311,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 13 | Roman to Integer | Easy | [View](./13.%20Roman%20to%20Integer/) |
+| 20 | Valid Parentheses | Easy | [View](./20.%20Valid%20Parentheses/) |
 | 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
 | 115 | Distinct Subsequences | Hard | [View](./115.%20Distinct%20Subsequences/) |
 | 657 | Robot Return to Origin | Easy | [View](./657.%20Robot%20Return%20to%20Origin/) |
