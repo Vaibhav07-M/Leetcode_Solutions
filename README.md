@@ -33,21 +33,21 @@ Both indexes start small and expand naturally.
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
 | Array | 142 | [View](#array) |
-| Backtracking | 5 | [View](#backtracking) |
+| Backtracking | 6 | [View](#backtracking) |
 | BFS | 16 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
 | Binary Search | 25 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 8 | [View](#binary-tree) |
 | Bit Manipulation | 19 | [View](#bit-manipulation) |
-| Bracket Sequences | 5 | [View](#bracket-sequences) |
+| Bracket Sequences | 6 | [View](#bracket-sequences) |
 | Combinatorics | 4 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 14 | [View](#counting) |
 | DFS | 12 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 48 | [View](#dynamic-programming) |
+| Dynamic Programming | 49 | [View](#dynamic-programming) |
 | Enumeration | 8 | [View](#enumeration) |
 | Game Theory | 9 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
@@ -79,7 +79,7 @@ Both indexes start small and expand naturally.
 | Sorting | 37 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 9 | [View](#stack) |
-| String | 71 | [View](#string) |
+| String | 72 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -97,6 +97,7 @@ Both indexes start small and expand naturally.
 | 1 | Two Sum | Easy | Array / Hash Table | [View](./1.%20Two%20Sum/) |
 | 13 | Roman to Integer | Easy | Hash Table / Math / String | [View](./13.%20Roman%20to%20Integer/) |
 | 20 | Valid Parentheses | Easy | String / Stack / Bracket Sequences | [View](./20.%20Valid%20Parentheses/) |
+| 22 | Generate Parentheses | Medium | String / Dynamic Programming / Backtracking / Bracket Sequences | [View](./22.%20Generate%20Parentheses/) |
 | 33 | Search in Rotated Sorted Array | Medium | Array / Binary Search | [View](./33.%20Search%20in%20Rotated%20Sorted%20Array/) |
 | 48 | Rotate Image | Medium | Array / Math / Matrix | [View](./48.%20Rotate%20Image/) |
 | 61 | Rotate List | Medium | Linked List / Two Pointers | [View](./61.%20Rotate%20List/) |
@@ -403,6 +404,11 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 20 | Valid Parentheses | Easy | [View](./20.%20Valid%20Parentheses/) |
 
+### Bracket Sequences
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 22 | Generate Parentheses | Medium | [View](./22.%20Generate%20Parentheses/) |
+
 
 ## By Category
 
@@ -557,6 +563,7 @@ Both indexes start small and expand naturally.
 ### Backtracking
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 22 | Generate Parentheses | Medium | [View](./22.%20Generate%20Parentheses/) |
 | 401 | Binary Watch | Easy | [View](./401.%20Binary%20Watch/) |
 | 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
@@ -721,6 +728,7 @@ Both indexes start small and expand naturally.
 ### Dynamic Programming
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 22 | Generate Parentheses | Medium | [View](./22.%20Generate%20Parentheses/) |
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 115 | Distinct Subsequences | Hard | [View](./115.%20Distinct%20Subsequences/) |
 | 396 | Rotate Function | Medium | [View](./396.%20Rotate%20Function/) |
@@ -1312,6 +1320,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 13 | Roman to Integer | Easy | [View](./13.%20Roman%20to%20Integer/) |
 | 20 | Valid Parentheses | Easy | [View](./20.%20Valid%20Parentheses/) |
+| 22 | Generate Parentheses | Medium | [View](./22.%20Generate%20Parentheses/) |
 | 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
 | 115 | Distinct Subsequences | Hard | [View](./115.%20Distinct%20Subsequences/) |
 | 657 | Robot Return to Origin | Easy | [View](./657.%20Robot%20Return%20to%20Origin/) |
