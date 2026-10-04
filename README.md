@@ -40,20 +40,20 @@ Both indexes start small and expand naturally.
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 8 | [View](#binary-tree) |
 | Bit Manipulation | 19 | [View](#bit-manipulation) |
-| Bracket Sequences | 7 | [View](#bracket-sequences) |
+| Bracket Sequences | 8 | [View](#bracket-sequences) |
 | Combinatorics | 4 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 14 | [View](#counting) |
 | DFS | 12 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 50 | [View](#dynamic-programming) |
+| Dynamic Programming | 51 | [View](#dynamic-programming) |
 | Enumeration | 8 | [View](#enumeration) |
 | Game Theory | 9 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
 | Geometry | 8 | [View](#geometry) |
 | Graph | 17 | [View](#graph) |
-| Greedy | 46 | [View](#greedy) |
+| Greedy | 47 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
 | Hash Table | 40 | [View](#hash-table) |
@@ -78,8 +78,8 @@ Both indexes start small and expand naturally.
 | Sliding Window | 14 | [View](#sliding-window) |
 | Sorting | 37 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
-| Stack | 10 | [View](#stack) |
-| String | 73 | [View](#string) |
+| Stack | 11 | [View](#stack) |
+| String | 74 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -115,6 +115,7 @@ Both indexes start small and expand naturally.
 | 486 | Predict the Winner | Medium | Dynamic Programming / Game Theory / Minimax | [View](./486.%20Predict%20the%20Winner/) |
 | 628 | Maximum Product of Three Numbers | Easy | Array / Sorting / Greedy / Math | [View](./628.%20Maximum%20Product%20of%20Three%20Numbers/) |
 | 657 | Robot Return to Origin | Easy | String / Simulation | [View](./657.%20Robot%20Return%20to%20Origin/) |
+| 678 | Valid Parenthesis String | Medium | String / Dynamic Programming / Stack / Greedy / Bracket Sequences | [View](./678.%20Valid%20Parenthesis%20String/) |
 | 693 | Binary Number with Alternating Bits | Easy | Bit Manipulation | [View](./693.%20Binary%20Number%20with%20Alternating%20Bits/) |
 | 696 | Count Binary Substrings | Easy | String / Two Pointers | [View](./696.%20Count%20Binary%20Substrings/) |
 | 712 | Minimum ASCII Delete Sum for Two Strings | Medium | String / Dynamic Programming | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
@@ -414,6 +415,11 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 32 | Longest Valid Parentheses | Hard | [View](./32.%20Longest%20Valid%20Parentheses/) |
+
+### Bracket Sequences
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 678 | Valid Parenthesis String | Medium | [View](./678.%20Valid%20Parenthesis%20String/) |
 
 
 ## By Category
@@ -740,6 +746,7 @@ Both indexes start small and expand naturally.
 | 115 | Distinct Subsequences | Hard | [View](./115.%20Distinct%20Subsequences/) |
 | 396 | Rotate Function | Medium | [View](./396.%20Rotate%20Function/) |
 | 486 | Predict the Winner | Medium | [View](./486.%20Predict%20the%20Winner/) |
+| 678 | Valid Parenthesis String | Medium | [View](./678.%20Valid%20Parenthesis%20String/) |
 | 712 | Minimum ASCII Delete Sum for Two Strings | Medium | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
 | 788 | Rotated Digits | Medium | [View](./788.%20Rotated%20Digits/) |
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
@@ -855,6 +862,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 628 | Maximum Product of Three Numbers | Easy | [View](./628.%20Maximum%20Product%20of%20Three%20Numbers/) |
+| 678 | Valid Parenthesis String | Medium | [View](./678.%20Valid%20Parenthesis%20String/) |
 | 761 | Special Binary String | Hard | [View](./761.%20Special%20Binary%20String/) |
 | 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
 | 1288 | Remove Covered Intervals | Medium | [View](./1288.%20Remove%20Covered%20Intervals/) |
@@ -1315,6 +1323,7 @@ Both indexes start small and expand naturally.
 | 20 | Valid Parentheses | Easy | [View](./20.%20Valid%20Parentheses/) |
 | 32 | Longest Valid Parentheses | Hard | [View](./32.%20Longest%20Valid%20Parentheses/) |
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
+| 678 | Valid Parenthesis String | Medium | [View](./678.%20Valid%20Parenthesis%20String/) |
 | 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
 | 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
 | 1111 | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | [View](./1111.%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings/) |
@@ -1333,6 +1342,7 @@ Both indexes start small and expand naturally.
 | 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
 | 115 | Distinct Subsequences | Hard | [View](./115.%20Distinct%20Subsequences/) |
 | 657 | Robot Return to Origin | Easy | [View](./657.%20Robot%20Return%20to%20Origin/) |
+| 678 | Valid Parenthesis String | Medium | [View](./678.%20Valid%20Parenthesis%20String/) |
 | 696 | Count Binary Substrings | Easy | [View](./696.%20Count%20Binary%20Substrings/) |
 | 712 | Minimum ASCII Delete Sum for Two Strings | Medium | [View](./712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings/) |
 | 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
