@@ -40,7 +40,7 @@ Both indexes start small and expand naturally.
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 8 | [View](#binary-tree) |
 | Bit Manipulation | 19 | [View](#bit-manipulation) |
-| Bracket Sequences | 8 | [View](#bracket-sequences) |
+| Bracket Sequences | 9 | [View](#bracket-sequences) |
 | Combinatorics | 4 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 14 | [View](#counting) |
@@ -78,8 +78,8 @@ Both indexes start small and expand naturally.
 | Sliding Window | 14 | [View](#sliding-window) |
 | Sorting | 37 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
-| Stack | 11 | [View](#stack) |
-| String | 74 | [View](#string) |
+| Stack | 12 | [View](#stack) |
+| String | 75 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -129,6 +129,7 @@ Both indexes start small and expand naturally.
 | 835 | Image Overlap | Medium | Array / Matrix | [View](./835.%20Image%20Overlap/) |
 | 836 | Rectangle Overlap | Easy | Math / Geometry | [View](./836.%20Rectangle%20Overlap/) |
 | 840 | Magic Squares In Grid | Medium | Array / Hash Table / Math / Matrix | [View](./840.%20Magic%20Squares%20In%20Grid/) |
+| 856 | Score of Parentheses | Medium | String / Stack / Bracket Sequences | [View](./856.%20Score%20of%20Parentheses/) |
 | 868 | Binary Gap | Easy | Bit Manipulation | [View](./868.%20Binary%20Gap/) |
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | Tree / DFS / Binary Tree | [View](./865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/) |
 | 874 | Walking Robot Simulation | Medium | Simulation | [View](./874.%20Walking%20Robot%20Simulation/) |
@@ -420,6 +421,11 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 678 | Valid Parenthesis String | Medium | [View](./678.%20Valid%20Parenthesis%20String/) |
+
+### Bracket Sequences
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 856 | Score of Parentheses | Medium | [View](./856.%20Score%20of%20Parentheses/) |
 
 
 ## By Category
@@ -1324,6 +1330,7 @@ Both indexes start small and expand naturally.
 | 32 | Longest Valid Parentheses | Hard | [View](./32.%20Longest%20Valid%20Parentheses/) |
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 678 | Valid Parenthesis String | Medium | [View](./678.%20Valid%20Parenthesis%20String/) |
+| 856 | Score of Parentheses | Medium | [View](./856.%20Score%20of%20Parentheses/) |
 | 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
 | 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
 | 1111 | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | [View](./1111.%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings/) |
@@ -1348,6 +1355,7 @@ Both indexes start small and expand naturally.
 | 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 761 | Special Binary String | Hard | [View](./761.%20Special%20Binary%20String/) |
 | 796 | Rotate String | Easy | [View](./796.%20Rotate%20String/) |
+| 856 | Score of Parentheses | Medium | [View](./856.%20Score%20of%20Parentheses/) |
 | 940 | Distinct Subsequences II | Hard | [View](./940.%20Distinct%20Subsequences%20II/) |
 | 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
 | 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
