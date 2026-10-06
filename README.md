@@ -40,7 +40,7 @@ Both indexes start small and expand naturally.
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 8 | [View](#binary-tree) |
 | Bit Manipulation | 19 | [View](#bit-manipulation) |
-| Bracket Sequences | 9 | [View](#bracket-sequences) |
+| Bracket Sequences | 10 | [View](#bracket-sequences) |
 | Combinatorics | 4 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 14 | [View](#counting) |
@@ -53,7 +53,7 @@ Both indexes start small and expand naturally.
 | GCD | 5 | [View](#gcd) |
 | Geometry | 8 | [View](#geometry) |
 | Graph | 17 | [View](#graph) |
-| Greedy | 47 | [View](#greedy) |
+| Greedy | 48 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
 | Hash Table | 40 | [View](#hash-table) |
@@ -78,8 +78,8 @@ Both indexes start small and expand naturally.
 | Sliding Window | 14 | [View](#sliding-window) |
 | Sorting | 37 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
-| Stack | 12 | [View](#stack) |
-| String | 75 | [View](#string) |
+| Stack | 13 | [View](#stack) |
+| String | 76 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -134,6 +134,7 @@ Both indexes start small and expand naturally.
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | Tree / DFS / Binary Tree | [View](./865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/) |
 | 874 | Walking Robot Simulation | Medium | Simulation | [View](./874.%20Walking%20Robot%20Simulation/) |
 | 877 | Stone Game | Medium | Dynamic Programming / Game Theory / Minimax / Math | [View](./877.%20Stone%20Game/) |
+| 921 | Minimum Add to Make Parentheses Valid | Medium | String / Stack / Greedy / Bracket Sequences | [View](./921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid/) |
 | 940 | Distinct Subsequences II | Hard | String / Dynamic Programming | [View](./940.%20Distinct%20Subsequences%20II/) |
 | 961 | N-Repeated Element in Size 2N Array | Easy | Array / Hash Table | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
 | 1009 | Complement of Base 10 Integer | Easy | Bit Manipulation | [View](./1009.%20Complement%20of%20Base%2010%20Integer/) |
@@ -426,6 +427,11 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 856 | Score of Parentheses | Medium | [View](./856.%20Score%20of%20Parentheses/) |
+
+### Bracket Sequences
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 921 | Minimum Add to Make Parentheses Valid | Medium | [View](./921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid/) |
 
 
 ## By Category
@@ -870,6 +876,7 @@ Both indexes start small and expand naturally.
 | 628 | Maximum Product of Three Numbers | Easy | [View](./628.%20Maximum%20Product%20of%20Three%20Numbers/) |
 | 678 | Valid Parenthesis String | Medium | [View](./678.%20Valid%20Parenthesis%20String/) |
 | 761 | Special Binary String | Hard | [View](./761.%20Special%20Binary%20String/) |
+| 921 | Minimum Add to Make Parentheses Valid | Medium | [View](./921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid/) |
 | 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
 | 1288 | Remove Covered Intervals | Medium | [View](./1288.%20Remove%20Covered%20Intervals/) |
 | 1382 | Balance a Binary Search Tree | Medium | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
@@ -1331,6 +1338,7 @@ Both indexes start small and expand naturally.
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 678 | Valid Parenthesis String | Medium | [View](./678.%20Valid%20Parenthesis%20String/) |
 | 856 | Score of Parentheses | Medium | [View](./856.%20Score%20of%20Parentheses/) |
+| 921 | Minimum Add to Make Parentheses Valid | Medium | [View](./921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid/) |
 | 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
 | 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
 | 1111 | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | [View](./1111.%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings/) |
@@ -1356,6 +1364,7 @@ Both indexes start small and expand naturally.
 | 761 | Special Binary String | Hard | [View](./761.%20Special%20Binary%20String/) |
 | 796 | Rotate String | Easy | [View](./796.%20Rotate%20String/) |
 | 856 | Score of Parentheses | Medium | [View](./856.%20Score%20of%20Parentheses/) |
+| 921 | Minimum Add to Make Parentheses Valid | Medium | [View](./921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid/) |
 | 940 | Distinct Subsequences II | Hard | [View](./940.%20Distinct%20Subsequences%20II/) |
 | 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
 | 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
