@@ -33,8 +33,8 @@ Both indexes start small and expand naturally.
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
 | Array | 142 | [View](#array) |
-| Backtracking | 6 | [View](#backtracking) |
-| BFS | 16 | [View](#bfs) |
+| Backtracking | 7 | [View](#backtracking) |
+| BFS | 17 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
 | Binary Search | 25 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
@@ -79,7 +79,7 @@ Both indexes start small and expand naturally.
 | Sorting | 37 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 13 | [View](#stack) |
-| String | 76 | [View](#string) |
+| String | 77 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -110,6 +110,7 @@ Both indexes start small and expand naturally.
 | 153 | Find Minimum in Rotated Sorted Array | Medium | Array / Binary Search | [View](./153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/) |
 | 154 | Find Minimum in Rotated Sorted Array II | Hard | Array / Binary Search | [View](./154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/) |
 | 190 | Reverse Bits | Easy | Divide and Conquer / Bit Manipulation | [View](./190.%20Reverse%20Bits/) |
+| 301 | Remove Invalid Parentheses | Hard | String / Backtracking / BFS | [View](./301.%20Remove%20Invalid%20Parentheses/) |
 | 396 | Rotate Function | Medium | Array / Math / Dynamic Programming | [View](./396.%20Rotate%20Function/) |
 | 401 | Binary Watch | Easy | Backtracking / Bit Manipulation | [View](./401.%20Binary%20Watch/) |
 | 486 | Predict the Winner | Medium | Dynamic Programming / Game Theory / Minimax | [View](./486.%20Predict%20the%20Winner/) |
@@ -588,6 +589,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 22 | Generate Parentheses | Medium | [View](./22.%20Generate%20Parentheses/) |
+| 301 | Remove Invalid Parentheses | Hard | [View](./301.%20Remove%20Invalid%20Parentheses/) |
 | 401 | Binary Watch | Easy | [View](./401.%20Binary%20Watch/) |
 | 756 | Pyramid Transition Matrix | Medium | [View](./756.%20Pyramid%20Transition%20Matrix/) |
 | 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
@@ -597,6 +599,7 @@ Both indexes start small and expand naturally.
 ### BFS
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 301 | Remove Invalid Parentheses | Hard | [View](./301.%20Remove%20Invalid%20Parentheses/) |
 | 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1301 | Number of Paths with Max Score | Hard | [View](./1301.%20Number%20of%20Paths%20with%20Max%20Score/) |
@@ -1356,6 +1359,7 @@ Both indexes start small and expand naturally.
 | 32 | Longest Valid Parentheses | Hard | [View](./32.%20Longest%20Valid%20Parentheses/) |
 | 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
 | 115 | Distinct Subsequences | Hard | [View](./115.%20Distinct%20Subsequences/) |
+| 301 | Remove Invalid Parentheses | Hard | [View](./301.%20Remove%20Invalid%20Parentheses/) |
 | 657 | Robot Return to Origin | Easy | [View](./657.%20Robot%20Return%20to%20Origin/) |
 | 678 | Valid Parenthesis String | Medium | [View](./678.%20Valid%20Parenthesis%20String/) |
 | 696 | Count Binary Substrings | Easy | [View](./696.%20Count%20Binary%20Substrings/) |
