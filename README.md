@@ -40,7 +40,7 @@ Both indexes start small and expand naturally.
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 8 | [View](#binary-tree) |
 | Bit Manipulation | 19 | [View](#bit-manipulation) |
-| Bracket Sequences | 11 | [View](#bracket-sequences) |
+| Bracket Sequences | 12 | [View](#bracket-sequences) |
 | Combinatorics | 4 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 14 | [View](#counting) |
@@ -53,7 +53,7 @@ Both indexes start small and expand naturally.
 | GCD | 5 | [View](#gcd) |
 | Geometry | 8 | [View](#geometry) |
 | Graph | 17 | [View](#graph) |
-| Greedy | 48 | [View](#greedy) |
+| Greedy | 49 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
 | Hash Table | 40 | [View](#hash-table) |
@@ -78,8 +78,8 @@ Both indexes start small and expand naturally.
 | Sliding Window | 14 | [View](#sliding-window) |
 | Sorting | 37 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
-| Stack | 14 | [View](#stack) |
-| String | 78 | [View](#string) |
+| Stack | 15 | [View](#stack) |
+| String | 79 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -181,6 +181,7 @@ Both indexes start small and expand naturally.
 | 1510 | Stone Game IV | Medium | Dynamic Programming / Game Theory / Math | [View](./1510.%20Stone%20Game%20IV/) |
 | 1520 | Maximum Number of Non-Overlapping Substrings | Hard | Hash Table / String / Greedy / Sorting | [View](./1520.%20Maximum%20Number%20of%20Non-Overlapping%20Substrings/) |
 | 1536 | Minimum Swaps to Arrange a Binary Grid | Medium | Array / Greedy / Sorting / Matrix | [View](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid/) |
+| 1541 | Minimum Insertions to Balance a Parentheses String | Medium | String / Stack / Greedy / Bracket Sequences | [View](./1541.%20Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String/) |
 | 1545 | Find Kth Bit in Nth Binary String | Medium | String / Recursion / Divide and Conquer | [View](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/) |
 | 1559 | Detect Cycles in 2D Grid | Medium | DFS / Matrix | [View](./1559.%20Detect%20Cycles%20in%202D%20Grid/) |
 | 1563 | Stone Game V | Hard | Array / Math / Dynamic Programming / Game Theory | [View](./1563.%20Stone%20Game%20V/) |
@@ -439,6 +440,11 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 1021 | Remove Outermost Parentheses | Easy | [View](./1021.%20Remove%20Outermost%20Parentheses/) |
+
+### Bracket Sequences
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 1541 | Minimum Insertions to Balance a Parentheses String | Medium | [View](./1541.%20Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String/) |
 
 
 ## By Category
@@ -894,6 +900,7 @@ Both indexes start small and expand naturally.
 | 1464 | Maximum Product of Two Elements in an Array | Easy | [View](./1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/) |
 | 1520 | Maximum Number of Non-Overlapping Substrings | Hard | [View](./1520.%20Maximum%20Number%20of%20Non-Overlapping%20Substrings/) |
 | 1536 | Minimum Swaps to Arrange a Binary Grid | Medium | [View](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid/) |
+| 1541 | Minimum Insertions to Balance a Parentheses String | Medium | [View](./1541.%20Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String/) |
 | 1665 | Minimum Initial Energy to Finish Tasks | Hard | [View](./1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks/) |
 | 1674 | Minimum Moves to Make Array Complementary | Medium | [View](./1674.%20Minimum%20Moves%20to%20Make%20Array%20Complementary/) |
 | 1689 | Partitioning Into Minimum Number Of Deci-Binary Numbers | Medium | [View](./1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/) |
@@ -1353,6 +1360,7 @@ Both indexes start small and expand naturally.
 | 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
 | 1111 | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium | [View](./1111.%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings/) |
 | 1190 | Reverse Substrings Between Each Pair of Parentheses | Medium | [View](./1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/) |
+| 1541 | Minimum Insertions to Balance a Parentheses String | Medium | [View](./1541.%20Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String/) |
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | [View](./1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
@@ -1390,6 +1398,7 @@ Both indexes start small and expand naturally.
 | 1415 | The k-th Lexicographical String of All Happy Strings of Length n | Medium | [View](./1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/) |
 | 1461 | Check If a String Contains All Binary Codes of Size K | Medium | [View](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/) |
 | 1520 | Maximum Number of Non-Overlapping Substrings | Hard | [View](./1520.%20Maximum%20Number%20of%20Non-Overlapping%20Substrings/) |
+| 1541 | Minimum Insertions to Balance a Parentheses String | Medium | [View](./1541.%20Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String/) |
 | 1545 | Find Kth Bit in Nth Binary String | Medium | [View](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/) |
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | [View](./1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
