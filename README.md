@@ -32,11 +32,11 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 142 | [View](#array) |
+| Array | 143 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 17 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
-| Binary Search | 25 | [View](#binary-search) |
+| Binary Search | 26 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 8 | [View](#binary-tree) |
 | Bit Manipulation | 19 | [View](#bit-manipulation) |
@@ -53,11 +53,11 @@ Both indexes start small and expand naturally.
 | GCD | 5 | [View](#gcd) |
 | Geometry | 8 | [View](#geometry) |
 | Graph | 17 | [View](#graph) |
-| Greedy | 49 | [View](#greedy) |
+| Greedy | 50 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
 | Hash Table | 40 | [View](#hash-table) |
-| Heap (Priority Queue) | 5 | [View](#heap-priority-queue) |
+| Heap (Priority Queue) | 6 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
@@ -76,7 +76,7 @@ Both indexes start small and expand naturally.
 | Shortest Path | 5 | [View](#shortest-path) |
 | Simulation | 29 | [View](#simulation) |
 | Sliding Window | 14 | [View](#sliding-window) |
-| Sorting | 37 | [View](#sorting) |
+| Sorting | 38 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 15 | [View](#stack) |
 | String | 79 | [View](#string) |
@@ -240,6 +240,7 @@ Both indexes start small and expand naturally.
 | 2213 | Longest Substring of One Repeating Character | Hard | Segment Tree | [View](./2213.%20Longest%20Substring%20of%20One%20Repeating%20Character/) |
 | 2265 | Count Nodes Equal to Average of Subtree | Medium | Tree / DFS / Binary Tree | [View](./2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/) |
 | 2267 |  Check if There Is a Valid Parentheses String Path | Hard | Array / Dynamic Programming / Matrix / Bracket Sequences | [View](./2267.%20%20Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path/) |
+| 2333 | Minimum Sum of Squared Difference | Medium | Array / Binary Search / Greedy / Sorting / Heap (Priority Queue) | [View](./2333.%20Minimum%20Sum%20of%20Squared%20Difference/) |
 | 2402 | Meeting Rooms III | Hard | Heap / Sorting / Simulation | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 2463 | Minimum Total Distance Traveled | Hard | Array / Dynamic Programming / Sorting | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings | Hard | Two Pointers / String / Dynamic Programming / Greedy | [View](./2472.%20Maximum%20Number%20of%20Non-overlapping%20Palindrome%20Substrings/) |
@@ -513,6 +514,7 @@ Both indexes start small and expand naturally.
 | 2091 | Removing Minimum and Maximum From Array | Medium | [View](./2091.%20Removing%20Minimum%20and%20Maximum%20From%20Array/) |
 | 2161 | Partition Array According to Given Pivot | Easy | [View](./2161.%20Partition%20Array%20According%20to%20Given%20Pivot/) |
 | 2267 |  Check if There Is a Valid Parentheses String Path | Hard | [View](./2267.%20%20Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path/) |
+| 2333 | Minimum Sum of Squared Difference | Medium | [View](./2333.%20Minimum%20Sum%20of%20Squared%20Difference/) |
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 2452 | Words Within Two Edits of Dictionary | Medium | [View](./2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary/) |
 | 2463 | Minimum Total Distance Traveled | Hard | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
@@ -646,6 +648,7 @@ Both indexes start small and expand naturally.
 | 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | [View](./1477.%20Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum/) |
 | 1658 | Minimum Operations to Reduce X to Zero | Medium | [View](./1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
+| 2333 | Minimum Sum of Squared Difference | Medium | [View](./2333.%20Minimum%20Sum%20of%20Squared%20Difference/) |
 | 2812 | Find the Safest Path in a Grid | Medium | [View](./2812.%20Find%20the%20Safest%20Path%20in%20a%20Grid/) |
 | 3116 | Kth Smallest Amount With Single Denomination Combination | Hard | [View](./3116.%20Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination/) |
 | 3161 | Block Placement Queries | Hard | [View](./3161.%20Block%20Placement%20Queries/) |
@@ -915,6 +918,7 @@ Both indexes start small and expand naturally.
 | 2091 | Removing Minimum and Maximum From Array | Medium | [View](./2091.%20Removing%20Minimum%20and%20Maximum%20From%20Array/) |
 | 2126 | Destroying Asteroids | Medium | [View](./2126.%20Destroying%20Asteroids/) |
 | 2144 | Minimum Cost of Buying Candies With Discount | Easy | [View](./2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/) |
+| 2333 | Minimum Sum of Squared Difference | Medium | [View](./2333.%20Minimum%20Sum%20of%20Squared%20Difference/) |
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings | Hard | [View](./2472.%20Maximum%20Number%20of%20Non-overlapping%20Palindrome%20Substrings/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
 | 3010 | Divide an Array Into Subarrays With Minimum Cost I | Easy | [View](./3010.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I/) |
@@ -995,6 +999,7 @@ Both indexes start small and expand naturally.
 ### Heap (Priority Queue)
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 2333 | Minimum Sum of Squared Difference | Medium | [View](./2333.%20Minimum%20Sum%20of%20Squared%20Difference/) |
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
@@ -1322,6 +1327,7 @@ Both indexes start small and expand naturally.
 | 2033 | Minimum Operations to Make a Uni-Value Grid | Medium | [View](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/) |
 | 2126 | Destroying Asteroids | Medium | [View](./2126.%20Destroying%20Asteroids/) |
 | 2144 | Minimum Cost of Buying Candies With Discount | Easy | [View](./2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/) |
+| 2333 | Minimum Sum of Squared Difference | Medium | [View](./2333.%20Minimum%20Sum%20of%20Squared%20Difference/) |
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 2463 | Minimum Total Distance Traveled | Hard | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
