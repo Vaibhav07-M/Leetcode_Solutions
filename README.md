@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 143 | [View](#array) |
+| Array | 144 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 17 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -48,7 +48,7 @@ Both indexes start small and expand naturally.
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 3 | [View](#divide-and-conquer) |
 | Dynamic Programming | 51 | [View](#dynamic-programming) |
-| Enumeration | 8 | [View](#enumeration) |
+| Enumeration | 9 | [View](#enumeration) |
 | Game Theory | 9 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
 | Geometry | 8 | [View](#geometry) |
@@ -256,6 +256,7 @@ Both indexes start small and expand naturally.
 | 2685 | Count the Number of Complete Components | Medium | Graph / BFS | [View](./2685.%20Count%20the%20Number%20of%20Complete%20Components/) |
 | 2751 | Robot Collisions | Hard | Array / Stack / Sorting / Simulation | [View](./2751.%20Robot%20Collisions/) |
 | 2770 | Maximum Number of Jumps to Reach the Last Index | Medium | Dynamic Programming / Segment Tree | [View](./2770.%20Maximum%20Number%20of%20Jumps%20to%20Reach%20the%20Last%20Index/) |
+| 2778 | Sum of Squares of Special Elements  | Easy | Array / Enumeration | [View](./2778.%20Sum%20of%20Squares%20of%20Special%20Elements%20/) |
 | 2784 | Check if Array is Good | Easy | Array / Hash Table / Counting | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
 | 2812 | Find the Safest Path in a Grid | Medium | Graph / Breadth-First Search / Binary Search / Matrix | [View](./2812.%20Find%20the%20Safest%20Path%20in%20a%20Grid/) |
 | 2833 | Furthest Point From Origin | Easy | String / Math | [View](./2833.%20Furthest%20Point%20From%20Origin/) |
@@ -525,6 +526,7 @@ Both indexes start small and expand naturally.
 | 2615 | Sum of Distances | Medium | [View](./2615.%20Sum%20of%20Distances/) |
 | 2657 | Find the Prefix Common Array of Two Arrays | Medium | [View](./2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
+| 2778 | Sum of Squares of Special Elements  | Easy | [View](./2778.%20Sum%20of%20Squares%20of%20Special%20Elements%20/) |
 | 2784 | Check if Array is Good | Easy | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
 | 2906 | Construct Product Matrix | Medium | [View](./2906.%20Construct%20Product%20Matrix/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
@@ -825,6 +827,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 1291 | Sequential Digits | Medium | [View](./1291.%20Sequential%20Digits/) |
+| 2778 | Sum of Squares of Special Elements  | Easy | [View](./2778.%20Sum%20of%20Squares%20of%20Special%20Elements%20/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
 | 3483 | Unique 3-Digit Even Numbers | Easy | [View](./3483.%20Unique%203-Digit%20Even%20Numbers/) |
