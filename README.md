@@ -32,14 +32,14 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 144 | [View](#array) |
+| Array | 145 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 17 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
 | Binary Search | 26 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
 | Binary Tree | 8 | [View](#binary-tree) |
-| Bit Manipulation | 19 | [View](#bit-manipulation) |
+| Bit Manipulation | 20 | [View](#bit-manipulation) |
 | Bracket Sequences | 12 | [View](#bracket-sequences) |
 | Combinatorics | 4 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
@@ -53,10 +53,10 @@ Both indexes start small and expand naturally.
 | GCD | 5 | [View](#gcd) |
 | Geometry | 8 | [View](#geometry) |
 | Graph | 17 | [View](#graph) |
-| Greedy | 50 | [View](#greedy) |
+| Greedy | 51 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
-| Hash Table | 40 | [View](#hash-table) |
+| Hash Table | 41 | [View](#hash-table) |
 | Heap (Priority Queue) | 6 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
@@ -262,6 +262,7 @@ Both indexes start small and expand naturally.
 | 2833 | Furthest Point From Origin | Easy | String / Math | [View](./2833.%20Furthest%20Point%20From%20Origin/) |
 | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | String / Simulation | [View](./2839.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) |
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | String / Hash Table / Counting | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
+| 2897 | Apply Operations on Array to Maximize Sum of Squares | Hard | Array / Hash Table / Greedy / Bit Manipulation | [View](./2897.%20Apply%20Operations%20on%20Array%20to%20Maximize%20Sum%20of%20Squares/) |
 | 2904 | Shortest and Lexicographically Smallest Beautiful String | Medium | String / Sliding Window | [View](./2904.%20Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String/) |
 | 2906 | Construct Product Matrix | Medium | Array / Matrix / Math / Prefix Sum | [View](./2906.%20Construct%20Product%20Matrix/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | Array / Sorting / Greedy | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
@@ -528,6 +529,7 @@ Both indexes start small and expand naturally.
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
 | 2778 | Sum of Squares of Special Elements  | Easy | [View](./2778.%20Sum%20of%20Squares%20of%20Special%20Elements%20/) |
 | 2784 | Check if Array is Good | Easy | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
+| 2897 | Apply Operations on Array to Maximize Sum of Squares | Hard | [View](./2897.%20Apply%20Operations%20on%20Array%20to%20Maximize%20Sum%20of%20Squares/) |
 | 2906 | Construct Product Matrix | Medium | [View](./2906.%20Construct%20Product%20Matrix/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
 | 2948 | Make Lexicographically Smallest Array by Swapping Elements | Medium | [View](./2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements/) |
@@ -700,6 +702,7 @@ Both indexes start small and expand naturally.
 | 1404 | Number of Steps to Reduce a Number in Binary Representation to One | Medium | [View](./1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/) |
 | 1461 | Check If a String Contains All Binary Codes of Size K | Medium | [View](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/) |
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
+| 2897 | Apply Operations on Array to Maximize Sum of Squares | Hard | [View](./2897.%20Apply%20Operations%20on%20Array%20to%20Maximize%20Sum%20of%20Squares/) |
 | 3116 | Kth Smallest Amount With Single Denomination Combination | Hard | [View](./3116.%20Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination/) |
 | 3314 | Construct the Minimum Bitwise Array I | Easy | [View](./3314.%20Construct%20the%20Minimum%20Bitwise%20Array%20I/) |
 | 3315 | Construct the Minimum Bitwise Array II | Medium | [View](./3315.%20Construct%20the%20Minimum%20Bitwise%20Array%20II/) |
@@ -923,6 +926,7 @@ Both indexes start small and expand naturally.
 | 2144 | Minimum Cost of Buying Candies With Discount | Easy | [View](./2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/) |
 | 2333 | Minimum Sum of Squared Difference | Medium | [View](./2333.%20Minimum%20Sum%20of%20Squared%20Difference/) |
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings | Hard | [View](./2472.%20Maximum%20Number%20of%20Non-overlapping%20Palindrome%20Substrings/) |
+| 2897 | Apply Operations on Array to Maximize Sum of Squares | Hard | [View](./2897.%20Apply%20Operations%20on%20Array%20to%20Maximize%20Sum%20of%20Squares/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
 | 3010 | Divide an Array Into Subarrays With Minimum Cost I | Easy | [View](./3010.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I/) |
 | 3014 | Minimum Number of Pushes to Type Word I | Easy | [View](./3014.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I/) |
@@ -977,6 +981,7 @@ Both indexes start small and expand naturally.
 | 2615 | Sum of Distances | Medium | [View](./2615.%20Sum%20of%20Distances/) |
 | 2784 | Check if Array is Good | Easy | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
+| 2897 | Apply Operations on Array to Maximize Sum of Squares | Hard | [View](./2897.%20Apply%20Operations%20on%20Array%20to%20Maximize%20Sum%20of%20Squares/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | [View](./2996.%20Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum/) |
 | 3016 | Minimum Number of Pushes to Type Word II | Medium | [View](./3016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II/) |
