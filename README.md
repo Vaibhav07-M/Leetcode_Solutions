@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 145 | [View](#array) |
+| Array | 146 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 17 | [View](#bfs) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
@@ -53,7 +53,7 @@ Both indexes start small and expand naturally.
 | GCD | 5 | [View](#gcd) |
 | Geometry | 8 | [View](#geometry) |
 | Graph | 17 | [View](#graph) |
-| Greedy | 51 | [View](#greedy) |
+| Greedy | 52 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
 | Hash Table | 41 | [View](#hash-table) |
@@ -76,7 +76,7 @@ Both indexes start small and expand naturally.
 | Shortest Path | 5 | [View](#shortest-path) |
 | Simulation | 29 | [View](#simulation) |
 | Sliding Window | 14 | [View](#sliding-window) |
-| Sorting | 38 | [View](#sorting) |
+| Sorting | 39 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 15 | [View](#stack) |
 | String | 79 | [View](#string) |
@@ -366,6 +366,7 @@ Both indexes start small and expand naturally.
 | 3719 | Longest Balanced Subarray I | Medium | Array / Hash Table / Sliding Window | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
 | 3720 | Lexicographically Smallest Permutation Greater Than Target | Medium | Hash Table / String / Greedy / Counting / Enumeration | [View](./3720.%20Lexicographically%20Smallest%20Permutation%20Greater%20Than%20Target/) |
 | 3721 | Longest Balanced Subarray II | Hard | Array / Hash Table / Sliding Window / Segment Tree / Prefix Sum | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
+| 3727 | Maximum Alternating Sum of Squares | Medium | Array / Greedy / Sorting | [View](./3727.%20Maximum%20Alternating%20Sum%20of%20Squares/) |
 | 3731 | Find Missing Elements | Easy | Array / Hash Set | [View](./3731.%20Find%20Missing%20Elements/) |
 | 3734 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | Two Pointers / String / Enumeration | [View](./3734.%20Lexicographically%20Smallest%20Palindromic%20Permutation%20Greater%20Than%20Target/) |
 | 3737 | Count Subarrays With Majority Element I | Medium | Array / Prefix Sum | [View](./3737.%20Count%20Subarrays%20With%20Majority%20Element%20I/) |
@@ -589,6 +590,7 @@ Both indexes start small and expand naturally.
 | 3718 | Smallest Missing Multiple of K | Easy | [View](./3718.%20Smallest%20Missing%20Multiple%20of%20K/) |
 | 3719 | Longest Balanced Subarray I | Medium | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
 | 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
+| 3727 | Maximum Alternating Sum of Squares | Medium | [View](./3727.%20Maximum%20Alternating%20Sum%20of%20Squares/) |
 | 3731 | Find Missing Elements | Easy | [View](./3731.%20Find%20Missing%20Elements/) |
 | 3737 | Count Subarrays With Majority Element I | Medium | [View](./3737.%20Count%20Subarrays%20With%20Majority%20Element%20I/) |
 | 3739 | Count Subarrays With Majority Element II | Hard | [View](./3739.%20Count%20Subarrays%20With%20Majority%20Element%20II/) |
@@ -948,6 +950,7 @@ Both indexes start small and expand naturally.
 | 3635 | Earliest Finish Time for Land and Water Rides II | Medium | [View](./3635.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20II/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 | 3720 | Lexicographically Smallest Permutation Greater Than Target | Medium | [View](./3720.%20Lexicographically%20Smallest%20Permutation%20Greater%20Than%20Target/) |
+| 3727 | Maximum Alternating Sum of Squares | Medium | [View](./3727.%20Maximum%20Alternating%20Sum%20of%20Squares/) |
 
 ### Hash Map
 | # | Title | Difficulty | Solution |
@@ -1353,6 +1356,7 @@ Both indexes start small and expand naturally.
 | 3634 | Minimum Removals to Balance Array | Medium | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
 | 3635 | Earliest Finish Time for Land and Water Rides II | Medium | [View](./3635.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20II/) |
 | 3661 | Maximum Walls Destroyed by Robots | Hard | [View](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/) |
+| 3727 | Maximum Alternating Sum of Squares | Medium | [View](./3727.%20Maximum%20Alternating%20Sum%20of%20Squares/) |
 | 3867 | Sum of GCD of Formed Pairs | Medium | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 
 ### Square Root Decomposition
