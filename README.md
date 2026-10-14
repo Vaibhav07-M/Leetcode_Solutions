@@ -53,7 +53,7 @@ Both indexes start small and expand naturally.
 | GCD | 5 | [View](#gcd) |
 | Geometry | 8 | [View](#geometry) |
 | Graph | 17 | [View](#graph) |
-| Greedy | 52 | [View](#greedy) |
+| Greedy | 53 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
 | Hash Table | 41 | [View](#hash-table) |
@@ -61,7 +61,7 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
-| Math | 72 | [View](#math) |
+| Math | 73 | [View](#math) |
 | Matrix | 40 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Minimax | 5 | [View](#minimax) |
@@ -366,6 +366,7 @@ Both indexes start small and expand naturally.
 | 3719 | Longest Balanced Subarray I | Medium | Array / Hash Table / Sliding Window | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
 | 3720 | Lexicographically Smallest Permutation Greater Than Target | Medium | Hash Table / String / Greedy / Counting / Enumeration | [View](./3720.%20Lexicographically%20Smallest%20Permutation%20Greater%20Than%20Target/) |
 | 3721 | Longest Balanced Subarray II | Hard | Array / Hash Table / Sliding Window / Segment Tree / Prefix Sum | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
+| 3723 | Maximize Sum of Squares of Digits | Medium | Math / Greedy | [View](./3723.%20Maximize%20Sum%20of%20Squares%20of%20Digits/) |
 | 3727 | Maximum Alternating Sum of Squares | Medium | Array / Greedy / Sorting | [View](./3727.%20Maximum%20Alternating%20Sum%20of%20Squares/) |
 | 3731 | Find Missing Elements | Easy | Array / Hash Set | [View](./3731.%20Find%20Missing%20Elements/) |
 | 3734 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | Two Pointers / String / Enumeration | [View](./3734.%20Lexicographically%20Smallest%20Palindromic%20Permutation%20Greater%20Than%20Target/) |
@@ -950,6 +951,7 @@ Both indexes start small and expand naturally.
 | 3635 | Earliest Finish Time for Land and Water Rides II | Medium | [View](./3635.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20II/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 | 3720 | Lexicographically Smallest Permutation Greater Than Target | Medium | [View](./3720.%20Lexicographically%20Smallest%20Permutation%20Greater%20Than%20Target/) |
+| 3723 | Maximize Sum of Squares of Digits | Medium | [View](./3723.%20Maximize%20Sum%20of%20Squares%20of%20Digits/) |
 | 3727 | Maximum Alternating Sum of Squares | Medium | [View](./3727.%20Maximum%20Alternating%20Sum%20of%20Squares/) |
 
 ### Hash Map
@@ -1104,6 +1106,7 @@ Both indexes start small and expand naturally.
 | 3655 | XOR After Range Multiplication Queries II | Hard | [View](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II/) |
 | 3658 | GCD of Odd and Even Sums | Easy | [View](./3658.%20GCD%20of%20Odd%20and%20Even%20Sums/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
+| 3723 | Maximize Sum of Squares of Digits | Medium | [View](./3723.%20Maximize%20Sum%20of%20Squares%20of%20Digits/) |
 | 3751 | Total Waviness of Numbers in Range I | Medium | [View](./3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I/) |
 | 3753 | Total Waviness of Numbers in Range II | Hard | [View](./3753.%20Total%20Waviness%20of%20Numbers%20in%20Range%20II/) |
 | 3754 | Concatenate Non-Zero Digits and Multiply by Sum I | Easy | [View](./3754.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I/) |
