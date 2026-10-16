@@ -32,10 +32,10 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 147 | [View](#array) |
+| Array | 148 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 17 | [View](#bfs) |
-| Binary Indexed Tree | 1 | [View](#binary-indexed-tree) |
+| Binary Indexed Tree | 2 | [View](#binary-indexed-tree) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
 | Binary Search | 26 | [View](#binary-search) |
 | Binary Search Tree | 1 | [View](#binary-search-tree) |
@@ -57,7 +57,7 @@ Both indexes start small and expand naturally.
 | Greedy | 53 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
-| Hash Table | 42 | [View](#hash-table) |
+| Hash Table | 43 | [View](#hash-table) |
 | Heap (Priority Queue) | 6 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
@@ -73,7 +73,7 @@ Both indexes start small and expand naturally.
 | Recursion | 3 | [View](#recursion) |
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Run-Length Encoding | 2 | [View](#run-length-encoding) |
-| Segment Tree | 6 | [View](#segment-tree) |
+| Segment Tree | 7 | [View](#segment-tree) |
 | Shortest Path | 5 | [View](#shortest-path) |
 | Simulation | 29 | [View](#simulation) |
 | Sliding Window | 14 | [View](#sliding-window) |
@@ -267,6 +267,7 @@ Both indexes start small and expand naturally.
 | 2904 | Shortest and Lexicographically Smallest Beautiful String | Medium | String / Sliding Window | [View](./2904.%20Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String/) |
 | 2906 | Construct Product Matrix | Medium | Array / Matrix / Math / Prefix Sum | [View](./2906.%20Construct%20Product%20Matrix/) |
 | 2913 | Subarrays Distinct Element Sum of Squares I | Easy | Array / Hash Table / Binary Indexed Tree / Segment Tree | [View](./2913.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20I/) |
+| 2916 | Subarrays Distinct Element Sum of Squares II | Hard | Array / Hash Table / Binary Indexed Tree / Segment Tree | [View](./2916.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20II/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | Array / Sorting / Greedy | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
 | 2946 | Matrix Similarity After Cyclic Shifts | Easy | Matrix / Simulation | [View](./2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts/) |
 | 2948 | Make Lexicographically Smallest Array by Swapping Elements | Medium | Array / Union-Find / Sorting | [View](./2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements/) |
@@ -458,6 +459,11 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 2913 | Subarrays Distinct Element Sum of Squares I | Easy | [View](./2913.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20I/) |
 
+### Binary Indexed Tree
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 2916 | Subarrays Distinct Element Sum of Squares II | Hard | [View](./2916.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20II/) |
+
 
 ## By Category
 
@@ -541,6 +547,7 @@ Both indexes start small and expand naturally.
 | 2897 | Apply Operations on Array to Maximize Sum of Squares | Hard | [View](./2897.%20Apply%20Operations%20on%20Array%20to%20Maximize%20Sum%20of%20Squares/) |
 | 2906 | Construct Product Matrix | Medium | [View](./2906.%20Construct%20Product%20Matrix/) |
 | 2913 | Subarrays Distinct Element Sum of Squares I | Easy | [View](./2913.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20I/) |
+| 2916 | Subarrays Distinct Element Sum of Squares II | Hard | [View](./2916.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20II/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
 | 2948 | Make Lexicographically Smallest Array by Swapping Elements | Medium | [View](./2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
@@ -996,6 +1003,7 @@ Both indexes start small and expand naturally.
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
 | 2897 | Apply Operations on Array to Maximize Sum of Squares | Hard | [View](./2897.%20Apply%20Operations%20on%20Array%20to%20Maximize%20Sum%20of%20Squares/) |
 | 2913 | Subarrays Distinct Element Sum of Squares I | Easy | [View](./2913.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20I/) |
+| 2916 | Subarrays Distinct Element Sum of Squares II | Hard | [View](./2916.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20II/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | [View](./2996.%20Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum/) |
 | 3016 | Minimum Number of Pushes to Type Word II | Medium | [View](./3016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II/) |
@@ -1255,6 +1263,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 2913 | Subarrays Distinct Element Sum of Squares I | Easy | [View](./2913.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20I/) |
+| 2916 | Subarrays Distinct Element Sum of Squares II | Hard | [View](./2916.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20II/) |
 | 3499 | Maximize Active Section with Trade I | Medium | [View](./3499.%20Maximize%20Active%20Section%20with%20Trade%20I/) |
 | 3501 | Maximize Active Section with Trade II | Hard | [View](./3501.%20Maximize%20Active%20Section%20with%20Trade%20II/) |
 
