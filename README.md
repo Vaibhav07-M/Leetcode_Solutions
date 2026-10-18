@@ -32,24 +32,25 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 149 | [View](#array) |
+| Array | 150 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 17 | [View](#bfs) |
 | Binary Indexed Tree | 2 | [View](#binary-indexed-tree) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
 | Binary Search | 26 | [View](#binary-search) |
-| Binary Search Tree | 1 | [View](#binary-search-tree) |
-| Binary Tree | 8 | [View](#binary-tree) |
+| Binary Search Tree | 2 | [View](#binary-search-tree) |
+| Binary Tree | 9 | [View](#binary-tree) |
 | Bit Manipulation | 20 | [View](#bit-manipulation) |
 | Bracket Sequences | 12 | [View](#bracket-sequences) |
-| Combinatorics | 4 | [View](#combinatorics) |
+| Combinatorics | 5 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 14 | [View](#counting) |
 | DFS | 12 | [View](#dfs) |
 | Design | 2 | [View](#design) |
-| Divide and Conquer | 3 | [View](#divide-and-conquer) |
-| Dynamic Programming | 51 | [View](#dynamic-programming) |
+| Divide and Conquer | 4 | [View](#divide-and-conquer) |
+| Dynamic Programming | 52 | [View](#dynamic-programming) |
 | Enumeration | 9 | [View](#enumeration) |
+| Fermat's Little Theorem | 1 | [View](#fermats-little-theorem) |
 | Game Theory | 9 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
 | Geometry | 8 | [View](#geometry) |
@@ -62,9 +63,10 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
-| Math | 73 | [View](#math) |
+| Math | 74 | [View](#math) |
 | Matrix | 40 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
+| Memoization | 1 | [View](#memoization) |
 | Minimax | 5 | [View](#minimax) |
 | Monotonic Stack | 3 | [View](#monotonic-stack) |
 | Number Theory | 6 | [View](#number-theory) |
@@ -84,10 +86,10 @@ Both indexes start small and expand naturally.
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
-| Tree | 10 | [View](#tree) |
+| Tree | 11 | [View](#tree) |
 | Two Pointers | 13 | [View](#two-pointers) |
 | Union Find | 4 | [View](#union-find) |
-| Union-Find | 1 | [View](#union-find) |
+| Union-Find | 2 | [View](#union-find) |
 | XOR | 5 | [View](#xor) |
 | Zero-Sum Game | 1 | [View](#zero-sum-game) |
 
@@ -186,6 +188,7 @@ Both indexes start small and expand naturally.
 | 1545 | Find Kth Bit in Nth Binary String | Medium | String / Recursion / Divide and Conquer | [View](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/) |
 | 1559 | Detect Cycles in 2D Grid | Medium | DFS / Matrix | [View](./1559.%20Detect%20Cycles%20in%202D%20Grid/) |
 | 1563 | Stone Game V | Hard | Array / Math / Dynamic Programming / Game Theory | [View](./1563.%20Stone%20Game%20V/) |
+| 1569 | Number of Ways to Reorder Array to Get Same BST | Hard | Array / Math / Divide and Conquer / Dynamic Programming / Tree / Union-Find / Binary Search Tree / Memoization / Combinatorics / Binary Tree / Fermat's Little Theorem | [View](./1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/) |
 | 1582 | Special Positions in a Binary Matrix | Easy | Array / Matrix | [View](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix/) |
 | 1594 | Maximum Non Negative Product in a Matrix | Medium | Array / Dynamic Programming / Matrix | [View](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/) |
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | String / Stack / Bracket Sequences | [View](./1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/) |
@@ -503,6 +506,7 @@ Both indexes start small and expand naturally.
 | 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | [View](./1477.%20Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum/) |
 | 1536 | Minimum Swaps to Arrange a Binary Grid | Medium | [View](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid/) |
 | 1563 | Stone Game V | Hard | [View](./1563.%20Stone%20Game%20V/) |
+| 1569 | Number of Ways to Reorder Array to Get Same BST | Hard | [View](./1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/) |
 | 1582 | Special Positions in a Binary Matrix | Easy | [View](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix/) |
 | 1594 | Maximum Non Negative Product in a Matrix | Medium | [View](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/) |
 | 1658 | Minimum Operations to Reduce X to Zero | Medium | [View](./1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/) |
@@ -693,6 +697,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 1382 | Balance a Binary Search Tree | Medium | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
+| 1569 | Number of Ways to Reorder Array to Get Same BST | Hard | [View](./1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/) |
 
 ### Binary Tree
 | # | Title | Difficulty | Solution |
@@ -703,6 +708,7 @@ Both indexes start small and expand naturally.
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1382 | Balance a Binary Search Tree | Medium | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
+| 1569 | Number of Ways to Reorder Array to Get Same BST | Hard | [View](./1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/) |
 | 2265 | Count Nodes Equal to Average of Subtree | Medium | [View](./2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/) |
 | 3739 | Count Subarrays With Majority Element II | Hard | [View](./3739.%20Count%20Subarrays%20With%20Majority%20Element%20II/) |
 
@@ -735,6 +741,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
+| 1569 | Number of Ways to Reorder Array to Get Same BST | Hard | [View](./1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/) |
 | 1621 | Number of Sets of K Non-Overlapping Line Segments | Medium | [View](./1621.%20Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments/) |
 | 3116 | Kth Smallest Amount With Single Denomination Combination | Hard | [View](./3116.%20Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination/) |
 | 3518 | Smallest Palindromic Rearrangement II | Hard | [View](./3518.%20Smallest%20Palindromic%20Rearrangement%20II/) |
@@ -791,6 +798,7 @@ Both indexes start small and expand naturally.
 | 190 | Reverse Bits | Easy | [View](./190.%20Reverse%20Bits/) |
 | 1382 | Balance a Binary Search Tree | Medium | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
 | 1545 | Find Kth Bit in Nth Binary String | Medium | [View](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/) |
+| 1569 | Number of Ways to Reorder Array to Get Same BST | Hard | [View](./1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/) |
 
 ### Dynamic Programming
 | # | Title | Difficulty | Solution |
@@ -817,6 +825,7 @@ Both indexes start small and expand naturally.
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
 | 1458 | Max Dot Product of Two Subsequences | Hard | [View](./1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences/) |
 | 1563 | Stone Game V | Hard | [View](./1563.%20Stone%20Game%20V/) |
+| 1569 | Number of Ways to Reorder Array to Get Same BST | Hard | [View](./1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/) |
 | 1594 | Maximum Non Negative Product in a Matrix | Medium | [View](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/) |
 | 1621 | Number of Sets of K Non-Overlapping Line Segments | Medium | [View](./1621.%20Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
@@ -858,6 +867,11 @@ Both indexes start small and expand naturally.
 | 3720 | Lexicographically Smallest Permutation Greater Than Target | Medium | [View](./3720.%20Lexicographically%20Smallest%20Permutation%20Greater%20Than%20Target/) |
 | 3734 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | [View](./3734.%20Lexicographically%20Smallest%20Palindromic%20Permutation%20Greater%20Than%20Target/) |
 | 3751 | Total Waviness of Numbers in Range I | Medium | [View](./3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I/) |
+### Fermat's Little Theorem
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 1569 | Number of Ways to Reorder Array to Get Same BST | Hard | [View](./1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/) |
+
 
 ### Game Theory
 | # | Title | Difficulty | Solution |
@@ -1087,6 +1101,7 @@ Both indexes start small and expand naturally.
 | 1464 | Maximum Product of Two Elements in an Array | Easy | [View](./1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/) |
 | 1510 | Stone Game IV | Medium | [View](./1510.%20Stone%20Game%20IV/) |
 | 1563 | Stone Game V | Hard | [View](./1563.%20Stone%20Game%20V/) |
+| 1569 | Number of Ways to Reorder Array to Get Same BST | Hard | [View](./1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/) |
 | 1621 | Number of Sets of K Non-Overlapping Line Segments | Medium | [View](./1621.%20Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments/) |
 | 1622 | Fancy Sequence | Hard | [View](./1622.%20Fancy%20Sequence/) |
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
@@ -1186,6 +1201,11 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 3700 | Number of ZigZag Arrays II | Hard | [View](./3700.%20Number%20of%20ZigZag%20Arrays%20II/) |
+### Memoization
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 1569 | Number of Ways to Reorder Array to Get Same BST | Hard | [View](./1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/) |
+
 
 ### Minimax
 | # | Title | Difficulty | Solution |
@@ -1511,6 +1531,7 @@ Both indexes start small and expand naturally.
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1382 | Balance a Binary Search Tree | Medium | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
+| 1569 | Number of Ways to Reorder Array to Get Same BST | Hard | [View](./1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/) |
 | 2196 | Create Binary Tree From Descriptions | Medium | [View](./2196.%20Create%20Binary%20Tree%20From%20Descriptions/) |
 | 2265 | Count Nodes Equal to Average of Subtree | Medium | [View](./2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/) |
 | 3558 | Number of Ways to Assign Edge Weights I | Medium | [View](./3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) |
@@ -1550,6 +1571,7 @@ Both indexes start small and expand naturally.
 ### Union-Find
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 1569 | Number of Ways to Reorder Array to Get Same BST | Hard | [View](./1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/) |
 | 2948 | Make Lexicographically Smallest Array by Swapping Elements | Medium | [View](./2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements/) |
 
 
