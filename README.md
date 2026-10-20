@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 151 | [View](#array) |
+| Array | 152 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 17 | [View](#bfs) |
 | Binary Indexed Tree | 2 | [View](#binary-indexed-tree) |
@@ -49,7 +49,7 @@ Both indexes start small and expand naturally.
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 4 | [View](#divide-and-conquer) |
 | Dynamic Programming | 52 | [View](#dynamic-programming) |
-| Enumeration | 9 | [View](#enumeration) |
+| Enumeration | 10 | [View](#enumeration) |
 | Fermat's Little Theorem | 1 | [View](#fermats-little-theorem) |
 | Game Theory | 9 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
@@ -63,7 +63,7 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
-| Math | 74 | [View](#math) |
+| Math | 75 | [View](#math) |
 | Matrix | 40 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Memoization | 1 | [View](#memoization) |
@@ -79,7 +79,7 @@ Both indexes start small and expand naturally.
 | Shortest Path | 5 | [View](#shortest-path) |
 | Simulation | 29 | [View](#simulation) |
 | Sliding Window | 14 | [View](#sliding-window) |
-| Sorting | 41 | [View](#sorting) |
+| Sorting | 42 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 15 | [View](#stack) |
 | String | 79 | [View](#string) |
@@ -395,6 +395,7 @@ Both indexes start small and expand naturally.
 | 3871 | Count Commas in Range II | Medium | Math | [View](./3871.%20Count%20Commas%20in%20Range%20II/) |
 | 3875 | Construct Uniform Parity Array I | Easy | Array / Math | [View](./3875.%20Construct%20Uniform%20Parity%20Array%20I/) |
 | 3876 | Construct Uniform Parity Array II | Medium | Array / Math | [View](./3876.%20Construct%20Uniform%20Parity%20Array%20II/) |
+| 3886 | Sum of Sortable Integers | Hard | Array / Math / Sorting / Enumeration | [View](./3886.%20Sum%20of%20Sortable%20Integers/) |
 | 3903 | Smallest Stable Index I | Easy | Array / Prefix Sum | [View](./3903.%20Smallest%20Stable%20Index%20I/) |
 | 3904 | Smallest Stable Index II | Medium | Array / Prefix Sum | [View](./3904.%20Smallest%20Stable%20Index%20II/) |
 
@@ -626,6 +627,7 @@ Both indexes start small and expand naturally.
 | 3867 | Sum of GCD of Formed Pairs | Medium | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 | 3875 | Construct Uniform Parity Array I | Easy | [View](./3875.%20Construct%20Uniform%20Parity%20Array%20I/) |
 | 3876 | Construct Uniform Parity Array II | Medium | [View](./3876.%20Construct%20Uniform%20Parity%20Array%20II/) |
+| 3886 | Sum of Sortable Integers | Hard | [View](./3886.%20Sum%20of%20Sortable%20Integers/) |
 | 3903 | Smallest Stable Index I | Easy | [View](./3903.%20Smallest%20Stable%20Index%20I/) |
 | 3904 | Smallest Stable Index II | Medium | [View](./3904.%20Smallest%20Stable%20Index%20II/) |
 
@@ -870,6 +872,7 @@ Both indexes start small and expand naturally.
 | 3720 | Lexicographically Smallest Permutation Greater Than Target | Medium | [View](./3720.%20Lexicographically%20Smallest%20Permutation%20Greater%20Than%20Target/) |
 | 3734 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | [View](./3734.%20Lexicographically%20Smallest%20Palindromic%20Permutation%20Greater%20Than%20Target/) |
 | 3751 | Total Waviness of Numbers in Range I | Medium | [View](./3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I/) |
+| 3886 | Sum of Sortable Integers | Hard | [View](./3886.%20Sum%20of%20Sortable%20Integers/) |
 ### Fermat's Little Theorem
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
@@ -1156,6 +1159,7 @@ Both indexes start small and expand naturally.
 | 3871 | Count Commas in Range II | Medium | [View](./3871.%20Count%20Commas%20in%20Range%20II/) |
 | 3875 | Construct Uniform Parity Array I | Easy | [View](./3875.%20Construct%20Uniform%20Parity%20Array%20I/) |
 | 3876 | Construct Uniform Parity Array II | Medium | [View](./3876.%20Construct%20Uniform%20Parity%20Array%20II/) |
+| 3886 | Sum of Sortable Integers | Hard | [View](./3886.%20Sum%20of%20Sortable%20Integers/) |
 
 ### Matrix
 | # | Title | Difficulty | Solution |
@@ -1408,6 +1412,7 @@ Both indexes start small and expand naturally.
 | 3661 | Maximum Walls Destroyed by Robots | Hard | [View](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/) |
 | 3727 | Maximum Alternating Sum of Squares | Medium | [View](./3727.%20Maximum%20Alternating%20Sum%20of%20Squares/) |
 | 3867 | Sum of GCD of Formed Pairs | Medium | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
+| 3886 | Sum of Sortable Integers | Hard | [View](./3886.%20Sum%20of%20Sortable%20Integers/) |
 
 ### Square Root Decomposition
 | # | Title | Difficulty | Solution |
