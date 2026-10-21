@@ -82,7 +82,7 @@ Both indexes start small and expand naturally.
 | Sorting | 42 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 15 | [View](#stack) |
-| String | 79 | [View](#string) |
+| String | 80 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -390,6 +390,7 @@ Both indexes start small and expand naturally.
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | Array / Hash Table / Math | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
 | 3783 | Mirror Distance of an Integer | Easy | Math | [View](./3783.%20Mirror%20Distance%20of%20an%20Integer/) |
 | 3838 | Weighted Word Mapping | Easy | Array / String / Math | [View](./3838.%20Weighted%20Word%20Mapping/) |
+| 3863 | Minimum Operations to Sort a String | Medium | String | [View](./3863.%20Minimum%20Operations%20to%20Sort%20a%20String/) |
 | 3867 | Sum of GCD of Formed Pairs | Medium | Array / Math / Number Theory / GCD / Sorting / Two Pointers | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 | 3870 | Count Commas in Range | Easy | Math | [View](./3870.%20Count%20Commas%20in%20Range/) |
 | 3871 | Count Commas in Range II | Medium | Math | [View](./3871.%20Count%20Commas%20in%20Range%20II/) |
@@ -1520,6 +1521,7 @@ Both indexes start small and expand naturally.
 | 3754 | Concatenate Non-Zero Digits and Multiply by Sum I | Easy | [View](./3754.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I/) |
 | 3756 | Concatenate Non-Zero Digits and Multiply by Sum II | Medium | String / Prefix Sum / Binary Search | [View](./3756.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20II/) |
 | 3838 | Weighted Word Mapping | Easy | [View](./3838.%20Weighted%20Word%20Mapping/) |
+| 3863 | Minimum Operations to Sort a String | Medium | [View](./3863.%20Minimum%20Operations%20to%20Sort%20a%20String/) |
 
 ### Suffix
 | # | Title | Difficulty | Solution |
