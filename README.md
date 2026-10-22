@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 152 | [View](#array) |
+| Array | 153 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 17 | [View](#bfs) |
 | Binary Indexed Tree | 2 | [View](#binary-indexed-tree) |
@@ -399,6 +399,7 @@ Both indexes start small and expand naturally.
 | 3886 | Sum of Sortable Integers | Hard | Array / Math / Sorting / Enumeration | [View](./3886.%20Sum%20of%20Sortable%20Integers/) |
 | 3903 | Smallest Stable Index I | Easy | Array / Prefix Sum | [View](./3903.%20Smallest%20Stable%20Index%20I/) |
 | 3904 | Smallest Stable Index II | Medium | Array / Prefix Sum | [View](./3904.%20Smallest%20Stable%20Index%20II/) |
+| 3942 | Minimum Operations to Sort a Permutation | Medium | Array | [View](./3942.%20Minimum%20Operations%20to%20Sort%20a%20Permutation/) |
 
 ---
 ### Bracket Sequences
@@ -631,6 +632,7 @@ Both indexes start small and expand naturally.
 | 3886 | Sum of Sortable Integers | Hard | [View](./3886.%20Sum%20of%20Sortable%20Integers/) |
 | 3903 | Smallest Stable Index I | Easy | [View](./3903.%20Smallest%20Stable%20Index%20I/) |
 | 3904 | Smallest Stable Index II | Medium | [View](./3904.%20Smallest%20Stable%20Index%20II/) |
+| 3942 | Minimum Operations to Sort a Permutation | Medium | [View](./3942.%20Minimum%20Operations%20to%20Sort%20a%20Permutation/) |
 
 ### Backtracking
 | # | Title | Difficulty | Solution |
