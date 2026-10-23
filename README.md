@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 153 | [View](#array) |
+| Array | 154 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 17 | [View](#bfs) |
 | Binary Indexed Tree | 2 | [View](#binary-indexed-tree) |
@@ -40,7 +40,7 @@ Both indexes start small and expand naturally.
 | Binary Search | 27 | [View](#binary-search) |
 | Binary Search Tree | 2 | [View](#binary-search-tree) |
 | Binary Tree | 9 | [View](#binary-tree) |
-| Bit Manipulation | 20 | [View](#bit-manipulation) |
+| Bit Manipulation | 21 | [View](#bit-manipulation) |
 | Bracket Sequences | 12 | [View](#bracket-sequences) |
 | Combinatorics | 5 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
@@ -354,6 +354,7 @@ Both indexes start small and expand naturally.
 | 3637 | Trionic Array I | Easy | Array | [View](./3637.%20Trionic%20Array%20I/) |
 | 3640 | Trionic Array II | Hard | Array / Dynamic Programming | [View](./3640.%20Trionic%20Array%20II/) |
 | 3643 | Flip Square Submatrix Vertically | Easy | Array / Matrix / Simulation | [View](./3643.%20Flip%20Square%20Submatrix%20Vertically/) |
+| 3644 | Maximum K to Sort a Permutation | Medium | Array / Bit Manipulation | [View](./3644.%20Maximum%20K%20to%20Sort%20a%20Permutation/) |
 | 3650 | Minimum Cost Path with Edge Reversals | Medium | Graph / Shortest Path / Heap (Priority Queue) / Dynamic Programming | [View](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | Array / Matrix / Graph / Shortest Path / Heap (Priority Queue) / Dynamic Programming | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
 | 3653 | XOR After Range Multiplication Queries I | Medium | Array / Math / Simulation | [View](./3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I/) |
@@ -604,6 +605,7 @@ Both indexes start small and expand naturally.
 | 3637 | Trionic Array I | Easy | [View](./3637.%20Trionic%20Array%20I/) |
 | 3640 | Trionic Array II | Hard | [View](./3640.%20Trionic%20Array%20II/) |
 | 3643 | Flip Square Submatrix Vertically | Easy | [View](./3643.%20Flip%20Square%20Submatrix%20Vertically/) |
+| 3644 | Maximum K to Sort a Permutation | Medium | [View](./3644.%20Maximum%20K%20to%20Sort%20a%20Permutation/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
 | 3653 | XOR After Range Multiplication Queries I | Medium | [View](./3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I/) |
 | 3655 | XOR After Range Multiplication Queries II | Hard | [View](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II/) |
@@ -743,6 +745,7 @@ Both indexes start small and expand naturally.
 | 3513 | Number of Unique XOR Triplets I | Medium | [View](./3513.%20Number%20of%20Unique%20XOR%20Triplets%20I/) |
 | 3514 | Number of Unique XOR Triplets II | Medium | [View](./3514.%20Number%20of%20Unique%20XOR%20Triplets%20II/) |
 | 3568 | Minimum Moves to Clean the Classroom | Medium | [View](./3568.%20Minimum%20Moves%20to%20Clean%20the%20Classroom/) |
+| 3644 | Maximum K to Sort a Permutation | Medium | [View](./3644.%20Maximum%20K%20to%20Sort%20a%20Permutation/) |
 | 3702 | Longest Subsequence With Non-Zero Bitwise XOR | Medium | [View](./3702.%20Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR/) |
 
 ### Combinatorics
