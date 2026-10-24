@@ -63,7 +63,7 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
-| Math | 75 | [View](#math) |
+| Math | 76 | [View](#math) |
 | Matrix | 40 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Memoization | 1 | [View](#memoization) |
@@ -82,7 +82,7 @@ Both indexes start small and expand naturally.
 | Sorting | 42 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 15 | [View](#stack) |
-| String | 80 | [View](#string) |
+| String | 81 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -247,6 +247,7 @@ Both indexes start small and expand naturally.
 | 2267 |  Check if There Is a Valid Parentheses String Path | Hard | Array / Dynamic Programming / Matrix / Bracket Sequences | [View](./2267.%20%20Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path/) |
 | 2333 | Minimum Sum of Squared Difference | Medium | Array / Binary Search / Greedy / Sorting / Heap (Priority Queue) | [View](./2333.%20Minimum%20Sum%20of%20Squared%20Difference/) |
 | 2402 | Meeting Rooms III | Hard | Heap / Sorting / Simulation | [View](./2402.%20Meeting%20Rooms%20III/) |
+| 2409 | Count Days Spent Together | Easy | Math / String | [View](./2409.%20Count%20Days%20Spent%20Together/) |
 | 2463 | Minimum Total Distance Traveled | Hard | Array / Dynamic Programming / Sorting | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings | Hard | Two Pointers / String / Dynamic Programming / Greedy | [View](./2472.%20Maximum%20Number%20of%20Non-overlapping%20Palindrome%20Substrings/) |
 | 2483 | Minimum Penalty for a Shop | Medium | String / Prefix Sum | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
@@ -1125,6 +1126,7 @@ Both indexes start small and expand naturally.
 | 2029 | Stone Game IX | Medium | [View](./2029.%20Stone%20Game%20IX/) |
 | 2033 | Minimum Operations to Make a Uni-Value Grid | Medium | [View](./2033.%20Minimum%20Operations%20to%20Make%20a%20Uni-Value%20Grid/) |
 | 2069 | Walking Robot Simulation II | Medium | [View](./2069.%20Walking%20Robot%20Simulation%20II/) |
+| 2409 | Count Days Spent Together | Easy | [View](./2409.%20Count%20Days%20Spent%20Together/) |
 | 2553 | Separate the Digits in an Array | Easy | [View](./2553.%20Separate%20the%20Digits%20in%20an%20Array/) |
 | 2833 | Furthest Point From Origin | Easy | [View](./2833.%20Furthest%20Point%20From%20Origin/) |
 | 2906 | Construct Product Matrix | Medium | [View](./2906.%20Construct%20Product%20Matrix/) |
@@ -1491,6 +1493,7 @@ Both indexes start small and expand naturally.
 | 1967 | Number of Strings That Appear as Substrings in Word | Easy | [View](./1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) |
 | 1980 | Find Unique Binary String | Medium | [View](./1980.%20Find%20Unique%20Binary%20String/) |
 | 2075 | Decode the Slanted Ciphertext | Medium | [View](./2075.%20Decode%20the%20Slanted%20Ciphertext/) |
+| 2409 | Count Days Spent Together | Easy | [View](./2409.%20Count%20Days%20Spent%20Together/) |
 | 2452 | Words Within Two Edits of Dictionary | Medium | [View](./2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary/) |
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings | Hard | [View](./2472.%20Maximum%20Number%20of%20Non-overlapping%20Palindrome%20Substrings/) |
 | 2483 | Minimum Penalty for a Shop | Medium | [View](./2483.%20Minimum%20Penalty%20for%20a%20Shop/) |
