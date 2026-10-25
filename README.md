@@ -32,9 +32,9 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 154 | [View](#array) |
+| Array | 155 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
-| BFS | 17 | [View](#bfs) |
+| BFS | 18 | [View](#bfs) |
 | Binary Indexed Tree | 2 | [View](#binary-indexed-tree) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
 | Binary Search | 27 | [View](#binary-search) |
@@ -45,7 +45,7 @@ Both indexes start small and expand naturally.
 | Combinatorics | 5 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 14 | [View](#counting) |
-| DFS | 12 | [View](#dfs) |
+| DFS | 13 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 4 | [View](#divide-and-conquer) |
 | Dynamic Programming | 52 | [View](#dynamic-programming) |
@@ -64,7 +64,7 @@ Both indexes start small and expand naturally.
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
 | Math | 76 | [View](#math) |
-| Matrix | 40 | [View](#matrix) |
+| Matrix | 41 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Memoization | 1 | [View](#memoization) |
 | Minimax | 5 | [View](#minimax) |
@@ -89,7 +89,7 @@ Both indexes start small and expand naturally.
 | Tree | 11 | [View](#tree) |
 | Two Pointers | 13 | [View](#two-pointers) |
 | Union Find | 4 | [View](#union-find) |
-| Union-Find | 2 | [View](#union-find) |
+| Union-Find | 3 | [View](#union-find) |
 | XOR | 5 | [View](#xor) |
 | Zero-Sum Game | 1 | [View](#zero-sum-game) |
 
@@ -152,6 +152,7 @@ Both indexes start small and expand naturally.
 | 1189 | Maximum Number of Balloons | Easy | String / Hash Table / Counting | [View](./1189.%20Maximum%20Number%20of%20Balloons/) |
 | 1190 | Reverse Substrings Between Each Pair of Parentheses | Medium | String / Stack / Bracket Sequences | [View](./1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/) |
 | 1200 | Minimum Absolute Difference | Easy | Array / Sorting | [View](./1200.%20Minimum%20Absolute%20Difference/) |
+| 1254 | Number of Closed Islands | Medium | Array / DFS / BFS / Union-Find / Matrix | [View](./1254.%20Number%20of%20Closed%20Islands/) |
 | 1260 | Shift 2D Grid | Easy | Array / Matrix / Simulation | [View](./1260.%20Shift%202D%20Grid/) |
 | 1266 | Minimum Time Visiting All Points | Easy | Array / Math / Geometry | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
 | 1288 | Remove Covered Intervals | Medium | Array / Greedy / Sorting | [View](./1288.%20Remove%20Covered%20Intervals/) |
@@ -495,6 +496,7 @@ Both indexes start small and expand naturally.
 | 961 | N-Repeated Element in Size 2N Array | Easy | [View](./961.%20N-Repeated%20Element%20in%20Size%202N%20Array/) |
 | 1140 | Stone Game II | Medium | [View](./1140.%20Stone%20Game%20II/) |
 | 1200 | Minimum Absolute Difference | Easy | [View](./1200.%20Minimum%20Absolute%20Difference/) |
+| 1254 | Number of Closed Islands | Medium | [View](./1254.%20Number%20of%20Closed%20Islands/) |
 | 1260 | Shift 2D Grid | Easy | [View](./1260.%20Shift%202D%20Grid/) |
 | 1266 | Minimum Time Visiting All Points | Easy | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
 | 1288 | Remove Covered Intervals | Medium | [View](./1288.%20Remove%20Covered%20Intervals/) |
@@ -654,6 +656,7 @@ Both indexes start small and expand naturally.
 | 301 | Remove Invalid Parentheses | Hard | [View](./301.%20Remove%20Invalid%20Parentheses/) |
 | 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium | [View](./1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree/) |
+| 1254 | Number of Closed Islands | Medium | [View](./1254.%20Number%20of%20Closed%20Islands/) |
 | 1301 | Number of Paths with Max Score | Hard | [View](./1301.%20Number%20of%20Paths%20with%20Max%20Score/) |
 | 1306 | Jump Game III | Medium | [View](./1306.%20Jump%20Game%20III/) |
 | 1345 | Jump Game IV | Hard | [View](./1345.%20Jump%20Game%20IV/) |
@@ -788,6 +791,7 @@ Both indexes start small and expand naturally.
 | 110 | Balanced Binary Tree | Easy | [View](./110.%20Balanced%20Binary%20Tree/) |
 | 865 | Smallest Subtree with all the Deepest Nodes | Medium | [View](./865.%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/) |
 | 1022 | Sum of Root To Leaf Binary Numbers | Easy | [View](./1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers/) |
+| 1254 | Number of Closed Islands | Medium | [View](./1254.%20Number%20of%20Closed%20Islands/) |
 | 1306 | Jump Game III | Medium | [View](./1306.%20Jump%20Game%20III/) |
 | 1339 | Maximum Product of Splitted Binary Tree | Medium | [View](./1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree/) |
 | 1340 | Jump Game V | Hard | [View](./1340.%20Jump%20Game%20V/) |
@@ -1176,6 +1180,7 @@ Both indexes start small and expand naturally.
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 835 | Image Overlap | Medium | [View](./835.%20Image%20Overlap/) |
 | 840 | Magic Squares In Grid | Medium | [View](./840.%20Magic%20Squares%20In%20Grid/) |
+| 1254 | Number of Closed Islands | Medium | [View](./1254.%20Number%20of%20Closed%20Islands/) |
 | 1260 | Shift 2D Grid | Easy | [View](./1260.%20Shift%202D%20Grid/) |
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
 | 1301 | Number of Paths with Max Score | Hard | [View](./1301.%20Number%20of%20Paths%20with%20Max%20Score/) |
@@ -1590,6 +1595,7 @@ Both indexes start small and expand naturally.
 ### Union-Find
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 1254 | Number of Closed Islands | Medium | [View](./1254.%20Number%20of%20Closed%20Islands/) |
 | 1569 | Number of Ways to Reorder Array to Get Same BST | Hard | [View](./1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/) |
 | 2948 | Make Lexicographically Smallest Array by Swapping Elements | Medium | [View](./2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements/) |
 
