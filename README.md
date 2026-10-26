@@ -32,9 +32,9 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 155 | [View](#array) |
+| Array | 156 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
-| BFS | 18 | [View](#bfs) |
+| BFS | 19 | [View](#bfs) |
 | Binary Indexed Tree | 2 | [View](#binary-indexed-tree) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
 | Binary Search | 27 | [View](#binary-search) |
@@ -45,7 +45,7 @@ Both indexes start small and expand naturally.
 | Combinatorics | 5 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 14 | [View](#counting) |
-| DFS | 13 | [View](#dfs) |
+| DFS | 14 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 4 | [View](#divide-and-conquer) |
 | Dynamic Programming | 52 | [View](#dynamic-programming) |
@@ -64,7 +64,7 @@ Both indexes start small and expand naturally.
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
 | Math | 76 | [View](#math) |
-| Matrix | 41 | [View](#matrix) |
+| Matrix | 42 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Memoization | 1 | [View](#memoization) |
 | Minimax | 5 | [View](#minimax) |
@@ -89,7 +89,7 @@ Both indexes start small and expand naturally.
 | Tree | 11 | [View](#tree) |
 | Two Pointers | 13 | [View](#two-pointers) |
 | Union Find | 4 | [View](#union-find) |
-| Union-Find | 3 | [View](#union-find) |
+| Union-Find | 4 | [View](#union-find) |
 | XOR | 5 | [View](#xor) |
 | Zero-Sum Game | 1 | [View](#zero-sum-game) |
 
@@ -348,6 +348,7 @@ Both indexes start small and expand naturally.
 | 3600 | Maximize Spanning Tree Stability with Upgrades | Hard | Graph / Union Find / Binary Search / Greedy | [View](./3600.%20Maximize%20Spanning%20Tree%20Stability%20with%20Upgrades/) |
 | 3612 | Process String with Special Operations I | Medium | String / Stack / Simulation | [View](./3612.%20Process%20String%20with%20Special%20Operations%20I/) |
 | 3614 | Process String with Special Operations II | Hard | String / Stack / Simulation | [View](./3614.%20Process%20String%20with%20Special%20Operations%20II/) |
+| 3619 | Count Islands With Total Value Divisible by K | Medium | Array / DFS / BFS / Union-Find / Matrix | [View](./3619.%20Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K/) |
 | 3620 | Network Recovery Pathways | Hard | Graph / Dynamic Programming / Binary Search / Topological Sort | [View](./3620.%20Network%20Recovery%20Pathways/) |
 | 3622 | Check Divisibility by Digit Sum and Product | Easy | Math | [View](./3622.%20Check%20Divisibility%20by%20Digit%20Sum%20and%20Product/) |
 | 3633 | Earliest Finish Time for Land and Water Rides I | Easy | Greedy / Simulation | [View](./3633.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20I/) |
@@ -603,6 +604,7 @@ Both indexes start small and expand naturally.
 | 3551 | Minimum Swaps to Sort by Digit Sum | Medium | [View](./3551.%20Minimum%20Swaps%20to%20Sort%20by%20Digit%20Sum/) |
 | 3567 | Minimum Absolute Difference in Sliding Submatrix | Medium | [View](./3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix/) |
 | 3568 | Minimum Moves to Clean the Classroom | Medium | [View](./3568.%20Minimum%20Moves%20to%20Clean%20the%20Classroom/) |
+| 3619 | Count Islands With Total Value Divisible by K | Medium | [View](./3619.%20Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K/) |
 | 3629 | Minimum Jumps to Reach End via Prime Teleportation | Medium | [View](./3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation/) |
 | 3634 | Minimum Removals to Balance Array | Medium | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
 | 3637 | Trionic Array I | Easy | [View](./3637.%20Trionic%20Array%20I/) |
@@ -669,6 +671,7 @@ Both indexes start small and expand naturally.
 | 3310 | Remove Methods From Project | Medium | [View](./3310.%20Remove%20Methods%20From%20Project/) |
 | 3558 | Number of Ways to Assign Edge Weights I | Medium | [View](./3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) |
 | 3568 | Minimum Moves to Clean the Classroom | Medium | [View](./3568.%20Minimum%20Moves%20to%20Clean%20the%20Classroom/) |
+| 3619 | Count Islands With Total Value Divisible by K | Medium | [View](./3619.%20Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K/) |
 | 3629 | Minimum Jumps to Reach End via Prime Teleportation | Medium | [View](./3629.%20Minimum%20Jumps%20to%20Reach%20End%20via%20Prime%20Teleportation/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 
@@ -801,6 +804,7 @@ Both indexes start small and expand naturally.
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
 | 2265 | Count Nodes Equal to Average of Subtree | Medium | [View](./2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/) |
 | 3310 | Remove Methods From Project | Medium | [View](./3310.%20Remove%20Methods%20From%20Project/) |
+| 3619 | Count Islands With Total Value Divisible by K | Medium | [View](./3619.%20Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K/) |
 
 ### Design
 | # | Title | Difficulty | Solution |
@@ -1213,6 +1217,7 @@ Both indexes start small and expand naturally.
 | 3546 | Equal Sum Grid Partition I | Medium | [View](./3546.%20Equal%20Sum%20Grid%20Partition%20I/) |
 | 3548 | Equal Sum Grid Partition II | Hard | [View](./3548.%20Equal%20Sum%20Grid%20Partition%20II/) || 3567 | Minimum Absolute Difference in Sliding Submatrix | Medium | [View](./3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix/) |
 | 3568 | Minimum Moves to Clean the Classroom | Medium | [View](./3568.%20Minimum%20Moves%20to%20Clean%20the%20Classroom/) |
+| 3619 | Count Islands With Total Value Divisible by K | Medium | [View](./3619.%20Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K/) |
 | 3643 | Flip Square Submatrix Vertically | Easy | [View](./3643.%20Flip%20Square%20Submatrix%20Vertically/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
 | 3742 | Maximum Path Score in a Grid | Medium | [View](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid/) |
@@ -1598,6 +1603,7 @@ Both indexes start small and expand naturally.
 | 1254 | Number of Closed Islands | Medium | [View](./1254.%20Number%20of%20Closed%20Islands/) |
 | 1569 | Number of Ways to Reorder Array to Get Same BST | Hard | [View](./1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/) |
 | 2948 | Make Lexicographically Smallest Array by Swapping Elements | Medium | [View](./2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements/) |
+| 3619 | Count Islands With Total Value Divisible by K | Medium | [View](./3619.%20Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K/) |
 
 
 ### XOR
