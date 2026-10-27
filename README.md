@@ -404,6 +404,7 @@ Both indexes start small and expand naturally.
 | 3903 | Smallest Stable Index I | Easy | Array / Prefix Sum | [View](./3903.%20Smallest%20Stable%20Index%20I/) |
 | 3904 | Smallest Stable Index II | Medium | Array / Prefix Sum | [View](./3904.%20Smallest%20Stable%20Index%20II/) |
 | 3942 | Minimum Operations to Sort a Permutation | Medium | Array | [View](./3942.%20Minimum%20Operations%20to%20Sort%20a%20Permutation/) |
+| 3963 | Create Grid With Exactly One Path | Easy |  | [View](./3963.%20Create%20Grid%20With%20Exactly%20One%20Path/) |
 
 ---
 ### Bracket Sequences
