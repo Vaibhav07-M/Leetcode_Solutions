@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 156 | [View](#array) |
+| Array | 157 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 19 | [View](#bfs) |
 | Binary Indexed Tree | 2 | [View](#binary-indexed-tree) |
@@ -40,7 +40,7 @@ Both indexes start small and expand naturally.
 | Binary Search | 27 | [View](#binary-search) |
 | Binary Search Tree | 2 | [View](#binary-search-tree) |
 | Binary Tree | 9 | [View](#binary-tree) |
-| Bit Manipulation | 21 | [View](#bit-manipulation) |
+| Bit Manipulation | 22 | [View](#bit-manipulation) |
 | Bracket Sequences | 12 | [View](#bracket-sequences) |
 | Combinatorics | 5 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
@@ -48,7 +48,7 @@ Both indexes start small and expand naturally.
 | DFS | 14 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 4 | [View](#divide-and-conquer) |
-| Dynamic Programming | 52 | [View](#dynamic-programming) |
+| Dynamic Programming | 53 | [View](#dynamic-programming) |
 | Enumeration | 10 | [View](#enumeration) |
 | Fermat's Little Theorem | 1 | [View](#fermats-little-theorem) |
 | Game Theory | 9 | [View](#game-theory) |
@@ -64,7 +64,7 @@ Both indexes start small and expand naturally.
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
 | Math | 76 | [View](#math) |
-| Matrix | 42 | [View](#matrix) |
+| Matrix | 43 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Memoization | 1 | [View](#memoization) |
 | Minimax | 5 | [View](#minimax) |
@@ -400,6 +400,7 @@ Both indexes start small and expand naturally.
 | 3871 | Count Commas in Range II | Medium | Math | [View](./3871.%20Count%20Commas%20in%20Range%20II/) |
 | 3875 | Construct Uniform Parity Array I | Easy | Array / Math | [View](./3875.%20Construct%20Uniform%20Parity%20Array%20I/) |
 | 3876 | Construct Uniform Parity Array II | Medium | Array / Math | [View](./3876.%20Construct%20Uniform%20Parity%20Array%20II/) |
+| 3882 | Minimum XOR Path in a Grid | Medium | Array / Dynamic Programming / Bit Manipulation / Matrix | [View](./3882.%20Minimum%20XOR%20Path%20in%20a%20Grid/) |
 | 3886 | Sum of Sortable Integers | Hard | Array / Math / Sorting / Enumeration | [View](./3886.%20Sum%20of%20Sortable%20Integers/) |
 | 3903 | Smallest Stable Index I | Easy | Array / Prefix Sum | [View](./3903.%20Smallest%20Stable%20Index%20I/) |
 | 3904 | Smallest Stable Index II | Medium | Array / Prefix Sum | [View](./3904.%20Smallest%20Stable%20Index%20II/) |
@@ -637,6 +638,7 @@ Both indexes start small and expand naturally.
 | 3867 | Sum of GCD of Formed Pairs | Medium | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 | 3875 | Construct Uniform Parity Array I | Easy | [View](./3875.%20Construct%20Uniform%20Parity%20Array%20I/) |
 | 3876 | Construct Uniform Parity Array II | Medium | [View](./3876.%20Construct%20Uniform%20Parity%20Array%20II/) |
+| 3882 | Minimum XOR Path in a Grid | Medium | [View](./3882.%20Minimum%20XOR%20Path%20in%20a%20Grid/) |
 | 3886 | Sum of Sortable Integers | Hard | [View](./3886.%20Sum%20of%20Sortable%20Integers/) |
 | 3903 | Smallest Stable Index I | Easy | [View](./3903.%20Smallest%20Stable%20Index%20I/) |
 | 3904 | Smallest Stable Index II | Medium | [View](./3904.%20Smallest%20Stable%20Index%20II/) |
@@ -755,6 +757,7 @@ Both indexes start small and expand naturally.
 | 3568 | Minimum Moves to Clean the Classroom | Medium | [View](./3568.%20Minimum%20Moves%20to%20Clean%20the%20Classroom/) |
 | 3644 | Maximum K to Sort a Permutation | Medium | [View](./3644.%20Maximum%20K%20to%20Sort%20a%20Permutation/) |
 | 3702 | Longest Subsequence With Non-Zero Bitwise XOR | Medium | [View](./3702.%20Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR/) |
+| 3882 | Minimum XOR Path in a Grid | Medium | [View](./3882.%20Minimum%20XOR%20Path%20in%20a%20Grid/) |
 
 ### Combinatorics
 | # | Title | Difficulty | Solution |
@@ -875,6 +878,7 @@ Both indexes start small and expand naturally.
 | 3700 | Number of ZigZag Arrays II | Hard | [View](./3700.%20Number%20of%20ZigZag%20Arrays%20II/) |
 | 3742 | Maximum Path Score in a Grid | Medium | [View](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid/) |
 | 3753 | Total Waviness of Numbers in Range II | Hard | [View](./3753.%20Total%20Waviness%20of%20Numbers%20in%20Range%20II/) |
+| 3882 | Minimum XOR Path in a Grid | Medium | [View](./3882.%20Minimum%20XOR%20Path%20in%20a%20Grid/) |
 
 ### Enumeration
 | # | Title | Difficulty | Solution |
@@ -1222,6 +1226,7 @@ Both indexes start small and expand naturally.
 | 3643 | Flip Square Submatrix Vertically | Easy | [View](./3643.%20Flip%20Square%20Submatrix%20Vertically/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
 | 3742 | Maximum Path Score in a Grid | Medium | [View](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid/) |
+| 3882 | Minimum XOR Path in a Grid | Medium | [View](./3882.%20Minimum%20XOR%20Path%20in%20a%20Grid/) |
 
 ### Matrix Exponentiation
 | # | Title | Difficulty | Solution |
