@@ -32,22 +32,22 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 157 | [View](#array) |
+| Array | 158 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 19 | [View](#bfs) |
-| Binary Indexed Tree | 2 | [View](#binary-indexed-tree) |
+| Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
 | Binary Search | 27 | [View](#binary-search) |
 | Binary Search Tree | 2 | [View](#binary-search-tree) |
 | Binary Tree | 9 | [View](#binary-tree) |
-| Bit Manipulation | 22 | [View](#bit-manipulation) |
+| Bit Manipulation | 23 | [View](#bit-manipulation) |
 | Bracket Sequences | 12 | [View](#bracket-sequences) |
 | Combinatorics | 5 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 14 | [View](#counting) |
-| DFS | 14 | [View](#dfs) |
+| DFS | 15 | [View](#dfs) |
 | Design | 2 | [View](#design) |
-| Divide and Conquer | 4 | [View](#divide-and-conquer) |
+| Divide and Conquer | 5 | [View](#divide-and-conquer) |
 | Dynamic Programming | 53 | [View](#dynamic-programming) |
 | Enumeration | 10 | [View](#enumeration) |
 | Fermat's Little Theorem | 1 | [View](#fermats-little-theorem) |
@@ -75,18 +75,18 @@ Both indexes start small and expand naturally.
 | Recursion | 3 | [View](#recursion) |
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Run-Length Encoding | 2 | [View](#run-length-encoding) |
-| Segment Tree | 7 | [View](#segment-tree) |
+| Segment Tree | 8 | [View](#segment-tree) |
 | Shortest Path | 5 | [View](#shortest-path) |
 | Simulation | 29 | [View](#simulation) |
 | Sliding Window | 14 | [View](#sliding-window) |
 | Sorting | 42 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 15 | [View](#stack) |
-| String | 81 | [View](#string) |
+| String | 82 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
-| Tree | 11 | [View](#tree) |
+| Tree | 12 | [View](#tree) |
 | Two Pointers | 13 | [View](#two-pointers) |
 | Union Find | 4 | [View](#union-find) |
 | Union-Find | 4 | [View](#union-find) |
@@ -394,6 +394,7 @@ Both indexes start small and expand naturally.
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | Array / Hash Table / Math | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
 | 3783 | Mirror Distance of an Integer | Easy | Math | [View](./3783.%20Mirror%20Distance%20of%20an%20Integer/) |
 | 3838 | Weighted Word Mapping | Easy | Array / String / Math | [View](./3838.%20Weighted%20Word%20Mapping/) |
+| 3841 | Palindromic Path Queries in a Tree | Hard | Array / String / Divide and Conquer / Bit Manipulation / Tree / DFS / Binary Indexed Tree / Segment Tree | [View](./3841.%20Palindromic%20Path%20Queries%20in%20a%20Tree/) |
 | 3863 | Minimum Operations to Sort a String | Medium | String | [View](./3863.%20Minimum%20Operations%20to%20Sort%20a%20String/) |
 | 3867 | Sum of GCD of Formed Pairs | Medium | Array / Math / Number Theory / GCD / Sorting / Two Pointers | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 | 3870 | Count Commas in Range | Easy | Math | [View](./3870.%20Count%20Commas%20in%20Range/) |
@@ -477,6 +478,11 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 2916 | Subarrays Distinct Element Sum of Squares II | Hard | [View](./2916.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20II/) |
+
+### Binary Indexed Tree
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 3841 | Palindromic Path Queries in a Tree | Hard | [View](./3841.%20Palindromic%20Path%20Queries%20in%20a%20Tree/) |
 
 
 ## By Category
@@ -635,6 +641,7 @@ Both indexes start small and expand naturally.
 | 3742 | Maximum Path Score in a Grid | Medium | [View](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid/) |
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
 | 3838 | Weighted Word Mapping | Easy | [View](./3838.%20Weighted%20Word%20Mapping/) |
+| 3841 | Palindromic Path Queries in a Tree | Hard | [View](./3841.%20Palindromic%20Path%20Queries%20in%20a%20Tree/) |
 | 3867 | Sum of GCD of Formed Pairs | Medium | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 | 3875 | Construct Uniform Parity Array I | Easy | [View](./3875.%20Construct%20Uniform%20Parity%20Array%20I/) |
 | 3876 | Construct Uniform Parity Array II | Medium | [View](./3876.%20Construct%20Uniform%20Parity%20Array%20II/) |
@@ -757,6 +764,7 @@ Both indexes start small and expand naturally.
 | 3568 | Minimum Moves to Clean the Classroom | Medium | [View](./3568.%20Minimum%20Moves%20to%20Clean%20the%20Classroom/) |
 | 3644 | Maximum K to Sort a Permutation | Medium | [View](./3644.%20Maximum%20K%20to%20Sort%20a%20Permutation/) |
 | 3702 | Longest Subsequence With Non-Zero Bitwise XOR | Medium | [View](./3702.%20Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR/) |
+| 3841 | Palindromic Path Queries in a Tree | Hard | [View](./3841.%20Palindromic%20Path%20Queries%20in%20a%20Tree/) |
 | 3882 | Minimum XOR Path in a Grid | Medium | [View](./3882.%20Minimum%20XOR%20Path%20in%20a%20Grid/) |
 
 ### Combinatorics
@@ -809,6 +817,7 @@ Both indexes start small and expand naturally.
 | 2265 | Count Nodes Equal to Average of Subtree | Medium | [View](./2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/) |
 | 3310 | Remove Methods From Project | Medium | [View](./3310.%20Remove%20Methods%20From%20Project/) |
 | 3619 | Count Islands With Total Value Divisible by K | Medium | [View](./3619.%20Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K/) |
+| 3841 | Palindromic Path Queries in a Tree | Hard | [View](./3841.%20Palindromic%20Path%20Queries%20in%20a%20Tree/) |
 
 ### Design
 | # | Title | Difficulty | Solution |
@@ -823,6 +832,7 @@ Both indexes start small and expand naturally.
 | 1382 | Balance a Binary Search Tree | Medium | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
 | 1545 | Find Kth Bit in Nth Binary String | Medium | [View](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/) |
 | 1569 | Number of Ways to Reorder Array to Get Same BST | Hard | [View](./1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/) |
+| 3841 | Palindromic Path Queries in a Tree | Hard | [View](./3841.%20Palindromic%20Path%20Queries%20in%20a%20Tree/) |
 
 ### Dynamic Programming
 | # | Title | Difficulty | Solution |
@@ -1320,6 +1330,7 @@ Both indexes start small and expand naturally.
 | 2916 | Subarrays Distinct Element Sum of Squares II | Hard | [View](./2916.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20II/) |
 | 3499 | Maximize Active Section with Trade I | Medium | [View](./3499.%20Maximize%20Active%20Section%20with%20Trade%20I/) |
 | 3501 | Maximize Active Section with Trade II | Hard | [View](./3501.%20Maximize%20Active%20Section%20with%20Trade%20II/) |
+| 3841 | Palindromic Path Queries in a Tree | Hard | [View](./3841.%20Palindromic%20Path%20Queries%20in%20a%20Tree/) |
 
 ### Segment Tree
 | # | Title | Difficulty | Solution |
@@ -1545,6 +1556,7 @@ Both indexes start small and expand naturally.
 | 3754 | Concatenate Non-Zero Digits and Multiply by Sum I | Easy | [View](./3754.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I/) |
 | 3756 | Concatenate Non-Zero Digits and Multiply by Sum II | Medium | String / Prefix Sum / Binary Search | [View](./3756.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20II/) |
 | 3838 | Weighted Word Mapping | Easy | [View](./3838.%20Weighted%20Word%20Mapping/) |
+| 3841 | Palindromic Path Queries in a Tree | Hard | [View](./3841.%20Palindromic%20Path%20Queries%20in%20a%20Tree/) |
 | 3863 | Minimum Operations to Sort a String | Medium | [View](./3863.%20Minimum%20Operations%20to%20Sort%20a%20String/) |
 
 ### Suffix
@@ -1571,6 +1583,7 @@ Both indexes start small and expand naturally.
 | 2265 | Count Nodes Equal to Average of Subtree | Medium | [View](./2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/) |
 | 3558 | Number of Ways to Assign Edge Weights I | Medium | [View](./3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) |
 | 3559 | Number of Ways to Assign Edge Weights II | Hard | [View](./3559.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20II/) |
+| 3841 | Palindromic Path Queries in a Tree | Hard | [View](./3841.%20Palindromic%20Path%20Queries%20in%20a%20Tree/) |
 
 ### Trie
 | # | Title | Difficulty | Solution |
