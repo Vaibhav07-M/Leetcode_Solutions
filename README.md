@@ -55,11 +55,12 @@ Both indexes start small and expand naturally.
 | GCD | 5 | [View](#gcd) |
 | Geometry | 8 | [View](#geometry) |
 | Graph | 17 | [View](#graph) |
+| Graph Theory | 1 | [View](#graph-theory) |
 | Greedy | 53 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
 | Hash Table | 44 | [View](#hash-table) |
-| Heap (Priority Queue) | 6 | [View](#heap-priority-queue) |
+| Heap (Priority Queue) | 7 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
@@ -76,13 +77,13 @@ Both indexes start small and expand naturally.
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Run-Length Encoding | 2 | [View](#run-length-encoding) |
 | Segment Tree | 8 | [View](#segment-tree) |
-| Shortest Path | 5 | [View](#shortest-path) |
+| Shortest Path | 6 | [View](#shortest-path) |
 | Simulation | 29 | [View](#simulation) |
 | Sliding Window | 14 | [View](#sliding-window) |
 | Sorting | 42 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 15 | [View](#stack) |
-| String | 82 | [View](#string) |
+| String | 83 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -407,6 +408,7 @@ Both indexes start small and expand naturally.
 | 3904 | Smallest Stable Index II | Medium | Array / Prefix Sum | [View](./3904.%20Smallest%20Stable%20Index%20II/) |
 | 3942 | Minimum Operations to Sort a Permutation | Medium | Array | [View](./3942.%20Minimum%20Operations%20to%20Sort%20a%20Permutation/) |
 | 3963 | Create Grid With Exactly One Path | Easy |  | [View](./3963.%20Create%20Grid%20With%20Exactly%20One%20Path/) |
+| 3970 | Shortest Path With At Most K Consecutive Identical Characters | Medium | String / Graph Theory / Heap (Priority Queue) / Shortest Path | [View](./3970.%20Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters/) |
 
 ---
 ### Bracket Sequences
@@ -963,6 +965,11 @@ Both indexes start small and expand naturally.
 | 3650 | Minimum Cost Path with Edge Reversals | Medium | [View](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
 | 3700 | Number of ZigZag Arrays II | Hard | [View](./3700.%20Number%20of%20ZigZag%20Arrays%20II/) |
+### Graph Theory
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 3970 | Shortest Path With At Most K Consecutive Identical Characters | Medium | [View](./3970.%20Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters/) |
+
 
 ### Greedy
 | # | Title | Difficulty | Solution |
@@ -1078,6 +1085,7 @@ Both indexes start small and expand naturally.
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | [View](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) |
 | 3741 | Minimum Distance Between Three Equal Elements II | Medium | [View](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II/) |
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
+| 3970 | Shortest Path With At Most K Consecutive Identical Characters | Medium | [View](./3970.%20Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters/) |
 
 ### Heap (Priority Queue)
 | # | Title | Difficulty | Solution |
@@ -1340,6 +1348,7 @@ Both indexes start small and expand naturally.
 | 3501 | Maximize Active Section with Trade II | Hard | [View](./3501.%20Maximize%20Active%20Section%20with%20Trade%20II/) |
 | 3525 | Find X Value of Array II | Hard | [View](./3525.%20Find%20X%20Value%20of%20Array%20II/) |
 | 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
+| 3970 | Shortest Path With At Most K Consecutive Identical Characters | Medium | [View](./3970.%20Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters/) |
 
 ### Shortest Path
 | # | Title | Difficulty | Solution |
@@ -1558,6 +1567,7 @@ Both indexes start small and expand naturally.
 | 3838 | Weighted Word Mapping | Easy | [View](./3838.%20Weighted%20Word%20Mapping/) |
 | 3841 | Palindromic Path Queries in a Tree | Hard | [View](./3841.%20Palindromic%20Path%20Queries%20in%20a%20Tree/) |
 | 3863 | Minimum Operations to Sort a String | Medium | [View](./3863.%20Minimum%20Operations%20to%20Sort%20a%20String/) |
+| 3970 | Shortest Path With At Most K Consecutive Identical Characters | Medium | [View](./3970.%20Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters/) |
 
 ### Suffix
 | # | Title | Difficulty | Solution |
