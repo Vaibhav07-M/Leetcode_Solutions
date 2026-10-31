@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 158 | [View](#array) |
+| Array | 159 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 19 | [View](#bfs) |
 | Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
@@ -48,7 +48,7 @@ Both indexes start small and expand naturally.
 | DFS | 15 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 5 | [View](#divide-and-conquer) |
-| Dynamic Programming | 53 | [View](#dynamic-programming) |
+| Dynamic Programming | 54 | [View](#dynamic-programming) |
 | Enumeration | 10 | [View](#enumeration) |
 | Fermat's Little Theorem | 1 | [View](#fermats-little-theorem) |
 | Game Theory | 9 | [View](#game-theory) |
@@ -65,7 +65,7 @@ Both indexes start small and expand naturally.
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
 | Math | 76 | [View](#math) |
-| Matrix | 43 | [View](#matrix) |
+| Matrix | 44 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Memoization | 1 | [View](#memoization) |
 | Minimax | 5 | [View](#minimax) |
@@ -367,6 +367,7 @@ Both indexes start small and expand naturally.
 | 3658 | GCD of Odd and Even Sums | Easy | Math / Number Theory / GCD | [View](./3658.%20GCD%20of%20Odd%20and%20Even%20Sums/) |
 | 3660 | Jump Game IX | Medium | Array / Monotonic Stack / Dynamic Programming | [View](./3660.%20Jump%20Game%20IX/) |
 | 3661 | Maximum Walls Destroyed by Robots | Hard | Array / Binary Search / Dynamic Programming / Sorting | [View](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/) |
+| 3665 | Twisted Mirror Path Count | Medium | Array / Dynamic Programming / Matrix | [View](./3665.%20Twisted%20Mirror%20Path%20Count/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | String / BFS / Math / Greedy | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 | 3689 | Maximum Total Subarray Value I | Medium | Array | [View](./3689.%20Maximum%20Total%20Subarray%20Value%20I/) |
 | 3691 | Maximum Total Subarray Value II | Hard | Array | [View](./3691.%20Maximum%20Total%20Subarray%20Value%20II/) |
@@ -626,6 +627,7 @@ Both indexes start small and expand naturally.
 | 3655 | XOR After Range Multiplication Queries II | Hard | [View](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II/) |
 | 3660 | Jump Game IX | Medium | [View](./3660.%20Jump%20Game%20IX/) |
 | 3661 | Maximum Walls Destroyed by Robots | Hard | [View](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/) |
+| 3665 | Twisted Mirror Path Count | Medium | [View](./3665.%20Twisted%20Mirror%20Path%20Count/) |
 | 3689 | Maximum Total Subarray Value I | Medium | [View](./3689.%20Maximum%20Total%20Subarray%20Value%20I/) |
 | 3691 | Maximum Total Subarray Value II | Hard | [View](./3691.%20Maximum%20Total%20Subarray%20Value%20II/) |
 | 3699 | Number of ZigZag Arrays I | Hard | [View](./3699.%20Number%20of%20ZigZag%20Arrays%20I/) |
@@ -886,6 +888,7 @@ Both indexes start small and expand naturally.
 | 3651 | Minimum Cost Path with Teleportations | Hard | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
 | 3660 | Jump Game IX | Medium | [View](./3660.%20Jump%20Game%20IX/) |
 | 3661 | Maximum Walls Destroyed by Robots | Hard | [View](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/) |
+| 3665 | Twisted Mirror Path Count | Medium | [View](./3665.%20Twisted%20Mirror%20Path%20Count/) |
 | 3699 | Number of ZigZag Arrays I | Hard | [View](./3699.%20Number%20of%20ZigZag%20Arrays%20I/) |
 | 3700 | Number of ZigZag Arrays II | Hard | [View](./3700.%20Number%20of%20ZigZag%20Arrays%20II/) |
 | 3742 | Maximum Path Score in a Grid | Medium | [View](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid/) |
@@ -1243,6 +1246,7 @@ Both indexes start small and expand naturally.
 | 3619 | Count Islands With Total Value Divisible by K | Medium | [View](./3619.%20Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K/) |
 | 3643 | Flip Square Submatrix Vertically | Easy | [View](./3643.%20Flip%20Square%20Submatrix%20Vertically/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
+| 3665 | Twisted Mirror Path Count | Medium | [View](./3665.%20Twisted%20Mirror%20Path%20Count/) |
 | 3742 | Maximum Path Score in a Grid | Medium | [View](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid/) |
 | 3882 | Minimum XOR Path in a Grid | Medium | [View](./3882.%20Minimum%20XOR%20Path%20in%20a%20Grid/) |
 
