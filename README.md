@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 159 | [View](#array) |
+| Array | 160 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 19 | [View](#bfs) |
 | Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
@@ -64,7 +64,7 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
-| Math | 76 | [View](#math) |
+| Math | 77 | [View](#math) |
 | Matrix | 44 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Memoization | 1 | [View](#memoization) |
@@ -117,6 +117,7 @@ Both indexes start small and expand naturally.
 | 301 | Remove Invalid Parentheses | Hard | String / Backtracking / BFS | [View](./301.%20Remove%20Invalid%20Parentheses/) |
 | 396 | Rotate Function | Medium | Array / Math / Dynamic Programming | [View](./396.%20Rotate%20Function/) |
 | 401 | Binary Watch | Easy | Backtracking / Bit Manipulation | [View](./401.%20Binary%20Watch/) |
+| 453 | Minimum Moves to Equal Array Elements | Medium | Array / Math | [View](./453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements/) |
 | 486 | Predict the Winner | Medium | Dynamic Programming / Game Theory / Minimax | [View](./486.%20Predict%20the%20Winner/) |
 | 628 | Maximum Product of Three Numbers | Easy | Array / Sorting / Greedy / Math | [View](./628.%20Maximum%20Product%20of%20Three%20Numbers/) |
 | 657 | Robot Return to Origin | Easy | String / Simulation | [View](./657.%20Robot%20Return%20to%20Origin/) |
@@ -501,6 +502,7 @@ Both indexes start small and expand naturally.
 | 153 | Find Minimum in Rotated Sorted Array | Medium | [View](./153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/) |
 | 154 | Find Minimum in Rotated Sorted Array II | Hard | [View](./154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/) |
 | 396 | Rotate Function | Medium | [View](./396.%20Rotate%20Function/) |
+| 453 | Minimum Moves to Equal Array Elements | Medium | [View](./453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements/) |
 | 628 | Maximum Product of Three Numbers | Easy | [View](./628.%20Maximum%20Product%20of%20Three%20Numbers/) |
 | 744 | Find Smallest Letter Greater Than Target | Easy | [View](./744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/) |
 | 835 | Image Overlap | Medium | [View](./835.%20Image%20Overlap/) |
@@ -1131,6 +1133,7 @@ Both indexes start small and expand naturally.
 | 66 | Plus One | Easy | [View](./66.%20Plus%20One/) |
 | 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
 | 396 | Rotate Function | Medium | [View](./396.%20Rotate%20Function/) |
+| 453 | Minimum Moves to Equal Array Elements | Medium | [View](./453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements/) |
 | 628 | Maximum Product of Three Numbers | Easy | [View](./628.%20Maximum%20Product%20of%20Three%20Numbers/) |
 | 762 | Prime Number of Set Bits in Binary Representation | Easy | [View](./762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) |
 | 788 | Rotated Digits | Medium | [View](./788.%20Rotated%20Digits/) |
