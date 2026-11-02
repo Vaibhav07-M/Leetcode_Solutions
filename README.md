@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 160 | [View](#array) |
+| Array | 161 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 19 | [View](#bfs) |
 | Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
@@ -64,7 +64,7 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
-| Math | 77 | [View](#math) |
+| Math | 78 | [View](#math) |
 | Matrix | 44 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Memoization | 1 | [View](#memoization) |
@@ -80,7 +80,7 @@ Both indexes start small and expand naturally.
 | Shortest Path | 6 | [View](#shortest-path) |
 | Simulation | 29 | [View](#simulation) |
 | Sliding Window | 14 | [View](#sliding-window) |
-| Sorting | 42 | [View](#sorting) |
+| Sorting | 43 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 15 | [View](#stack) |
 | String | 83 | [View](#string) |
@@ -118,6 +118,7 @@ Both indexes start small and expand naturally.
 | 396 | Rotate Function | Medium | Array / Math / Dynamic Programming | [View](./396.%20Rotate%20Function/) |
 | 401 | Binary Watch | Easy | Backtracking / Bit Manipulation | [View](./401.%20Binary%20Watch/) |
 | 453 | Minimum Moves to Equal Array Elements | Medium | Array / Math | [View](./453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements/) |
+| 462 | Minimum Moves to Equal Array Elements II | Medium | Array / Math / Sorting | [View](./462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/) |
 | 486 | Predict the Winner | Medium | Dynamic Programming / Game Theory / Minimax | [View](./486.%20Predict%20the%20Winner/) |
 | 628 | Maximum Product of Three Numbers | Easy | Array / Sorting / Greedy / Math | [View](./628.%20Maximum%20Product%20of%20Three%20Numbers/) |
 | 657 | Robot Return to Origin | Easy | String / Simulation | [View](./657.%20Robot%20Return%20to%20Origin/) |
@@ -503,6 +504,7 @@ Both indexes start small and expand naturally.
 | 154 | Find Minimum in Rotated Sorted Array II | Hard | [View](./154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/) |
 | 396 | Rotate Function | Medium | [View](./396.%20Rotate%20Function/) |
 | 453 | Minimum Moves to Equal Array Elements | Medium | [View](./453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements/) |
+| 462 | Minimum Moves to Equal Array Elements II | Medium | [View](./462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/) |
 | 628 | Maximum Product of Three Numbers | Easy | [View](./628.%20Maximum%20Product%20of%20Three%20Numbers/) |
 | 744 | Find Smallest Letter Greater Than Target | Easy | [View](./744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/) |
 | 835 | Image Overlap | Medium | [View](./835.%20Image%20Overlap/) |
@@ -1134,6 +1136,7 @@ Both indexes start small and expand naturally.
 | 67 | Add Binary | Easy | [View](./67.%20Add%20Binary/) |
 | 396 | Rotate Function | Medium | [View](./396.%20Rotate%20Function/) |
 | 453 | Minimum Moves to Equal Array Elements | Medium | [View](./453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements/) |
+| 462 | Minimum Moves to Equal Array Elements II | Medium | [View](./462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/) |
 | 628 | Maximum Product of Three Numbers | Easy | [View](./628.%20Maximum%20Product%20of%20Three%20Numbers/) |
 | 762 | Prime Number of Set Bits in Binary Representation | Easy | [View](./762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) |
 | 788 | Rotated Digits | Medium | [View](./788.%20Rotated%20Digits/) |
@@ -1422,6 +1425,7 @@ Both indexes start small and expand naturally.
 ### Sorting
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 462 | Minimum Moves to Equal Array Elements II | Medium | [View](./462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/) |
 | 628 | Maximum Product of Three Numbers | Easy | [View](./628.%20Maximum%20Product%20of%20Three%20Numbers/) |
 | 1096 | Brace Expansion II | Hard | [View](./1096.%20Brace%20Expansion%20II/) |
 | 1200 | Minimum Absolute Difference | Easy | [View](./1200.%20Minimum%20Absolute%20Difference/) |
