@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 161 | [View](#array) |
+| Array | 162 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 19 | [View](#bfs) |
 | Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
@@ -64,7 +64,7 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
-| Math | 78 | [View](#math) |
+| Math | 79 | [View](#math) |
 | Matrix | 44 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Memoization | 1 | [View](#memoization) |
@@ -386,6 +386,7 @@ Both indexes start small and expand naturally.
 | 3727 | Maximum Alternating Sum of Squares | Medium | Array / Greedy / Sorting | [View](./3727.%20Maximum%20Alternating%20Sum%20of%20Squares/) |
 | 3731 | Find Missing Elements | Easy | Array / Hash Set | [View](./3731.%20Find%20Missing%20Elements/) |
 | 3734 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | Two Pointers / String / Enumeration | [View](./3734.%20Lexicographically%20Smallest%20Palindromic%20Permutation%20Greater%20Than%20Target/) |
+| 3736 | Minimum Moves to Equal Array Elements III | Easy | Array / Math | [View](./3736.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20III/) |
 | 3737 | Count Subarrays With Majority Element I | Medium | Array / Prefix Sum | [View](./3737.%20Count%20Subarrays%20With%20Majority%20Element%20I/) |
 | 3739 | Count Subarrays With Majority Element II | Hard | Array / Prefix Sum / Binary Tree / Coordinate Compression | [View](./3739.%20Count%20Subarrays%20With%20Majority%20Element%20II/) |
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | Array / Hash Table / Counting | [View](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) |
@@ -642,6 +643,7 @@ Both indexes start small and expand naturally.
 | 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
 | 3727 | Maximum Alternating Sum of Squares | Medium | [View](./3727.%20Maximum%20Alternating%20Sum%20of%20Squares/) |
 | 3731 | Find Missing Elements | Easy | [View](./3731.%20Find%20Missing%20Elements/) |
+| 3736 | Minimum Moves to Equal Array Elements III | Easy | [View](./3736.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20III/) |
 | 3737 | Count Subarrays With Majority Element I | Medium | [View](./3737.%20Count%20Subarrays%20With%20Majority%20Element%20I/) |
 | 3739 | Count Subarrays With Majority Element II | Hard | [View](./3739.%20Count%20Subarrays%20With%20Majority%20Element%20II/) |
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | [View](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) |
@@ -1196,6 +1198,7 @@ Both indexes start small and expand naturally.
 | 3658 | GCD of Odd and Even Sums | Easy | [View](./3658.%20GCD%20of%20Odd%20and%20Even%20Sums/) |
 | 3666 | Minimum Operations to Equalize Binary String | Hard | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 | 3723 | Maximize Sum of Squares of Digits | Medium | [View](./3723.%20Maximize%20Sum%20of%20Squares%20of%20Digits/) |
+| 3736 | Minimum Moves to Equal Array Elements III | Easy | [View](./3736.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20III/) |
 | 3751 | Total Waviness of Numbers in Range I | Medium | [View](./3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I/) |
 | 3753 | Total Waviness of Numbers in Range II | Hard | [View](./3753.%20Total%20Waviness%20of%20Numbers%20in%20Range%20II/) |
 | 3754 | Concatenate Non-Zero Digits and Multiply by Sum I | Easy | [View](./3754.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I/) |
