@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 162 | [View](#array) |
+| Array | 163 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 19 | [View](#bfs) |
 | Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
@@ -48,7 +48,7 @@ Both indexes start small and expand naturally.
 | DFS | 15 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 5 | [View](#divide-and-conquer) |
-| Dynamic Programming | 54 | [View](#dynamic-programming) |
+| Dynamic Programming | 55 | [View](#dynamic-programming) |
 | Enumeration | 10 | [View](#enumeration) |
 | Fermat's Little Theorem | 1 | [View](#fermats-little-theorem) |
 | Game Theory | 9 | [View](#game-theory) |
@@ -59,12 +59,12 @@ Both indexes start small and expand naturally.
 | Greedy | 53 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
-| Hash Table | 44 | [View](#hash-table) |
-| Heap (Priority Queue) | 7 | [View](#heap-priority-queue) |
+| Hash Table | 45 | [View](#hash-table) |
+| Heap (Priority Queue) | 8 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
-| Math | 79 | [View](#math) |
+| Math | 80 | [View](#math) |
 | Matrix | 44 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Memoization | 1 | [View](#memoization) |
@@ -79,7 +79,7 @@ Both indexes start small and expand naturally.
 | Segment Tree | 8 | [View](#segment-tree) |
 | Shortest Path | 6 | [View](#shortest-path) |
 | Simulation | 29 | [View](#simulation) |
-| Sliding Window | 14 | [View](#sliding-window) |
+| Sliding Window | 15 | [View](#sliding-window) |
 | Sorting | 43 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 15 | [View](#stack) |
@@ -329,6 +329,7 @@ Both indexes start small and expand naturally.
 | 3498 | Reverse Degree of a String | Easy | String / Simulation | [View](./3498.%20Reverse%20Degree%20of%20a%20String/) |
 | 3499 | Maximize Active Section with Trade I | Medium | String / Greedy / Simulation / Run-Length Encoding | [View](./3499.%20Maximize%20Active%20Section%20with%20Trade%20I/) |
 | 3501 | Maximize Active Section with Trade II | Hard | String / Binary Search / Segment Tree / Greedy / Run-Length Encoding | [View](./3501.%20Maximize%20Active%20Section%20with%20Trade%20II/) |
+| 3505 | Minimum Operations to Make Elements Within K Subarrays Equal | Hard | Array / Hash Table / Math / Dynamic Programming / Sliding Window / Heap (Priority Queue) | [View](./3505.%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal/) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | Array / Greedy / Simulation | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | Array / Heap / Greedy / Simulation | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
 | 3513 | Number of Unique XOR Triplets I | Medium | Bit Manipulation / Math / XOR | [View](./3513.%20Number%20of%20Unique%20XOR%20Triplets%20I/) |
@@ -610,6 +611,7 @@ Both indexes start small and expand naturally.
 | 3471 | Find the Largest Almost Missing Integer | Easy | [View](./3471.%20Find%20the%20Largest%20Almost%20Missing%20Integer/) |
 | 3483 | Unique 3-Digit Even Numbers | Easy | [View](./3483.%20Unique%203-Digit%20Even%20Numbers/) |
 | 3488 | Closest Equal Element Queries | Medium | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
+| 3505 | Minimum Operations to Make Elements Within K Subarrays Equal | Hard | [View](./3505.%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal/) |
 | 3507 | Minimum Pair Removal to Sort Array I | Easy | [View](./3507.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
 | 3524 | Find X Value of Array I | Medium | [View](./3524.%20Find%20X%20Value%20of%20Array%20I/) |
@@ -886,6 +888,7 @@ Both indexes start small and expand naturally.
 | 3336 | Find the Number of Subsequences With Equal GCD | Hard | [View](./3336.%20Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD/) |
 | 3414 | Maximum Score of Non-overlapping Intervals | Hard | [View](./3414.%20Maximum%20Score%20of%20Non-overlapping%20Intervals/) |
 | 3418 | Maximum Amount of Money Robot Can Earn | Medium | [View](./3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn/) |
+| 3505 | Minimum Operations to Make Elements Within K Subarrays Equal | Hard | [View](./3505.%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal/) |
 | 3514 | Number of Unique XOR Triplets II | Medium | [View](./3514.%20Number%20of%20Unique%20XOR%20Triplets%20II/) |
 | 3524 | Find X Value of Array I | Medium | [View](./3524.%20Find%20X%20Value%20of%20Array%20I/) |
 | 3620 | Network Recovery Pathways | Hard | [View](./3620.%20Network%20Recovery%20Pathways/) |
@@ -1081,6 +1084,7 @@ Both indexes start small and expand naturally.
 | 3471 | Find the Largest Almost Missing Integer | Easy | [View](./3471.%20Find%20the%20Largest%20Almost%20Missing%20Integer/) |
 | 3483 | Unique 3-Digit Even Numbers | Easy | [View](./3483.%20Unique%203-Digit%20Even%20Numbers/) |
 | 3488 | Closest Equal Element Queries | Medium | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
+| 3505 | Minimum Operations to Make Elements Within K Subarrays Equal | Hard | [View](./3505.%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal/) |
 | 3517 | Smallest Palindromic Rearrangement I | Medium | [View](./3517.%20Smallest%20Palindromic%20Rearrangement%20I/) |
 | 3548 | Equal Sum Grid Partition II | Hard | [View](./3548.%20Equal%20Sum%20Grid%20Partition%20II/) |
 | 3551 | Minimum Swaps to Sort by Digit Sum | Medium | [View](./3551.%20Minimum%20Swaps%20to%20Sort%20by%20Digit%20Sum/) |
@@ -1102,6 +1106,7 @@ Both indexes start small and expand naturally.
 | 2333 | Minimum Sum of Squared Difference | Medium | [View](./2333.%20Minimum%20Sum%20of%20Squared%20Difference/) |
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
+| 3505 | Minimum Operations to Make Elements Within K Subarrays Equal | Hard | [View](./3505.%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal/) |
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
 | 3650 | Minimum Cost Path with Edge Reversals | Medium | [View](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
@@ -1183,6 +1188,7 @@ Both indexes start small and expand naturally.
 | 3345 | Smallest Divisible Digit Product I | Easy | [View](./3345.%20Smallest%20Divisible%20Digit%20Product%20I/) |
 | 3348 | Smallest Divisible Digit Product II | Hard | [View](./3348.%20Smallest%20Divisible%20Digit%20Product%20II/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
+| 3505 | Minimum Operations to Make Elements Within K Subarrays Equal | Hard | [View](./3505.%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal/) |
 | 3513 | Number of Unique XOR Triplets I | Medium | [View](./3513.%20Number%20of%20Unique%20XOR%20Triplets%20I/) |
 | 3518 | Smallest Palindromic Rearrangement II | Hard | [View](./3518.%20Smallest%20Palindromic%20Rearrangement%20II/) |
 | 3524 | Find X Value of Array I | Medium | [View](./3524.%20Find%20X%20Value%20of%20Array%20I/) |
@@ -1420,6 +1426,7 @@ Both indexes start small and expand naturally.
 | 2958 | Length of Longest Subarray With at Most K Frequency | Medium | [View](./2958.%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency/) |
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
 | 3090 | Maximum Length Substring With Two Occurrences | Easy | [View](./3090.%20Maximum%20Length%20Substring%20With%20Two%20Occurrences/) |
+| 3505 | Minimum Operations to Make Elements Within K Subarrays Equal | Hard | [View](./3505.%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal/) |
 | 3567 | Minimum Absolute Difference in Sliding Submatrix | Medium | [View](./3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix/) |
 | 3634 | Minimum Removals to Balance Array | Medium | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
 | 3719 | Longest Balanced Subarray I | Medium | [View](./3719.%20Longest%20Balanced%20Subarray%20I/) |
