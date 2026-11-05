@@ -32,12 +32,12 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 163 | [View](#array) |
+| Array | 164 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 19 | [View](#bfs) |
 | Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
-| Binary Search | 27 | [View](#binary-search) |
+| Binary Search | 28 | [View](#binary-search) |
 | Binary Search Tree | 2 | [View](#binary-search-tree) |
 | Binary Tree | 9 | [View](#binary-tree) |
 | Bit Manipulation | 23 | [View](#bit-manipulation) |
@@ -80,7 +80,7 @@ Both indexes start small and expand naturally.
 | Shortest Path | 6 | [View](#shortest-path) |
 | Simulation | 29 | [View](#simulation) |
 | Sliding Window | 15 | [View](#sliding-window) |
-| Sorting | 43 | [View](#sorting) |
+| Sorting | 44 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 15 | [View](#stack) |
 | String | 83 | [View](#string) |
@@ -88,7 +88,7 @@ Both indexes start small and expand naturally.
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
 | Tree | 12 | [View](#tree) |
-| Two Pointers | 13 | [View](#two-pointers) |
+| Two Pointers | 14 | [View](#two-pointers) |
 | Union Find | 4 | [View](#union-find) |
 | Union-Find | 4 | [View](#union-find) |
 | XOR | 5 | [View](#xor) |
@@ -173,6 +173,7 @@ Both indexes start small and expand naturally.
 | 1356 | Sort Integers by The Number of 1 Bits | Easy | Array / Bit Manipulation / Sorting / Counting | [View](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits/) |
 | 1358 | Number of Substrings Containing All Three Characters | Medium | String / Sliding Window / Two Pointers | [View](./1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters/) |
 | 1382 | Balance a Binary Search Tree | Medium | Tree / DFS / Binary Search Tree / Binary Tree / Greedy / Divide and Conquer | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
+| 1385 | Find the Distance Value Between Two Arrays | Easy | Array / Two Pointers / Binary Search / Sorting | [View](./1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays/) |
 | 1386 | Cinema Seat Allocation | Medium | Array / Hash Table / Greedy / Bit Manipulation | [View](./1386.%20Cinema%20Seat%20Allocation/) |
 | 1390 | Four Divisors | Medium | Array / Math | [View](./1390.%20Four%20Divisors/) |
 | 1391 | Check if There is a Valid Path in a Grid | Medium | Graph / BFS / DFS / Matrix | [View](./1391.%20Check%20if%20There%20is%20a%20Valid%20Path%20in%20a%20Grid/) |
@@ -525,6 +526,7 @@ Both indexes start small and expand naturally.
 | 1345 | Jump Game IV | Hard | [View](./1345.%20Jump%20Game%20IV/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
 | 1356 | Sort Integers by The Number of 1 Bits | Easy | [View](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits/) |
+| 1385 | Find the Distance Value Between Two Arrays | Easy | [View](./1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays/) |
 | 1386 | Cinema Seat Allocation | Medium | [View](./1386.%20Cinema%20Seat%20Allocation/) |
 | 1390 | Four Divisors | Medium | [View](./1390.%20Four%20Divisors/) |
 | 1458 | Max Dot Product of Two Subsequences | Hard | [View](./1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences/) |
@@ -711,6 +713,7 @@ Both indexes start small and expand naturally.
 | 744 | Find Smallest Letter Greater Than Target | Easy | [View](./744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/) |
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
+| 1385 | Find the Distance Value Between Two Arrays | Easy | [View](./1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays/) |
 | 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | [View](./1477.%20Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum/) |
 | 1658 | Minimum Operations to Reduce X to Zero | Medium | [View](./1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
@@ -1442,6 +1445,7 @@ Both indexes start small and expand naturally.
 | 1288 | Remove Covered Intervals | Medium | [View](./1288.%20Remove%20Covered%20Intervals/) |
 | 1331 | Rank Transform of an Array | Easy | [View](./1331.%20Rank%20Transform%20of%20an%20Array/) |
 | 1356 | Sort Integers by The Number of 1 Bits | Easy | [View](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits/) |
+| 1385 | Find the Distance Value Between Two Arrays | Easy | [View](./1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays/) |
 | 1464 | Maximum Product of Two Elements in an Array | Easy | [View](./1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/) |
 | 1520 | Maximum Number of Non-Overlapping Substrings | Hard | [View](./1520.%20Maximum%20Number%20of%20Non-Overlapping%20Substrings/) |
 | 1536 | Minimum Swaps to Arrange a Binary Grid | Medium | [View](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid/) |
@@ -1629,6 +1633,7 @@ Both indexes start small and expand naturally.
 | 61 | Rotate List | Medium | [View](./61.%20Rotate%20List/) |
 | 696 | Count Binary Substrings | Easy | [View](./696.%20Count%20Binary%20Substrings/) |
 | 1358 | Number of Substrings Containing All Three Characters | Medium | [View](./1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters/) |
+| 1385 | Find the Distance Value Between Two Arrays | Easy | [View](./1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays/) |
 | 1855 | Maximum Distance Between a Pair of Values | Medium | [View](./1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
 | 2095 | Delete the Middle Node of a Linked List | Medium | [View](./2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/) |
