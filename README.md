@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 164 | [View](#array) |
+| Array | 165 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 19 | [View](#bfs) |
 | Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
@@ -59,7 +59,7 @@ Both indexes start small and expand naturally.
 | Greedy | 53 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
-| Hash Table | 45 | [View](#hash-table) |
+| Hash Table | 46 | [View](#hash-table) |
 | Heap (Priority Queue) | 8 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
@@ -79,8 +79,8 @@ Both indexes start small and expand naturally.
 | Segment Tree | 8 | [View](#segment-tree) |
 | Shortest Path | 6 | [View](#shortest-path) |
 | Simulation | 29 | [View](#simulation) |
-| Sliding Window | 15 | [View](#sliding-window) |
-| Sorting | 44 | [View](#sorting) |
+| Sliding Window | 16 | [View](#sliding-window) |
+| Sorting | 45 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 15 | [View](#stack) |
 | String | 83 | [View](#string) |
@@ -265,6 +265,7 @@ Both indexes start small and expand naturally.
 | 2615 | Sum of Distances | Medium | Array / Hash Table / Prefix Sum | [View](./2615.%20Sum%20of%20Distances/) |
 | 2657 | Find the Prefix Common Array of Two Arrays | Medium | Array | [View](./2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays/) |
 | 2685 | Count the Number of Complete Components | Medium | Graph / BFS | [View](./2685.%20Count%20the%20Number%20of%20Complete%20Components/) |
+| 2747 | Count Zero Request Servers | Medium | Array / Hash Table / Sliding Window / Sorting | [View](./2747.%20Count%20Zero%20Request%20Servers/) |
 | 2751 | Robot Collisions | Hard | Array / Stack / Sorting / Simulation | [View](./2751.%20Robot%20Collisions/) |
 | 2770 | Maximum Number of Jumps to Reach the Last Index | Medium | Dynamic Programming / Segment Tree | [View](./2770.%20Maximum%20Number%20of%20Jumps%20to%20Reach%20the%20Last%20Index/) |
 | 2778 | Sum of Squares of Special Elements  | Easy | Array / Enumeration | [View](./2778.%20Sum%20of%20Squares%20of%20Special%20Elements%20/) |
@@ -575,6 +576,7 @@ Both indexes start small and expand naturally.
 | 2574 | Left and Right Sum Differences | Easy | [View](./2574.%20Left%20and%20Right%20Sum%20Differences/) |
 | 2615 | Sum of Distances | Medium | [View](./2615.%20Sum%20of%20Distances/) |
 | 2657 | Find the Prefix Common Array of Two Arrays | Medium | [View](./2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays/) |
+| 2747 | Count Zero Request Servers | Medium | [View](./2747.%20Count%20Zero%20Request%20Servers/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
 | 2778 | Sum of Squares of Special Elements  | Easy | [View](./2778.%20Sum%20of%20Squares%20of%20Special%20Elements%20/) |
 | 2784 | Check if Array is Good | Easy | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
@@ -1073,6 +1075,7 @@ Both indexes start small and expand naturally.
 | 1807 | Evaluate the Bracket Pairs of a String | Medium | [View](./1807.%20Evaluate%20the%20Bracket%20Pairs%20of%20a%20String/) |
 | 2196 | Create Binary Tree From Descriptions | Medium | [View](./2196.%20Create%20Binary%20Tree%20From%20Descriptions/) |
 | 2615 | Sum of Distances | Medium | [View](./2615.%20Sum%20of%20Distances/) |
+| 2747 | Count Zero Request Servers | Medium | [View](./2747.%20Count%20Zero%20Request%20Servers/) |
 | 2784 | Check if Array is Good | Easy | [View](./2784.%20Check%20if%20Array%20is%20Good/) |
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
 | 2897 | Apply Operations on Array to Maximize Sum of Squares | Hard | [View](./2897.%20Apply%20Operations%20on%20Array%20to%20Maximize%20Sum%20of%20Squares/) |
@@ -1425,6 +1428,7 @@ Both indexes start small and expand naturally.
 | 1871 | Jump Game VII | Medium | [View](./1871.%20Jump%20Game%20VII/) |
 | 1888 | Minimum Number of Flips to Make the Binary String Alternating | Medium | [View](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating/) |
 | 1984 | Minimum Difference Between Highest and Lowest of K Scores | Easy | [View](./1984.%20Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) |
+| 2747 | Count Zero Request Servers | Medium | [View](./2747.%20Count%20Zero%20Request%20Servers/) |
 | 2904 | Shortest and Lexicographically Smallest Beautiful String | Medium | [View](./2904.%20Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String/) |
 | 2958 | Length of Longest Subarray With at Most K Frequency | Medium | [View](./2958.%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency/) |
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
@@ -1463,6 +1467,7 @@ Both indexes start small and expand naturally.
 | 2333 | Minimum Sum of Squared Difference | Medium | [View](./2333.%20Minimum%20Sum%20of%20Squared%20Difference/) |
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 2463 | Minimum Total Distance Traveled | Hard | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
+| 2747 | Count Zero Request Servers | Medium | [View](./2747.%20Count%20Zero%20Request%20Servers/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
 | 2948 | Make Lexicographically Smallest Array by Swapping Elements | Medium | [View](./2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements/) |
