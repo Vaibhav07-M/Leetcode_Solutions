@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 165 | [View](#array) |
+| Array | 166 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 19 | [View](#bfs) |
 | Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
@@ -60,7 +60,7 @@ Both indexes start small and expand naturally.
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
 | Hash Table | 46 | [View](#hash-table) |
-| Heap (Priority Queue) | 8 | [View](#heap-priority-queue) |
+| Heap (Priority Queue) | 9 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
@@ -222,6 +222,7 @@ Both indexes start small and expand naturally.
 | 1872 | Stone Game VIII | Hard | Array / Math / Dynamic Programming / Minimax / Prefix Sum / Game Theory / Zero-Sum Game | [View](./1872.%20Stone%20Game%20VIII/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | Array / Greedy / Sorting / Two Pointers | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
 | 1878 | Get Biggest Three Rhombus Sums in a Grid | Medium | Array / Matrix / Prefix Sum | [View](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid/) |
+| 1882 | Process Tasks Using Servers | Medium | Array / Heap (Priority Queue) | [View](./1882.%20Process%20Tasks%20Using%20Servers/) |
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | Matrix / Simulation | [View](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/) |
 | 1888 | Minimum Number of Flips to Make the Binary String Alternating | Medium | String / Sliding Window | [View](./1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating/) |
 | 1895 | Largest Magic Square | Medium | Array / Matrix / Prefix Sum | [View](./1895.%20Largest%20Magic%20Square/) |
@@ -553,6 +554,7 @@ Both indexes start small and expand naturally.
 | 1872 | Stone Game VIII | Hard | [View](./1872.%20Stone%20Game%20VIII/) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [View](./1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/) |
 | 1878 | Get Biggest Three Rhombus Sums in a Grid | Medium | [View](./1878.%20Get%20Biggest%20Three%20Rhombus%20Sums%20in%20a%20Grid/) |
+| 1882 | Process Tasks Using Servers | Medium | [View](./1882.%20Process%20Tasks%20Using%20Servers/) |
 | 1895 | Largest Magic Square | Medium | [View](./1895.%20Largest%20Magic%20Square/) |
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
 | 1975 | Maximum Matrix Sum | Medium | [View](./1975.%20Maximum%20Matrix%20Sum/) |
@@ -1109,6 +1111,7 @@ Both indexes start small and expand naturally.
 ### Heap (Priority Queue)
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 1882 | Process Tasks Using Servers | Medium | [View](./1882.%20Process%20Tasks%20Using%20Servers/) |
 | 2333 | Minimum Sum of Squared Difference | Medium | [View](./2333.%20Minimum%20Sum%20of%20Squared%20Difference/) |
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
