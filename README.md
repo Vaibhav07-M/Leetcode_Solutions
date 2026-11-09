@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 167 | [View](#array) |
+| Array | 168 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 20 | [View](#bfs) |
 | Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
@@ -60,7 +60,7 @@ Both indexes start small and expand naturally.
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
 | Hash Table | 46 | [View](#hash-table) |
-| Heap (Priority Queue) | 9 | [View](#heap-priority-queue) |
+| Heap (Priority Queue) | 10 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
@@ -71,14 +71,14 @@ Both indexes start small and expand naturally.
 | Minimax | 5 | [View](#minimax) |
 | Monotonic Stack | 3 | [View](#monotonic-stack) |
 | Number Theory | 6 | [View](#number-theory) |
-| Ordered Set | 2 | [View](#ordered-set) |
+| Ordered Set | 3 | [View](#ordered-set) |
 | Prefix Sum | 27 | [View](#prefix-sum) |
 | Recursion | 3 | [View](#recursion) |
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Run-Length Encoding | 2 | [View](#run-length-encoding) |
 | Segment Tree | 8 | [View](#segment-tree) |
 | Shortest Path | 6 | [View](#shortest-path) |
-| Simulation | 29 | [View](#simulation) |
+| Simulation | 30 | [View](#simulation) |
 | Sliding Window | 16 | [View](#sliding-window) |
 | Sorting | 45 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
@@ -197,6 +197,7 @@ Both indexes start small and expand naturally.
 | 1569 | Number of Ways to Reorder Array to Get Same BST | Hard | Array / Math / Divide and Conquer / Dynamic Programming / Tree / Union-Find / Binary Search Tree / Memoization / Combinatorics / Binary Tree / Fermat's Little Theorem | [View](./1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/) |
 | 1582 | Special Positions in a Binary Matrix | Easy | Array / Matrix | [View](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix/) |
 | 1594 | Maximum Non Negative Product in a Matrix | Medium | Array / Dynamic Programming / Matrix | [View](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/) |
+| 1606 | Find Servers That Handled Most Number of Requests | Hard | Array / Heap (Priority Queue) / Simulation / Ordered Set | [View](./1606.%20Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests/) |
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | String / Stack / Bracket Sequences | [View](./1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/) |
 | 1621 | Number of Sets of K Non-Overlapping Line Segments | Medium | Math / Dynamic Programming / Combinatorics / Prefix Sum | [View](./1621.%20Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments/) |
 | 1622 | Fancy Sequence | Hard | Design / Math / Segment Tree | [View](./1622.%20Fancy%20Sequence/) |
@@ -541,6 +542,7 @@ Both indexes start small and expand naturally.
 | 1569 | Number of Ways to Reorder Array to Get Same BST | Hard | [View](./1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/) |
 | 1582 | Special Positions in a Binary Matrix | Easy | [View](./1582.%20Special%20Positions%20in%20a%20Binary%20Matrix/) |
 | 1594 | Maximum Non Negative Product in a Matrix | Medium | [View](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/) |
+| 1606 | Find Servers That Handled Most Number of Requests | Hard | [View](./1606.%20Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests/) |
 | 1658 | Minimum Operations to Reduce X to Zero | Medium | [View](./1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/) |
 | 1665 | Minimum Initial Energy to Finish Tasks | Hard | [View](./1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks/) |
 | 1674 | Minimum Moves to Make Array Complementary | Medium | [View](./1674.%20Minimum%20Moves%20to%20Make%20Array%20Complementary/) |
@@ -1116,6 +1118,7 @@ Both indexes start small and expand naturally.
 ### Heap (Priority Queue)
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 1606 | Find Servers That Handled Most Number of Requests | Hard | [View](./1606.%20Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests/) |
 | 1882 | Process Tasks Using Servers | Medium | [View](./1882.%20Process%20Tasks%20Using%20Servers/) |
 | 2333 | Minimum Sum of Squared Difference | Medium | [View](./2333.%20Minimum%20Sum%20of%20Squared%20Difference/) |
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
@@ -1319,6 +1322,7 @@ Both indexes start small and expand naturally.
 ### Ordered Set
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 1606 | Find Servers That Handled Most Number of Requests | Hard | [View](./1606.%20Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests/) |
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
 | 3161 | Block Placement Queries | Hard | [View](./3161.%20Block%20Placement%20Queries/) |
 
@@ -1402,6 +1406,7 @@ Both indexes start small and expand naturally.
 | 799 | Champagne Tower | Medium | [View](./799.%20Champagne%20Tower/) |
 | 874 | Walking Robot Simulation | Medium | [View](./874.%20Walking%20Robot%20Simulation/) |
 | 1260 | Shift 2D Grid | Easy | [View](./1260.%20Shift%202D%20Grid/) |
+| 1606 | Find Servers That Handled Most Number of Requests | Hard | [View](./1606.%20Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests/) |
 | 1680 | Concatenation of Consecutive Binary Numbers | Medium | [View](./1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/) |
 | 1861 | Rotating the Box | Medium | [View](./1861.%20Rotating%20the%20Box/) |
 | 1886 | Determine Whether Matrix Can Be Obtained By Rotation | Easy | [View](./1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation/) |
