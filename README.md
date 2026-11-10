@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 168 | [View](#array) |
+| Array | 169 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 20 | [View](#bfs) |
 | Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
@@ -48,7 +48,7 @@ Both indexes start small and expand naturally.
 | DFS | 16 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 5 | [View](#divide-and-conquer) |
-| Dynamic Programming | 55 | [View](#dynamic-programming) |
+| Dynamic Programming | 56 | [View](#dynamic-programming) |
 | Enumeration | 10 | [View](#enumeration) |
 | Fermat's Little Theorem | 1 | [View](#fermats-little-theorem) |
 | Game Theory | 9 | [View](#game-theory) |
@@ -379,6 +379,7 @@ Both indexes start small and expand naturally.
 | 3666 | Minimum Operations to Equalize Binary String | Hard | String / BFS / Math / Greedy | [View](./3666.%20Minimum%20Operations%20to%20Equalize%20Binary%20String/) |
 | 3689 | Maximum Total Subarray Value I | Medium | Array | [View](./3689.%20Maximum%20Total%20Subarray%20Value%20I/) |
 | 3691 | Maximum Total Subarray Value II | Hard | Array | [View](./3691.%20Maximum%20Total%20Subarray%20Value%20II/) |
+| 3693 | Climbing Stairs II | Medium | Array / Dynamic Programming | [View](./3693.%20Climbing%20Stairs%20II/) |
 | 3699 | Number of ZigZag Arrays I | Hard | Array / Dynamic Programming / Prefix Sum | [View](./3699.%20Number%20of%20ZigZag%20Arrays%20I/) |
 | 3700 | Number of ZigZag Arrays II | Hard | Array / Dynamic Programming / Matrix Exponentiation / Graph | [View](./3700.%20Number%20of%20ZigZag%20Arrays%20II/) |
 | 3702 | Longest Subsequence With Non-Zero Bitwise XOR | Medium | Array / Bit Manipulation / XOR | [View](./3702.%20Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR/) |
@@ -647,6 +648,7 @@ Both indexes start small and expand naturally.
 | 3665 | Twisted Mirror Path Count | Medium | [View](./3665.%20Twisted%20Mirror%20Path%20Count/) |
 | 3689 | Maximum Total Subarray Value I | Medium | [View](./3689.%20Maximum%20Total%20Subarray%20Value%20I/) |
 | 3691 | Maximum Total Subarray Value II | Hard | [View](./3691.%20Maximum%20Total%20Subarray%20Value%20II/) |
+| 3693 | Climbing Stairs II | Medium | [View](./3693.%20Climbing%20Stairs%20II/) |
 | 3699 | Number of ZigZag Arrays I | Hard | [View](./3699.%20Number%20of%20ZigZag%20Arrays%20I/) |
 | 3700 | Number of ZigZag Arrays II | Hard | [View](./3700.%20Number%20of%20ZigZag%20Arrays%20II/) |
 | 3702 | Longest Subsequence With Non-Zero Bitwise XOR | Medium | [View](./3702.%20Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR/) |
@@ -912,6 +914,7 @@ Both indexes start small and expand naturally.
 | 3660 | Jump Game IX | Medium | [View](./3660.%20Jump%20Game%20IX/) |
 | 3661 | Maximum Walls Destroyed by Robots | Hard | [View](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/) |
 | 3665 | Twisted Mirror Path Count | Medium | [View](./3665.%20Twisted%20Mirror%20Path%20Count/) |
+| 3693 | Climbing Stairs II | Medium | [View](./3693.%20Climbing%20Stairs%20II/) |
 | 3699 | Number of ZigZag Arrays I | Hard | [View](./3699.%20Number%20of%20ZigZag%20Arrays%20I/) |
 | 3700 | Number of ZigZag Arrays II | Hard | [View](./3700.%20Number%20of%20ZigZag%20Arrays%20II/) |
 | 3742 | Maximum Path Score in a Grid | Medium | [View](./3742.%20Maximum%20Path%20Score%20in%20a%20Grid/) |
