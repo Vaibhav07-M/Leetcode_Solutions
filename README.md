@@ -56,7 +56,7 @@ Both indexes start small and expand naturally.
 | Geometry | 8 | [View](#geometry) |
 | Graph | 17 | [View](#graph) |
 | Graph Theory | 1 | [View](#graph-theory) |
-| Greedy | 53 | [View](#greedy) |
+| Greedy | 54 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
 | Hash Table | 46 | [View](#hash-table) |
@@ -64,7 +64,7 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
-| Math | 80 | [View](#math) |
+| Math | 81 | [View](#math) |
 | Matrix | 45 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Memoization | 1 | [View](#memoization) |
@@ -405,6 +405,7 @@ Both indexes start small and expand naturally.
 | 3756 | Concatenate Non-Zero Digits and Multiply by Sum II | Medium | String / Prefix Sum / Binary Search | [View](./3756.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20II/) |
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | Array / Hash Table / Math | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
 | 3783 | Mirror Distance of an Integer | Easy | Math | [View](./3783.%20Mirror%20Distance%20of%20an%20Integer/) |
+| 3789 | Minimum Cost to Acquire Required Items | Medium | Math / Greedy | [View](./3789.%20Minimum%20Cost%20to%20Acquire%20Required%20Items/) |
 | 3838 | Weighted Word Mapping | Easy | Array / String / Math | [View](./3838.%20Weighted%20Word%20Mapping/) |
 | 3841 | Palindromic Path Queries in a Tree | Hard | Array / String / Divide and Conquer / Bit Manipulation / Tree / DFS / Binary Indexed Tree / Segment Tree | [View](./3841.%20Palindromic%20Path%20Queries%20in%20a%20Tree/) |
 | 3863 | Minimum Operations to Sort a String | Medium | String | [View](./3863.%20Minimum%20Operations%20to%20Sort%20a%20String/) |
@@ -1056,6 +1057,7 @@ Both indexes start small and expand naturally.
 | 3720 | Lexicographically Smallest Permutation Greater Than Target | Medium | [View](./3720.%20Lexicographically%20Smallest%20Permutation%20Greater%20Than%20Target/) |
 | 3723 | Maximize Sum of Squares of Digits | Medium | [View](./3723.%20Maximize%20Sum%20of%20Squares%20of%20Digits/) |
 | 3727 | Maximum Alternating Sum of Squares | Medium | [View](./3727.%20Maximum%20Alternating%20Sum%20of%20Squares/) |
+| 3789 | Minimum Cost to Acquire Required Items | Medium | [View](./3789.%20Minimum%20Cost%20to%20Acquire%20Required%20Items/) |
 
 ### Hash Map
 | # | Title | Difficulty | Solution |
@@ -1230,6 +1232,7 @@ Both indexes start small and expand naturally.
 | 3754 | Concatenate Non-Zero Digits and Multiply by Sum I | Easy | [View](./3754.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I/) |
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
 | 3783 | Mirror Distance of an Integer | Easy | [View](./3783.%20Mirror%20Distance%20of%20an%20Integer/) |
+| 3789 | Minimum Cost to Acquire Required Items | Medium | [View](./3789.%20Minimum%20Cost%20to%20Acquire%20Required%20Items/) |
 | 3838 | Weighted Word Mapping | Easy | [View](./3838.%20Weighted%20Word%20Mapping/) |
 | 3867 | Sum of GCD of Formed Pairs | Medium | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 | 3870 | Count Commas in Range | Easy | [View](./3870.%20Count%20Commas%20in%20Range/) |
