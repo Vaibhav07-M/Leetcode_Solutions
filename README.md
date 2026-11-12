@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 169 | [View](#array) |
+| Array | 170 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 20 | [View](#bfs) |
 | Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
@@ -302,6 +302,7 @@ Both indexes start small and expand naturally.
 | 3075 | Maximize Happiness of Selected Children | Medium | Greedy / Sorting | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
 | 3090 | Maximum Length Substring With Two Occurrences | Easy | String / Sliding Window / Hash Table | [View](./3090.%20Maximum%20Length%20Substring%20With%20Two%20Occurrences/) |
 | 3093 | Longest Common Suffix Queries | Hard | Trie / String | [View](./3093.%20Longest%20Common%20Suffix%20Queries/) |
+| 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | Array | [View](./3105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray/) |
 | 3116 | Kth Smallest Amount With Single Denomination Combination | Hard | Array / Math / Binary Search / Bit Manipulation / Combinatorics / Number Theory | [View](./3116.%20Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination/) |
 | 3120 | Count the Number of Special Characters I | Easy | String / Hash Table | [View](./3120.%20Count%20the%20Number%20of%20Special%20Characters%20I/) |
 | 3121 | Count the Number of Special Characters II | Medium | String / Counting | [View](./3121.%20Count%20the%20Number%20of%20Special%20Characters%20II/) |
@@ -603,6 +604,7 @@ Both indexes start small and expand naturally.
 | 3069 | Distribute Elements Into Two Arrays I | Easy | [View](./3069.%20Distribute%20Elements%20Into%20Two%20Arrays%20I/) |
 | 3070 | Count Submatrices with Top-Left Element and Sum Less Than k | Medium | [View](./3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
+| 3105 | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | [View](./3105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray/) |
 | 3116 | Kth Smallest Amount With Single Denomination Combination | Hard | [View](./3116.%20Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination/) |
 | 3129 | Find All Possible Stable Binary Arrays I | Medium | [View](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I/) |
 | 3130 | Find All Possible Stable Binary Arrays II | Hard | [View](./3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II/) |
