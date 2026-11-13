@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 170 | [View](#array) |
+| Array | 171 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 20 | [View](#bfs) |
 | Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
@@ -69,20 +69,22 @@ Both indexes start small and expand naturally.
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Memoization | 1 | [View](#memoization) |
 | Minimax | 5 | [View](#minimax) |
-| Monotonic Stack | 3 | [View](#monotonic-stack) |
+| Monotonic Queue | 1 | [View](#monotonic-queue) |
+| Monotonic Stack | 4 | [View](#monotonic-stack) |
 | Number Theory | 6 | [View](#number-theory) |
 | Ordered Set | 3 | [View](#ordered-set) |
 | Prefix Sum | 27 | [View](#prefix-sum) |
+| Queue | 1 | [View](#queue) |
 | Recursion | 3 | [View](#recursion) |
 | Rolling Hash | 1 | [View](#rolling-hash) |
 | Run-Length Encoding | 2 | [View](#run-length-encoding) |
-| Segment Tree | 8 | [View](#segment-tree) |
+| Segment Tree | 9 | [View](#segment-tree) |
 | Shortest Path | 6 | [View](#shortest-path) |
 | Simulation | 30 | [View](#simulation) |
-| Sliding Window | 16 | [View](#sliding-window) |
+| Sliding Window | 17 | [View](#sliding-window) |
 | Sorting | 45 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
-| Stack | 15 | [View](#stack) |
+| Stack | 16 | [View](#stack) |
 | String | 83 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
@@ -325,6 +327,7 @@ Both indexes start small and expand naturally.
 | 3379 | Transformed Array | Easy | Array / Simulation | [View](./3379.%20Transformed%20Array/) |
 | 3414 | Maximum Score of Non-overlapping Intervals | Hard | Array / Binary Search / Dynamic Programming / Sorting | [View](./3414.%20Maximum%20Score%20of%20Non-overlapping%20Intervals/) |
 | 3418 | Maximum Amount of Money Robot Can Earn | Medium | Array / Dynamic Programming / Matrix | [View](./3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn/) |
+| 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | Array / Stack / Segment Tree / Queue / Sliding Window / Monotonic Stack / Monotonic Queue | [View](./3420.%20Count%20Non-Decreasing%20Subarrays%20After%20K%20Operations/) |
 | 3453 | Separate Squares I | Medium | Array / Binary Search / Geometry / Math / Sorting | [View](./3453.%20Separate%20Squares%20I/) |
 | 3454 | Separate Squares II | Hard | Array / Binary Search / Geometry / Line Sweep / Coordinate Compression / Sorting | [View](./3454.%20Separate%20Squares%20II/) |
 | 3464 | Maximize the Distance Between Points on a Square | Hard | Array / Binary Search / Geometry / Sorting | [View](./3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square/) |
@@ -619,6 +622,7 @@ Both indexes start small and expand naturally.
 | 3379 | Transformed Array | Easy | [View](./3379.%20Transformed%20Array/) |
 | 3414 | Maximum Score of Non-overlapping Intervals | Hard | [View](./3414.%20Maximum%20Score%20of%20Non-overlapping%20Intervals/) |
 | 3418 | Maximum Amount of Money Robot Can Earn | Medium | [View](./3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn/) |
+| 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | [View](./3420.%20Count%20Non-Decreasing%20Subarrays%20After%20K%20Operations/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
 | 3454 | Separate Squares II | Hard | [View](./3454.%20Separate%20Squares%20II/) |
 | 3464 | Maximize the Distance Between Points on a Square | Hard | [View](./3464.%20Maximize%20the%20Distance%20Between%20Points%20on%20a%20Square/) |
@@ -1309,12 +1313,18 @@ Both indexes start small and expand naturally.
 | 1140 | Stone Game II | Medium | [View](./1140.%20Stone%20Game%20II/) |
 | 1406 | Stone Game III | Hard | [View](./1406.%20Stone%20Game%20III/) |
 | 1872 | Stone Game VIII | Hard | [View](./1872.%20Stone%20Game%20VIII/) |
+### Monotonic Queue
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | [View](./3420.%20Count%20Non-Decreasing%20Subarrays%20After%20K%20Operations/) |
+
 
 ### Monotonic Stack
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 85 | Maximal Rectangle | Hard | [View](./85.%20Maximal%20Rectangle/) |
 | 1081 | Smallest Subsequence of Distinct Characters | Medium | [View](./1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters/) |
+| 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | [View](./3420.%20Count%20Non-Decreasing%20Subarrays%20After%20K%20Operations/) |
 | 3660 | Jump Game IX | Medium | [View](./3660.%20Jump%20Game%20IX/) |
 
 ### Number Theory
@@ -1364,6 +1374,11 @@ Both indexes start small and expand naturally.
 | 3756 | Concatenate Non-Zero Digits and Multiply by Sum II | Medium | String / Prefix Sum / Binary Search | [View](./3756.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20II/) |
 | 3903 | Smallest Stable Index I | Easy | [View](./3903.%20Smallest%20Stable%20Index%20I/) |
 | 3904 | Smallest Stable Index II | Medium | [View](./3904.%20Smallest%20Stable%20Index%20II/) |
+### Queue
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | [View](./3420.%20Count%20Non-Decreasing%20Subarrays%20After%20K%20Operations/) |
+
 
 ### Recursion
 | # | Title | Difficulty | Solution |
@@ -1391,6 +1406,7 @@ Both indexes start small and expand naturally.
 |---|--------|------------|---------|
 | 1622 | Fancy Sequence | Hard | [View](./1622.%20Fancy%20Sequence/) |
 | 2213 | Longest Substring of One Repeating Character | Hard | [View](./2213.%20Longest%20Substring%20of%20One%20Repeating%20Character/) |
+| 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | [View](./3420.%20Count%20Non-Decreasing%20Subarrays%20After%20K%20Operations/) |
 | 3501 | Maximize Active Section with Trade II | Hard | [View](./3501.%20Maximize%20Active%20Section%20with%20Trade%20II/) |
 | 3525 | Find X Value of Array II | Hard | [View](./3525.%20Find%20X%20Value%20of%20Array%20II/) |
 | 3721 | Longest Balanced Subarray II | Hard | [View](./3721.%20Longest%20Balanced%20Subarray%20II/) |
@@ -1438,6 +1454,7 @@ Both indexes start small and expand naturally.
 | 3633 | Earliest Finish Time for Land and Water Rides I | Easy | [View](./3633.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20I/) |
 | 3635 | Earliest Finish Time for Land and Water Rides II | Medium | [View](./3635.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20II/) |
 | 3643 | Flip Square Submatrix Vertically | Easy | [View](./3643.%20Flip%20Square%20Submatrix%20Vertically/) |
+| 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | [View](./3420.%20Count%20Non-Decreasing%20Subarrays%20After%20K%20Operations/) |
 | 3653 | XOR After Range Multiplication Queries I | Medium | [View](./3653.%20XOR%20After%20Range%20Multiplication%20Queries%20I/) |
 | 3655 | XOR After Range Multiplication Queries II | Hard | [View](./3655.%20XOR%20After%20Range%20Multiplication%20Queries%20II/) |
 
@@ -1533,6 +1550,7 @@ Both indexes start small and expand naturally.
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | [View](./1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/) |
 | 1653 | Minimum Deletions to Make String Balanced | Medium | [View](./1653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
+| 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | [View](./3420.%20Count%20Non-Decreasing%20Subarrays%20After%20K%20Operations/) |
 
 ### String
 | # | Title | Difficulty | Solution |
