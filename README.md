@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 171 | [View](#array) |
+| Array | 172 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 20 | [View](#bfs) |
 | Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
@@ -73,7 +73,7 @@ Both indexes start small and expand naturally.
 | Monotonic Stack | 4 | [View](#monotonic-stack) |
 | Number Theory | 6 | [View](#number-theory) |
 | Ordered Set | 3 | [View](#ordered-set) |
-| Prefix Sum | 27 | [View](#prefix-sum) |
+| Prefix Sum | 28 | [View](#prefix-sum) |
 | Queue | 1 | [View](#queue) |
 | Recursion | 3 | [View](#recursion) |
 | Rolling Hash | 1 | [View](#rolling-hash) |
@@ -81,7 +81,7 @@ Both indexes start small and expand naturally.
 | Segment Tree | 9 | [View](#segment-tree) |
 | Shortest Path | 6 | [View](#shortest-path) |
 | Simulation | 30 | [View](#simulation) |
-| Sliding Window | 17 | [View](#sliding-window) |
+| Sliding Window | 18 | [View](#sliding-window) |
 | Sorting | 45 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 16 | [View](#stack) |
@@ -324,6 +324,7 @@ Both indexes start small and expand naturally.
 | 3336 | Find the Number of Subsequences With Equal GCD | Hard | Dynamic Programming / Math / GCD | [View](./3336.%20Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD/) |
 | 3345 | Smallest Divisible Digit Product I | Easy | Math / Simulation | [View](./3345.%20Smallest%20Divisible%20Digit%20Product%20I/) |
 | 3348 | Smallest Divisible Digit Product II | Hard | Math / Greedy / Number Theory / String | [View](./3348.%20Smallest%20Divisible%20Digit%20Product%20II/) |
+| 3364 | Minimum Positive Sum Subarray  | Easy | Array / Sliding Window / Prefix Sum | [View](./3364.%20Minimum%20Positive%20Sum%20Subarray%20/) |
 | 3379 | Transformed Array | Easy | Array / Simulation | [View](./3379.%20Transformed%20Array/) |
 | 3414 | Maximum Score of Non-overlapping Intervals | Hard | Array / Binary Search / Dynamic Programming / Sorting | [View](./3414.%20Maximum%20Score%20of%20Non-overlapping%20Intervals/) |
 | 3418 | Maximum Amount of Money Robot Can Earn | Medium | Array / Dynamic Programming / Matrix | [View](./3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn/) |
@@ -619,6 +620,7 @@ Both indexes start small and expand naturally.
 | 3312 | Sorted GCD Pair Queries | Hard | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
 | 3314 | Construct the Minimum Bitwise Array I | Easy | [View](./3314.%20Construct%20the%20Minimum%20Bitwise%20Array%20I/) |
 | 3315 | Construct the Minimum Bitwise Array II | Medium | [View](./3315.%20Construct%20the%20Minimum%20Bitwise%20Array%20II/) |
+| 3364 | Minimum Positive Sum Subarray  | Easy | [View](./3364.%20Minimum%20Positive%20Sum%20Subarray%20/) |
 | 3379 | Transformed Array | Easy | [View](./3379.%20Transformed%20Array/) |
 | 3414 | Maximum Score of Non-overlapping Intervals | Hard | [View](./3414.%20Maximum%20Score%20of%20Non-overlapping%20Intervals/) |
 | 3418 | Maximum Amount of Money Robot Can Earn | Medium | [View](./3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn/) |
@@ -1364,6 +1366,7 @@ Both indexes start small and expand naturally.
 | 3212 | Count Submatrices With Equal Frequency of X and Y | Medium | [View](./3212.%20Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y/) |
 | 3225 | Maximum Score From Grid Operations | Hard | [View](./3225.%20Maximum%20Score%20From%20Grid%20Operations/) |
 | 3312 | Sorted GCD Pair Queries | Hard | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
+| 3364 | Minimum Positive Sum Subarray  | Easy | [View](./3364.%20Minimum%20Positive%20Sum%20Subarray%20/) |
 | 3546 | Equal Sum Grid Partition I | Medium | [View](./3546.%20Equal%20Sum%20Grid%20Partition%20I/) |
 | 3548 | Equal Sum Grid Partition II | Hard | [View](./3548.%20Equal%20Sum%20Grid%20Partition%20II/) |
 | 3699 | Number of ZigZag Arrays I | Hard | [View](./3699.%20Number%20of%20ZigZag%20Arrays%20I/) |
@@ -1472,6 +1475,7 @@ Both indexes start small and expand naturally.
 | 2958 | Length of Longest Subarray With at Most K Frequency | Medium | [View](./2958.%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency/) |
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
 | 3090 | Maximum Length Substring With Two Occurrences | Easy | [View](./3090.%20Maximum%20Length%20Substring%20With%20Two%20Occurrences/) |
+| 3364 | Minimum Positive Sum Subarray  | Easy | [View](./3364.%20Minimum%20Positive%20Sum%20Subarray%20/) |
 | 3505 | Minimum Operations to Make Elements Within K Subarrays Equal | Hard | [View](./3505.%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal/) |
 | 3567 | Minimum Absolute Difference in Sliding Submatrix | Medium | [View](./3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix/) |
 | 3634 | Minimum Removals to Balance Array | Medium | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
