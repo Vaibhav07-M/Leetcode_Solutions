@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 172 | [View](#array) |
+| Array | 173 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 20 | [View](#bfs) |
 | Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
@@ -48,7 +48,7 @@ Both indexes start small and expand naturally.
 | DFS | 16 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 5 | [View](#divide-and-conquer) |
-| Dynamic Programming | 56 | [View](#dynamic-programming) |
+| Dynamic Programming | 57 | [View](#dynamic-programming) |
 | Enumeration | 10 | [View](#enumeration) |
 | Fermat's Little Theorem | 1 | [View](#fermats-little-theorem) |
 | Game Theory | 9 | [View](#game-theory) |
@@ -64,7 +64,7 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
-| Math | 81 | [View](#math) |
+| Math | 82 | [View](#math) |
 | Matrix | 45 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Memoization | 1 | [View](#memoization) |
@@ -73,7 +73,7 @@ Both indexes start small and expand naturally.
 | Monotonic Stack | 4 | [View](#monotonic-stack) |
 | Number Theory | 6 | [View](#number-theory) |
 | Ordered Set | 3 | [View](#ordered-set) |
-| Prefix Sum | 28 | [View](#prefix-sum) |
+| Prefix Sum | 29 | [View](#prefix-sum) |
 | Queue | 1 | [View](#queue) |
 | Recursion | 3 | [View](#recursion) |
 | Rolling Hash | 1 | [View](#rolling-hash) |
@@ -191,6 +191,7 @@ Both indexes start small and expand naturally.
 | 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | Array / Hash Table / Binary Search / Dynamic Programming / Sliding Window | [View](./1477.%20Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum/) |
 | 1510 | Stone Game IV | Medium | Dynamic Programming / Game Theory / Math | [View](./1510.%20Stone%20Game%20IV/) |
 | 1520 | Maximum Number of Non-Overlapping Substrings | Hard | Hash Table / String / Greedy / Sorting | [View](./1520.%20Maximum%20Number%20of%20Non-Overlapping%20Substrings/) |
+| 1524 | Number of Sub-arrays With Odd Sum | Medium | Array / Math / Dynamic Programming / Prefix Sum | [View](./1524.%20Number%20of%20Sub-arrays%20With%20Odd%20Sum/) |
 | 1536 | Minimum Swaps to Arrange a Binary Grid | Medium | Array / Greedy / Sorting / Matrix | [View](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid/) |
 | 1541 | Minimum Insertions to Balance a Parentheses String | Medium | String / Stack / Greedy / Bracket Sequences | [View](./1541.%20Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String/) |
 | 1545 | Find Kth Bit in Nth Binary String | Medium | String / Recursion / Divide and Conquer | [View](./1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/) |
@@ -544,6 +545,7 @@ Both indexes start small and expand naturally.
 | 1458 | Max Dot Product of Two Subsequences | Hard | [View](./1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences/) |
 | 1464 | Maximum Product of Two Elements in an Array | Easy | [View](./1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/) |
 | 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | [View](./1477.%20Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum/) |
+| 1524 | Number of Sub-arrays With Odd Sum | Medium | [View](./1524.%20Number%20of%20Sub-arrays%20With%20Odd%20Sum/) |
 | 1536 | Minimum Swaps to Arrange a Binary Grid | Medium | [View](./1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid/) |
 | 1563 | Stone Game V | Hard | [View](./1563.%20Stone%20Game%20V/) |
 | 1569 | Number of Ways to Reorder Array to Get Same BST | Hard | [View](./1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/) |
@@ -895,6 +897,7 @@ Both indexes start small and expand naturally.
 | 1510 | Stone Game IV | Medium | [View](./1510.%20Stone%20Game%20IV/) |
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
 | 1458 | Max Dot Product of Two Subsequences | Hard | [View](./1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences/) |
+| 1524 | Number of Sub-arrays With Odd Sum | Medium | [View](./1524.%20Number%20of%20Sub-arrays%20With%20Odd%20Sum/) |
 | 1563 | Stone Game V | Hard | [View](./1563.%20Stone%20Game%20V/) |
 | 1569 | Number of Ways to Reorder Array to Get Same BST | Hard | [View](./1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/) |
 | 1594 | Maximum Non Negative Product in a Matrix | Medium | [View](./1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix/) |
@@ -1190,6 +1193,7 @@ Both indexes start small and expand naturally.
 | 1415 | The k-th Lexicographical String of All Happy Strings of Length n | Medium | [View](./1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n/) |
 | 1464 | Maximum Product of Two Elements in an Array | Easy | [View](./1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/) |
 | 1510 | Stone Game IV | Medium | [View](./1510.%20Stone%20Game%20IV/) |
+| 1524 | Number of Sub-arrays With Odd Sum | Medium | [View](./1524.%20Number%20of%20Sub-arrays%20With%20Odd%20Sum/) |
 | 1563 | Stone Game V | Hard | [View](./1563.%20Stone%20Game%20V/) |
 | 1569 | Number of Ways to Reorder Array to Get Same BST | Hard | [View](./1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/) |
 | 1621 | Number of Sets of K Non-Overlapping Line Segments | Medium | [View](./1621.%20Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments/) |
@@ -1350,6 +1354,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 1292 | Maximum Side Length of a Square with Sum less than or Equal to Threshold | Medium | [View](./1292.%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold/) |
+| 1524 | Number of Sub-arrays With Odd Sum | Medium | [View](./1524.%20Number%20of%20Sub-arrays%20With%20Odd%20Sum/) |
 | 1621 | Number of Sets of K Non-Overlapping Line Segments | Medium | [View](./1621.%20Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments/) |
 | 1658 | Minimum Operations to Reduce X to Zero | Medium | [View](./1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/) |
 | 1674 | Minimum Moves to Make Array Complementary | Medium | [View](./1674.%20Minimum%20Moves%20to%20Make%20Array%20Complementary/) |
