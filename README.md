@@ -80,12 +80,12 @@ Both indexes start small and expand naturally.
 | Run-Length Encoding | 2 | [View](#run-length-encoding) |
 | Segment Tree | 9 | [View](#segment-tree) |
 | Shortest Path | 6 | [View](#shortest-path) |
-| Simulation | 30 | [View](#simulation) |
+| Simulation | 31 | [View](#simulation) |
 | Sliding Window | 18 | [View](#sliding-window) |
 | Sorting | 45 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 16 | [View](#stack) |
-| String | 83 | [View](#string) |
+| String | 84 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -254,6 +254,7 @@ Both indexes start small and expand naturally.
 | 2161 | Partition Array According to Given Pivot | Easy | Array | [View](./2161.%20Partition%20Array%20According%20to%20Given%20Pivot/) |
 | 2196 | Create Binary Tree From Descriptions | Medium | Tree / Hash Table | [View](./2196.%20Create%20Binary%20Tree%20From%20Descriptions/) |
 | 2213 | Longest Substring of One Repeating Character | Hard | Segment Tree | [View](./2213.%20Longest%20Substring%20of%20One%20Repeating%20Character/) |
+| 2243 | Calculate Digit Sum of a String | Easy | String / Simulation | [View](./2243.%20Calculate%20Digit%20Sum%20of%20a%20String/) |
 | 2265 | Count Nodes Equal to Average of Subtree | Medium | Tree / DFS / Binary Tree | [View](./2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/) |
 | 2267 |  Check if There Is a Valid Parentheses String Path | Hard | Array / Dynamic Programming / Matrix / Bracket Sequences | [View](./2267.%20%20Check%20if%20There%20Is%20a%20Valid%20Parentheses%20String%20Path/) |
 | 2333 | Minimum Sum of Squared Difference | Medium | Array / Binary Search / Greedy / Sorting / Heap (Priority Queue) | [View](./2333.%20Minimum%20Sum%20of%20Squared%20Difference/) |
@@ -1445,6 +1446,7 @@ Both indexes start small and expand naturally.
 | 1914 | Cyclically Rotating a Grid | Medium | [View](./1914.%20Cyclically%20Rotating%20a%20Grid/) |
 | 2069 | Walking Robot Simulation II | Medium | [View](./2069.%20Walking%20Robot%20Simulation%20II/) |
 | 2075 | Decode the Slanted Ciphertext | Medium | [View](./2075.%20Decode%20the%20Slanted%20Ciphertext/) |
+| 2243 | Calculate Digit Sum of a String | Easy | [View](./2243.%20Calculate%20Digit%20Sum%20of%20a%20String/) |
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
 | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | [View](./2839.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) |
@@ -1608,6 +1610,7 @@ Both indexes start small and expand naturally.
 | 1967 | Number of Strings That Appear as Substrings in Word | Easy | [View](./1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) |
 | 1980 | Find Unique Binary String | Medium | [View](./1980.%20Find%20Unique%20Binary%20String/) |
 | 2075 | Decode the Slanted Ciphertext | Medium | [View](./2075.%20Decode%20the%20Slanted%20Ciphertext/) |
+| 2243 | Calculate Digit Sum of a String | Easy | [View](./2243.%20Calculate%20Digit%20Sum%20of%20a%20String/) |
 | 2409 | Count Days Spent Together | Easy | [View](./2409.%20Count%20Days%20Spent%20Together/) |
 | 2452 | Words Within Two Edits of Dictionary | Medium | [View](./2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary/) |
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings | Hard | [View](./2472.%20Maximum%20Number%20of%20Non-overlapping%20Palindrome%20Substrings/) |
