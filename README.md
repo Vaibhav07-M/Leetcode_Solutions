@@ -48,7 +48,7 @@ Both indexes start small and expand naturally.
 | DFS | 16 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 5 | [View](#divide-and-conquer) |
-| Dynamic Programming | 57 | [View](#dynamic-programming) |
+| Dynamic Programming | 58 | [View](#dynamic-programming) |
 | Enumeration | 10 | [View](#enumeration) |
 | Fermat's Little Theorem | 1 | [View](#fermats-little-theorem) |
 | Game Theory | 9 | [View](#game-theory) |
@@ -85,12 +85,12 @@ Both indexes start small and expand naturally.
 | Sorting | 45 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 16 | [View](#stack) |
-| String | 84 | [View](#string) |
+| String | 85 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
 | Tree | 12 | [View](#tree) |
-| Two Pointers | 14 | [View](#two-pointers) |
+| Two Pointers | 15 | [View](#two-pointers) |
 | Union Find | 4 | [View](#union-find) |
 | Union-Find | 5 | [View](#union-find) |
 | XOR | 5 | [View](#xor) |
@@ -284,6 +284,7 @@ Both indexes start small and expand naturally.
 | 2897 | Apply Operations on Array to Maximize Sum of Squares | Hard | Array / Hash Table / Greedy / Bit Manipulation | [View](./2897.%20Apply%20Operations%20on%20Array%20to%20Maximize%20Sum%20of%20Squares/) |
 | 2904 | Shortest and Lexicographically Smallest Beautiful String | Medium | String / Sliding Window | [View](./2904.%20Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String/) |
 | 2906 | Construct Product Matrix | Medium | Array / Matrix / Math / Prefix Sum | [View](./2906.%20Construct%20Product%20Matrix/) |
+| 2911 | Minimum Changes to Make K Semi-palindromes | Hard | Two Pointers / String / Dynamic Programming | [View](./2911.%20Minimum%20Changes%20to%20Make%20K%20Semi-palindromes/) |
 | 2913 | Subarrays Distinct Element Sum of Squares I | Easy | Array / Hash Table / Binary Indexed Tree / Segment Tree | [View](./2913.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20I/) |
 | 2916 | Subarrays Distinct Element Sum of Squares II | Hard | Array / Hash Table / Binary Indexed Tree / Segment Tree | [View](./2916.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20II/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | Array / Sorting / Greedy | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
@@ -910,6 +911,7 @@ Both indexes start small and expand naturally.
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings | Hard | [View](./2472.%20Maximum%20Number%20of%20Non-overlapping%20Palindrome%20Substrings/) |
 | 2573 | Find the String with LCP | Hard | [View](./2573.%20Find%20the%20String%20with%20LCP/) |
 | 2770 | Maximum Number of Jumps to Reach the Last Index | Medium | [View](./2770.%20Maximum%20Number%20of%20Jumps%20to%20Reach%20the%20Last%20Index/) |
+| 2911 | Minimum Changes to Make K Semi-palindromes | Hard | [View](./2911.%20Minimum%20Changes%20to%20Make%20K%20Semi-palindromes/) |
 | 2977 | Minimum Cost to Convert String II | Hard | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
 | 3129 | Find All Possible Stable Binary Arrays I | Medium | [View](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I/) |
 | 3130 | Find All Possible Stable Binary Arrays II | Hard | [View](./3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II/) |
@@ -1621,6 +1623,7 @@ Both indexes start small and expand naturally.
 | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | [View](./2839.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) |
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
 | 2904 | Shortest and Lexicographically Smallest Beautiful String | Medium | [View](./2904.%20Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String/) |
+| 2911 | Minimum Changes to Make K Semi-palindromes | Hard | [View](./2911.%20Minimum%20Changes%20to%20Make%20K%20Semi-palindromes/) |
 | 2976 | Minimum Cost to Convert String I | Medium | [View](./2976.%20Minimum%20Cost%20to%20Convert%20String%20I/) |
 | 2977 | Minimum Cost to Convert String II | Hard | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
 | 3014 | Minimum Number of Pushes to Type Word I | Easy | [View](./3014.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I/) |
@@ -1697,6 +1700,7 @@ Both indexes start small and expand naturally.
 | 2130 | Maximum Twin Sum of a Linked List | Medium | [View](./2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/) |
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings | Hard | [View](./2472.%20Maximum%20Number%20of%20Non-overlapping%20Palindrome%20Substrings/) |
 | 2540 | Minimum Common Value | Easy | [View](./2540.%20Minimum%20Common%20Value/) |
+| 2911 | Minimum Changes to Make K Semi-palindromes | Hard | [View](./2911.%20Minimum%20Changes%20to%20Make%20K%20Semi-palindromes/) |
 | 3302 | Find the Lexicographically Smallest Valid Sequence | Medium | [View](./3302.%20Find%20the%20Lexicographically%20Smallest%20Valid%20Sequence/) |
 | 3634 | Minimum Removals to Balance Array | Medium | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
 | 3734 | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | [View](./3734.%20Lexicographically%20Smallest%20Palindromic%20Permutation%20Greater%20Than%20Target/) |
