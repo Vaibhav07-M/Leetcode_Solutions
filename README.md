@@ -85,7 +85,7 @@ Both indexes start small and expand naturally.
 | Sorting | 45 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 16 | [View](#stack) |
-| String | 85 | [View](#string) |
+| String | 86 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -286,6 +286,7 @@ Both indexes start small and expand naturally.
 | 2906 | Construct Product Matrix | Medium | Array / Matrix / Math / Prefix Sum | [View](./2906.%20Construct%20Product%20Matrix/) |
 | 2911 | Minimum Changes to Make K Semi-palindromes | Hard | Two Pointers / String / Dynamic Programming | [View](./2911.%20Minimum%20Changes%20to%20Make%20K%20Semi-palindromes/) |
 | 2913 | Subarrays Distinct Element Sum of Squares I | Easy | Array / Hash Table / Binary Indexed Tree / Segment Tree | [View](./2913.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20I/) |
+| 2914 | Minimum Number of Changes to Make Binary String Beautiful | Medium | String | [View](./2914.%20Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful/) |
 | 2916 | Subarrays Distinct Element Sum of Squares II | Hard | Array / Hash Table / Binary Indexed Tree / Segment Tree | [View](./2916.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20II/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | Array / Sorting / Greedy | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
 | 2946 | Matrix Similarity After Cyclic Shifts | Easy | Matrix / Simulation | [View](./2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts/) |
@@ -1624,6 +1625,7 @@ Both indexes start small and expand naturally.
 | 2840 | Check if Strings Can be Made Equal With Operations II | Medium | [View](./2840.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20II/) |
 | 2904 | Shortest and Lexicographically Smallest Beautiful String | Medium | [View](./2904.%20Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String/) |
 | 2911 | Minimum Changes to Make K Semi-palindromes | Hard | [View](./2911.%20Minimum%20Changes%20to%20Make%20K%20Semi-palindromes/) |
+| 2914 | Minimum Number of Changes to Make Binary String Beautiful | Medium | [View](./2914.%20Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful/) |
 | 2976 | Minimum Cost to Convert String I | Medium | [View](./2976.%20Minimum%20Cost%20to%20Convert%20String%20I/) |
 | 2977 | Minimum Cost to Convert String II | Hard | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
 | 3014 | Minimum Number of Pushes to Type Word I | Easy | [View](./3014.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I/) |
