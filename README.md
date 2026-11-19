@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 173 | [View](#array) |
+| Array | 174 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 20 | [View](#bfs) |
 | Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
@@ -56,7 +56,7 @@ Both indexes start small and expand naturally.
 | Geometry | 8 | [View](#geometry) |
 | Graph | 17 | [View](#graph) |
 | Graph Theory | 1 | [View](#graph-theory) |
-| Greedy | 54 | [View](#greedy) |
+| Greedy | 55 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
 | Hash Table | 46 | [View](#hash-table) |
@@ -82,7 +82,7 @@ Both indexes start small and expand naturally.
 | Shortest Path | 6 | [View](#shortest-path) |
 | Simulation | 31 | [View](#simulation) |
 | Sliding Window | 18 | [View](#sliding-window) |
-| Sorting | 45 | [View](#sorting) |
+| Sorting | 46 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 16 | [View](#stack) |
 | String | 86 | [View](#string) |
@@ -267,6 +267,7 @@ Both indexes start small and expand naturally.
 | 2515 | Shortest Distance to Target String in a Circular Array | Easy | Array / String | [View](./2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/) |
 | 2540 | Minimum Common Value | Easy | Array / Two Pointers | [View](./2540.%20Minimum%20Common%20Value/) |
 | 2553 | Separate the Digits in an Array | Easy | Array / Math | [View](./2553.%20Separate%20the%20Digits%20in%20an%20Array/) |
+| 2567 | Minimum Score by Changing Two Elements | Medium | Array / Greedy / Sorting | [View](./2567.%20Minimum%20Score%20by%20Changing%20Two%20Elements/) |
 | 2573 | Find the String with LCP | Hard | String / Dynamic Programming / Matrix | [View](./2573.%20Find%20the%20String%20with%20LCP/) |
 | 2574 | Left and Right Sum Differences | Easy | Array / Prefix Sum | [View](./2574.%20Left%20and%20Right%20Sum%20Differences/) |
 | 2615 | Sum of Distances | Medium | Array / Hash Table / Prefix Sum | [View](./2615.%20Sum%20of%20Distances/) |
@@ -591,6 +592,7 @@ Both indexes start small and expand naturally.
 | 2515 | Shortest Distance to Target String in a Circular Array | Easy | [View](./2515.%20Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/) |
 | 2540 | Minimum Common Value | Easy | [View](./2540.%20Minimum%20Common%20Value/) |
 | 2553 | Separate the Digits in an Array | Easy | [View](./2553.%20Separate%20the%20Digits%20in%20an%20Array/) |
+| 2567 | Minimum Score by Changing Two Elements | Medium | [View](./2567.%20Minimum%20Score%20by%20Changing%20Two%20Elements/) |
 | 2574 | Left and Right Sum Differences | Easy | [View](./2574.%20Left%20and%20Right%20Sum%20Differences/) |
 | 2615 | Sum of Distances | Medium | [View](./2615.%20Sum%20of%20Distances/) |
 | 2657 | Find the Prefix Common Array of Two Arrays | Medium | [View](./2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays/) |
@@ -1048,6 +1050,7 @@ Both indexes start small and expand naturally.
 | 2144 | Minimum Cost of Buying Candies With Discount | Easy | [View](./2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/) |
 | 2333 | Minimum Sum of Squared Difference | Medium | [View](./2333.%20Minimum%20Sum%20of%20Squared%20Difference/) |
 | 2472 | Maximum Number of Non-overlapping Palindrome Substrings | Hard | [View](./2472.%20Maximum%20Number%20of%20Non-overlapping%20Palindrome%20Substrings/) |
+| 2567 | Minimum Score by Changing Two Elements | Medium | [View](./2567.%20Minimum%20Score%20by%20Changing%20Two%20Elements/) |
 | 2897 | Apply Operations on Array to Maximize Sum of Squares | Hard | [View](./2897.%20Apply%20Operations%20on%20Array%20to%20Maximize%20Sum%20of%20Squares/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
 | 3010 | Divide an Array Into Subarrays With Minimum Cost I | Easy | [View](./3010.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I/) |
@@ -1520,6 +1523,7 @@ Both indexes start small and expand naturally.
 | 2333 | Minimum Sum of Squared Difference | Medium | [View](./2333.%20Minimum%20Sum%20of%20Squared%20Difference/) |
 | 2402 | Meeting Rooms III | Hard | [View](./2402.%20Meeting%20Rooms%20III/) |
 | 2463 | Minimum Total Distance Traveled | Hard | [View](./2463.%20Minimum%20Total%20Distance%20Traveled/) |
+| 2567 | Minimum Score by Changing Two Elements | Medium | [View](./2567.%20Minimum%20Score%20by%20Changing%20Two%20Elements/) |
 | 2747 | Count Zero Request Servers | Medium | [View](./2747.%20Count%20Zero%20Request%20Servers/) |
 | 2751 | Robot Collisions | Hard | [View](./2751.%20Robot%20Collisions/) |
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
