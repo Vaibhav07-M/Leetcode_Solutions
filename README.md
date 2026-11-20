@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 174 | [View](#array) |
+| Array | 175 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 20 | [View](#bfs) |
 | Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
@@ -48,7 +48,7 @@ Both indexes start small and expand naturally.
 | DFS | 16 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 5 | [View](#divide-and-conquer) |
-| Dynamic Programming | 58 | [View](#dynamic-programming) |
+| Dynamic Programming | 59 | [View](#dynamic-programming) |
 | Enumeration | 10 | [View](#enumeration) |
 | Fermat's Little Theorem | 1 | [View](#fermats-little-theorem) |
 | Game Theory | 9 | [View](#game-theory) |
@@ -82,7 +82,7 @@ Both indexes start small and expand naturally.
 | Shortest Path | 6 | [View](#shortest-path) |
 | Simulation | 31 | [View](#simulation) |
 | Sliding Window | 18 | [View](#sliding-window) |
-| Sorting | 46 | [View](#sorting) |
+| Sorting | 47 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 16 | [View](#stack) |
 | String | 86 | [View](#string) |
@@ -302,6 +302,7 @@ Both indexes start small and expand naturally.
 | 3014 | Minimum Number of Pushes to Type Word I | Easy | Greedy / Math / String | [View](./3014.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I/) |
 | 3016 | Minimum Number of Pushes to Type Word II | Medium | Greedy / Hash Table / Sorting / String | [View](./3016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II/) |
 | 3020 | Find the Maximum Number of Elements in Subset | Medium | Array / Hash Table / Greedy | [View](./3020.%20Find%20the%20Maximum%20Number%20of%20Elements%20in%20Subset/) |
+| 3041 | Maximize Consecutive Elements in an Array After Modification | Hard | Array / Dynamic Programming / Sorting | [View](./3041.%20Maximize%20Consecutive%20Elements%20in%20an%20Array%20After%20Modification/) |
 | 3043 | Find the Length of the Longest Common Prefix | Medium | Trie | [View](./3043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | Array / Geometry / Math / Enumeration | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
 | 3069 | Distribute Elements Into Two Arrays I | Easy | Array / Simulation | [View](./3069.%20Distribute%20Elements%20Into%20Two%20Arrays%20I/) |
@@ -611,6 +612,7 @@ Both indexes start small and expand naturally.
 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | [View](./2996.%20Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum/) |
 | 3010 | Divide an Array Into Subarrays With Minimum Cost I | Easy | [View](./3010.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20I/) |
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
+| 3041 | Maximize Consecutive Elements in an Array After Modification | Hard | [View](./3041.%20Maximize%20Consecutive%20Elements%20in%20an%20Array%20After%20Modification/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
 | 3069 | Distribute Elements Into Two Arrays I | Easy | [View](./3069.%20Distribute%20Elements%20Into%20Two%20Arrays%20I/) |
 | 3070 | Count Submatrices with Top-Left Element and Sum Less Than k | Medium | [View](./3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k/) |
@@ -916,6 +918,7 @@ Both indexes start small and expand naturally.
 | 2770 | Maximum Number of Jumps to Reach the Last Index | Medium | [View](./2770.%20Maximum%20Number%20of%20Jumps%20to%20Reach%20the%20Last%20Index/) |
 | 2911 | Minimum Changes to Make K Semi-palindromes | Hard | [View](./2911.%20Minimum%20Changes%20to%20Make%20K%20Semi-palindromes/) |
 | 2977 | Minimum Cost to Convert String II | Hard | [View](./2977.%20Minimum%20Cost%20to%20Convert%20String%20II/) |
+| 3041 | Maximize Consecutive Elements in an Array After Modification | Hard | [View](./3041.%20Maximize%20Consecutive%20Elements%20in%20an%20Array%20After%20Modification/) |
 | 3129 | Find All Possible Stable Binary Arrays I | Medium | [View](./3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I/) |
 | 3130 | Find All Possible Stable Binary Arrays II | Hard | [View](./3130.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20II/) |
 | 3225 | Maximum Score From Grid Operations | Hard | [View](./3225.%20Maximum%20Score%20From%20Grid%20Operations/) |
@@ -1529,6 +1532,7 @@ Both indexes start small and expand naturally.
 | 2943 | Maximize Area of Square Hole in Grid | Medium | [View](./2943.%20Maximize%20Area%20of%20Square%20Hole%20in%20Grid/) |
 | 2948 | Make Lexicographically Smallest Array by Swapping Elements | Medium | [View](./2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements/) |
 | 3016 | Minimum Number of Pushes to Type Word II | Medium | [View](./3016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II/) |
+| 3041 | Maximize Consecutive Elements in an Array After Modification | Hard | [View](./3041.%20Maximize%20Consecutive%20Elements%20in%20an%20Array%20After%20Modification/) |
 | 3075 | Maximize Happiness of Selected Children | Medium | [View](./3075.%20Maximize%20Happiness%20of%20Selected%20Children/) |
 | 3312 | Sorted GCD Pair Queries | Hard | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
 | 3414 | Maximum Score of Non-overlapping Intervals | Hard | [View](./3414.%20Maximum%20Score%20of%20Non-overlapping%20Intervals/) |
