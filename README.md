@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 175 | [View](#array) |
+| Array | 176 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 20 | [View](#bfs) |
 | Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
@@ -45,7 +45,7 @@ Both indexes start small and expand naturally.
 | Combinatorics | 5 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 15 | [View](#counting) |
-| DFS | 16 | [View](#dfs) |
+| DFS | 17 | [View](#dfs) |
 | Design | 2 | [View](#design) |
 | Divide and Conquer | 5 | [View](#divide-and-conquer) |
 | Dynamic Programming | 59 | [View](#dynamic-programming) |
@@ -59,7 +59,7 @@ Both indexes start small and expand naturally.
 | Greedy | 55 | [View](#greedy) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
-| Hash Table | 46 | [View](#hash-table) |
+| Hash Table | 47 | [View](#hash-table) |
 | Heap (Priority Queue) | 10 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
@@ -85,11 +85,11 @@ Both indexes start small and expand naturally.
 | Sorting | 47 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 16 | [View](#stack) |
-| String | 86 | [View](#string) |
+| String | 87 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
-| Tree | 12 | [View](#tree) |
+| Tree | 13 | [View](#tree) |
 | Two Pointers | 15 | [View](#two-pointers) |
 | Union Find | 4 | [View](#union-find) |
 | Union-Find | 5 | [View](#union-find) |
@@ -327,6 +327,7 @@ Both indexes start small and expand naturally.
 | 3312 | Sorted GCD Pair Queries | Hard | Array / Math / Number Theory / GCD / Sorting / Binary Search / Prefix Sum / Inclusion-Exclusion | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
 | 3314 | Construct the Minimum Bitwise Array I | Easy | Array / Bit Manipulation | [View](./3314.%20Construct%20the%20Minimum%20Bitwise%20Array%20I/) |
 | 3315 | Construct the Minimum Bitwise Array II | Medium | Array / Bit Manipulation | [View](./3315.%20Construct%20the%20Minimum%20Bitwise%20Array%20II/) |
+| 3331 | Find Subtree Sizes After Changes | Medium | Array / Hash Table / String / Tree / DFS | [View](./3331.%20Find%20Subtree%20Sizes%20After%20Changes/) |
 | 3336 | Find the Number of Subsequences With Equal GCD | Hard | Dynamic Programming / Math / GCD | [View](./3336.%20Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD/) |
 | 3345 | Smallest Divisible Digit Product I | Easy | Math / Simulation | [View](./3345.%20Smallest%20Divisible%20Digit%20Product%20I/) |
 | 3348 | Smallest Divisible Digit Product II | Hard | Math / Greedy / Number Theory / String | [View](./3348.%20Smallest%20Divisible%20Digit%20Product%20II/) |
@@ -629,6 +630,7 @@ Both indexes start small and expand naturally.
 | 3312 | Sorted GCD Pair Queries | Hard | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
 | 3314 | Construct the Minimum Bitwise Array I | Easy | [View](./3314.%20Construct%20the%20Minimum%20Bitwise%20Array%20I/) |
 | 3315 | Construct the Minimum Bitwise Array II | Medium | [View](./3315.%20Construct%20the%20Minimum%20Bitwise%20Array%20II/) |
+| 3331 | Find Subtree Sizes After Changes | Medium | [View](./3331.%20Find%20Subtree%20Sizes%20After%20Changes/) |
 | 3364 | Minimum Positive Sum Subarray  | Easy | [View](./3364.%20Minimum%20Positive%20Sum%20Subarray%20/) |
 | 3379 | Transformed Array | Easy | [View](./3379.%20Transformed%20Array/) |
 | 3414 | Maximum Score of Non-overlapping Intervals | Hard | [View](./3414.%20Maximum%20Score%20of%20Non-overlapping%20Intervals/) |
@@ -862,6 +864,7 @@ Both indexes start small and expand naturally.
 | 1970 | Last Day Where You Can Still Cross | Hard | [View](./1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/) |
 | 2265 | Count Nodes Equal to Average of Subtree | Medium | [View](./2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/) |
 | 3310 | Remove Methods From Project | Medium | [View](./3310.%20Remove%20Methods%20From%20Project/) |
+| 3331 | Find Subtree Sizes After Changes | Medium | [View](./3331.%20Find%20Subtree%20Sizes%20After%20Changes/) |
 | 3619 | Count Islands With Total Value Divisible by K | Medium | [View](./3619.%20Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K/) |
 | 3841 | Palindromic Path Queries in a Tree | Hard | [View](./3841.%20Palindromic%20Path%20Queries%20in%20a%20Tree/) |
 
@@ -1122,6 +1125,7 @@ Both indexes start small and expand naturally.
 | 3020 | Find the Maximum Number of Elements in Subset | Medium | [View](./3020.%20Find%20the%20Maximum%20Number%20of%20Elements%20in%20Subset/) |
 | 3090 | Maximum Length Substring With Two Occurrences | Easy | [View](./3090.%20Maximum%20Length%20Substring%20With%20Two%20Occurrences/) |
 | 3120 | Count the Number of Special Characters I | Easy | [View](./3120.%20Count%20the%20Number%20of%20Special%20Characters%20I/) |
+| 3331 | Find Subtree Sizes After Changes | Medium | [View](./3331.%20Find%20Subtree%20Sizes%20After%20Changes/) |
 | 3471 | Find the Largest Almost Missing Integer | Easy | [View](./3471.%20Find%20the%20Largest%20Almost%20Missing%20Integer/) |
 | 3483 | Unique 3-Digit Even Numbers | Easy | [View](./3483.%20Unique%203-Digit%20Even%20Numbers/) |
 | 3488 | Closest Equal Element Queries | Medium | [View](./3488.%20Closest%20Equal%20Element%20Queries/) |
@@ -1643,6 +1647,7 @@ Both indexes start small and expand naturally.
 | 3120 | Count the Number of Special Characters I | Easy | [View](./3120.%20Count%20the%20Number%20of%20Special%20Characters%20I/) |
 | 3121 | Count the Number of Special Characters II | Medium | [View](./3121.%20Count%20the%20Number%20of%20Special%20Characters%20II/) |
 | 3302 | Find the Lexicographically Smallest Valid Sequence | Medium | [View](./3302.%20Find%20the%20Lexicographically%20Smallest%20Valid%20Sequence/) |
+| 3331 | Find Subtree Sizes After Changes | Medium | [View](./3331.%20Find%20Subtree%20Sizes%20After%20Changes/) |
 | 3348 | Smallest Divisible Digit Product II | Hard | [View](./3348.%20Smallest%20Divisible%20Digit%20Product%20II/) |
 | 3474 | Lexicographically Smallest Generated String | Hard | [View](./3474.%20Lexicographically%20Smallest%20Generated%20String/) |
 | 3498 | Reverse Degree of a String | Easy | [View](./3498.%20Reverse%20Degree%20of%20a%20String/) |
@@ -1686,6 +1691,7 @@ Both indexes start small and expand naturally.
 | 1569 | Number of Ways to Reorder Array to Get Same BST | Hard | [View](./1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST/) |
 | 2196 | Create Binary Tree From Descriptions | Medium | [View](./2196.%20Create%20Binary%20Tree%20From%20Descriptions/) |
 | 2265 | Count Nodes Equal to Average of Subtree | Medium | [View](./2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree/) |
+| 3331 | Find Subtree Sizes After Changes | Medium | [View](./3331.%20Find%20Subtree%20Sizes%20After%20Changes/) |
 | 3558 | Number of Ways to Assign Edge Weights I | Medium | [View](./3558.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20I/) |
 | 3559 | Number of Ways to Assign Edge Weights II | Hard | [View](./3559.%20Number%20of%20Ways%20to%20Assign%20Edge%20Weights%20II/) |
 | 3841 | Palindromic Path Queries in a Tree | Hard | [View](./3841.%20Palindromic%20Path%20Queries%20in%20a%20Tree/) |
