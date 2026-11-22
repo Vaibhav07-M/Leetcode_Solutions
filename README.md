@@ -85,7 +85,7 @@ Both indexes start small and expand naturally.
 | Sorting | 47 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 16 | [View](#stack) |
-| String | 87 | [View](#string) |
+| String | 88 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
@@ -248,6 +248,7 @@ Both indexes start small and expand naturally.
 | 2089 | Find Target Indices After Sorting Array | Easy | Array / Binary Search / Sorting | [View](./2089.%20Find%20Target%20Indices%20After%20Sorting%20Array/) |
 | 2091 | Removing Minimum and Maximum From Array | Medium | Array / Greedy | [View](./2091.%20Removing%20Minimum%20and%20Maximum%20From%20Array/) |
 | 2095 | Delete the Middle Node of a Linked List | Medium | Linked List / Two Pointers | [View](./2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/) |
+| 2124 | Check if All A's Appears Before All B's | Easy | String | [View](./2124.%20Check%20if%20All%20A's%20Appears%20Before%20All%20B's/) |
 | 2126 | Destroying Asteroids | Medium | Greedy / Sorting | [View](./2126.%20Destroying%20Asteroids/) |
 | 2130 | Maximum Twin Sum of a Linked List | Medium | Linked List / Two Pointers | [View](./2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/) |
 | 2144 | Minimum Cost of Buying Candies With Discount | Easy | Greedy / Sorting | [View](./2144.%20Minimum%20Cost%20of%20Buying%20Candies%20With%20Discount/) |
@@ -1625,6 +1626,7 @@ Both indexes start small and expand naturally.
 | 1967 | Number of Strings That Appear as Substrings in Word | Easy | [View](./1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) |
 | 1980 | Find Unique Binary String | Medium | [View](./1980.%20Find%20Unique%20Binary%20String/) |
 | 2075 | Decode the Slanted Ciphertext | Medium | [View](./2075.%20Decode%20the%20Slanted%20Ciphertext/) |
+| 2124 | Check if All A's Appears Before All B's | Easy | [View](./2124.%20Check%20if%20All%20A's%20Appears%20Before%20All%20B's/) |
 | 2243 | Calculate Digit Sum of a String | Easy | [View](./2243.%20Calculate%20Digit%20Sum%20of%20a%20String/) |
 | 2409 | Count Days Spent Together | Easy | [View](./2409.%20Count%20Days%20Spent%20Together/) |
 | 2452 | Words Within Two Edits of Dictionary | Medium | [View](./2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary/) |
