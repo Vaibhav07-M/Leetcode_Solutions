@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 176 | [View](#array) |
+| Array | 177 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 20 | [View](#bfs) |
 | Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
@@ -45,8 +45,9 @@ Both indexes start small and expand naturally.
 | Combinatorics | 5 | [View](#combinatorics) |
 | Coordinate Compression | 2 | [View](#coordinate-compression) |
 | Counting | 15 | [View](#counting) |
+| Data Stream | 1 | [View](#data-stream) |
 | DFS | 17 | [View](#dfs) |
-| Design | 2 | [View](#design) |
+| Design | 3 | [View](#design) |
 | Divide and Conquer | 5 | [View](#divide-and-conquer) |
 | Dynamic Programming | 59 | [View](#dynamic-programming) |
 | Enumeration | 10 | [View](#enumeration) |
@@ -64,7 +65,7 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
-| Math | 82 | [View](#math) |
+| Math | 83 | [View](#math) |
 | Matrix | 45 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Memoization | 1 | [View](#memoization) |
@@ -73,7 +74,7 @@ Both indexes start small and expand naturally.
 | Monotonic Stack | 4 | [View](#monotonic-stack) |
 | Number Theory | 6 | [View](#number-theory) |
 | Ordered Set | 3 | [View](#ordered-set) |
-| Prefix Sum | 29 | [View](#prefix-sum) |
+| Prefix Sum | 30 | [View](#prefix-sum) |
 | Queue | 1 | [View](#queue) |
 | Recursion | 3 | [View](#recursion) |
 | Rolling Hash | 1 | [View](#rolling-hash) |
@@ -173,6 +174,7 @@ Both indexes start small and expand naturally.
 | 1344 | Angle Between Hands of a Clock | Medium | Math / Geometry | [View](./1344.%20Angle%20Between%20Hands%20of%20a%20Clock/) |
 | 1345 | Jump Game IV | Hard | Array / BFS / Graph / Hash Table | [View](./1345.%20Jump%20Game%20IV/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | Binary Search / Matrix | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
+| 1352 | Product of the Last K Numbers | Medium | Array / Math / Design / Data Stream / Prefix Sum | [View](./1352.%20Product%20of%20the%20Last%20K%20Numbers/) |
 | 1356 | Sort Integers by The Number of 1 Bits | Easy | Array / Bit Manipulation / Sorting / Counting | [View](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits/) |
 | 1358 | Number of Substrings Containing All Three Characters | Medium | String / Sliding Window / Two Pointers | [View](./1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters/) |
 | 1382 | Balance a Binary Search Tree | Medium | Tree / DFS / Binary Search Tree / Binary Tree / Greedy / Divide and Conquer | [View](./1382.%20Balance%20a%20Binary%20Search%20Tree/) |
@@ -545,6 +547,7 @@ Both indexes start small and expand naturally.
 | 1340 | Jump Game V | Hard | [View](./1340.%20Jump%20Game%20V/) |
 | 1345 | Jump Game IV | Hard | [View](./1345.%20Jump%20Game%20IV/) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | [View](./1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) |
+| 1352 | Product of the Last K Numbers | Medium | [View](./1352.%20Product%20of%20the%20Last%20K%20Numbers/) |
 | 1356 | Sort Integers by The Number of 1 Bits | Easy | [View](./1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits/) |
 | 1385 | Find the Distance Value Between Two Arrays | Easy | [View](./1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays/) |
 | 1386 | Cinema Seat Allocation | Medium | [View](./1386.%20Cinema%20Seat%20Allocation/) |
@@ -847,6 +850,11 @@ Both indexes start small and expand naturally.
 | 3720 | Lexicographically Smallest Permutation Greater Than Target | Medium | [View](./3720.%20Lexicographically%20Smallest%20Permutation%20Greater%20Than%20Target/) |
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | [View](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) |
 | 3741 | Minimum Distance Between Three Equal Elements II | Medium | [View](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II/) |
+### Data Stream
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 1352 | Product of the Last K Numbers | Medium | [View](./1352.%20Product%20of%20the%20Last%20K%20Numbers/) |
+
 
 ### DFS
 | # | Title | Difficulty | Solution |
@@ -872,6 +880,7 @@ Both indexes start small and expand naturally.
 ### Design
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
+| 1352 | Product of the Last K Numbers | Medium | [View](./1352.%20Product%20of%20the%20Last%20K%20Numbers/) |
 | 1622 | Fancy Sequence | Hard | [View](./1622.%20Fancy%20Sequence/) |
 | 2069 | Walking Robot Simulation II | Medium | [View](./2069.%20Walking%20Robot%20Simulation%20II/) |
 
@@ -1202,6 +1211,7 @@ Both indexes start small and expand naturally.
 | 1266 | Minimum Time Visiting All Points | Easy | [View](./1266.%20Minimum%20Time%20Visiting%20All%20Points/) |
 | 1291 | Sequential Digits | Medium | [View](./1291.%20Sequential%20Digits/) |
 | 1344 | Angle Between Hands of a Clock | Medium | [View](./1344.%20Angle%20Between%20Hands%20of%20a%20Clock/) |
+| 1352 | Product of the Last K Numbers | Medium | [View](./1352.%20Product%20of%20the%20Last%20K%20Numbers/) |
 | 1390 | Four Divisors | Medium | [View](./1390.%20Four%20Divisors/) |
 | 1401 | Circle and Rectangle Overlapping | Medium | [View](./1401.%20Circle%20and%20Rectangle%20Overlapping/) |
 | 1411 | Number of Ways to Paint N × 3 Grid | Hard | [View](./1411.%20Number%20of%20Ways%20to%20Paint%20N%20×%203%20Grid/) |
@@ -1362,6 +1372,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 1606 | Find Servers That Handled Most Number of Requests | Hard | [View](./1606.%20Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests/) |
+| 1352 | Product of the Last K Numbers | Medium | [View](./1352.%20Product%20of%20the%20Last%20K%20Numbers/) |
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
 | 3161 | Block Placement Queries | Hard | [View](./3161.%20Block%20Placement%20Queries/) |
 
