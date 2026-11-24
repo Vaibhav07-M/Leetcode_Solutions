@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 177 | [View](#array) |
+| Array | 178 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 20 | [View](#bfs) |
 | Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
@@ -50,7 +50,7 @@ Both indexes start small and expand naturally.
 | Design | 3 | [View](#design) |
 | Divide and Conquer | 5 | [View](#divide-and-conquer) |
 | Dynamic Programming | 59 | [View](#dynamic-programming) |
-| Enumeration | 10 | [View](#enumeration) |
+| Enumeration | 11 | [View](#enumeration) |
 | Fermat's Little Theorem | 1 | [View](#fermats-little-theorem) |
 | Game Theory | 9 | [View](#game-theory) |
 | GCD | 5 | [View](#gcd) |
@@ -65,14 +65,14 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
-| Math | 83 | [View](#math) |
+| Math | 84 | [View](#math) |
 | Matrix | 45 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Memoization | 1 | [View](#memoization) |
 | Minimax | 5 | [View](#minimax) |
 | Monotonic Queue | 1 | [View](#monotonic-queue) |
 | Monotonic Stack | 4 | [View](#monotonic-stack) |
-| Number Theory | 6 | [View](#number-theory) |
+| Number Theory | 7 | [View](#number-theory) |
 | Ordered Set | 3 | [View](#ordered-set) |
 | Prefix Sum | 30 | [View](#prefix-sum) |
 | Queue | 1 | [View](#queue) |
@@ -82,7 +82,7 @@ Both indexes start small and expand naturally.
 | Segment Tree | 9 | [View](#segment-tree) |
 | Shortest Path | 6 | [View](#shortest-path) |
 | Simulation | 31 | [View](#simulation) |
-| Sliding Window | 18 | [View](#sliding-window) |
+| Sliding Window | 19 | [View](#sliding-window) |
 | Sorting | 47 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 16 | [View](#stack) |
@@ -336,6 +336,7 @@ Both indexes start small and expand naturally.
 | 3348 | Smallest Divisible Digit Product II | Hard | Math / Greedy / Number Theory / String | [View](./3348.%20Smallest%20Divisible%20Digit%20Product%20II/) |
 | 3364 | Minimum Positive Sum Subarray  | Easy | Array / Sliding Window / Prefix Sum | [View](./3364.%20Minimum%20Positive%20Sum%20Subarray%20/) |
 | 3379 | Transformed Array | Easy | Array / Simulation | [View](./3379.%20Transformed%20Array/) |
+| 3411 | Maximum Subarray With Equal Products | Easy | Array / Math / Sliding Window / Enumeration / Number Theory | [View](./3411.%20Maximum%20Subarray%20With%20Equal%20Products/) |
 | 3414 | Maximum Score of Non-overlapping Intervals | Hard | Array / Binary Search / Dynamic Programming / Sorting | [View](./3414.%20Maximum%20Score%20of%20Non-overlapping%20Intervals/) |
 | 3418 | Maximum Amount of Money Robot Can Earn | Medium | Array / Dynamic Programming / Matrix | [View](./3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn/) |
 | 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | Array / Stack / Segment Tree / Queue / Sliding Window / Monotonic Stack / Monotonic Queue | [View](./3420.%20Count%20Non-Decreasing%20Subarrays%20After%20K%20Operations/) |
@@ -637,6 +638,7 @@ Both indexes start small and expand naturally.
 | 3331 | Find Subtree Sizes After Changes | Medium | [View](./3331.%20Find%20Subtree%20Sizes%20After%20Changes/) |
 | 3364 | Minimum Positive Sum Subarray  | Easy | [View](./3364.%20Minimum%20Positive%20Sum%20Subarray%20/) |
 | 3379 | Transformed Array | Easy | [View](./3379.%20Transformed%20Array/) |
+| 3411 | Maximum Subarray With Equal Products | Easy | [View](./3411.%20Maximum%20Subarray%20With%20Equal%20Products/) |
 | 3414 | Maximum Score of Non-overlapping Intervals | Hard | [View](./3414.%20Maximum%20Score%20of%20Non-overlapping%20Intervals/) |
 | 3418 | Maximum Amount of Money Robot Can Earn | Medium | [View](./3418.%20Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn/) |
 | 3420 | Count Non-Decreasing Subarrays After K Operations | Hard | [View](./3420.%20Count%20Non-Decreasing%20Subarrays%20After%20K%20Operations/) |
@@ -962,6 +964,7 @@ Both indexes start small and expand naturally.
 | 2778 | Sum of Squares of Special Elements  | Easy | [View](./2778.%20Sum%20of%20Squares%20of%20Special%20Elements%20/) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | [View](./2975.%20Maximum%20Square%20Area%20by%20Removing%20Fences%20From%20a%20Field/) |
 | 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | [View](./3047.%20Find%20the%20Largest%20Area%20of%20Square%20Inside%20Two%20Rectangles/) |
+| 3411 | Maximum Subarray With Equal Products | Easy | [View](./3411.%20Maximum%20Subarray%20With%20Equal%20Products/) |
 | 3483 | Unique 3-Digit Even Numbers | Easy | [View](./3483.%20Unique%203-Digit%20Even%20Numbers/) |
 | 3536 | Maximum Product of Two Digits | Easy | [View](./3536.%20Maximum%20Product%20of%20Two%20Digits/) |
 | 3720 | Lexicographically Smallest Permutation Greater Than Target | Medium | [View](./3720.%20Lexicographically%20Smallest%20Permutation%20Greater%20Than%20Target/) |
@@ -1246,6 +1249,7 @@ Both indexes start small and expand naturally.
 | 3336 | Find the Number of Subsequences With Equal GCD | Hard | [View](./3336.%20Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD/) |
 | 3345 | Smallest Divisible Digit Product I | Easy | [View](./3345.%20Smallest%20Divisible%20Digit%20Product%20I/) |
 | 3348 | Smallest Divisible Digit Product II | Hard | [View](./3348.%20Smallest%20Divisible%20Digit%20Product%20II/) |
+| 3411 | Maximum Subarray With Equal Products | Easy | [View](./3411.%20Maximum%20Subarray%20With%20Equal%20Products/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
 | 3505 | Minimum Operations to Make Elements Within K Subarrays Equal | Hard | [View](./3505.%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal/) |
 | 3513 | Number of Unique XOR Triplets I | Medium | [View](./3513.%20Number%20of%20Unique%20XOR%20Triplets%20I/) |
@@ -1365,6 +1369,7 @@ Both indexes start small and expand naturally.
 | 3116 | Kth Smallest Amount With Single Denomination Combination | Hard | [View](./3116.%20Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination/) |
 | 3312 | Sorted GCD Pair Queries | Hard | [View](./3312.%20Sorted%20GCD%20Pair%20Queries/) |
 | 3348 | Smallest Divisible Digit Product II | Hard | [View](./3348.%20Smallest%20Divisible%20Digit%20Product%20II/) |
+| 3411 | Maximum Subarray With Equal Products | Easy | [View](./3411.%20Maximum%20Subarray%20With%20Equal%20Products/) |
 | 3658 | GCD of Odd and Even Sums | Easy | [View](./3658.%20GCD%20of%20Odd%20and%20Even%20Sums/) |
 | 3867 | Sum of GCD of Formed Pairs | Medium | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 
@@ -1508,6 +1513,7 @@ Both indexes start small and expand naturally.
 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | Hard | [View](./3013.%20Divide%20an%20Array%20Into%20Subarrays%20With%20Minimum%20Cost%20II/) |
 | 3090 | Maximum Length Substring With Two Occurrences | Easy | [View](./3090.%20Maximum%20Length%20Substring%20With%20Two%20Occurrences/) |
 | 3364 | Minimum Positive Sum Subarray  | Easy | [View](./3364.%20Minimum%20Positive%20Sum%20Subarray%20/) |
+| 3411 | Maximum Subarray With Equal Products | Easy | [View](./3411.%20Maximum%20Subarray%20With%20Equal%20Products/) |
 | 3505 | Minimum Operations to Make Elements Within K Subarrays Equal | Hard | [View](./3505.%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal/) |
 | 3567 | Minimum Absolute Difference in Sliding Submatrix | Medium | [View](./3567.%20Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix/) |
 | 3634 | Minimum Removals to Balance Array | Medium | [View](./3634.%20Minimum%20Removals%20to%20Balance%20Array/) |
