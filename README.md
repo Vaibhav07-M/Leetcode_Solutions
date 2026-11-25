@@ -32,12 +32,12 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 178 | [View](#array) |
+| Array | 179 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 20 | [View](#bfs) |
 | Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
 | Binary Lifting | 1 | [View](#binary-lifting) |
-| Binary Search | 28 | [View](#binary-search) |
+| Binary Search | 29 | [View](#binary-search) |
 | Binary Search Tree | 2 | [View](#binary-search-tree) |
 | Binary Tree | 9 | [View](#binary-tree) |
 | Bit Manipulation | 23 | [View](#bit-manipulation) |
@@ -58,9 +58,10 @@ Both indexes start small and expand naturally.
 | Graph | 17 | [View](#graph) |
 | Graph Theory | 1 | [View](#graph-theory) |
 | Greedy | 55 | [View](#greedy) |
+| Hash Function | 1 | [View](#hash-function) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
-| Hash Table | 47 | [View](#hash-table) |
+| Hash Table | 48 | [View](#hash-table) |
 | Heap (Priority Queue) | 10 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
@@ -77,7 +78,7 @@ Both indexes start small and expand naturally.
 | Prefix Sum | 30 | [View](#prefix-sum) |
 | Queue | 1 | [View](#queue) |
 | Recursion | 3 | [View](#recursion) |
-| Rolling Hash | 1 | [View](#rolling-hash) |
+| Rolling Hash | 2 | [View](#rolling-hash) |
 | Run-Length Encoding | 2 | [View](#run-length-encoding) |
 | Segment Tree | 9 | [View](#segment-tree) |
 | Shortest Path | 6 | [View](#shortest-path) |
@@ -88,6 +89,7 @@ Both indexes start small and expand naturally.
 | Stack | 16 | [View](#stack) |
 | String | 88 | [View](#string) |
 | Suffix | 1 | [View](#suffix) |
+| Suffix Array | 1 | [View](#suffix-array) |
 | Topological Sort | 1 | [View](#topological-sort) |
 | Trie | 3 | [View](#trie) |
 | Tree | 13 | [View](#tree) |
@@ -434,6 +436,7 @@ Both indexes start small and expand naturally.
 | 3886 | Sum of Sortable Integers | Hard | Array / Math / Sorting / Enumeration | [View](./3886.%20Sum%20of%20Sortable%20Integers/) |
 | 3903 | Smallest Stable Index I | Easy | Array / Prefix Sum | [View](./3903.%20Smallest%20Stable%20Index%20I/) |
 | 3904 | Smallest Stable Index II | Medium | Array / Prefix Sum | [View](./3904.%20Smallest%20Stable%20Index%20II/) |
+| 3934 | Smallest Unique Subarray | Hard | Array / Hash Table / Binary Search / Rolling Hash / Suffix Array / Hash Function | [View](./3934.%20Smallest%20Unique%20Subarray/) |
 | 3942 | Minimum Operations to Sort a Permutation | Medium | Array | [View](./3942.%20Minimum%20Operations%20to%20Sort%20a%20Permutation/) |
 | 3963 | Create Grid With Exactly One Path | Easy |  | [View](./3963.%20Create%20Grid%20With%20Exactly%20One%20Path/) |
 | 3970 | Shortest Path With At Most K Consecutive Identical Characters | Medium | String / Graph Theory / Heap (Priority Queue) / Shortest Path | [View](./3970.%20Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters/) |
@@ -699,6 +702,7 @@ Both indexes start small and expand naturally.
 | 3886 | Sum of Sortable Integers | Hard | [View](./3886.%20Sum%20of%20Sortable%20Integers/) |
 | 3903 | Smallest Stable Index I | Easy | [View](./3903.%20Smallest%20Stable%20Index%20I/) |
 | 3904 | Smallest Stable Index II | Medium | [View](./3904.%20Smallest%20Stable%20Index%20II/) |
+| 3934 | Smallest Unique Subarray | Hard | [View](./3934.%20Smallest%20Unique%20Subarray/) |
 | 3942 | Minimum Operations to Sort a Permutation | Medium | [View](./3942.%20Minimum%20Operations%20to%20Sort%20a%20Permutation/) |
 
 ### Backtracking
@@ -771,6 +775,7 @@ Both indexes start small and expand naturally.
 | 3635 | Earliest Finish Time for Land and Water Rides II | Medium | [View](./3635.%20Earliest%20Finish%20Time%20for%20Land%20and%20Water%20Rides%20II/) |
 | 3661 | Maximum Walls Destroyed by Robots | Hard | [View](./3661.%20Maximum%20Walls%20Destroyed%20by%20Robots/) |
 | 3756 | Concatenate Non-Zero Digits and Multiply by Sum II | Medium | String / Prefix Sum / Binary Search | [View](./3756.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20II/) |
+| 3934 | Smallest Unique Subarray | Hard | [View](./3934.%20Smallest%20Unique%20Subarray/) |
 
 ### Binary Search Tree
 | # | Title | Difficulty | Solution |
@@ -1095,6 +1100,11 @@ Both indexes start small and expand naturally.
 | 3723 | Maximize Sum of Squares of Digits | Medium | [View](./3723.%20Maximize%20Sum%20of%20Squares%20of%20Digits/) |
 | 3727 | Maximum Alternating Sum of Squares | Medium | [View](./3727.%20Maximum%20Alternating%20Sum%20of%20Squares/) |
 | 3789 | Minimum Cost to Acquire Required Items | Medium | [View](./3789.%20Minimum%20Cost%20to%20Acquire%20Required%20Items/) |
+### Hash Function
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 3934 | Smallest Unique Subarray | Hard | [View](./3934.%20Smallest%20Unique%20Subarray/) |
+
 
 ### Hash Map
 | # | Title | Difficulty | Solution |
@@ -1156,6 +1166,7 @@ Both indexes start small and expand naturally.
 | 3740 | Minimum Distance Between Three Equal Elements I | Easy | [View](./3740.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) |
 | 3741 | Minimum Distance Between Three Equal Elements II | Medium | [View](./3741.%20Minimum%20Distance%20Between%20Three%20Equal%20Elements%20II/) |
 | 3761 | Minimum Absolute Distance Between Mirror Pairs | Medium | [View](./3761.%20Minimum%20Absolute%20Distance%20Between%20Mirror%20Pairs/) |
+| 3934 | Smallest Unique Subarray | Hard | [View](./3934.%20Smallest%20Unique%20Subarray/) |
 | 3970 | Shortest Path With At Most K Consecutive Identical Characters | Medium | [View](./3970.%20Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters/) |
 
 ### Heap (Priority Queue)
@@ -1430,6 +1441,7 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 1461 | Check If a String Contains All Binary Codes of Size K | Medium | [View](./1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K/) |
+| 3934 | Smallest Unique Subarray | Hard | [View](./3934.%20Smallest%20Unique%20Subarray/) |
 
 ### Run-Length Encoding
 | # | Title | Difficulty | Solution |
@@ -1692,6 +1704,11 @@ Both indexes start small and expand naturally.
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
 | 3093 | Longest Common Suffix Queries | Hard | [View](./3093.%20Longest%20Common%20Suffix%20Queries/) |
+### Suffix Array
+| # | Title | Difficulty | Solution |
+|---|--------|------------|---------|
+| 3934 | Smallest Unique Subarray | Hard | [View](./3934.%20Smallest%20Unique%20Subarray/) |
+
 
 ### Topological Sort
 | # | Title | Difficulty | Solution |
