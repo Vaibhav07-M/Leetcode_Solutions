@@ -66,7 +66,7 @@ Both indexes start small and expand naturally.
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
-| Math | 84 | [View](#math) |
+| Math | 85 | [View](#math) |
 | Matrix | 45 | [View](#matrix) |
 | Matrix Exponentiation | 1 | [View](#matrix-exponentiation) |
 | Memoization | 1 | [View](#memoization) |
@@ -82,7 +82,7 @@ Both indexes start small and expand naturally.
 | Run-Length Encoding | 2 | [View](#run-length-encoding) |
 | Segment Tree | 9 | [View](#segment-tree) |
 | Shortest Path | 6 | [View](#shortest-path) |
-| Simulation | 31 | [View](#simulation) |
+| Simulation | 32 | [View](#simulation) |
 | Sliding Window | 19 | [View](#sliding-window) |
 | Sorting | 47 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
@@ -336,6 +336,7 @@ Both indexes start small and expand naturally.
 | 3336 | Find the Number of Subsequences With Equal GCD | Hard | Dynamic Programming / Math / GCD | [View](./3336.%20Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD/) |
 | 3345 | Smallest Divisible Digit Product I | Easy | Math / Simulation | [View](./3345.%20Smallest%20Divisible%20Digit%20Product%20I/) |
 | 3348 | Smallest Divisible Digit Product II | Hard | Math / Greedy / Number Theory / String | [View](./3348.%20Smallest%20Divisible%20Digit%20Product%20II/) |
+| 3360 | Stone Removal Game | Easy | Math / Simulation | [View](./3360.%20Stone%20Removal%20Game/) |
 | 3364 | Minimum Positive Sum Subarray  | Easy | Array / Sliding Window / Prefix Sum | [View](./3364.%20Minimum%20Positive%20Sum%20Subarray%20/) |
 | 3379 | Transformed Array | Easy | Array / Simulation | [View](./3379.%20Transformed%20Array/) |
 | 3411 | Maximum Subarray With Equal Products | Easy | Array / Math / Sliding Window / Enumeration / Number Theory | [View](./3411.%20Maximum%20Subarray%20With%20Equal%20Products/) |
@@ -1260,6 +1261,7 @@ Both indexes start small and expand naturally.
 | 3336 | Find the Number of Subsequences With Equal GCD | Hard | [View](./3336.%20Find%20the%20Number%20of%20Subsequences%20With%20Equal%20GCD/) |
 | 3345 | Smallest Divisible Digit Product I | Easy | [View](./3345.%20Smallest%20Divisible%20Digit%20Product%20I/) |
 | 3348 | Smallest Divisible Digit Product II | Hard | [View](./3348.%20Smallest%20Divisible%20Digit%20Product%20II/) |
+| 3360 | Stone Removal Game | Easy | [View](./3360.%20Stone%20Removal%20Game/) |
 | 3411 | Maximum Subarray With Equal Products | Easy | [View](./3411.%20Maximum%20Subarray%20With%20Equal%20Products/) |
 | 3453 | Separate Squares I | Medium | [View](./3453.%20Separate%20Squares%20I/) |
 | 3505 | Minimum Operations to Make Elements Within K Subarrays Equal | Hard | [View](./3505.%20Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal/) |
@@ -1495,6 +1497,7 @@ Both indexes start small and expand naturally.
 | 2946 | Matrix Similarity After Cyclic Shifts | Easy | [View](./2946.%20Matrix%20Similarity%20After%20Cyclic%20Shifts/) |
 | 3069 | Distribute Elements Into Two Arrays I | Easy | [View](./3069.%20Distribute%20Elements%20Into%20Two%20Arrays%20I/) |
 | 3345 | Smallest Divisible Digit Product I | Easy | [View](./3345.%20Smallest%20Divisible%20Digit%20Product%20I/) |
+| 3360 | Stone Removal Game | Easy | [View](./3360.%20Stone%20Removal%20Game/) |
 | 3379 | Transformed Array | Easy | [View](./3379.%20Transformed%20Array/) |
 | 3498 | Reverse Degree of a String | Easy | [View](./3498.%20Reverse%20Degree%20of%20a%20String/) |
 | 3499 | Maximize Active Section with Trade I | Medium | [View](./3499.%20Maximize%20Active%20Section%20with%20Trade%20I/) |
