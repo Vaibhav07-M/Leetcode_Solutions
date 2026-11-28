@@ -32,7 +32,7 @@ Both indexes start small and expand naturally.
 
 | Category | Number of Problems | Link |
 |----------|--------------------|------|
-| Array | 180 | [View](#array) |
+| Array | 181 | [View](#array) |
 | Backtracking | 7 | [View](#backtracking) |
 | BFS | 20 | [View](#bfs) |
 | Binary Indexed Tree | 3 | [View](#binary-indexed-tree) |
@@ -57,12 +57,12 @@ Both indexes start small and expand naturally.
 | Geometry | 8 | [View](#geometry) |
 | Graph | 17 | [View](#graph) |
 | Graph Theory | 1 | [View](#graph-theory) |
-| Greedy | 56 | [View](#greedy) |
+| Greedy | 57 | [View](#greedy) |
 | Hash Function | 1 | [View](#hash-function) |
 | Hash Map | 1 | [View](#hash-map) |
 | Hash Set | 1 | [View](#hash-set) |
 | Hash Table | 48 | [View](#hash-table) |
-| Heap (Priority Queue) | 10 | [View](#heap-priority-queue) |
+| Heap (Priority Queue) | 11 | [View](#heap-priority-queue) |
 | Inclusion-Exclusion | 1 | [View](#inclusion-exclusion) |
 | Line Sweep | 1 | [View](#line-sweep) |
 | Linked List | 4 | [View](#linked-list) |
@@ -84,7 +84,7 @@ Both indexes start small and expand naturally.
 | Shortest Path | 6 | [View](#shortest-path) |
 | Simulation | 32 | [View](#simulation) |
 | Sliding Window | 19 | [View](#sliding-window) |
-| Sorting | 47 | [View](#sorting) |
+| Sorting | 48 | [View](#sorting) |
 | Square Root Decomposition | 1 | [View](#square-root-decomposition) |
 | Stack | 16 | [View](#stack) |
 | String | 88 | [View](#string) |
@@ -440,6 +440,7 @@ Both indexes start small and expand naturally.
 | 3934 | Smallest Unique Subarray | Hard | Array / Hash Table / Binary Search / Rolling Hash / Suffix Array / Hash Function | [View](./3934.%20Smallest%20Unique%20Subarray/) |
 | 3942 | Minimum Operations to Sort a Permutation | Medium | Array | [View](./3942.%20Minimum%20Operations%20to%20Sort%20a%20Permutation/) |
 | 3946 | Maximum Number of Items From Sale I | Medium | Array / Dynamic Programming / Greedy | [View](./3946.%20Maximum%20Number%20of%20Items%20From%20Sale%20I/) |
+| 3947 | Maximum Number of Items From Sale II | Medium | Array / Greedy / Sorting / Heap (Priority Queue) | [View](./3947.%20Maximum%20Number%20of%20Items%20From%20Sale%20II/) |
 | 3963 | Create Grid With Exactly One Path | Easy |  | [View](./3963.%20Create%20Grid%20With%20Exactly%20One%20Path/) |
 | 3970 | Shortest Path With At Most K Consecutive Identical Characters | Medium | String / Graph Theory / Heap (Priority Queue) / Shortest Path | [View](./3970.%20Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters/) |
 
@@ -707,6 +708,7 @@ Both indexes start small and expand naturally.
 | 3934 | Smallest Unique Subarray | Hard | [View](./3934.%20Smallest%20Unique%20Subarray/) |
 | 3942 | Minimum Operations to Sort a Permutation | Medium | [View](./3942.%20Minimum%20Operations%20to%20Sort%20a%20Permutation/) |
 | 3946 | Maximum Number of Items From Sale I | Medium | [View](./3946.%20Maximum%20Number%20of%20Items%20From%20Sale%20I/) |
+| 3947 | Maximum Number of Items From Sale II | Medium | [View](./3947.%20Maximum%20Number%20of%20Items%20From%20Sale%20II/) |
 
 ### Backtracking
 | # | Title | Difficulty | Solution |
@@ -1105,6 +1107,7 @@ Both indexes start small and expand naturally.
 | 3727 | Maximum Alternating Sum of Squares | Medium | [View](./3727.%20Maximum%20Alternating%20Sum%20of%20Squares/) |
 | 3789 | Minimum Cost to Acquire Required Items | Medium | [View](./3789.%20Minimum%20Cost%20to%20Acquire%20Required%20Items/) |
 | 3946 | Maximum Number of Items From Sale I | Medium | [View](./3946.%20Maximum%20Number%20of%20Items%20From%20Sale%20I/) |
+| 3947 | Maximum Number of Items From Sale II | Medium | [View](./3947.%20Maximum%20Number%20of%20Items%20From%20Sale%20II/) |
 ### Hash Function
 | # | Title | Difficulty | Solution |
 |---|--------|------------|---------|
@@ -1186,6 +1189,7 @@ Both indexes start small and expand naturally.
 | 3510 | Minimum Pair Removal to Sort Array II | Hard | [View](./3510.%20Minimum%20Pair%20Removal%20to%20Sort%20Array%20II/) |
 | 3650 | Minimum Cost Path with Edge Reversals | Medium | [View](./3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals/) |
 | 3651 | Minimum Cost Path with Teleportations | Hard | [View](./3651.%20Minimum%20Cost%20Path%20with%20Teleportations/) |
+| 3947 | Maximum Number of Items From Sale II | Medium | [View](./3947.%20Maximum%20Number%20of%20Items%20From%20Sale%20II/) |
 
 ### Inclusion-Exclusion
 | # | Title | Difficulty | Solution |
@@ -1589,6 +1593,7 @@ Both indexes start small and expand naturally.
 | 3727 | Maximum Alternating Sum of Squares | Medium | [View](./3727.%20Maximum%20Alternating%20Sum%20of%20Squares/) |
 | 3867 | Sum of GCD of Formed Pairs | Medium | [View](./3867.%20Sum%20of%20GCD%20of%20Formed%20Pairs/) |
 | 3886 | Sum of Sortable Integers | Hard | [View](./3886.%20Sum%20of%20Sortable%20Integers/) |
+| 3947 | Maximum Number of Items From Sale II | Medium | [View](./3947.%20Maximum%20Number%20of%20Items%20From%20Sale%20II/) |
 
 ### Square Root Decomposition
 | # | Title | Difficulty | Solution |
